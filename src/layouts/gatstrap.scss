@@ -1,0 +1,199 @@
+// Colors
+//
+// Grayscale and brand colors for use across Bootstrap.
+
+// Start with assigning color names to specific hex values.
+//
+// Color system
+//
+@import "./colors.scss";
+
+// Reassign color vars to semantic color scheme
+$theme-colors: (
+    primary: $purple,
+    secondary: $gray-600,
+    success: $green,
+    info: $cyan,
+    warning: $yellow,
+    danger: $red,
+    light: $gray-100,
+    dark: $gray-800
+  )
+  !default;
+
+// Options
+//
+// Quickly modify global styling by enabling or disabling optional features.
+$enable-rounded: true !default;
+$enable-shadows: true !default;
+$enable-gradients: false !default;
+$enable-transitions: false !default;
+$enable-hover-media-query: false !default;
+$enable-grid-classes: true !default;
+$enable-print-styles: true !default;
+
+// Grid containers
+//
+// Define the maximum width of `.container` for different screen sizes.
+
+$container-max-widths: (sm: 540px, md: 640px, lg: 1200px, xl: 1200px) !default;
+
+// Body
+//
+// Settings for the `<body>` element.
+
+$body-bg: $white !default;
+$body-color: $gray-700 !default;
+$inverse-bg: $gray-900 !default;
+$inverse-color: $gray-600 !default;
+
+// Links
+//
+// Style anchor elements.
+$link-decoration: none !default;
+$link-hover-decoration: none !default;
+
+// Fonts
+//
+@import "./fonts.scss";
+
+@import "node_modules/bootstrap/scss/bootstrap.scss";
+
+html,
+body {
+  height: 100%;
+  width: 100%;
+  -webkit-font-smoothing: antialiased;
+}
+
+h1 {
+  background-color: $be-black;
+  display: inline-block;
+  padding: 0.7rem 1rem;
+  text-transform: uppercase;
+  color: $be-white;
+  margin-bottom: 2rem;
+  margin-top: 2.5rem;
+}
+
+p {
+  font-size: 16px;
+  line-height: 1.5;
+  margin-bottom: 20px;
+  color: $be-black;
+}
+
+a {
+  color: $be-orange;
+  &:hover,
+  &:active {
+    color: $be-orange;
+  }
+  text-decoration: underline;
+}
+
+img {
+  padding-bottom: 10px;
+  margin-bottom: 15px;
+  max-width: 100%;
+}
+
+img:hover {
+  animation: pulse 0.5s;
+}
+
+.navbar-brand img {
+  margin-bottom: 0;
+  padding-bottom: 0;
+}
+
+.navbar-nav {
+  padding-left: 0;
+}
+
+@media (min-width: 992px) {
+  .navbar-brand {
+    position: absolute;
+    display: block;
+    margin-top: 55px;
+    z-index: 1;
+    > img {
+      margin-bottom: 16px;
+      padding-bottom: 0;
+    }
+  }
+  .navbar {
+    padding: 1.5rem 1rem;
+  }
+  .navbar-nav {
+    padding-left: 255px;
+  }
+}
+
+.navbar-be {
+  background-color: $be-orange;
+}
+
+.navbar-be__breadcrumbs-spacer {
+  display: none;
+}
+@media (min-width: 992px) {
+  .navbar-be__breadcrumbs-spacer {
+    background: $be-white;
+    width: 248px;
+    display: block;
+    padding: 0.5rem 1rem;
+  }
+}
+.navbar-be__breadcrumbs-container {
+  background: $be-green;
+  border-top: $be-white 0.4rem solid;
+  font-size: 2rem;
+  color: $be-white;
+  text-transform: uppercase;
+  padding: 0;
+}
+.navbar-be__breadcrumbs {
+  padding: 0.5rem 1rem;
+}
+.navbar-be .navbar-brand,
+.navbar-be .navbar-text {
+  color: rgba(255, 255, 255, 0.8);
+}
+.navbar-be .navbar-nav .nav-link {
+  color: $be-white;
+  text-transform: uppercase;
+  text-decoration: none;
+}
+.navbar-be .nav-item.active .nav-link,
+.navbar-be .nav-item:hover .nav-link {
+  color: $be-white;
+  text-transform: uppercase;
+  text-decoration: none;
+}
+.navbar-toggler-icon {
+  color: red;
+  fill: white;
+  // background-image: url("data:image/svg+xml;charset=utf8,%3Csvg viewBox='0 0 30 30' xmlns='http://ww…p='round' stroke-miterlimit='10' d='M4 7h22M4 15h22M4 23h22'/%3E%3C/svg%3E");
+  background-image: url("data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiA/PjwhRE9DVFlQRSBzdmcgIFBVQkxJQyAnLS8vVzNDLy9EVEQgU1ZHIDEuMS8vRU4nICAnaHR0cDovL3d3dy53My5vcmcvR3JhcGhpY3MvU1ZHLzEuMS9EVEQvc3ZnMTEuZHRkJz48c3ZnIGhlaWdodD0iMzJweCIgaWQ9IkxheWVyXzEiIHN0eWxlPSJlbmFibGUtYmFja2dyb3VuZDpuZXcgMCAwIDMyIDMyOyIgdmVyc2lvbj0iMS4xIiB2aWV3Qm94PSIwIDAgMzIgMzIiIHdpZHRoPSIzMnB4IiB4bWw6c3BhY2U9InByZXNlcnZlIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIj48cGF0aCBkPSJNNCwxMGgyNGMxLjEwNCwwLDItMC44OTYsMi0ycy0wLjg5Ni0yLTItMkg0QzIuODk2LDYsMiw2Ljg5NiwyLDhTMi44OTYsMTAsNCwxMHogTTI4LDE0SDRjLTEuMTA0LDAtMiwwLjg5Ni0yLDIgIHMwLjg5NiwyLDIsMmgyNGMxLjEwNCwwLDItMC44OTYsMi0yUzI5LjEwNCwxNCwyOCwxNHogTTI4LDIySDRjLTEuMTA0LDAtMiwwLjg5Ni0yLDJzMC44OTYsMiwyLDJoMjRjMS4xMDQsMCwyLTAuODk2LDItMiAgUzI5LjEwNCwyMiwyOCwyMnoiLz48L3N2Zz4=");
+  padding-bottom: 0;
+  margin-bottom: 0;
+}
+.footer {
+  text-align: center;
+  padding: 1rem;
+  > a {
+    color: $be-black;
+    padding: 0.8rem;
+  }
+}
+.search-input {
+  width: 162px !important;
+  background-color: transparent;
+  border-radius: 0;
+  &::placeholder {
+    /* Chrome, Firefox, Opera, Safari 10.1+ */
+    color: $be-white;
+    opacity: 1; /* Firefox */
+  }
+}

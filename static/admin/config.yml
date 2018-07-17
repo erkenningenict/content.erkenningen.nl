@@ -29,6 +29,14 @@ collections:
           - {label: "Template Key", name: "templateKey", widget: "hidden", default: "about-page"}
           - {label: "Title", name: "title", widget: "string"}
           - {label: "Body", name: "body", widget: "markdown"}
+      - file: "src/pages/wat-wij-doen/index.md"
+        label: "Wat wij doen"
+        name: "wat-wij-doen"
+        fields:
+          - {label: "Template Key", name: "templateKey", widget: "hidden", default: "content-page"}
+          - {label: "Title", name: "title", widget: "string"}
+          - {label: "Path", name: "path", widget: "string"}
+          - {label: "Body", name: "body", widget: "markdown"}
       - file: "src/pages/products/index.md"
         label: "Products Page"
         name: "products"
