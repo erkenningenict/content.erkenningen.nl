@@ -1,20 +1,10 @@
 ---
-templateKey: 'links-page'
-path: /wat-wij-doen
 title: Wat wij doen
 ---
-
-# Wat wij doen
 
 Bureau Erkenningen zorgt voor het uitgeven van [licenties](/licenties), ook wel ‘Bewijzen van Vakbekwaamheid’ genoemd. Deze licenties zijn verplicht wanneer u als professional bezig bent met chemische
 gewasbescherming of bij de chemische bestrijding van [mollen en woelratten](/licenties/mollen-en-woelratten).
 
-[[singleLink]]
-| [Welke licentie heb ik nodig?](/licenties/licentie-tool)
-
-[[singleLink]]
-| [Licentie aanvragen?](/licenties/licentie-tool)
-
-[[info]]
-| content
-[Licentie aanvragen](/licenties/licentie-aanvragen)
+<link-container>
+<link-button link='{"name": "Welke licentie heb ik nodig?","url": "/licenties/licentie-tool"}' />
+</link-container>

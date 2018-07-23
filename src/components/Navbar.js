@@ -232,12 +232,6 @@ export default class Navbar extends React.Component {
                 </form>
               </div>
             </nav>
-            <div className="navbar navbar-expand-lg navbar-be__breadcrumbs-container">
-              <div className="navbar-be__breadcrumbs-spacer">
-                {" ".replace(/ /g, "\u00a0")}
-              </div>
-              <div className="navbar-be__breadcrumbs">Breadcrumb</div>
-            </div>
           </div>
         </div>
       </div>

@@ -3,9 +3,10 @@ import Link from "gatsby-link";
 
 export default class LinkButton extends React.Component {
   render() {
+    const { url, name } = JSON.parse(this.props.link);
     return (
-      <Link className="link-button" to={this.props.link.url}>
-        {this.props.link.name}
+      <Link className="link-button" to={url}>
+        {name}
 
         <svg
           className="link-button__line"

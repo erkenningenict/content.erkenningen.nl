@@ -1,0 +1,27 @@
+import LinkButton from '../../components/LinkButton.js'
+import LinkContainer from '../../components/LinkContainer.js'
+
+# Welke licenties zijn er?
+
+<LinkContainer>
+<LinkButton link={{name: 'Welke licentie heb ik nodig?',url: '/licenties/licentie-tool'}} />
+<LinkButton link={{name: 'Licentie aanvragen',url: '/licenties/licentie-aanvragen'}} />
+</LinkContainer>
+
+Een licentie is 5 jaar geldig. Voor het [verlengen van een licentie](/licenties/licentie-verlengen) is het nodig een aantal kennisbijeenkomsten te volgen.
+
+<LinkContainer>
+<LinkButton link={{name: 'Licentie verlengen',url: '/licenties/licentie-verlengen'}} />
+</LinkContainer>
+
+Bureau Erkenningen beoordeelt het aanbod van de bijeenkomsten. Alleen erkende kennisbijeenkomsten tellen mee voor verlenging.
+
+<LinkContainer>
+<LinkButton link={{name: 'Bijeenkomst zoeken',url: 'https://erkenningen.nl/tabid=190'}} />
+<LinkButton link={{name: 'Bijeenkomst organiseren',url: '/licenties/licentie-aanvragen'}} />
+<LinkButton link={{name: 'Wet gewas-bescherming',url: '/licenties/licentie-aanvragen'}} />
+<LinkButton link={{name: 'Wet knaagdieren-beheersing',url: '/licenties/licentie-aanvragen'}} />
+<LinkButton link={{name: 'KBA-GB Certificering bedrijf',url: '/licenties/licentie-aanvragen'}} />
+<LinkButton link={{name: 'Brochures',url: '/licenties/licentie-aanvragen'}} />
+<LinkButton link={{name: 'Formulieren',url: '/licenties/licentie-aanvragen'}} />
+</LinkContainer>
