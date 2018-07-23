@@ -31,7 +31,6 @@ ContentPageTemplate.propTypes = {
 };
 
 const ContentPage = ({ data }) => {
-  console.log("Data", data);
   const { markdownRemark: post } = data;
 
   return (

@@ -1,0 +1,9 @@
+import SubMenu from '../components/SubMenu'
+
+# Markdown content
+
+these are markdown text
+
+## React Components:
+
+<SubMenu />

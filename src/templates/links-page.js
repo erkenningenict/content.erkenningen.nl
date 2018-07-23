@@ -2,7 +2,7 @@ import React from "react";
 import PropTypes from "prop-types";
 import Content, { HTMLContent } from "../components/Content";
 
-export const ContentPageTemplate = ({
+export const LinksPageTemplate = ({
   title,
   path,
   content,
@@ -11,31 +11,33 @@ export const ContentPageTemplate = ({
   const PageContent = contentComponent || Content;
 
   return (
-    <div className="container">
-      <div className="columns">
-        <div className="column is-10 is-offset-1">
-          <div className="section">
-            <PageContent className="content" content={content} />
+    <section className="section">
+      <div className="container">
+        <div className="columns">
+          <div className="column is-10 is-offset-1">
+            <div className="section">
+              Title: {title}
+              <PageContent className="content" content={content} />
+            </div>
           </div>
         </div>
       </div>
-    </div>
+    </section>
   );
 };
 
-ContentPageTemplate.propTypes = {
+LinksPageTemplate.propTypes = {
   title: PropTypes.string.isRequired,
   path: PropTypes.string.isRequired,
   content: PropTypes.string,
   contentComponent: PropTypes.func
 };
 
-const ContentPage = ({ data }) => {
-  console.log("Data", data);
+const LinksPage = ({ data }) => {
   const { markdownRemark: post } = data;
 
   return (
-    <ContentPageTemplate
+    <LinksPageTemplate
       contentComponent={HTMLContent}
       title={post.frontmatter.title}
       path={post.frontmatter.path}
@@ -44,20 +46,19 @@ const ContentPage = ({ data }) => {
   );
 };
 
-ContentPage.propTypes = {
+LinksPage.propTypes = {
   data: PropTypes.object.isRequired
 };
 
-export default ContentPage;
+export default LinksPage;
 
-export const contentPageQuery = graphql`
-  query ContentPage($id: String!) {
+export const linksPageQuery = graphql`
+  query LinksPage($id: String!) {
     markdownRemark(id: { eq: $id }) {
       html
       frontmatter {
         title
         path
-        templateKey
       }
     }
   }
