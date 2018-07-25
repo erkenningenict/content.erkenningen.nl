@@ -33,9 +33,9 @@ class Breadcrumb extends React.Component {
       .replace(/.md/, "")
       .split("/");
 
-    const breadCrumbs = paths.map((path, index) => {
+    const breadCrumbs = paths.filter((path) => path !== '').map((path, index) => {
       return (
-        <span>
+        <span key={index}>
           {index > 0 ? <StyledArrow>></StyledArrow> : null}
           <StyledLink to={path}>
             {path.replace(/-/g, " ").replace(".md", "")}
