@@ -29,12 +29,12 @@ export default class Navbar extends React.Component {
     return (
       <nav className="container navbar-be">
         <div className="row">
-          <div className="col-md-3 pr-0">
+          <div className="col-md-3 pr-5">
             <Link to="/" className="navbar-brand">
               <img
                 src={logo}
                 alt="Bureau Erkenningen"
-                style={{ width: "233px" }}
+                style={{ width: "100%" }}
               />
             </Link>
           </div>
@@ -60,36 +60,36 @@ export default class Navbar extends React.Component {
               </MenuItem>
               <SubMenu
                 title={
-                  <Link activeClassName="active" to="/bureau-erkenningen">
-                    Bureau Erkenningen
+                  <Link activeClassName="active" to="/wat-wij-doen">
+                    Wat wij doen
                   </Link>
                 }
               >
                 <MenuItem>
-                  <Link to="/bureau-erkenningen/licentiehouders">
+                  <Link to="/wat-wij-doen/licentiehouders">
                     Licentiehouders
                   </Link>
                 </MenuItem>
                 <MenuItem>
-                  <Link to="/bureau-erkenningen/kennisaanbieders">
+                  <Link to="/wat-wij-doen/kennisaanbieders">
                     Kennisaanbieders
                   </Link>
                 </MenuItem>
                 <MenuItem>
-                  <Link to="/bureau-erkenningen/exameninstellingen">
+                  <Link to="/wat-wij-doen/exameninstellingen">
                     Exameninstellingen
                   </Link>
                 </MenuItem>
                 <MenuItem>
-                  <Link to="/bureau-erkenningen/KBA-GB-gecertificeerde-bedrijven">
+                  <Link to="/wat-wij-doen/KBA-GB-gecertificeerde-bedrijven">
                     KBA-GB gecertificeerde bedrijven
                   </Link>
                 </MenuItem>
                 <MenuItem>
-                  <Link to="/bureau-erkenningen/formulieren">Formulieren</Link>
+                  <Link to="/wat-wij-doen/formulieren">Formulieren</Link>
                 </MenuItem>
                 <MenuItem>
-                  <Link to="/bureau-erkenningen/brochures">Brochures</Link>
+                  <Link to="/wat-wij-doen/brochures">Brochures</Link>
                 </MenuItem>
               </SubMenu>
               <SubMenu
@@ -100,37 +100,37 @@ export default class Navbar extends React.Component {
                 }
               >
                 <MenuItem>
-                  <Link to="/bureau-erkenningen/licentiehouders">
+                  <Link to="/licenties/licentiehouders">
                     Welke licenties zijn er?
                   </Link>
                 </MenuItem>
                 <MenuItem>
-                  <Link to="/bureau-erkenningen/kennisaanbieders">
+                  <Link to="/licenties/kennisaanbieders">
                     Veiligheidsinstructies
                   </Link>
                 </MenuItem>
                 <MenuItem>
-                  <Link to="/bureau-erkenningen/exameninstellingen">
+                  <Link to="/licenties/exameninstellingen">
                     Welke licentie heb ik nodig?
                   </Link>
                 </MenuItem>
                 <MenuItem>
-                  <Link to="/bureau-erkenningen/KBA-GB-gecertificeerde-bedrijven">
+                  <Link to="/licenties/KBA-GB-gecertificeerde-bedrijven">
                     Licentie aanvragen
                   </Link>
                 </MenuItem>
                 <MenuItem>
-                  <Link to="/bureau-erkenningen/KBA-GB-gecertificeerde-bedrijven">
+                  <Link to="/licenties/KBA-GB-gecertificeerde-bedrijven">
                     Licentie verlengen
                   </Link>
                 </MenuItem>
                 <MenuItem>
-                  <Link to="/bureau-erkenningen/KBA-GB-gecertificeerde-bedrijven">
+                  <Link to="/licenties/KBA-GB-gecertificeerde-bedrijven">
                     KBA-GB bijschrijven
                   </Link>
                 </MenuItem>
                 <MenuItem>
-                  <Link to="/bureau-erkenningen/KBA-GB-gecertificeerde-bedrijven">
+                  <Link to="/licenties/KBA-GB-gecertificeerde-bedrijven">
                     Wetten en regels
                   </Link>
                 </MenuItem>
@@ -143,41 +143,31 @@ export default class Navbar extends React.Component {
                 }
               >
                 <MenuItem>
-                  <Link to="/bureau-erkenningen/licentiehouders">
+                  <Link to="/bijeenkomsten/licentiehouders">
                     Bijeenkomsten zoeken
                   </Link>
                 </MenuItem>
                 <MenuItem>
-                  <Link to="/bureau-erkenningen/kennisaanbieders">
+                  <Link to="/bijeenkomsten/kennisaanbieders">
                     Bijeenkomsten organiseren
                   </Link>
                 </MenuItem>
               </SubMenu>
               <SubMenu
                 title={
-                  <Link activeClassName="active" to="/bijeenkomsten">
+                  <Link activeClassName="active" to="/mijn-bureau-erkenningen">
                     Mijn Bureau Erkenningen
                   </Link>
                 }
               >
                 <MenuItem>
-                  <Link to="/bureau-erkenningen/licentiehouders">
-                    Licentiehouders
+                  <Link to="/mijn-bureau-erkenningen/inloggen">
+                    Inloggen
                   </Link>
                 </MenuItem>
                 <MenuItem>
-                  <Link to="/bureau-erkenningen/kennisaanbieders">
-                    Kennisaanbieders
-                  </Link>
-                </MenuItem>
-                <MenuItem>
-                  <Link to="/bureau-erkenningen/exameninstellingen">
-                    Exameninstellingen
-                  </Link>
-                </MenuItem>
-                <MenuItem>
-                  <Link to="/bureau-erkenningen/KBA-GB-gecertificeerde-bedrijven">
-                    KBA-GB gecertificeerde bedrijven
+                  <Link to="/mijn-bureau-erkenningen/inloggegevens-kwijt">
+                    Inloggegevens kwijt
                   </Link>
                 </MenuItem>
               </SubMenu>

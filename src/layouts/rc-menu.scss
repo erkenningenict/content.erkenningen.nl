@@ -13,16 +13,15 @@ $menuPrefixCls: rc-menu;
   margin-bottom: 0;
   padding-left: 0; // Override default ul/ol
   list-style: none;
-  //border: 1px solid #d9d9d9;
   box-shadow: 0 0 4px #d9d9d9;
   border-radius: 3px;
-  //color: $be-white;
   text-transform: uppercase;
   a {
     color: $be-white;
     text-decoration: none;
+    font-weight: normal;
     &.active {
-      font-weight: bold;
+      font-weight: 900;
     }
   }
 
@@ -53,6 +52,7 @@ $menuPrefixCls: rc-menu;
   &-submenu-active > &-submenu-title {
     //background-color: #eaf8fe;
     color: $be-white;
+    font-weight: normal;
     text-decoration: underline;
     & a:hover {
       color: $be-white;
@@ -72,6 +72,12 @@ $menuPrefixCls: rc-menu;
     background-color: #eaf8fe;
   }
 
+  //& > li + li::before {
+  //  content: " | ";
+  //}
+  //& li { float: left; }
+  //& li:after { color: #fff; content: "|";
+  //  height: 0; padding: 0 .5em; }
   & > li &-submenu {
     padding: 0;
   }
@@ -150,7 +156,7 @@ $menuPrefixCls: rc-menu;
 
     & > .rc-menu-submenu, & > .rc-menu-item {
       float: left;
-      border-bottom: 2px solid transparent;
+      margin-right: 1rem;
 
       &-active {
         //background-color: lighten($be-green, 25%);

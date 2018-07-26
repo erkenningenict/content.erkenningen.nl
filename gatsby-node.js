@@ -154,7 +154,7 @@ exports.onCreateNode = ({ node, getNode, boundActionCreators }) => {
         type = "post";
         break;
       case "page":
-        type = "";
+        type = "page";
         break;
     }
 

@@ -74,11 +74,10 @@ h1 {
   text-transform: uppercase;
   color: $be-white;
   margin-bottom: 2rem;
-  margin-top: 2.5rem;
 }
 
 p {
-  font-size: 16px;
+  font-size: 18px;
   line-height: 1.5;
   margin-bottom: 20px;
   color: $be-black;
@@ -86,6 +85,7 @@ p {
 
 a {
   color: $be-orange;
+  font-weight: bold;
   &:hover,
   &:active {
     color: $be-orange;
@@ -115,12 +115,13 @@ img:hover {
 @media (min-width: 992px) {
   .navbar-brand {
     position: absolute;
-    display: block;
-    margin-top: 55px;
+    margin-right: 3rem;
+    margin-top: 2.2rem;
+    background-color: $be-white;
     z-index: 1;
     > img {
       margin-bottom: 16px;
-      padding-bottom: 0;
+      margin-top: 22px;
     }
   }
   .navbar {
@@ -134,13 +135,29 @@ img:hover {
   background-color: $be-orange;
 }
 
+.faqSidebar--container {
+  background-color: lighten($be-green, 30%);
+  padding: 1rem;
+  p {
+    font-size: 1.25rem;
+  }
+}
+
 .navbar-be__breadcrumbs-spacer {
   display: none;
 }
+
 @media (min-width: 992px) {
-  .navbar-be__breadcrumbs-spacer {
-    background: $be-white;
-    width: 248px;
+  .navbar-be__breadcrumbs-spacer-orange {
+    border-top: $be-white 0.4rem solid;
+    background: $be-orange;
+    display: block;
+    padding: 0.5rem 1rem;
+    margin-bottom: 1.5rem;
+  }
+  .navbar-be__breadcrumbs-spacer-green {
+    border-top: $be-white 0.4rem solid;
+    background: $be-green;
     display: block;
     padding: 0.5rem 1rem;
   }
@@ -184,7 +201,10 @@ img:hover {
   padding: 1rem;
   > a {
     color: $be-black;
+    font-size: 1.2rem;
+    font-weight: normal;
     padding: 0.8rem;
+    text-decoration: none;
   }
 }
 .search-input {
@@ -194,6 +214,7 @@ img:hover {
   &::placeholder {
     /* Chrome, Firefox, Opera, Safari 10.1+ */
     color: $be-white;
+    font-weight: lighter;
     opacity: 1; /* Firefox */
   }
 }
@@ -209,14 +230,14 @@ img:hover {
   color: $be-black;
   background-color: lighten($be-green, 25%);
 
-> a {
-  text-decoration: none;
-  border-bottom: solid 2px #fff;
-  &.active {
-    background-color: $be-green;
+  > a {
+    text-decoration: none;
+    border-bottom: solid 2px #fff;
+    &.active {
+      background-color: $be-green;
+    }
   }
-}
-  >a:last-child {
+  > a:last-child {
     border-bottom: transparent solid 2px;
   }
 }
@@ -271,4 +292,3 @@ $link-button-gap: 2.5rem;
     // background-image: url("data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiA/PjwhRE9DVFlQRSBzdmcgIFBVQkxJQyAnLS8vVzNDLy9EVEQgU1ZHIDEuMS8vRU4nICAnaHR0cDovL3d3dy53My5vcmcvR3JhcGhpY3MvU1ZHLzEuMS9EVEQvc3ZnMTEuZHRkJz48c3ZnIGhlaWdodD0iMzJweCIgaWQ9IkxheWVyXzEiIHN0eWxlPSJlbmFibGUtYmFja2dyb3VuZDpuZXcgMCAwIDMyIDMyOyIgdmVyc2lvbj0iMS4xIiB2aWV3Qm94PSIwIDAgMzIgMzIiIHdpZHRoPSIzMnB4IiB4bWw6c3BhY2U9InByZXNlcnZlIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIj48cGF0aCBkPSJNNCwxMGgyNGMxLjEwNCwwLDItMC44OTYsMi0ycy0wLjg5Ni0yLTItMkg0QzIuODk2LDYsMiw2Ljg5NiwyLDhTMi44OTYsMTAsNCwxMHogTTI4LDE0SDRjLTEuMTA0LDAtMiwwLjg5Ni0yLDIgIHMwLjg5NiwyLDIsMmgyNGMxLjEwNCwwLDItMC44OTYsMi0yUzI5LjEwNCwxNCwyOCwxNHogTTI4LDIySDRjLTEuMTA0LDAtMiwwLjg5Ni0yLDJzMC44OTYsMiwyLDJoMjRjMS4xMDQsMCwyLTAuODk2LDItMiAgUzI5LjEwNCwyMiwyOCwyMnoiLz48L3N2Zz4=");
   }
 }
-

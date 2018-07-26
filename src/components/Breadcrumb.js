@@ -20,7 +20,7 @@ const StyledLink = styled(Link)`
 `;
 
 const StyledBreadcrumbsContainer = styled.div`
-  padding: 0.5rem 1rem;
+  // padding: 0.5rem 1rem;
 `;
 
 class Breadcrumb extends React.Component {
