@@ -32,17 +32,20 @@ class Breadcrumb extends React.Component {
       .replace("index.md", "")
       .replace(/.md/, "")
       .split("/");
+    const cleanPaths =paths.filter((path) => path !== '');
 
-    const breadCrumbs = paths.filter((path) => path !== '').map((path, index) => {
+    const breadCrumbs = cleanPaths.map((path, index) => {
+      console.log('!DH! path', paths);
       return (
         <span key={index}>
           {index > 0 ? <StyledArrow>></StyledArrow> : null}
-          <StyledLink to={path}>
+          <StyledLink to={cleanPaths.length > 1 && index === 0 ? '/' + path : path}>
             {path.replace(/-/g, " ").replace(".md", "")}
           </StyledLink>
         </span>
       );
     });
+    console.log('!DH! breadcrumbs', breadCrumbs);
 
     return (
       <StyledBreadcrumbsContainer>{breadCrumbs}</StyledBreadcrumbsContainer>
