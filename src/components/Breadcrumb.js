@@ -35,7 +35,6 @@ class Breadcrumb extends React.Component {
     const cleanPaths =paths.filter((path) => path !== '');
 
     const breadCrumbs = cleanPaths.map((path, index) => {
-      console.log('!DH! path', paths);
       return (
         <span key={index}>
           {index > 0 ? <StyledArrow>></StyledArrow> : null}
@@ -45,7 +44,6 @@ class Breadcrumb extends React.Component {
         </span>
       );
     });
-    console.log('!DH! breadcrumbs', breadCrumbs);
 
     return (
       <StyledBreadcrumbsContainer>{breadCrumbs}</StyledBreadcrumbsContainer>

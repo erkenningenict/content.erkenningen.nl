@@ -90,7 +90,7 @@ $menuPrefixCls: rc-menu;
     display: block;
     //padding: 7px 7px 7px 16px;
 
-    border-bottom: solid 2px #fff;
+    //border-bottom: solid 2px #fff;
     white-space: nowrap;
 
     // Disabled state sets text to gray and nukes hover/tab effects
@@ -108,20 +108,27 @@ $menuPrefixCls: rc-menu;
   }
 
   &-submenu {
+    li.rc-menu-item {
+      border-bottom: solid 2px #fff;
+      padding-left: 16px;
+    }
+    li.rc-menu-item:last-child {
+      border-bottom: transparent solid 2px;
+    }
     &-popup {
       position: absolute;
     }
     > .rc-menu {
       background-color: lighten($be-green, 25%);
-      border-bottom: solid 2px #fff;
+      //border-bottom: solid 2px #fff;
       a {
       color: $be-black;
         text-transform: none;
       }
     }
-    &:last-child {
-      border-bottom: transparent solid 2px;
-    }
+    //&:last-child {
+    //  border-bottom: transparent solid 2px;
+    //}
   }
 
   .rc-menu-submenu-title, .rc-menu-item {
@@ -202,6 +209,7 @@ $menuPrefixCls: rc-menu;
   }
 
   &-sub, &-inline {
+    width: 250px;
     padding: 0;
     border: none;
     border-radius: 0;

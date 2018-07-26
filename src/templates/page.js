@@ -39,8 +39,16 @@ export default ({ data }) => {
         </div>
         <Breadcrumb absolutePath={page.fileAbsolutePath} />
       </div>
-      <h1>{page.frontmatter.title}</h1>
-      <TextPageBody htmlAst={page.htmlAst} />
+      <div className="row">
+            <div className="col-md-3">
+Search
+            </div>
+            <div className="col-md-9">
+              <h1>{page.frontmatter.title}</h1>
+              <TextPageBody htmlAst={page.htmlAst} />
+            </div>
+            </div>
+
     </div>
   );
 };
