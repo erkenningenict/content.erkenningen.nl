@@ -1,12 +1,11 @@
 import React from "react";
 import Helmet from "react-helmet";
-import styled from "styled-components";
 
 import TextPageBody from "./../components/TextPageBody";
 import Breadcrumb from "./../components/Breadcrumb";
 import FaqSidebar from "../components/FaqSidebar";
 
-export default ({ data }) => {
+export const Page = ({ data }) => {
   const page = data.markdownRemark;
 
   return (
@@ -60,8 +59,9 @@ export const query = graphql`
       frontmatter {
         title
         date
-        excerpt
       }
     }
   }
 `;
+
+export default Page;

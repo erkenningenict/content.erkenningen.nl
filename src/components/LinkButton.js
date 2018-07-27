@@ -3,6 +3,7 @@ import Link from "gatsby-link";
 
 export default class LinkButton extends React.Component {
   render() {
+   console.log('!DH! before parse', this.props.link);
     const { url, name } = JSON.parse(this.props.link);
     return (
       <Link className="link-button" to={url}>
@@ -26,17 +27,6 @@ export default class LinkButton extends React.Component {
           </g>
         </svg>
       </Link>
-      // <ul className="nav__submenu">
-      //   <li className="nav__submenu-item ">
-      //     <a>Our Company</a>
-      //   </li>
-      //   <li className="nav__submenu-item ">
-      //     <a>Our Team</a>
-      //   </li>
-      //   <li className="nav__submenu-item ">
-      //     <a>Our Portfolio</a>
-      //   </li>
-      // </ul>
     );
   }
 }
