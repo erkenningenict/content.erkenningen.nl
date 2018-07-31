@@ -28,6 +28,12 @@ collections:
         fields:
           - {label: "Title", name: "title", widget: "string"}
           - {label: "Body", name: "body", widget: "markdown"}
+      - file: "src/pages/wat-wij-doen/index.md"
+        label: "Wat wij doen"
+        name: "Wat wij doen"
+        fields:
+          - {label: "Title", name: "title", widget: "string"}
+          - {label: "Body", name: "body", widget: "markdown"}
       # - file: "src/pages/about/index.md"
       #   label: "About"
       #   name: "about"
