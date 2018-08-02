@@ -18,19 +18,33 @@ collections:
   #     - {label: "Description", name: "description", widget: "text"}
   #     - {label: "Body", name: "body", widget: "markdown"}
   #     - {label: "Tags", name: "tags", widget: "list"}
-
+  - name: "Wat-wij-doen"
+    label: "Wat wij doen"
+    folder: "src/pages/wat-wij-doen"
+    create: false
+    fields:
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Body", name: "body", widget: "markdown"}
+  - name: "Licenties"
+    label: "Licenties"
+    folder: "src/pages/licenties"
+    create: false
+    fields:
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Body", name: "body", widget: "markdown"}
+  - name: "Bijeenkomsten"
+    label: "Bijeenkomsten"
+    folder: "src/pages/bijeenkomsten"
+    create: false
+    fields:
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Body", name: "body", widget: "markdown"}
   - name: "pages"
     label: "Pages"
     files:
       - file: "src/pages/index.md"
         label: "Home"
-        name: "Home"
-        fields:
-          - {label: "Title", name: "title", widget: "string"}
-          - {label: "Body", name: "body", widget: "markdown"}
-      - file: "src/pages/wat-wij-doen/index.md"
-        label: "Wat wij doen"
-        name: "Wat wij doen"
+        name: "home"
         fields:
           - {label: "Title", name: "title", widget: "string"}
           - {label: "Body", name: "body", widget: "markdown"}

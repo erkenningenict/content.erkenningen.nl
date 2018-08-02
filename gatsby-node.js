@@ -146,6 +146,7 @@ exports.onCreateNode = ({ node, getNode, boundActionCreators }) => {
     }
 
     let type = "page";
+    console.log("dirsplit:", slug, "dir", dirSplit[0]);
     switch (dirSplit[0]) {
       case "projects":
         type = "project";
@@ -180,7 +181,6 @@ exports.onCreateNode = ({ node, getNode, boundActionCreators }) => {
 
 exports.createPages = ({ graphql, boundActionCreators }) => {
   const { createPage } = boundActionCreators;
-
   return new Promise((resolve, reject) => {
     graphql(`
       {
@@ -197,6 +197,7 @@ exports.createPages = ({ graphql, boundActionCreators }) => {
       }
     `).then(result => {
       result.data.allMarkdownRemark.edges.map(({ node }) => {
+        console.log("Node.field.type", node.fields.type);
         const templatePath =
           node.fields.type === "project"
             ? "./src/templates/project.js"
