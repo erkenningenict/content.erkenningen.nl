@@ -25,6 +25,49 @@ collections:
     fields:
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Body", name: "body", widget: "markdown"}
+  - name: "Wat-wij-doen/licentiehouders"
+    label: "Licentiehouders"
+    folder: "src/pages/wat-wij-doen/licentiehouders"
+    create: false
+    fields:
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Body", name: "body", widget: "markdown"}
+  - name: "Wat-wij-doen/kennisaanbieders"
+    label: "Kennisaanbieders"
+    folder: "src/pages/wat-wij-doen/kennisaanbieders"
+    create: false
+    fields:
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Body", name: "body", widget: "markdown"}
+  - name: "Wat-wij-doen/exameninstellingen"
+    label: "Exameninstellingen"
+    folder: "src/pages/wat-wij-doen/exameninstellingen"
+    create: false
+    fields:
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Body", name: "body", widget: "markdown"}
+  - name: "Wat-wij-doen/KBA-GB-gecertificeerde-bedrijven"
+    label: "KBA-GB gecertificeerde bedrijven"
+    folder: "src/pages/wat-wij-doen/KBA-GB-gecertificeerde-bedrijven"
+    create: false
+    fields:
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Body", name: "body", widget: "markdown"}
+  - name: "Wat-wij-doen/formulieren"
+    label: "Formulieren"
+    folder: "src/pages/wat-wij-doen/formulieren"
+    create: false
+    fields:
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Body", name: "body", widget: "markdown"}
+  - name: "Wat-wij-doen/brochures"
+    label: "Brochures"
+    folder: "src/pages/wat-wij-doen/brochures"
+    create: false
+    fields:
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Body", name: "body", widget: "markdown"}
+
   - name: "Licenties"
     label: "Licenties"
     folder: "src/pages/licenties"
