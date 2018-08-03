@@ -52,7 +52,11 @@ export default class Navbar extends React.Component {
             {/*<span className="navbar-toggler-icon"/>*/}
             {/*</button>*/}
 
-            <Menu mode={"horizontal"} className="mr-4">
+            <Menu
+              mode={"horizontal"}
+              openAnimation="slide-up1"
+              className="mr-4"
+            >
               <MenuItem>
                 <Link activeClassName="active" exact to="/">
                   Home
@@ -70,24 +74,77 @@ export default class Navbar extends React.Component {
                     Licentiehouders
                   </Link>
                 </MenuItem>
-                <MenuItem>
-                  <Link to="/wat-wij-doen/kennisaanbieders">
-                    Kennisaanbieders
-                  </Link>
-                </MenuItem>
-                <MenuItem>
-                  <Link to="/wat-wij-doen/exameninstellingen">
-                    Exameninstellingen
-                  </Link>
-                </MenuItem>
-                <MenuItem>
-                  <Link to="/wat-wij-doen/KBA-GB-gecertificeerde-bedrijven">
-                    KBA-GB gecertificeerde bedrijven
-                  </Link>
-                </MenuItem>
-                <MenuItem>
-                  <Link to="/wat-wij-doen/formulieren">Formulieren</Link>
-                </MenuItem>
+                <SubMenu
+                  title={
+                    <Link to="/wat-wij-doen/kennisaanbieders">
+                      Kennisaanbieders
+                    </Link>
+                  }
+                >
+                  <MenuItem>
+                    <Link to="/wat-wij-doen/kennisaanbieders/kennisaanbieder-worden">
+                      Kennisaanbieder worden
+                    </Link>
+                  </MenuItem>
+                  <MenuItem>
+                    <Link to="/wat-wij-doen/kennisaanbieders/bijeenkomst-organiseren">
+                      Bijeenkomst organiseren
+                    </Link>
+                  </MenuItem>
+                </SubMenu>
+                <SubMenu
+                  title={
+                    <Link to="/wat-wij-doen/exameninstellingen">
+                      Exameninstellingen
+                    </Link>
+                  }
+                >
+                  <MenuItem>
+                    <Link to="/wat-wij-doen/exameninstellingen/examenaanbieder-worden">
+                      Examenaanbieder worden
+                    </Link>
+                  </MenuItem>
+                  <MenuItem>
+                    <Link to="/wat-wij-doen/exameninstellingen/welke-exameninstellingen-zijn-er">
+                      Welke exameninstellingen zijn er?
+                    </Link>
+                  </MenuItem>
+                </SubMenu>
+                <SubMenu
+                  title={
+                    <Link to="/wat-wij-doen/KBA-GB-gecertificeerde-bedrijven">
+                      KBA-GB gecertificeerde bedrijven
+                    </Link>
+                  }
+                >
+                  <MenuItem>
+                    <Link to="/wat-wij-doen/KBA-GB-gecertificeerde-bedrijven/hoe-kan-ik-mij-certificeren">
+                      Hoe kan ik mij certificeren?
+                    </Link>
+                  </MenuItem>
+                  <MenuItem>
+                    <Link to="/wat-wij-doen/KBA-GB-gecertificeerde-bedrijven/bij-wie-kan-ik-mij-certificeren">
+                      Bij wie kan ik mij certificeren?
+                    </Link>
+                  </MenuItem>
+                </SubMenu>
+                <SubMenu
+                  title={
+                    <Link to="/wat-wij-doen/formulieren">Formulieren</Link>
+                  }
+                >
+                  <MenuItem>
+                    <Link to="/wat-wij-doen/formulieren/administreren-veiligheidsinstructie-bedrijf">
+                      Administreren veiligheidsinstructie bedrijf
+                    </Link>
+                  </MenuItem>
+                  <MenuItem>
+                    <Link to="/wat-wij-doen/formulieren/administreren-veiligheidsinstructie-werknemer">
+                      Administreren veiligheidsinstructie werknemer
+                    </Link>
+                  </MenuItem>
+                </SubMenu>
+                <MenuItem />
                 <MenuItem>
                   <Link to="/wat-wij-doen/brochures">Brochures</Link>
                 </MenuItem>
@@ -161,9 +218,7 @@ export default class Navbar extends React.Component {
                 }
               >
                 <MenuItem>
-                  <Link to="/mijn-bureau-erkenningen/inloggen">
-                    Inloggen
-                  </Link>
+                  <Link to="/mijn-bureau-erkenningen/inloggen">Inloggen</Link>
                 </MenuItem>
                 <MenuItem>
                   <Link to="/mijn-bureau-erkenningen/inloggegevens-kwijt">

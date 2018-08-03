@@ -1,12 +1,19 @@
 $menuPrefixCls: rc-menu;
 
-//$font-face {
-//  font-family: 'FontAwesome';
-//  src: url('https://cdn.bootcss.com/font-awesome/4.2.0/fonts/fontawesome-webfont.eot?v=4.2.0');
-//  src: url('https://cdn.bootcss.com/font-awesome/4.2.0/fonts/fontawesome-webfont.eot?#iefix&v=4.2.0') format('embedded-opentype'), url('https://cdn.bootcss.com/font-awesome/4.2.0/fonts/fontawesome-webfont.woff?v=4.2.0') format('woff'), url('https://cdn.bootcss.com/font-awesome/4.2.0/fonts/fontawesome-webfont.ttf?v=4.2.0') format('truetype'), url('https://cdn.bootcss.com/font-awesome/4.2.0/fonts/fontawesome-webfont.svg?v=4.2.0#fontawesomeregular') format('svg');
-//  font-weight: normal;
-//  font-style: normal;
-//}
+@font-face {
+  font-family: "FontAwesome";
+  src: url("https://cdn.bootcss.com/font-awesome/4.2.0/fonts/fontawesome-webfont.eot?v=4.2.0");
+  src: url("https://cdn.bootcss.com/font-awesome/4.2.0/fonts/fontawesome-webfont.eot?#iefix&v=4.2.0")
+      format("embedded-opentype"),
+    url("https://cdn.bootcss.com/font-awesome/4.2.0/fonts/fontawesome-webfont.woff?v=4.2.0")
+      format("woff"),
+    url("https://cdn.bootcss.com/font-awesome/4.2.0/fonts/fontawesome-webfont.ttf?v=4.2.0")
+      format("truetype"),
+    url("https://cdn.bootcss.com/font-awesome/4.2.0/fonts/fontawesome-webfont.svg?v=4.2.0#fontawesomeregular")
+      format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
 
 .rc-menu {
   outline: none;
@@ -32,7 +39,7 @@ $menuPrefixCls: rc-menu;
   &-collapse {
     overflow: hidden;
     &-active {
-      transition: height .3s ease-out;
+      transition: height 0.3s ease-out;
     }
   }
 
@@ -59,6 +66,15 @@ $menuPrefixCls: rc-menu;
     }
   }
 
+  &-submenu-active > &-submenu-title {
+    & a:hover {
+      color: $be-black;
+    }
+    & i {
+      color: $be-black;
+    }
+  }
+
   &-item-selected {
     // fix chrome render bug
     transform: translateZ(0);
@@ -82,25 +98,31 @@ $menuPrefixCls: rc-menu;
     padding: 0;
   }
 
-  &-horizontal, &-sub,
-  &-vertical, &-sub,
-  &-vertical-left, &-sub,
-  &-vertical-right, &-sub {
+  &-horizontal,
+  &-sub,
+  &-vertical,
+  &-sub,
+  &-vertical-left,
+  &-sub,
+  &-vertical-right,
+  &-sub {
     min-width: 180px;
     margin-top: 0;
   }
 
-  &-item, &-submenu-title {
+  &-item,
+  &-submenu-title {
     margin: 0;
     position: relative;
     display: block;
     //padding: 7px 7px 7px 16px;
 
     //border-bottom: solid 2px #fff;
-    white-space: nowrap;
+    // white-space: nowrap;
 
     // Disabled state sets text to gray and nukes hover/tab effects
-    &.rc-menu-item-disabled, &.rc-menu-submenu-disabled {
+    &.rc-menu-item-disabled,
+    &.rc-menu-submenu-disabled {
       color: #777 !important;
     }
   }
@@ -114,9 +136,9 @@ $menuPrefixCls: rc-menu;
   }
 
   &-submenu {
-    li.rc-menu-item {
+    li.rc-menu-item,
+    li.rc-menu-submenu {
       border-bottom: solid 2px #fff;
-      padding-left: 16px;
     }
     li.rc-menu-item:last-child {
       border-bottom: transparent solid 2px;
@@ -124,20 +146,28 @@ $menuPrefixCls: rc-menu;
     &-popup {
       position: absolute;
     }
-    > .rc-menu {
+    > .rc-menu,
+    > rc-menu-sub.rc-menu-submenu {
       background-color: lighten($be-green, 25%);
       //border-bottom: solid 2px #fff;
       a {
-      color: $be-black;
+        color: $be-black;
         text-transform: none;
       }
     }
+    // > div.rc-menu-submenu {
+    //   a {
+    //     color: $be-black;
+    //     text-transform: none;
+    //   }
+    // }
     //&:last-child {
     //  border-bottom: transparent solid 2px;
     //}
   }
 
-  .rc-menu-submenu-title, .rc-menu-item {
+  .rc-menu-submenu-title,
+  .rc-menu-item {
     .anticon {
       width: 14px;
       height: 14px;
@@ -146,15 +176,23 @@ $menuPrefixCls: rc-menu;
     }
   }
 
+  .rc-menu-root > .rc-menu-submenu-active .rc-submenu-title {
+    > a:hover {
+      color: $be-white;
+    }
+  }
+
   &-horizontal {
     border: none;
     box-shadow: none;
 
-    & > .rc-menu-item, & > .rc-menu-submenu > .rc-menu-submenu-title {
+    & > .rc-menu-item,
+    & > .rc-menu-submenu > .rc-menu-submenu-title {
       padding: 15px 5px;
     }
 
-    & > .rc-menu-submenu, & > .rc-menu-item {
+    & > .rc-menu-submenu,
+    & > .rc-menu-item {
       float: left;
       margin-right: 1rem;
 
@@ -177,8 +215,9 @@ $menuPrefixCls: rc-menu;
   &-vertical-right,
   &-inline {
     padding: 12px 0;
-    & > .rc-menu-item, & > .rc-menu-submenu > .rc-menu-submenu-title {
-      padding: 12px 8px 12px 24px;
+    & > .rc-menu-item,
+    & > .rc-menu-submenu > .rc-menu-submenu-title {
+      padding: 12px 8px 12px 16px;
     }
     .rc-menu-submenu-arrow {
       display: inline-block;
@@ -199,7 +238,7 @@ $menuPrefixCls: rc-menu;
   &-inline {
     .rc-menu-submenu-arrow {
       transform: rotate(90deg);
-      transition: transform 3s;
+      transition: transform 0.3s;
     }
     & .rc-menu-submenu-open > .rc-menu-submenu-title {
       .rc-menu-submenu-arrow {
@@ -208,35 +247,40 @@ $menuPrefixCls: rc-menu;
     }
   }
 
-  &-vertical, &-sub,
-  &-vertical-left, &-sub,
-  &-vertical-right, &-sub {
+  &-vertical,
+  &-sub,
+  &-vertical-left,
+  &-sub,
+  &-vertical-right,
+  &-sub {
     padding: 0;
   }
 
-  &-sub, &-inline {
+  &-sub,
+  &-inline {
     width: 250px;
     padding: 0;
     border: none;
     border-radius: 0;
     box-shadow: none;
 
-    & > .rc-menu-item, & > .rc-menu-submenu > .rc-menu-submenu-title {
+    & > .rc-menu-item,
+    & > .rc-menu-submenu > .rc-menu-submenu-title {
       padding-top: 8px;
       padding-bottom: 8px;
-      padding-right: 0;
+      padding-right: 26px;
     }
   }
 
   @mixin effect() {
-    animation-duration: 3s;
+    animation-duration: 0.3s;
     animation-fill-mode: both;
     transform-origin: 0 0;
   }
 
   &-open {
-
-    &-slide-up-enter, &-slide-up-appear {
+    &-slide-up-enter,
+    &-slide-up-appear {
       @include effect();
       opacity: 0;
       animation-timing-function: cubic-bezier(0.08, 0.82, 0.17, 1);
@@ -250,12 +294,16 @@ $menuPrefixCls: rc-menu;
       animation-play-state: paused;
     }
 
-    &-slide-up-enter, &-slide-up-enter-active, &-slide-up-appear, &-slide-up-appear-active {
+    &-slide-up-enter,
+    &-slide-up-enter-active,
+    &-slide-up-appear,
+    &-slide-up-appear-active {
       animation-name: rcMenuOpenSlideUpIn;
       animation-play-state: running;
     }
 
-    &-slide-up-leave, &-slide-up-leave-active {
+    &-slide-up-leave,
+    &-slide-up-leave-active {
       animation-name: rcMenuOpenSlideUpOut;
       animation-play-state: running;
     }
@@ -285,7 +333,8 @@ $menuPrefixCls: rc-menu;
       }
     }
 
-    &-zoom-enter, &-zoom-appear {
+    &-zoom-enter,
+    &-zoom-appear {
       opacity: 0;
       @include effect();
       animation-timing-function: cubic-bezier(0.08, 0.82, 0.17, 1);
@@ -298,12 +347,16 @@ $menuPrefixCls: rc-menu;
       animation-play-state: paused;
     }
 
-    &-zoom-enter, &-zoom-enter-active, &-zoom-appear, &-zoom-appear-active {
+    &-zoom-enter,
+    &-zoom-enter-active,
+    &-zoom-appear,
+    &-zoom-appear-active {
       animation-name: rcMenuOpenZoomIn;
       animation-play-state: running;
     }
 
-    &-zoom-leave, &-zoom-leave-active {
+    &-zoom-leave,
+    &-zoom-leave-active {
       animation-name: rcMenuOpenZoomOut;
       animation-play-state: running;
     }
@@ -320,7 +373,6 @@ $menuPrefixCls: rc-menu;
     }
     @keyframes rcMenuOpenZoomOut {
       0% {
-
         transform: scale(1, 1);
       }
       100% {
