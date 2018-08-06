@@ -24,7 +24,11 @@ const renderAst = new rehypeReact({
 
 class TextPageBody extends React.Component {
   render() {
-    return <div>{renderAst(this.props.htmlAst)}</div>;
+    return (
+      <div className={this.props.className}>
+        {renderAst(this.props.htmlAst)}
+      </div>
+    );
   }
 }
 

@@ -49,8 +49,7 @@ export const HomePage = ({ data }) => {
           <div className="imagesContainer">
             <section>
               <Link to="./licenties">
-              <p>
-                Mollen en woelratten</p>
+                <p>Mollen en woelratten</p>
                 <img src={mol} />
               </Link>
             </section>
@@ -67,7 +66,7 @@ export const HomePage = ({ data }) => {
               </Link>
             </section>
           </div>
-          <TextPageBody htmlAst={page.htmlAst} />
+          <TextPageBody className="homeButtons" htmlAst={page.htmlAst} />
         </div>
       </div>
     </div>
