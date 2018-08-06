@@ -197,10 +197,10 @@ exports.createPages = ({ graphql, boundActionCreators }) => {
       }
     `).then(result => {
       result.data.allMarkdownRemark.edges.map(({ node }) => {
-        console.log("Node.field.type", node.fields.type);
+        console.log("Node.field.type", JSON.stringify(node));
         const templatePath =
-          node.fields.type === "project"
-            ? "./src/templates/project.js"
+          node.fields.slug === "/"
+            ? "./src/templates/home-page.js"
             : "./src/templates/page.js";
         createPage({
           path: node.fields.slug,

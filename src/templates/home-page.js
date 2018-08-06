@@ -2,8 +2,11 @@ import React from "react";
 import Helmet from "react-helmet";
 
 import TextPageBody from "./../components/TextPageBody";
-import Breadcrumb from "./../components/Breadcrumb";
-import FaqSidebar from "../components/FaqSidebar";
+import { classNames } from "classnames";
+import Link from "gatsby-link";
+import mol from "../../static/img/1.Mol.jpg";
+import graan from "../../static/img/2.Graan.jpg";
+import rat from "../../static/img/3.Rat.jpg";
 
 export const HomePage = ({ data }) => {
   const page = data.markdownRemark;
@@ -33,19 +36,37 @@ export const HomePage = ({ data }) => {
           </Helmet>
         )}
 
-      <div className="row mb-5">
-        <div className="col-md-1 navbar-be__breadcrumbs-spacer-orange" />
-        <div className="col-md-2 navbar-be__breadcrumbs-spacer-green" />
-        <div className="col-md-9 navbar-be__breadcrumbs-container">
-          <Breadcrumb absolutePath={page.fileAbsolutePath} />
-        </div>
-      </div>
       <div className="row">
-        <div className="col-md-3 pr-5">
-          <FaqSidebar />
-        </div>
-        <div className="col-md-9 pl-0">
-          <h1>{page.frontmatter.title}</h1>
+        <div className="col p-0">
+          <div className="greenContainer">
+            <h1>Licenties voor groene agrarische beroepen</h1>
+            <p>
+              Voor het gebruik van professionele chemische middelen bij
+              gewasbescherming en het bestrijden van knaagdieren, mollen en
+              woelratten.
+            </p>
+          </div>
+          <div className="imagesContainer">
+            <section>
+              <Link to="./licenties">
+              <p>
+                Mollen en woelratten</p>
+                <img src={mol} />
+              </Link>
+            </section>
+            <section>
+              <Link to="./licenties">
+                <p>Gewasbescherming</p>
+                <img src={graan} />
+              </Link>
+            </section>
+            <section>
+              <Link to="./licenties">
+                <p>Knaagdierbeheersing: KBA</p>
+                <img src={rat} />
+              </Link>
+            </section>
+          </div>
           <TextPageBody htmlAst={page.htmlAst} />
         </div>
       </div>
