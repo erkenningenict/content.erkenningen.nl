@@ -144,7 +144,6 @@ export default class Navbar extends React.Component {
                     </Link>
                   </MenuItem>
                 </SubMenu>
-                <MenuItem />
                 <MenuItem>
                   <Link to="/wat-wij-doen/brochures">Brochures</Link>
                 </MenuItem>
@@ -156,41 +155,116 @@ export default class Navbar extends React.Component {
                   </Link>
                 }
               >
+                <SubMenu
+                  title={
+                    <Link to="/licenties/welke-licenties-zijn-er">
+                      Welke licenties zijn er?
+                    </Link>
+                  }
+                >
+                  <MenuItem>
+                    <Link to="/licenties/welke-licenties-zijn-er/veiligheidsinstructies">
+                      Veiligheidsinstructies
+                    </Link>
+                  </MenuItem>
+                  <MenuItem>
+                    <Link to="/licenties/welke-licenties-zijn-er/gewasbescherming">
+                      Gewasbescherming
+                    </Link>
+                  </MenuItem>
+                  <MenuItem>
+                    <Link to="/licenties/welke-licenties-zijn-er/knaagdierbeheersing">
+                      Knaagdierbeheersing
+                    </Link>
+                  </MenuItem>
+                  <MenuItem>
+                    <Link to="/licenties/welke-licenties-zijn-er/bestrijding-mollen-en-woelratten">
+                      Bestrijding Mollen en Woelratten
+                    </Link>
+                  </MenuItem>
+                </SubMenu>
                 <MenuItem>
-                  <Link to="/licenties/licentiehouders">
-                    Welke licenties zijn er?
-                  </Link>
-                </MenuItem>
-                <MenuItem>
-                  <Link to="/licenties/kennisaanbieders">
-                    Veiligheidsinstructies
-                  </Link>
-                </MenuItem>
-                <MenuItem>
-                  <Link to="/licenties/exameninstellingen">
+                  <Link to="/licenties/welke-licentie-heb-ik-nodig">
                     Welke licentie heb ik nodig?
                   </Link>
                 </MenuItem>
+                <SubMenu
+                  title={
+                    <Link to="/licenties/licentie-aanvragen">
+                      Licentie aanvragen
+                    </Link>
+                  }
+                >
+                  <MenuItem>
+                    <Link to="/licenties/licentie-aanvragen/examen-doen">
+                      Examen doen
+                    </Link>
+                  </MenuItem>
+                  <MenuItem>
+                    <Link to="/licenties/licentie-aanvragen/licentie-aanvragen-na-examen">
+                      Licentie aanvragen na examen
+                    </Link>
+                  </MenuItem>
+                  <MenuItem>
+                    <Link to="/licenties/licentie-aanvragen/ik-heb-al-een-diploma">
+                      Ik heb al een diploma
+                    </Link>
+                  </MenuItem>
+                  <MenuItem>
+                    <Link to="/licenties/licentie-aanvragen/ik-heb-een-buitenlands-diploma">
+                      Ik heb een buitenlands diploma
+                    </Link>
+                  </MenuItem>
+                </SubMenu>
+
                 <MenuItem>
-                  <Link to="/licenties/KBA-GB-gecertificeerde-bedrijven">
-                    Licentie aanvragen
-                  </Link>
-                </MenuItem>
-                <MenuItem>
-                  <Link to="/licenties/KBA-GB-gecertificeerde-bedrijven">
+                  <Link to="/licenties/licentie-verlengen">
                     Licentie verlengen
                   </Link>
                 </MenuItem>
                 <MenuItem>
-                  <Link to="/licenties/KBA-GB-gecertificeerde-bedrijven">
+                  <Link to="/licenties/KBA-GB-bijschrijven">
                     KBA-GB bijschrijven
                   </Link>
                 </MenuItem>
-                <MenuItem>
-                  <Link to="/licenties/KBA-GB-gecertificeerde-bedrijven">
-                    Wetten en regels
-                  </Link>
-                </MenuItem>
+                <SubMenu
+                  title={
+                    <Link to="/licenties/wetten-en-regels">
+                      Wetten en regels
+                    </Link>
+                  }
+                >
+                  <MenuItem>
+                    <Link to="/licenties/wetten-en-regels/europese-verordening">
+                      Europese verordening
+                    </Link>
+                  </MenuItem>
+                  <MenuItem>
+                    <Link to="/licenties/wetten-en-regels/nederlandse-wet">
+                      Nederlandse wet
+                    </Link>
+                  </MenuItem>
+                  <MenuItem>
+                    <Link to="/licenties/wetten-en-regels/nederlands-besluit">
+                      Nederlands besluit
+                    </Link>
+                  </MenuItem>
+                  <MenuItem>
+                    <Link to="/licenties/wetten-en-regels/nederlandse-regeling">
+                      Nederlandse regeling
+                    </Link>
+                  </MenuItem>
+                  <MenuItem>
+                    <Link to="/licenties/welke-licenties-zijn-er">
+                      Welke licenties zijn er?
+                    </Link>
+                  </MenuItem>
+                  <MenuItem>
+                    <Link to="/licenties/welke-licentie-heb-ik-nodig">
+                      Welke licentie(s) heb ik nodig?
+                    </Link>
+                  </MenuItem>
+                </SubMenu>
               </SubMenu>
               <SubMenu
                 title={

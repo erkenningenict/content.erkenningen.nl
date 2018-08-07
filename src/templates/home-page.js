@@ -39,28 +39,42 @@ export const HomePage = ({ data }) => {
       <div className="row">
         <div className="col p-0">
           <div className="greenContainer">
-            <h1>Licenties voor groene agrarische beroepen</h1>
+            <Link to="/licenties">
+              <h1>Licenties voor groene en agrarische beroepen</h1>
+            </Link>
             <p>
-              Voor het gebruik van professionele chemische middelen bij
-              gewasbescherming en het bestrijden van knaagdieren, mollen en
-              woelratten.
+              <Link to="/licenties/wetten-en-regels">
+                Voor het gebruik van professionele chemische middelen bij{" "}
+              </Link>
+              <Link to="/licenties/welke-licenties-zijn-er/gewasbescherming">
+                gewasbescherming
+              </Link>{" "}
+              en het bestrijden van{" "}
+              <Link to="/licenties/welke-licenties-zijn-er/knaagdierbeheersing">
+                knaagdieren
+              </Link>
+              ,{" "}
+              <Link to="/licenties/welke-licenties-zijn-er/bestrijding-mollen-en-woelratten">
+                mollen en woelratten
+              </Link>
+              .
             </p>
           </div>
           <div className="imagesContainer">
             <section>
-              <Link to="./licenties">
+              <Link to="./licenties/welke-licenties-zijn-er/bestrijding-mollen-en-woelratten">
                 <p>Mollen en woelratten</p>
                 <img src={mol} />
               </Link>
             </section>
             <section>
-              <Link to="./licenties">
+              <Link to="./licenties/welke-licenties-zijn-er/gewasbescherming">
                 <p>Gewasbescherming</p>
                 <img src={graan} />
               </Link>
             </section>
             <section>
-              <Link to="./licenties">
+              <Link to="./licenties/welke-licenties-zijn-er/knaagdierbeheersing">
                 <p>Knaagdierbeheersing: KBA</p>
                 <img src={rat} />
               </Link>

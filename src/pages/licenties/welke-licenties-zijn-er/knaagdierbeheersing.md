@@ -1,8 +1,8 @@
 ---
-title: Wetten en regels
+title: Knaagdierbeheersing
 ---
 
-Licenties verhaal
+Knaagdierbeheersing
 
 <link-container>
 <link-button link='{"name": "Welke licentie heb ik nodig?","url": "/licenties/licentie-tool"}' />

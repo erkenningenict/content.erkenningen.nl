@@ -14,9 +14,14 @@ const StyledLink = styled(Link)`
   font-size: 1.5rem;
   margin-right: 10px;
   &:hover {
-    color: #eee;
+    color: #fff;
     text-decoration: underline;
   }
+`;
+
+const StyledSpan = styled.span`
+  color: #fff;
+  font-size: 1.5rem;
 `;
 
 const StyledBreadcrumbsContainer = styled.div`
@@ -32,19 +37,25 @@ class Breadcrumb extends React.Component {
       .replace("index.md", "")
       .replace(/.md/, "")
       .split("/");
-    const cleanPaths =paths.filter((path) => path !== '');
-
+    const cleanPaths = paths.filter(path => path !== "");
+    let fullPath = "";
     const breadCrumbs = cleanPaths.map((path, index) => {
+      fullPath = `${fullPath}/${path}`;
       return (
         <span key={index}>
           {index > 0 ? <StyledArrow>></StyledArrow> : null}
-          <StyledLink to={cleanPaths.length > 1 && index === 0 ? '/' + path : path}>
-            {path.replace(/-/g, " ").replace(".md", "")}
-          </StyledLink>
+          {cleanPaths.length === index + 1 ? (
+            <StyledSpan>
+              {path.replace(/-/g, " ").replace(".md", "")}
+            </StyledSpan>
+          ) : (
+            <StyledLink to={fullPath}>
+              {path.replace(/-/g, " ").replace(".md", "")}
+            </StyledLink>
+          )}
         </span>
       );
     });
-
     return (
       <StyledBreadcrumbsContainer>{breadCrumbs}</StyledBreadcrumbsContainer>
     );

@@ -308,12 +308,16 @@ $margin-top-containers: 0.4rem;
   h1 {
     background: transparent;
     text-align: center;
-    font-size: 2.5rem;
+    font-size: 2.2rem;
+    letter-spacing: 2px;
   }
-  p {
+  p,
+  a {
     color: $be-white;
     font-size: 1.5rem;
+    font-weight: normal;
     margin-bottom: 0;
+    text-decoration: none;
   }
   @media (min-width: 992px) {
     padding: 5rem 15% 2rem 15%;

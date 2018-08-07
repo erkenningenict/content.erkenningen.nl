@@ -2,8 +2,8 @@
 title: Licentie verlengen
 ---
 
-Licenties verhaal
+Licenties verlengen
 
 <link-container>
-<link-button link='{"name": "Welke licentie heb ik nodig?","url": "/licenties/licentie-tool"}' />
+<link-button link='{"name": "Inloggen","url": "https://erkenningen.nl"}' />
 </link-container>

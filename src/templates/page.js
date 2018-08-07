@@ -7,7 +7,6 @@ import FaqSidebar from "../components/FaqSidebar";
 
 export const Page = ({ data }) => {
   const page = data.markdownRemark;
-
   return (
     <div className="container">
       {page.frontmatter.title && (
@@ -41,7 +40,9 @@ export const Page = ({ data }) => {
         </div>
       </div>
       <div className="row">
-        <div className="col-md-3 pr-5"><FaqSidebar /></div>
+        <div className="col-md-3 pr-5">
+          <FaqSidebar />
+        </div>
         <div className="col-md-9 pl-0">
           <h1>{page.frontmatter.title}</h1>
           <TextPageBody htmlAst={page.htmlAst} />

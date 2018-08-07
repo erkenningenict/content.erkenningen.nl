@@ -202,6 +202,7 @@ exports.createPages = ({ graphql, boundActionCreators }) => {
           node.fields.slug === "/"
             ? "./src/templates/home-page.js"
             : "./src/templates/page.js";
+        console.log("#DH# Pages", node.fields.slug, templatePath);
         createPage({
           path: node.fields.slug,
           component: path.resolve(templatePath),
