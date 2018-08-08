@@ -24,10 +24,6 @@ const StyledSpan = styled.span`
   font-size: 1.5rem;
 `;
 
-const StyledBreadcrumbsContainer = styled.div`
-  // padding: 0.5rem 1rem;
-`;
-
 class Breadcrumb extends React.Component {
   render() {
     const { absolutePath } = this.props;
@@ -43,22 +39,18 @@ class Breadcrumb extends React.Component {
       fullPath = `${fullPath}/${path}`;
       return (
         <span key={index}>
-          {index > 0 ? <StyledArrow>></StyledArrow> : null}
+          {index > 0 ? <span className="arrow">></span> : null}
           {cleanPaths.length === index + 1 ? (
-            <StyledSpan>
-              {path.replace(/-/g, " ").replace(".md", "")}
-            </StyledSpan>
+            <span>{path.replace(/-/g, " ").replace(".md", "")}</span>
           ) : (
-            <StyledLink to={fullPath}>
+            <Link to={fullPath}>
               {path.replace(/-/g, " ").replace(".md", "")}
-            </StyledLink>
+            </Link>
           )}
         </span>
       );
     });
-    return (
-      <StyledBreadcrumbsContainer>{breadCrumbs}</StyledBreadcrumbsContainer>
-    );
+    return <div className="breadcrumbs px-3 pl-lg-0">{breadCrumbs}</div>;
   }
 }
 

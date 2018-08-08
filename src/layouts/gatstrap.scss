@@ -135,6 +135,18 @@ img:hover {
   }
 }
 
+@include media-breakpoint-down(sm) {
+  .navbar-brand {
+    max-width: 81px;
+  }
+}
+
+@media (max-width: 1137px) {
+  .searchForm {
+    display: none;
+  }
+}
+
 .navbar-be {
   background-color: $be-orange;
 }
@@ -151,24 +163,58 @@ img:hover {
   display: none;
 }
 
-@media (min-width: 992px) {
+.breadcrumbs {
+  font-size: 2vw;
+  width: 100%;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  margin-top: 0.2rem;
+  @media (max-width: 992px) {
+    margin-right: 0.2rem;
+  }
+  .arrow {
+    // font-size: 1rem;
+    color: #fff;
+    margin-right: 10px;
+  }
+  a {
+    text-decoration: none;
+    color: #fff;
+    // font-size: 1.5rem;
+    margin-right: 10px;
+    &:hover {
+      color: #fff;
+      text-decoration: underline;
+    }
+  }
+  span {
+    color: #fff;
+    // font-size: 1.5rem;
+  }
+}
+
+@include media-breakpoint-up(lg) {
   .navbar-be__breadcrumbs-spacer-orange {
-    border-top: $be-white 0.4rem solid;
+    // border-top: $be-white 0.4rem solid;
     background: $be-orange;
     display: block;
     padding: 0.5rem 1rem;
     margin-bottom: 1.5rem;
   }
   .navbar-be__breadcrumbs-spacer-green {
-    border-top: $be-white 0.4rem solid;
+    // border-top: $be-white 0.4rem solid;
     background: $be-green;
     display: block;
     padding: 0.5rem 1rem;
   }
 }
+.spacer-green {
+  background: $be-green;
+}
 .navbar-be__breadcrumbs-container {
   background: $be-green;
-  border-top: $be-white 0.4rem solid;
+  // border-top: $be-white 0.4rem solid;
   font-size: 2rem;
   color: $be-white;
   text-transform: uppercase;
@@ -319,7 +365,7 @@ $margin-top-containers: 0.4rem;
     margin-bottom: 0;
     text-decoration: none;
   }
-  @media (min-width: 992px) {
+  @include media-breakpoint-up(lg) {
     padding: 5rem 15% 2rem 15%;
 
     h1 {

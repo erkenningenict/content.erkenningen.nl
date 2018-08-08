@@ -29,7 +29,7 @@ export default class Navbar extends React.Component {
     return (
       <nav className="container navbar-be">
         <div className="row">
-          <div className="col-md-3 pr-5">
+          <div className="col-md-3 pr-lg-5 minWidth">
             <Link to="/" className="navbar-brand">
               <img
                 src={logo}
@@ -38,7 +38,7 @@ export default class Navbar extends React.Component {
               />
             </Link>
           </div>
-          <div className="col-md-9 pl-0 pt-5 pb-2 d-flex justify-content-end">
+          <div className="col-md-9 pl-sm-3 pl-lg-0 pt-lg-5 pb-2 d-flex justify-content-end">
             {/*<button*/}
             {/*className="navbar-toggler"*/}
             {/*type="button"*/}
@@ -301,7 +301,7 @@ export default class Navbar extends React.Component {
                 </MenuItem>
               </SubMenu>
             </Menu>
-            <form className="form-inline">
+            <form className="form-inline searchForm">
               <input
                 className="form-control search-input"
                 type="search"
