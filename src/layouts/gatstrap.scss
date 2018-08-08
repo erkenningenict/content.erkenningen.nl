@@ -247,8 +247,6 @@ img:hover {
   margin-bottom: 0;
 }
 .footer {
-  text-align: center;
-  padding: 1rem;
   > a {
     color: $be-black;
     font-size: 1.2rem;
@@ -326,6 +324,10 @@ $link-button-gap: 2.5rem;
     text-align: center;
     background-color: $be-dark-green;
     margin-right: $link-button-gap;
+    @include media-breakpoint-down(xs) {
+      margin-right: 0.5rem;
+      margin-left: 0.5rem;
+    }
 
     display: flex;
     flex-direction: column;
@@ -356,6 +358,12 @@ $margin-top-containers: 0.4rem;
     text-align: center;
     font-size: 2.2rem;
     letter-spacing: 2px;
+    @include media-breakpoint-up(md) {
+      font-size: 4vw;
+    }
+    @include media-breakpoint-up(lg) {
+      font-size: 2.2rem;
+    }
   }
   p,
   a {
@@ -364,6 +372,12 @@ $margin-top-containers: 0.4rem;
     font-weight: normal;
     margin-bottom: 0;
     text-decoration: none;
+    @include media-breakpoint-up(md) {
+      font-size: 2.5vw;
+    }
+    @include media-breakpoint-up(lg) {
+      font-size: 1.5rem;
+    }
   }
   @include media-breakpoint-up(lg) {
     padding: 5rem 15% 2rem 15%;
@@ -384,12 +398,19 @@ $margin-top-containers: 0.4rem;
     p {
       position: absolute;
       color: $be-white;
-      font-size: 1.75rem;
+      font-size: 2vw;
       text-transform: uppercase;
       top: 15%;
       left: 50%;
       transform: translate(-50%, -50%);
       letter-spacing: 2px;
+
+      @include media-breakpoint-up(sm) {
+        font-size: 1.5vw;
+      }
+      @include media-breakpoint-up(lg) {
+        font-size: 2vw;
+      }
     }
     img {
       width: 100%;
