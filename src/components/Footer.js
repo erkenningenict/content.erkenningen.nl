@@ -4,7 +4,7 @@ import Link from "gatsby-link";
 const Footer = () => (
   <div className="container">
     <div className="row">
-      <div className="col footer d-flex flex-wrap my-2  d-flex justify-content-around">
+      <div className="col footer d-flex flex-wrap my-2  d-flex justify-content-around justify-content-md-center">
         <Link to="/contact" className="footerLink">
           Contact
         </Link>
