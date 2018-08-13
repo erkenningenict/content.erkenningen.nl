@@ -30,7 +30,7 @@ export default class Navbar extends React.Component {
     return (
       <nav className="container navbar-be">
         <div className="row">
-          <div className="col-md-3 pr-lg-5 minWidth">
+          <div className="col-md-3 pr-lg-5 pt-lg-4 minWidth">
             <Link to="/" className="navbar-brand">
               <img
                 src={logo}
@@ -59,6 +59,11 @@ export default class Navbar extends React.Component {
                 }
               >
                 <MenuItem>
+                  <Link to="/wat-wij-doen/bureau-erkenningen">
+                    Bureau Erkenningen
+                  </Link>
+                </MenuItem>
+                <MenuItem>
                   <Link to="/wat-wij-doen/licentiehouders">
                     Licentiehouders
                   </Link>
@@ -79,7 +84,9 @@ export default class Navbar extends React.Component {
                   </Link>
                 </MenuItem>
                 <MenuItem>
-                  <Link to="/wat-wij-doen/formulieren">Formulieren</Link>
+                  <Link to="/wat-wij-doen/formulieren">
+                    Zelf doen - Formulieren
+                  </Link>
                 </MenuItem>
                 <MenuItem>
                   <Link to="/wat-wij-doen/brochures">Brochures</Link>
@@ -131,12 +138,17 @@ export default class Navbar extends React.Component {
                 }
               >
                 <MenuItem>
-                  <Link to="/bijeenkomsten/licentiehouders">
+                  <Link to="/bijeenkomsten/bijeenkomsten-zoeken">
                     Bijeenkomsten zoeken
                   </Link>
                 </MenuItem>
                 <MenuItem>
-                  <Link to="/bijeenkomsten/kennisaanbieders">
+                  <Link to="/bijeenkomsten/gevolgde-bijeenkomsten">
+                    Gevolgde bijeenkomsten
+                  </Link>
+                </MenuItem>
+                <MenuItem>
+                  <Link to="/bijeenkomsten/bijeenkomsten-organiseren">
                     Bijeenkomsten organiseren
                   </Link>
                 </MenuItem>

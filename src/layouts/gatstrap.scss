@@ -121,20 +121,11 @@ img:hover {
     position: absolute;
     margin-right: 3rem;
     margin-top: 2.5rem;
-    // background-color: $be-white;
+    background-color: $be-white;
     z-index: 1;
     > img {
-      margin-bottom: 16px;
-      margin-top: 22px;
-      // border: 2px solid white;
-      margin-top: 24px;
-      // border-bottom: 8px solid white;
+      margin-bottom: 13px;
     }
-  }
-  .navbar {
-    //padding: 1.5rem 1rem;
-  }
-  .navbar-nav {
   }
 }
 
@@ -409,7 +400,7 @@ $margin-top-containers: 0.4rem;
     }
   }
   @include media-breakpoint-up(lg) {
-    padding: 3rem 15% 2rem 15%;
+    padding: 1rem 15% 1rem 15%;
 
     h1 {
       padding: 0 15%;
