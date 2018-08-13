@@ -126,9 +126,9 @@ img:hover {
     > img {
       margin-bottom: 16px;
       margin-top: 22px;
-      border: 2px solid white;
+      // border: 2px solid white;
       margin-top: 24px;
-      border-bottom: 8px solid white;
+      // border-bottom: 8px solid white;
     }
   }
   .navbar {
@@ -375,12 +375,14 @@ $margin-top-containers: 0.4rem;
     @include media-breakpoint-up(lg) {
       font-size: 2.2rem;
     }
+    &:hover {
+      text-decoration: underline;
+    }
   }
-  p,
-  a {
+  p {
     color: $be-white;
     font-size: 1.5rem;
-    font-weight: normal;
+    font-weight: 600;
     margin-bottom: 0;
     text-decoration: none;
     @include media-breakpoint-up(md) {
@@ -388,6 +390,22 @@ $margin-top-containers: 0.4rem;
     }
     @include media-breakpoint-up(lg) {
       font-size: 1.5rem;
+    }
+  }
+  a {
+    color: $be-white;
+    font-size: 1.5rem;
+    font-weight: 600;
+    margin-bottom: 0;
+    text-decoration: none;
+    @include media-breakpoint-up(md) {
+      font-size: 2.5vw;
+    }
+    @include media-breakpoint-up(lg) {
+      font-size: 1.5rem;
+    }
+    &:hover {
+      text-decoration: underline;
     }
   }
   @include media-breakpoint-up(lg) {
