@@ -54,16 +54,14 @@ collections:
         fields:
           - { label: "Title", name: "title", widget: "string" }
           - { label: "Body", name: "body", widget: "markdown" }
-      - file:
-          "src/pages/wat-wij-doen/kennisaanbieders/bijeenkomst-organiseren.md"
+      - file: "src/pages/wat-wij-doen/kennisaanbieders/bijeenkomst-organiseren.md"
         label: "Kennisaanbieders/bijeenkomst-organiseren"
         name: "Kennisaanbieders/bijeenkomst-organiseren"
         delete: false
         fields:
           - { label: "Title", name: "title", widget: "string" }
           - { label: "Body", name: "body", widget: "markdown" }
-      - file:
-          "src/pages/wat-wij-doen/kennisaanbieders/kennisaanbieder-worden.md"
+      - file: "src/pages/wat-wij-doen/kennisaanbieders/kennisaanbieder-worden.md"
         label: "Kennisaanbieders/kennisaanbieder-worden"
         name: "Kennisaanbieders/kennisaanbieder-worden"
         delete: false
