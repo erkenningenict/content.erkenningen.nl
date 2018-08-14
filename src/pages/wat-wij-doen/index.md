@@ -1,9 +1,9 @@
 ---
 title: Over Bureau Erkenningen
 ---
+Bureau Erkenningen zorgt voor het uitgeven van [licenties](/licenties), ook wel ‘Bewijzen van Vakbekwaamheid’ genoemd. Deze licenties zijn verplicht wanneer u als professional bezig bent met chemische gewasbescherming of bij de chemische bestrijding van knaagdieren en [mollen en woelratten](/licenties/mollen-en-woelratten).
 
-Bureau Erkenningen zorgt voor het uitgeven van [licenties](/licenties), ook wel ‘Bewijzen van Vakbekwaamheid’ genoemd. Deze licenties zijn verplicht wanneer u als professional bezig bent met chemische
-gewasbescherming of bij de chemische bestrijding van [mollen en woelratten](/licenties/mollen-en-woelratten).
+Er zijn [verschillende soorten licenties](http://erkenningencontentsite.netlify.com/licenties/welke-licenties-zijn-er). Welke u nodig heeft, hangt af van wat u op uw bedrijf wilt doen.
 
 <link-container>
 <link-button link='{"name": "Welke licentie heb ik nodig?","url": "/licenties/licentie-tool"}'></link-button>
