@@ -7,7 +7,7 @@ Er zijn [verschillende soorten licenties](http://erkenningencontentsite.netlify.
 
 Een licentie is 5 jaar geldig. Voor het [verlengen van een licentie](/licenties/licentie-verlengen) moet u een aantal kennisbijeenkomsten volgen.
 
-Snel naar:
+**Snel naar:**
 
 <link-container>
 <link-button link='{"name": "Welke licentie heb ik nodig?","url": "/licenties/licentie-tool"}'></link-button>
