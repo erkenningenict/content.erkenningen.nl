@@ -5,6 +5,6 @@ title: Exameninstellingen
 Exameninstellingen
 
 <link-container>
-<link-button link='{"name": "kennis-aanbieder worden","url": "/wat-wij-doen/kennisaanbieders/kennisaanbieder-worden"}'></link-button>
-<link-button link='{"name": "Bijeenkomst organiseren","url": "/wat-wij-doen/kennisaanbieders/bijeenkomst-organiseren"}'></link-button>
+<link-button link='{"name": "examenaanbieder worden","url": "/wat-wij-doen/exameninstellingen/examenaanbieder-worden"}'></link-button>
+<link-button link='{"name": "Welke exameninstellingen zijn er","url": "/wat-wij-doen/exameninstellingen/welke-exameninstellingen-zijn-er"}'></link-button>
 </link-container>
