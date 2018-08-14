@@ -26,22 +26,54 @@ collections:
     fields:
       - { label: "Title", name: "title", widget: "string" }
       - { label: "Body", name: "body", widget: "markdown" }
-  - name: "Wat-wij-doen/licentiehouders"
-    label: "Wat wij doen/Licentiehouders"
-    folder: "src/pages/wat-wij-doen/licentiehouders"
-    create: false
-    delete: false
-    fields:
-      - { label: "Title", name: "title", widget: "string" }
-      - { label: "Body", name: "body", widget: "markdown" }
+  - name: "Wat-wij-doen/bureau-erkenningen"
+    label: "Wat-wij-doen/bureau-erkenningen"
+    files:
+      - file: "src/pages/wat-wij-doen/be-app.md"
+        label: "BE app"
+        name: "BE app"
+        delete: false
+        fields:
+          - { label: "Title", name: "title", widget: "string" }
+          - { label: "Body", name: "body", widget: "markdown" }
+      - file: "src/pages/wat-wij-doen/index.md"
+        label: "Bureau Erkenningen"
+        name: "Bureau Erkenningen"
+        delete: false
+        fields:
+          - { label: "Title", name: "title", widget: "string" }
+          - { label: "Body", name: "body", widget: "markdown" }
+
+  - name: "Wat-wij-doen/bureau-erkenningen/licentiehouders"
+    label: "Wat-wij-doen/bureau-erkenningen/licentiehouders"
+    files:
+      - file: "Wat-wij-doen/licentiehouders/index.md"
+        label: "Wat wij doen/Licentiehouders/index"
+        delete: false
+        fields:
+          - { label: "Title", name: "title", widget: "string" }
+          - { label: "Body", name: "body", widget: "markdown" }
   - name: "Wat-wij-doen/kennisaanbieders"
     label: "Wat wij doen/Kennisaanbieders"
-    folder: "src/pages/wat-wij-doen/kennisaanbieders"
-    create: false
-    delete: false
-    fields:
-      - { label: "Title", name: "title", widget: "string" }
-      - { label: "Body", name: "body", widget: "markdown" }
+    files:
+      - file: "Wat-wij-doen/kennisaanbieders/index.md"
+        label: "Wat wij doen/kennisaanbieders/index"
+        delete: false
+        fields:
+          - { label: "Title", name: "title", widget: "string" }
+          - { label: "Body", name: "body", widget: "markdown" }
+      - file: "Wat-wij-doen/kennisaanbieders/bijeenkomst-organiseren.md"
+        label: "Wat wij doen/kennisaanbieders/bijeenkomst-organiseren"
+        delete: false
+        fields:
+          - { label: "Title", name: "title", widget: "string" }
+          - { label: "Body", name: "body", widget: "markdown" }
+      - file: "Wat-wij-doen/kennisaanbieders/kennisaanbieder-worden.md"
+        label: "Wat wij doen/kennisaanbieders/kennisaanbieder-worden"
+        delete: false
+        fields:
+          - { label: "Title", name: "title", widget: "string" }
+          - { label: "Body", name: "body", widget: "markdown" }
   - name: "Wat-wij-doen/exameninstellingen"
     label: "Wat wij doen/Exameninstellingen"
     folder: "src/pages/wat-wij-doen/exameninstellingen"
