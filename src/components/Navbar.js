@@ -121,7 +121,7 @@ export default class Navbar extends React.Component {
                   </Link>
                 </MenuItem>
                 <MenuItem>
-                  <Link to="/licenties/KBA-GB-bijschrijven">
+                  <Link to="/licenties/kba-gb-bijschrijven">
                     KBA-GB bijschrijven
                   </Link>
                 </MenuItem>

@@ -91,6 +91,22 @@ collections:
       - { label: "Title", name: "title", widget: "string" }
       - { label: "Body", name: "body", widget: "markdown" }
 
+  - name: "Licenties-welke-licenties-zijn-er"
+    label: "Licenties/welke-licenties-zijn-er"
+    folder: "src/pages/licenties/welke-licenties-zijn-er"
+    create: true
+    delete: true
+    fields:
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Body", name: "body", widget: "markdown" }
+  - name: "Licenties-welke-heb-ik-nodig"
+    label: "Licenties/welke-heb-ik-nodig?"
+    folder: "src/pages/licenties/welke-licentie-heb-ik-nodig"
+    create: true
+    delete: true
+    fields:
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Body", name: "body", widget: "markdown" }
   - name: "Licenties-licentie-aanvragen"
     label: "Licenties/licentie-aanvragen"
     folder: "src/pages/licenties/licentie-aanvragen"
@@ -99,9 +115,9 @@ collections:
     fields:
       - { label: "Title", name: "title", widget: "string" }
       - { label: "Body", name: "body", widget: "markdown" }
-  - name: "Licenties-welke-licenties-zijn-er"
-    label: "Licenties/welke-licenties-zijn-er"
-    folder: "src/pages/licenties/welke-licenties-zijn-er"
+  - name: "Licenties-licentie-verlengen"
+    label: "Licenties/licentie-verlengen"
+    folder: "src/pages/licenties/licentie-verlengen"
     create: true
     delete: true
     fields:
