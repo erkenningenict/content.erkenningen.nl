@@ -18,7 +18,7 @@ collections:
     label: "Wat-wij-doen"
     files:
       - file: "src/pages/wat-wij-doen/index.md"
-        label: "Wat wij doen index"
+        label: "Wat wij doen - index"
         name: "wat-wij-doen"
         delete: false
         fields:
@@ -34,6 +34,38 @@ collections:
       - file: "src/pages/wat-wij-doen/bureau-erkenningen/index.md"
         label: "Bureau Erkenningen"
         name: "Bureau Erkenningen"
+        delete: false
+        fields:
+          - { label: "Title", name: "title", widget: "string" }
+          - { label: "Body", name: "body", widget: "markdown" }
+
+      - file: "src/pages/wat-wij-doen/licentiehouders/index.md"
+        label: "Licentiehouders"
+        name: "Licentiehouders"
+        delete: false
+        fields:
+          - { label: "Title", name: "title", widget: "string" }
+          - { label: "Body", name: "body", widget: "markdown" }
+
+      - file: "src/pages/wat-wij-doen/kennisaanbieders/index.md"
+        label: "Kennisaanbieders - index"
+        name: "Kennisaanbieders - index"
+        delete: false
+        fields:
+          - { label: "Title", name: "title", widget: "string" }
+          - { label: "Body", name: "body", widget: "markdown" }
+      - file:
+          "src/pages/wat-wij-doen/kennisaanbieders/bijeenkomst-organiseren.md"
+        label: "Kennisaanbieders/bijeenkomst-organiseren"
+        name: "Kennisaanbieders/bijeenkomst-organiseren"
+        delete: false
+        fields:
+          - { label: "Title", name: "title", widget: "string" }
+          - { label: "Body", name: "body", widget: "markdown" }
+      - file:
+          "src/pages/wat-wij-doen/kennisaanbieders/kennisaanbieder-worden.md"
+        label: "Kennisaanbieders/kennisaanbieder-worden"
+        name: "Kennisaanbieders/kennisaanbieder-worden"
         delete: false
         fields:
           - { label: "Title", name: "title", widget: "string" }
