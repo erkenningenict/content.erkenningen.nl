@@ -60,7 +60,6 @@ export const query = graphql`
       fileAbsolutePath
       frontmatter {
         title
-        date
       }
     }
   }
