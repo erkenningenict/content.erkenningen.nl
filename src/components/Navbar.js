@@ -169,6 +169,11 @@ export default class Navbar extends React.Component {
                     Inloggegevens kwijt
                   </Link>
                 </MenuItem>
+                <MenuItem>
+                  <Link to="/mijn-bureau-erkenningen/duplicaat-pas-aanvragen">
+                    Duplicaat pas aanvragen
+                  </Link>
+                </MenuItem>
               </SubMenu>
             </Menu>
             <form className="form-inline searchForm">
