@@ -54,14 +54,16 @@ collections:
         fields:
           - { label: "Title", name: "title", widget: "string" }
           - { label: "Body", name: "body", widget: "markdown" }
-      - file: "src/pages/wat-wij-doen/kennisaanbieders/bijeenkomst-organiseren.md"
+      - file:
+          "src/pages/wat-wij-doen/kennisaanbieders/bijeenkomst-organiseren.md"
         label: "Kennisaanbieders/bijeenkomst-organiseren"
         name: "kennisaanbieders-bijeenkomst-organiseren"
         delete: false
         fields:
           - { label: "Title", name: "title", widget: "string" }
           - { label: "Body", name: "body", widget: "markdown" }
-      - file: "src/pages/wat-wij-doen/kennisaanbieders/kennisaanbieder-worden.md"
+      - file:
+          "src/pages/wat-wij-doen/kennisaanbieders/kennisaanbieder-worden.md"
         label: "Kennisaanbieders/kennisaanbieder-worden"
         name: "kennisaanbieders-kennisaanbieder-worden"
         delete: false
@@ -69,6 +71,95 @@ collections:
           - { label: "Title", name: "title", widget: "string" }
           - { label: "Body", name: "body", widget: "markdown" }
 
+      - file: "src/pages/wat-wij-doen/exameninstellingen/index.md"
+        label: "exameninstellingen - index"
+        name: "exameninstellingen - index"
+        delete: false
+        fields:
+          - { label: "Title", name: "title", widget: "string" }
+          - { label: "Body", name: "body", widget: "markdown" }
+      - file:
+          "src/pages/wat-wij-doen/exameninstellingen/examenaanbieder-worden.md"
+        label: "exameninstellingen/examenaanbieder-worden"
+        name: "exameninstellingen-examen-aanbieder-worden"
+        delete: false
+        fields:
+          - { label: "Title", name: "title", widget: "string" }
+          - { label: "Body", name: "body", widget: "markdown" }
+      - file:
+          "src/pages/wat-wij-doen/exameninstellingen/welke-exameninstellingen-zijn-er.md"
+        label: "exameninstellingen/welke-exameninstellingen-zijn-er"
+        name: "exameninstellingen-welke-exameninstellingen-zijn-er"
+        delete: false
+        fields:
+          - { label: "Title", name: "title", widget: "string" }
+          - { label: "Body", name: "body", widget: "markdown" }
+
+      - file: "src/pages/wat-wij-doen/KBA-GB-gecertificeerde-bedrijven/index.md"
+        label: "KBA-GB-gecertificeerde-bedrijven - index"
+        name: "KBA-GB-gecertificeerde-bedrijven - index"
+        delete: false
+        fields:
+          - { label: "Title", name: "title", widget: "string" }
+          - { label: "Body", name: "body", widget: "markdown" }
+      - file:
+          "src/pages/wat-wij-doen/KBA-GB-gecertificeerde-bedrijven/hoe-kan-ik-mij-certificeren.md"
+        label: "KBA-GB-gecertificeerde-bedrijven/hoe-kan-ik-mij-certificeren"
+        name: "KBA-GB-gecertificeerde-bedrijven-hoe-kan-ik-mij-certificeren"
+        delete: false
+        fields:
+          - { label: "Title", name: "title", widget: "string" }
+          - { label: "Body", name: "body", widget: "markdown" }
+      - file:
+          "src/pages/wat-wij-doen/KBA-GB-gecertificeerde-bedrijven/bij-wie-kan-ik-mij-certificeren.md"
+        label:
+          "KBA-GB-gecertificeerde-bedrijven/bij-wie-kan-ik-mij-certificeren"
+        name: "KBA-GB-gecertificeerde-bedrijven-bij-wie-kan-ik-mij-certificeren"
+        delete: false
+        fields:
+          - { label: "Title", name: "title", widget: "string" }
+          - { label: "Body", name: "body", widget: "markdown" }
+
+      - file: "src/pages/wat-wij-doen/formulieren/index.md"
+        label: "formulieren - index"
+        name: "formulieren - index"
+        delete: false
+        fields:
+          - { label: "Title", name: "title", widget: "string" }
+          - { label: "Body", name: "body", widget: "markdown" }
+      - file:
+          "src/pages/wat-wij-doen/formulieren/administreren-veiligheidsinstructie-bedrijf.md"
+        label: "formulieren/administreren-veiligheidsinstructie-bedrijf"
+        name: "formulieren-administreren-veiligheidsinstructie-bedrijf"
+        delete: false
+        fields:
+          - { label: "Title", name: "title", widget: "string" }
+          - { label: "Body", name: "body", widget: "markdown" }
+      - file:
+          "src/pages/wat-wij-doen/formulieren/administreren-veiligheidsinstructie-werknemer.md"
+        label: "formulieren/administreren-veiligheidsinstructie-werknemer"
+        name: "formulieren-administreren-veiligheidsinstructie-werknemer"
+        delete: false
+        fields:
+          - { label: "Title", name: "title", widget: "string" }
+          - { label: "Body", name: "body", widget: "markdown" }
+
+  - name: "formulieren"
+    label: "Formulieren"
+    folder: "src/pages/wat-wij-doen/formulieren"
+    create: true
+    delete: false
+    fields:
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Body", name: "body", widget: "markdown" }
+  - name: "brochures"
+    label: "Brochures"
+    folder: "src/pages/wat-wij-doen/brochures"
+    create: true
+    delete: false
+    fields:
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Body", name: "body", widget: "markdown" }
   # - name: "Wat-wij-doen/bureau-erkenningen/licentiehouders"
   #   label: "Wat-wij-doen/bureau-erkenningen/licentiehouders"
   #   files:
