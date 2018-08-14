@@ -13,7 +13,10 @@ const Footer = () => (
           FAQ
         </Link>
         <div className="d-none d-sm-block">|</div>
-        <a href="https://erkenningen.nl/" className="footerLink">
+        <a
+          href="https://www.erkenningen.nl/Default.aspx?tabid=154&ctl=Terms"
+          className="footerLink"
+        >
           Disclaimer
         </a>
         <div className="d-none d-sm-block">|</div>

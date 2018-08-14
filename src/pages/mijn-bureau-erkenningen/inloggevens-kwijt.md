@@ -1,5 +1,5 @@
 ---
-title: Duplicaat pas aanvragen
+title: Inloggevens kwijt
 ---
 
 TODO

@@ -91,7 +91,7 @@ collections:
       - { label: "Title", name: "title", widget: "string" }
       - { label: "Body", name: "body", widget: "markdown" }
 
-  - name: "Licenties/licentie-aanvragen"
+  - name: "Licenties-licentie-aanvragen"
     label: "Licenties/licentie-aanvragen"
     folder: "src/pages/licenties/licentie-aanvragen"
     create: true
@@ -99,7 +99,7 @@ collections:
     fields:
       - { label: "Title", name: "title", widget: "string" }
       - { label: "Body", name: "body", widget: "markdown" }
-  - name: "Licenties/welke-licenties-zijn-er"
+  - name: "Licenties-welke-licenties-zijn-er"
     label: "Licenties/welke-licenties-zijn-er"
     folder: "src/pages/licenties/welke-licenties-zijn-er"
     create: true
@@ -107,7 +107,7 @@ collections:
     fields:
       - { label: "Title", name: "title", widget: "string" }
       - { label: "Body", name: "body", widget: "markdown" }
-  - name: "Licenties/wetten-en-regels"
+  - name: "Licenties-wetten-en-regels"
     label: "Licenties/wetten-en-regels"
     folder: "src/pages/licenties/wetten-en-regels"
     create: true
