@@ -50,7 +50,7 @@ collections:
       - { label: "Title", name: "title", widget: "string" }
       - { label: "Body", name: "body", widget: "markdown" }
   - name: "wat-wij-doen-exameninstellingen"
-    label: "Wat-wij-doen/exameninstellingenn"
+    label: "Wat-wij-doen/exameninstellingen"
     folder: "src/pages/wat-wij-doen/exameninstellingen"
     create: true
     delete: false
@@ -81,68 +81,6 @@ collections:
     fields:
       - { label: "Title", name: "title", widget: "string" }
       - { label: "Body", name: "body", widget: "markdown" }
-  # - name: "Wat-wij-doen/bureau-erkenningen/licentiehouders"
-  #   label: "Wat-wij-doen/bureau-erkenningen/licentiehouders"
-  #   files:
-  #     - file: "Wat-wij-doen/licentiehouders/index.md"
-  #       label: "Wat wij doen/Licentiehouders/index"
-  #       delete: false
-  #       fields:
-  #         - { label: "Title", name: "title", widget: "string" }
-  #         - { label: "Body", name: "body", widget: "markdown" }
-  # - name: "Wat-wij-doen/kennisaanbieders"
-  #   label: "Wat wij doen/Kennisaanbieders"
-  #   files:
-  #     - file: "Wat-wij-doen/kennisaanbieders/index.md"
-  #       label: "Wat wij doen/kennisaanbieders/index"
-  #       delete: false
-  #       fields:
-  #         - { label: "Title", name: "title", widget: "string" }
-  #         - { label: "Body", name: "body", widget: "markdown" }
-  #     - file: "Wat-wij-doen/kennisaanbieders/bijeenkomst-organiseren.md"
-  #       label: "Wat wij doen/kennisaanbieders/bijeenkomst-organiseren"
-  #       delete: false
-  #       fields:
-  #         - { label: "Title", name: "title", widget: "string" }
-  #         - { label: "Body", name: "body", widget: "markdown" }
-  #     - file: "Wat-wij-doen/kennisaanbieders/kennisaanbieder-worden.md"
-  #       label: "Wat wij doen/kennisaanbieders/kennisaanbieder-worden"
-  #       delete: false
-  #       fields:
-  #         - { label: "Title", name: "title", widget: "string" }
-  #         - { label: "Body", name: "body", widget: "markdown" }
-  # - name: "Wat-wij-doen/exameninstellingen"
-  #   label: "Wat wij doen/Exameninstellingen"
-  #   folder: "src/pages/wat-wij-doen/exameninstellingen"
-  #   create: false
-  #   delete: false
-  #   fields:
-  #     - { label: "Title", name: "title", widget: "string" }
-  #     - { label: "Body", name: "body", widget: "markdown" }
-  # - name: "Wat-wij-doen/KBA-GB-gecertificeerde-bedrijven"
-  #   label: "Wat wij doen/KBA-GB gecertificeerde bedrijven"
-  #   folder: "src/pages/wat-wij-doen/KBA-GB-gecertificeerde-bedrijven"
-  #   create: false
-  #   delete: false
-  #   fields:
-  #     - { label: "Title", name: "title", widget: "string" }
-  #     - { label: "Body", name: "body", widget: "markdown" }
-  # - name: "Wat-wij-doen/formulieren"
-  #   label: "Wat wij doen/Formulieren"
-  #   folder: "src/pages/wat-wij-doen/formulieren"
-  #   create: false
-  #   delete: false
-  #   fields:
-  #     - { label: "Title", name: "title", widget: "string" }
-  #     - { label: "Body", name: "body", widget: "markdown" }
-  # - name: "Wat-wij-doen/brochures"
-  #   label: "Wat wij doen/Brochures"
-  #   folder: "src/pages/wat-wij-doen/brochures"
-  #   create: false
-  #   delete: false
-  #   fields:
-  #     - { label: "Title", name: "title", widget: "string" }
-  #     - { label: "Body", name: "body", widget: "markdown" }
 
   - name: "Licenties"
     label: "Licenties"
@@ -152,6 +90,32 @@ collections:
     fields:
       - { label: "Title", name: "title", widget: "string" }
       - { label: "Body", name: "body", widget: "markdown" }
+
+  - name: "Licenties/licentie-aanvragen"
+    label: "Licenties/licentie-aanvragen"
+    folder: "src/pages/licenties/licentie-aanvragen"
+    create: true
+    delete: true
+    fields:
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Body", name: "body", widget: "markdown" }
+  - name: "Licenties/welke-licenties-zijn-er"
+    label: "Licenties/welke-licenties-zijn-er"
+    folder: "src/pages/licenties/welke-licenties-zijn-er"
+    create: true
+    delete: true
+    fields:
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Body", name: "body", widget: "markdown" }
+  - name: "Licenties/wetten-en-regels"
+    label: "Licenties/wetten-en-regels"
+    folder: "src/pages/licenties/wetten-en-regels"
+    create: true
+    delete: true
+    fields:
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Body", name: "body", widget: "markdown" }
+
   - name: "Bijeenkomsten"
     label: "Bijeenkomsten"
     folder: "src/pages/bijeenkomsten"
@@ -160,8 +124,18 @@ collections:
     fields:
       - { label: "Title", name: "title", widget: "string" }
       - { label: "Body", name: "body", widget: "markdown" }
-  - name: "pages"
-    label: "Overige pagina's"
+
+  - name: "mijn-bureau-erkenningen"
+    label: "Mijn Bureau Erkenningen"
+    folder: "src/pages/mijn-bureau-erkenningen"
+    create: false
+    delete: false
+    fields:
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Body", name: "body", widget: "markdown" }
+
+  - name: "home-footer"
+    label: "Home en Footer"
     files:
       - file: "src/pages/index.md"
         label: "Home"
@@ -177,47 +151,3 @@ collections:
         fields:
           - { label: "Title", name: "title", widget: "string" }
           - { label: "Body", name: "body", widget: "markdown" }
-      - file: "src/pages/wat-wij-doen/licentiehouders/index.md"
-        label: "Licentiehouders"
-        name: "licentiehouders"
-        delete: false
-        fields:
-          - { label: "Title", name: "title", widget: "string" }
-          - { label: "Body", name: "body", widget: "markdown" }
-# - file: "src/pages/about/index.md"
-#   label: "About"
-#   name: "about"
-#   fields:
-#     - {label: "Template Key", name: "templateKey", widget: "hidden", default: "about-page"}
-#     - {label: "Title", name: "title", widget: "string"}
-#     - {label: "Body", name: "body", widget: "markdown"}
-#      - file: "src/pages/wat-wij-doen/index.md"
-#        label: "Wat wij doen"
-#        name: "wat-wij-doen"
-#        fields:
-#          - {label: "Template Key", name: "templateKey", widget: "hidden", default: "content-page"}
-#          - {label: "Title", name: "title", widget: "string"}
-#          - {label: "Path", name: "path", widget: "string"}
-#          - {label: "Body", name: "body", widget: "markdown"}
-# - file: "src/pages/products/index.md"
-#   label: "Products Page"
-#   name: "products"
-#   fields:
-#     - {label: "Template Key", name: "templateKey", widget: "hidden", default: "product-page"}
-#     - {label: Title, name: title, widget: string}
-#     - {label: Image, name: image, widget: image}
-#     - {label: Heading, name: heading, widget: string}
-#     - {label: Description, name: description, widget: string}
-#     - {label: Intro, name: intro, widget: object, fields: [{label: Heading, name: heading, widget: string}, {label: Description, name: description, widget: text}, {label: Blurbs, name: blurbs, widget: list, fields: [{label: Image, name: image, widget: image}, {label: Text, name: text, widget: text}]}]}
-#     - {label: Main, name: main, widget: object, fields: [{label: Heading, name: heading, widget: string}, {label: Description, name: description, widget: text}, {label: Image1, name: image1, widget: object, fields: [{label: Image, name: image, widget: image}, {label: Alt, name: alt, widget: string}]}, {label: Image2, name: image2, widget: object, fields: [{label: Image, name: image, widget: image}, {label: Alt, name: alt, widget: string}]}, {label: Image3, name: image3, widget: object, fields: [{label: Image, name: image, widget: image}, {label: Alt, name: alt, widget: string}]}]}
-#     - {label: Testimonials, name: testimonials, widget: list, fields: [{label: Quote, name: quote, widget: string}, {label: Author, name: author, widget: string}]}
-#     - {label: Full_image, name: full_image, widget: image}
-#     - {label: Pricing, name: pricing, widget: object, fields: [{label: Heading, name: heading, widget: string}, {label: Description, name: description, widget: string}, {label: Plans, name: plans, widget: list, fields: [{label: Plan, name: plan, widget: string}, {label: Price, name: price, widget: string}, {label: Description, name: description, widget: string}, {label: Items, name: items, widget: list}]}]}
-# - file: "src/pages/wat-wij-doen/index.md"
-#   label: "Wat wij doen Page"
-#   name: "wat-wij-doen"
-#   fields:
-#     - {label: "Template Key", name: "templateKey", widget: "hidden", default: "links-page"}
-#     - {label: Title, name: title, widget: string}
-#     - {label: Heading, name: heading, widget: string}
-#     - {label: Description, name: description, widget: string}
