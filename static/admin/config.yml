@@ -6,25 +6,32 @@ media_folder: static/img
 public_folder: /img
 
 collections:
+  # - name: "Wat-wij-doen"
+  #   label: "Wat wij doen"
+  #   folder: "src/pages/wat-wij-doen"
+  #   create: false
+  #   delete: false
+  #   fields:
+  #     - { label: "Title", name: "title", widget: "string" }
+  #     - { label: "Body", name: "body", widget: "markdown" }
   - name: "Wat-wij-doen"
-    label: "Wat wij doen"
-    folder: "src/pages/wat-wij-doen"
-    create: false
-    delete: false
-    fields:
-      - { label: "Title", name: "title", widget: "string" }
-      - { label: "Body", name: "body", widget: "markdown" }
-  - name: "Wat-wij-doen/bureau-erkenningen"
-    label: "Wat-wij-doen/bureau-erkenningen"
+    label: "Wat-wij-doen"
     files:
-      - file: "src/pages/wat-wij-doen/be-app.md"
+      - file: "src/pages/wat-wij-doen/index.md"
+        label: "Wat wij doen index"
+        name: "wat-wij-doen"
+        delete: false
+        fields:
+          - { label: "Title", name: "title", widget: "string" }
+          - { label: "Body", name: "body", widget: "markdown" }
+      - file: "src/pages/wat-wij-doen/bureau-erkenningen/be-app.md"
         label: "BE app"
         name: "BE app"
         delete: false
         fields:
           - { label: "Title", name: "title", widget: "string" }
           - { label: "Body", name: "body", widget: "markdown" }
-      - file: "src/pages/wat-wij-doen/index.md"
+      - file: "src/pages/wat-wij-doen/bureau-erkenningen/index.md"
         label: "Bureau Erkenningen"
         name: "Bureau Erkenningen"
         delete: false
@@ -32,68 +39,68 @@ collections:
           - { label: "Title", name: "title", widget: "string" }
           - { label: "Body", name: "body", widget: "markdown" }
 
-  - name: "Wat-wij-doen/bureau-erkenningen/licentiehouders"
-    label: "Wat-wij-doen/bureau-erkenningen/licentiehouders"
-    files:
-      - file: "Wat-wij-doen/licentiehouders/index.md"
-        label: "Wat wij doen/Licentiehouders/index"
-        delete: false
-        fields:
-          - { label: "Title", name: "title", widget: "string" }
-          - { label: "Body", name: "body", widget: "markdown" }
-  - name: "Wat-wij-doen/kennisaanbieders"
-    label: "Wat wij doen/Kennisaanbieders"
-    files:
-      - file: "Wat-wij-doen/kennisaanbieders/index.md"
-        label: "Wat wij doen/kennisaanbieders/index"
-        delete: false
-        fields:
-          - { label: "Title", name: "title", widget: "string" }
-          - { label: "Body", name: "body", widget: "markdown" }
-      - file: "Wat-wij-doen/kennisaanbieders/bijeenkomst-organiseren.md"
-        label: "Wat wij doen/kennisaanbieders/bijeenkomst-organiseren"
-        delete: false
-        fields:
-          - { label: "Title", name: "title", widget: "string" }
-          - { label: "Body", name: "body", widget: "markdown" }
-      - file: "Wat-wij-doen/kennisaanbieders/kennisaanbieder-worden.md"
-        label: "Wat wij doen/kennisaanbieders/kennisaanbieder-worden"
-        delete: false
-        fields:
-          - { label: "Title", name: "title", widget: "string" }
-          - { label: "Body", name: "body", widget: "markdown" }
-  - name: "Wat-wij-doen/exameninstellingen"
-    label: "Wat wij doen/Exameninstellingen"
-    folder: "src/pages/wat-wij-doen/exameninstellingen"
-    create: false
-    delete: false
-    fields:
-      - { label: "Title", name: "title", widget: "string" }
-      - { label: "Body", name: "body", widget: "markdown" }
-  - name: "Wat-wij-doen/KBA-GB-gecertificeerde-bedrijven"
-    label: "Wat wij doen/KBA-GB gecertificeerde bedrijven"
-    folder: "src/pages/wat-wij-doen/KBA-GB-gecertificeerde-bedrijven"
-    create: false
-    delete: false
-    fields:
-      - { label: "Title", name: "title", widget: "string" }
-      - { label: "Body", name: "body", widget: "markdown" }
-  - name: "Wat-wij-doen/formulieren"
-    label: "Wat wij doen/Formulieren"
-    folder: "src/pages/wat-wij-doen/formulieren"
-    create: false
-    delete: false
-    fields:
-      - { label: "Title", name: "title", widget: "string" }
-      - { label: "Body", name: "body", widget: "markdown" }
-  - name: "Wat-wij-doen/brochures"
-    label: "Wat wij doen/Brochures"
-    folder: "src/pages/wat-wij-doen/brochures"
-    create: false
-    delete: false
-    fields:
-      - { label: "Title", name: "title", widget: "string" }
-      - { label: "Body", name: "body", widget: "markdown" }
+  # - name: "Wat-wij-doen/bureau-erkenningen/licentiehouders"
+  #   label: "Wat-wij-doen/bureau-erkenningen/licentiehouders"
+  #   files:
+  #     - file: "Wat-wij-doen/licentiehouders/index.md"
+  #       label: "Wat wij doen/Licentiehouders/index"
+  #       delete: false
+  #       fields:
+  #         - { label: "Title", name: "title", widget: "string" }
+  #         - { label: "Body", name: "body", widget: "markdown" }
+  # - name: "Wat-wij-doen/kennisaanbieders"
+  #   label: "Wat wij doen/Kennisaanbieders"
+  #   files:
+  #     - file: "Wat-wij-doen/kennisaanbieders/index.md"
+  #       label: "Wat wij doen/kennisaanbieders/index"
+  #       delete: false
+  #       fields:
+  #         - { label: "Title", name: "title", widget: "string" }
+  #         - { label: "Body", name: "body", widget: "markdown" }
+  #     - file: "Wat-wij-doen/kennisaanbieders/bijeenkomst-organiseren.md"
+  #       label: "Wat wij doen/kennisaanbieders/bijeenkomst-organiseren"
+  #       delete: false
+  #       fields:
+  #         - { label: "Title", name: "title", widget: "string" }
+  #         - { label: "Body", name: "body", widget: "markdown" }
+  #     - file: "Wat-wij-doen/kennisaanbieders/kennisaanbieder-worden.md"
+  #       label: "Wat wij doen/kennisaanbieders/kennisaanbieder-worden"
+  #       delete: false
+  #       fields:
+  #         - { label: "Title", name: "title", widget: "string" }
+  #         - { label: "Body", name: "body", widget: "markdown" }
+  # - name: "Wat-wij-doen/exameninstellingen"
+  #   label: "Wat wij doen/Exameninstellingen"
+  #   folder: "src/pages/wat-wij-doen/exameninstellingen"
+  #   create: false
+  #   delete: false
+  #   fields:
+  #     - { label: "Title", name: "title", widget: "string" }
+  #     - { label: "Body", name: "body", widget: "markdown" }
+  # - name: "Wat-wij-doen/KBA-GB-gecertificeerde-bedrijven"
+  #   label: "Wat wij doen/KBA-GB gecertificeerde bedrijven"
+  #   folder: "src/pages/wat-wij-doen/KBA-GB-gecertificeerde-bedrijven"
+  #   create: false
+  #   delete: false
+  #   fields:
+  #     - { label: "Title", name: "title", widget: "string" }
+  #     - { label: "Body", name: "body", widget: "markdown" }
+  # - name: "Wat-wij-doen/formulieren"
+  #   label: "Wat wij doen/Formulieren"
+  #   folder: "src/pages/wat-wij-doen/formulieren"
+  #   create: false
+  #   delete: false
+  #   fields:
+  #     - { label: "Title", name: "title", widget: "string" }
+  #     - { label: "Body", name: "body", widget: "markdown" }
+  # - name: "Wat-wij-doen/brochures"
+  #   label: "Wat wij doen/Brochures"
+  #   folder: "src/pages/wat-wij-doen/brochures"
+  #   create: false
+  #   delete: false
+  #   fields:
+  #     - { label: "Title", name: "title", widget: "string" }
+  #     - { label: "Body", name: "body", widget: "markdown" }
 
   - name: "Licenties"
     label: "Licenties"
