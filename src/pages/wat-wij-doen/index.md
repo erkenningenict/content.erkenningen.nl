@@ -13,7 +13,7 @@ Licenties zijn **verplicht** wanneer u als professioneel (bedrijfsmatig) bezig b
 
 Er zijn [verschillende soorten licenties](/licenties/welke-licenties-zijn-er). U kunt een licentie aanvragen nadat u examen heeft gedaan.
 
-Een licentie is 5 jaar geldig. Voor het [verlengen van een licentie](/licenties/licentie-verlengen) moet u een aantal erkende kennisbijeenkomsten volgen.
+Een licentie is 5 jaar geldig. Voor het [verlengen van een licentie](/licenties/licentie-verlengen) moet u een aantal [erkende kennisbijeenkomsten](/bijeenkomsten) volgen.
 
 [Bureau Erkenningen](wat-wij-doen/bureau-erkenningen) beoordeelt en erkent de kennisbijeenkomsten. 
 
