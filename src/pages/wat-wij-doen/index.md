@@ -15,7 +15,7 @@ Er zijn [verschillende soorten licenties](/licenties/welke-licenties-zijn-er). U
 
 Een licentie is 5 jaar geldig. Voor het [verlengen van een licentie](/licenties/licentie-verlengen) moet u een aantal erkende kennisbijeenkomsten volgen.
 
-[Bureau Erkenningen](/wat-wij-doen/bureau-erkenningen/) beoordeelt en erkent de kennisbijeenkomsten. 
+[Bureau Erkenningen](wat-wij-doen/bureau-erkenningen) beoordeelt en erkent de kennisbijeenkomsten. 
 
 **Snel naar:**
 
