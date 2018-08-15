@@ -24,10 +24,11 @@ Voor het [verlengen van een licentie](/licenties/licentie-verlengen) moet u een 
 <link-container>
 <link-button link='{"name": "Welke licentie heb ik nodig?","url": "/licenties/licentie-tool"}'></link-button></link-container>
 
-</link-container>\
-<link-button link='{"name": "Licentie aanvragen","url": "/licenties/licentie-aanvragen"}'></link-button>
-</link-container>
+<link-container>
 
+<link-button link='{"name": "Licentie aanvragen?","url": "/licenties/licentie-aanvragen"}'></link-button></link-container>
+
+\
 <link-container>
 <link-button link='{"name": "Licentie verlengen","url": "/licenties/licentie-verlengen"}'></link-button>
 </link-container>
