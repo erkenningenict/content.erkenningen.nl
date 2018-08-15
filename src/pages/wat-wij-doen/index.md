@@ -3,25 +3,28 @@ title: Uitgeven en erkennen
 ---
 Bureau Erkenningen zorgt voor het uitgeven van [licenties](/licenties) aan ruim 50.000 [licentiehouders](/wat-wij-doen/licentiehouders) in Nederland. Deze licenties worden ook wel ‘Bewijzen van Vakbekwaamheid’ genoemd. 
 
-Bent u een particulier die op eigen erf bestrijdingsmiddelen wilt gebruiken? Dan heeft u **geen** licentie nodig.
+Wilt u bestrijdingsmiddelen gebruiken die u in de winkel kunt kopen? Dan heeft u **geen** licentie nodig.
 
-Licenties zijn **verplicht** wanneer u als professioneel (bedrijfsmatig) bezig bent met:
+Een licentie is **verplicht** wanneer u professionele middelen gebruikt, verkoopt of opslaat die nodig zijn voor: 
 
 * [chemische gewasbescherming](/licenties/welke-licenties-zijn-er/gewasbescherming)
 * [chemische beheersing van knaagdieren](/licenties/welke-licenties-zijn-er/knaagdierbeheersing)
 * [chemische bestrijding van mollen en woelratten](/licenties/welke-licenties-zijn-er/bestrijding-mollen-en-woelratten)
 
-Er zijn [verschillende soorten licenties](/licenties/welke-licenties-zijn-er). U kunt een licentie aanvragen nadat u examen heeft gedaan.
+Er zijn [verschillende soorten licenties](/licenties/welke-licenties-zijn-er). 
 
-Een licentie is 5 jaar geldig. Voor het [verlengen van een licentie](/licenties/licentie-verlengen) moet u een aantal [erkende kennisbijeenkomsten](/bijeenkomsten) volgen.
+Een [licentie aanvragen](/licenties/licentie-aanvragen) kan na het doen van een examen. Deze is vijf jaar geldig. 
+
+Voor het [verlengen van een licentie](/licenties/licentie-verlengen) moet u een aantal [erkende kennisbijeenkomsten](/bijeenkomsten) volgen.
 
 [Bureau Erkenningen](wat-wij-doen/bureau-erkenningen) beoordeelt en erkent de kennisbijeenkomsten. 
 
 **Snel naar:**
 
 <link-container>
-<link-button link='{"name": "Welke licentie heb ik nodig?","url": "/licenties/licentie-tool"}'></link-button>
+<link-button link='{"name": "Welke licentie heb ik nodig?","url": "/licenties/licentie-tool"}'></link-button></link-container>
 
+</link-container>\
 <link-button link='{"name": "Licentie aanvragen","url": "/licenties/licentie-aanvragen"}'></link-button>
 </link-container>
 
