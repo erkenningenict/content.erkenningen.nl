@@ -9,7 +9,7 @@ Licenties zijn **verplicht** wanneer u als professioneel (bedrijfsmatig) bezig b
 
 * chemische gewasbescherming
 * chemische bestrijding van knaagdieren
-* chemische bestrijding van en mollen en woelratten
+* [chemische bestrijding van en mollen en woelratten](/licenties/welke-licenties-zijn-er/bestrijding-van-mollen-en-woelratten)
 
 Er zijn [verschillende soorten licenties](/licenties/welke-licenties-zijn-er). U kunt een licentie aanvragen nadat u examen heeft gedaan.
 
