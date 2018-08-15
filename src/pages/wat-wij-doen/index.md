@@ -1,7 +1,7 @@
 ---
-title: Wat wij doen
+title: Uitgeven en erkennen
 ---
-Bureau Erkenningen zorgt voor het uitgeven van [licenties](/licenties), ook wel ‘Bewijzen van Vakbekwaamheid’ genoemd. 
+Bureau Erkenningen zorgt voor het uitgeven van [licenties](/licenties) aan ruim 50.000 [licentiehouders](</wat wij doen/licentiehouders>). Deze worden ook wel ‘Bewijzen van Vakbekwaamheid’ genoemd. 
 
 Bent u een particulier die op eigen erf bestrijdingsmiddelen wilt gebruiken? Dan heeft u **geen** licentie nodig.
 
@@ -15,7 +15,7 @@ Er zijn [verschillende soorten licenties](/licenties/welke-licenties-zijn-er). U
 
 Een licentie is 5 jaar geldig. Voor het [verlengen van een licentie](/licenties/licentie-verlengen) moet u een aantal erkende kennisbijeenkomsten volgen.
 
-Bureau Erkenningen beoordeelt en erkent de kennisbijeenkomsten. 
+[Bureau Erkenningen](</wat wij doen/bureau erkenningen>) beoordeelt en erkent de kennisbijeenkomsten. 
 
 **Snel naar:**
 
