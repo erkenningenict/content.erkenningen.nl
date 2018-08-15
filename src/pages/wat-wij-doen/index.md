@@ -8,7 +8,7 @@ Bent u een particulier die op eigen erf bestrijdingsmiddelen wilt gebruiken? Dan
 Licenties zijn **verplicht** wanneer u als professioneel (bedrijfsmatig) bezig bent met:
 
 * [chemische gewasbescherming](/licenties/welke-licenties-zijn-er/gewasbescherming)
-* [chemische beheersing van knaagdieren](licenties/welke-licenties-zijn-er/knaagdierbeheersing)
+* [chemische beheersing van knaagdieren](/licenties/welke-licenties-zijn-er/knaagdierbeheersing)
 * [chemische bestrijding van mollen en woelratten](/licenties/welke-licenties-zijn-er/bestrijding-mollen-en-woelratten)
 
 Er zijn [verschillende soorten licenties](/licenties/welke-licenties-zijn-er). U kunt een licentie aanvragen nadat u examen heeft gedaan.
