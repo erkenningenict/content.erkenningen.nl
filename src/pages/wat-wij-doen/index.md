@@ -11,7 +11,7 @@ Licenties zijn **verplicht** wanneer u als professioneel (bedrijfsmatig) bezig b
 * chemische bestrijding van knaagdieren
 * chemische bestrijding van en mollen en woelratten
 
-Er zijn [verschillende soorten licenties](/licenties/welke-licenties-zijn-er). Welke u nodig heeft, hangt af van wat u op uw bedrijf wilt beschermen of bestrijden.
+Er zijn [verschillende soorten licenties](/licenties/welke-licenties-zijn-er). U kunt een licentie aanvragen nadat u examen heeft gedaan.
 
 Een licentie is 5 jaar geldig. Voor het [verlengen van een licentie](/licenties/licentie-verlengen) moet u een aantal erkende kennisbijeenkomsten volgen.
 
@@ -21,15 +21,10 @@ Bureau Erkenningen beoordeelt en erkent de kennisbijeenkomsten.
 
 <link-container>
 <link-button link='{"name": "Welke licentie heb ik nodig?","url": "/licenties/licentie-tool"}'></link-button>
+
 <link-button link='{"name": "Licentie aanvragen","url": "/licenties/licentie-aanvragen"}'></link-button>
 </link-container>
 
 <link-container>
 <link-button link='{"name": "Licentie verlengen","url": "/licenties/licentie-verlengen"}'></link-button>
-</link-container>
-
-<link-container>
-
-<link-button link='{"name": "Licentie verlengen","url": "/licenties/licentie-verlengen"}'></link-button>
-
 </link-container>
