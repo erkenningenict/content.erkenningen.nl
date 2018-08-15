@@ -1,7 +1,7 @@
 ---
 title: Uitgeven en erkennen
 ---
-Bureau Erkenningen zorgt voor het uitgeven van [licenties](/licenties) aan ruim 50.000 [licentiehouders](</wat wij doen/licentiehouders>) in Nederland. Deze licenties worden ook wel ‘Bewijzen van Vakbekwaamheid’ genoemd. 
+Bureau Erkenningen zorgt voor het uitgeven van [licenties](/licenties) aan ruim 50.000 [licentiehouders](/wat-wij-doen/licentiehouders) in Nederland. Deze licenties worden ook wel ‘Bewijzen van Vakbekwaamheid’ genoemd. 
 
 Bent u een particulier die op eigen erf bestrijdingsmiddelen wilt gebruiken? Dan heeft u **geen** licentie nodig.
 
