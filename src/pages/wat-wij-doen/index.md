@@ -1,7 +1,7 @@
 ---
 title: Uitgeven en erkennen
 ---
-Bureau Erkenningen zorgt voor het uitgeven van [licenties](/licenties) aan ruim 50.000 [licentiehouders](/wat-wij-doen/licentiehouders) in Nederland. Deze licenties worden ook wel ‘Bewijzen van Vakbekwaamheid’ genoemd. Elke licentiehouder ontvangt deze in de vorm van een pasje.
+Bureau Erkenningen zorgt voor het uitgeven van [licenties](/licenties) aan ruim 50.000 [licentiehouders](/wat-wij-doen/licentiehouders) in Nederland. Deze licenties worden ook wel ‘Bewijzen van Vakbekwaamheid’ genoemd. Elke licentiehouder ontvangt een pasje.
 
 Wilt u niet-professionele bestrijdingsmiddelen gebruiken? Dan heeft u **geen** licentie nodig. U moet zich wel houden aan de gebruiksaanwijzing op het etiket.
 
