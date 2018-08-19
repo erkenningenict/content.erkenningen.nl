@@ -1,8 +1,15 @@
 ---
 title: Welke licenties zijn er?
 ---
+Wilt u niet-professionele bestrijdingsmiddelen gebruiken? Dan heeft u **geen** licentie nodig. U moet zich wel houden aan de gebruiksaanwijzing op het etiket.
 
-Licenties verhaal
+Een licentie is **verplicht** wanneer u professionele middelen gebruikt, verkoopt of opslaat die nodig zijn voor: 
+
+* [chemische gewasbescherming](/licenties/welke-licenties-zijn-er/gewasbescherming)
+* [chemische beheersing van knaagdieren](/licenties/welke-licenties-zijn-er/knaagdierbeheersing)
+* [chemische bestrijding van mollen en woelratten](/licenties/welke-licenties-zijn-er/bestrijding-mollen-en-woelratten)
+
+Vul een aantal vragen in om te weten welke licentie u nodig heeft.
 
 <link-container>
 <link-button link='{"name": "Welke licenties zijn er?","url": "/licenties/welke-licenties-zijn-er"}' ></link-button>
