@@ -3,7 +3,7 @@ title: Uitgeven en erkennen
 ---
 Bureau Erkenningen zorgt voor het uitgeven van [licenties](/licenties) aan ruim 50.000 [licentiehouders](/wat-wij-doen/licentiehouders) in Nederland. Deze licenties worden ook wel ‘Bewijzen van Vakbekwaamheid’ genoemd. 
 
-Wilt u bestrijdingsmiddelen gebruiken die u in de winkel kunt kopen? Dan heeft u **geen** licentie nodig.
+Wilt u niet-professionele bestrijdingsmiddelen gebruiken? Dan heeft u **geen** licentie nodig. U moet zich wel houden aan de gebruiksaanwijzing op het etiket.
 
 Een licentie is **verplicht** wanneer u professionele middelen gebruikt, verkoopt of opslaat die nodig zijn voor: 
 
