@@ -1,10 +1,26 @@
 ---
 title: Licentiehouders
 ---
+Bureau Erkenningen registreert de gegevens van licenties voor ruim 50.000 licentiehouders in Nederland. 
 
-Bureau Erkenningen zorgt voor het uitgeven van [licenties](/licenties), ook wel ‘Bewijzen van Vakbekwaamheid’ genoemd. Deze licenties zijn verplicht wanneer u als professional bezig bent met chemische
-gewasbescherming of bij de chemische bestrijding van [mollen en woelratten](/licenties/mollen-en-woelratten).
+Wij houden bij welke licenties u heeft, hoe lang deze geldig zijn en hoe veel bijeenkomsten u nog moet volgen voor verlenging van de licentie.
+
+Bent u licentiehouder? Dan kunt u uw gegevens bekijken op uw persoonlijke inlogpagina op [Mijn Bureau Erkenningen](/mijn-bureau-erkenningen).
+
+**Snel naar:**
 
 <link-container>
-<link-button link='{"name": "Welke licentie heb ik nodig?","url": "/licenties/licentie-tool"}' />
+<link-button link='{"name": "Licentie verlengen","url": "/licenties/licentie-verlengen"}' />
+</link-container>
+
+<link-container>
+
+<link-button link='{"name": "Mijn Bureau Erkenningen","url": "/mijn-bureau-erkenningen"}' />
+
+</link-container>
+
+<link-container>
+
+<link-button link='{"name": "Licentie aanvragen","url": "/licenties/licentie-aanvragen"}' />
+
 </link-container>
