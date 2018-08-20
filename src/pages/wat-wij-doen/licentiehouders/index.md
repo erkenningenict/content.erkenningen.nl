@@ -11,9 +11,9 @@ Bent u licentiehouder? Dan kunt u uw gegevens bekijken door [in te loggen](/mijn
 
 <link-container>
 
-<link-button link='{"name": "Inloggen","url": "/mijn-bureau-erkenningen/inloggen"}' ></link-button>
+<link-button link='{"name": "Inloggen","url": "/mijn-bureau-erkenningen/inloggen"}' />
 
-
+</link-container>
 
 <link-container>
 <link-button link='{"name": "Licentie verlengen","url": "/licenties/licentie-verlengen"}' />
