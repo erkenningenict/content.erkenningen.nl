@@ -30,6 +30,7 @@
     "react-transition-group": "2.4.0",
     "rehype-react": "^3.0.2",
     "styled-normalize": "^2.2.1",
+    "unist-util-visit": "1.4.0",
     "uuid": "^3.2.1",
     "write-yaml": "1.0.0"
   },
@@ -48,8 +49,10 @@
     "generate-yml": "node --experimental-modules ./static/admin/generate-config.mjs"
   },
   "devDependencies": {
+    "@andrew-codes/gatsby-plugin-elasticlunr-search": "1.0.4",
     "@mdx-js/loader": "0.14.0",
     "@mdx-js/mdx": "0.14.0",
+    "@types/qs": "6.5.1",
     "bootstrap": "4.1.1",
     "loader-utils": "1.1.0",
     "prettier": "1.14.0"

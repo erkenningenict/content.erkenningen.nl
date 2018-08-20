@@ -1,3 +1,6 @@
+const remark = require("remark");
+const visit = require("unist-util-visit");
+
 module.exports = {
   siteMetadata: {
     title: "Erkenningen.nl"
@@ -47,6 +50,32 @@ module.exports = {
             }
           }
         ]
+      }
+    },
+    {
+      resolve: `@andrew-codes/gatsby-plugin-elasticlunr-search`,
+      options: {
+        // Fields to index
+        fields: ["title", "excerpt"],
+        // How to resolve each field's value for a supported node type
+        resolvers: {
+          // For any node of type MarkdownRemark, list how to resolve the fields' values
+          MarkdownRemark: {
+            title: node => node.frontmatter.title,
+            excerpt: node => {
+              const excerptLength = 136; // Hard coded excerpt length
+              let excerpt = "";
+              console.log("#DH# raw", node.internal.content);
+              // const tree = remark().parse(node.rawMarkdownBody);
+              const tree = remark().parse(node.internal.content);
+              visit(tree, "text", node => {
+                excerpt += node.value;
+              });
+              console.log("#DH# except", excerpt);
+              return excerpt;
+            }
+          }
+        }
       }
     },
     "gatsby-plugin-mdx",

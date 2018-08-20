@@ -198,10 +198,15 @@ exports.createPages = ({ graphql, boundActionCreators }) => {
     `).then(result => {
       result.data.allMarkdownRemark.edges.map(({ node }) => {
         console.log("Node.field.type", JSON.stringify(node));
-        const templatePath =
-          node.fields.slug === "/"
-            ? "./src/templates/home-page.js"
-            : "./src/templates/page.js";
+        let templatePath = "./src/templates/page.js";
+        switch (node.fields.slug) {
+          case "/":
+            templatePath = "./src/templates/home-page.js";
+            break;
+          case "/zoeken/":
+            templatePath = "./src/templates/search-page.js";
+            break;
+        }
         console.log("#DH# Pages", node.fields.slug, templatePath);
         createPage({
           path: node.fields.slug,
