@@ -50,11 +50,6 @@ export default class Navbar extends React.Component {
                   Home
                 </Link>
               </MenuItem>
-              <MenuItem>
-                <Link activeClassName="active" exact to="/zoeken">
-                  Search
-                </Link>
-              </MenuItem>
               <li className="rc-menu-item d-none d-lg-block">|</li>
               <SubMenu
                 title={

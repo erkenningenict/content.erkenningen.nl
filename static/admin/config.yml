@@ -82,6 +82,16 @@ collections:
       - { label: "Title", name: "title", widget: "string" }
       - { label: "Body", name: "body", widget: "markdown" }
 
+  - name: "Licenties-index"
+    label: "Licenties-index"
+    files:
+      - file: "src/pages/licenties/index.md"
+        label: "Licenties - index"
+        name: "licenties-index"
+        delete: false
+        fields:
+          - { label: "Title", name: "title", widget: "string" }
+          - { label: "Body", name: "body", widget: "markdown" }
   - name: "Licenties"
     label: "Licenties"
     folder: "src/pages/licenties"
@@ -132,6 +142,16 @@ collections:
       - { label: "Title", name: "title", widget: "string" }
       - { label: "Body", name: "body", widget: "markdown" }
 
+  - name: "Bijeenkomsten-index"
+    label: "Bijeenkomsten-index"
+    files:
+      - file: "src/pages/bijeenkomsten/index.md"
+        label: "Bijeenkomsten - index"
+        name: "bijeenkomsten-index"
+        delete: false
+        fields:
+          - { label: "Title", name: "title", widget: "string" }
+          - { label: "Body", name: "body", widget: "markdown" }
   - name: "Bijeenkomsten"
     label: "Bijeenkomsten"
     folder: "src/pages/bijeenkomsten"
@@ -141,6 +161,16 @@ collections:
       - { label: "Title", name: "title", widget: "string" }
       - { label: "Body", name: "body", widget: "markdown" }
 
+  - name: "MijnBureauErkenningen-index"
+    label: "MijnBureauErkenningen-index"
+    files:
+      - file: "src/pages/mijn-bureau-erkenningen/index.md"
+        label: "Mijn Bureau Erkenningen - index"
+        name: "mijn-bureau-erkenningen-index"
+        delete: false
+        fields:
+          - { label: "Title", name: "title", widget: "string" }
+          - { label: "Body", name: "body", widget: "markdown" }
   - name: "mijn-bureau-erkenningen"
     label: "Mijn Bureau Erkenningen"
     folder: "src/pages/mijn-bureau-erkenningen"
