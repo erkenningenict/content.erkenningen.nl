@@ -11,6 +11,8 @@ Een licentie is **verplicht** wanneer u professionele middelen gebruikt, verkoop
 
 [Vul een aantal vragen in](/licenties/licentie-tool) om te weten welke licentie u nodig heeft.
 
+**Snel naar:**
+
 <link-container>
 <link-button link='{"name": "Welke licenties zijn er?","url": "/licenties/welke-licenties-zijn-er"}' ></link-button>
 <link-button link='{"name": "Welke licentie heb ik nodig?","url": "/licenties/licentie-tool"}' ></link-button>
