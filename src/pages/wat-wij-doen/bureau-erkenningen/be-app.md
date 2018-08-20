@@ -1,8 +1,9 @@
 ---
-title: Bureau Erkenningen App
+title: Bureau Erkenningen app
 ---
+Met de Bureau Erkenningen app kunt u zich ook identificeren als licentiehouder. 
 
-Bureau Erkenningen heeft ook een App:
+U kunt de app downloaden in de Apple Store of de Google Play Store.
 
 <link-container>
 <link-button link='{"name": "Apple App Store","url": "/licenties/licentie-tool"}' ></link-button>
