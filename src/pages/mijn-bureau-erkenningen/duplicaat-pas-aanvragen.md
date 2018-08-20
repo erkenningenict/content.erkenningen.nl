@@ -10,6 +10,16 @@ Heeft u examen gedaan, maar nog geen pasje? Dan moet u eerst een [licentie aanvr
 Inloggevens kwijt? Bel dan met het RVO-loket: 088 042 42 42
 
 <link-container>
+
+<link-button link='{"name": "inloggen","url": "/mijn-bureau-erkenningen/login"}' ></link-button>
+
+<link-button link='{"name": "Inloggegevens kwijt","url": "/mijn bureau erkenningen/inloggegevens-kwijt"}' ></link-button>
+
+</link-container>
+
+
+
+<link-container>
 <link-button link='{"name": "Bureau Erkenningen app","url": "/wat-wij-doen/bureau-erkenningen/bureau-erkenningen-app"}'></link-button>
 <link-button link='{"name": "Licentie aanvragen","url": "/licenties/licentie-aanvragen"}'></link-button>
 </link-container>
