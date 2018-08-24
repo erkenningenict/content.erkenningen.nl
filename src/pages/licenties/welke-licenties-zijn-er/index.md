@@ -16,6 +16,7 @@ Wilt u niet-professionele bestrijdingsmiddelen gebruiken? Dan heeft u geen licen
 * Licentie Mollen- en Woelrattenbestrijding
 * Licentie Knaagdier Beheersing op Agrarische bedrijven 
 * Licentie Knaagdier Beheersing op Agrarische bedrijven Geïntegreerde Beheersing
+* [Veiligheidsinstructies](/licenties/welke-licenties-zijn-er/veiligheidsinstructies)
 
 **Snel naar:**
 
