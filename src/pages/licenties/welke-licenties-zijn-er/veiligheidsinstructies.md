@@ -1,7 +1,7 @@
 ---
 title: Veiligheidsinstructies
 ---
-De meest eenvoudige licentie is de veiligheidsinstructie. Wilt u (of uw werknemer) één bepaalde handeling uitvoeren, dan volstaat in een aantal gevallen het geven van een veiligheidsinstructie. 
+De meest eenvoudige licentie is de veiligheidsinstructie. Wilt u (of uw werknemer) één bepaalde handeling uitvoeren, dan volstaat in een aantal gevallen het geven of krijgen van een veiligheidsinstructie. 
 
 Veiligheidsinstructies worden altijd gegeven door een licentiehouder van het bedrijf waar de medewerker werkt. Als medewerkers elders al een instructie hebben gevolgd, moet daarvan een bewijs zijn.
 
