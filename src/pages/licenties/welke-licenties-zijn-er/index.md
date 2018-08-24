@@ -22,7 +22,5 @@ Wilt u niet-professionele bestrijdingsmiddelen gebruiken? Dan heeft u geen licen
 <link-container>
 <link-button link='{"name": "Welke licentie heb ik nodig?","url": "/licenties/licentie-tool"}'></link-button>
 <link-button link='{"name": "Licentie aanvragen","url": "/licenties/licentie-aanvragen"}' ></link-button>
-
 <link-button link='{"name": "Veiligheidsinstructies","url": "/licenties/veiligheidsinstructies"}' ></link-button>
-
 </link-container>
