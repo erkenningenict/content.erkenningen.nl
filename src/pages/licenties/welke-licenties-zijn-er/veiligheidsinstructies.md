@@ -24,6 +24,8 @@ Een veiligheidsinstructie is verplicht voor de volgende handelingen (klik op i v
 
 U kunt gebruik maken van een [bestaande veiligheidsinstructie](/licenties/welke-licenties-zijn-er/bestaande-veiligheidsinstructies), of er zelf één maken. Dat moet u bij ons [aanvragen](/licenties/welke-licenties-zijn-er/aanvragen-veiligheidsinstructie/). Alleen bij Bureau Erkenningen aangevraagde en goedgekeurde Veiligheidsinstructies zijn geldig.
 
+**Snel naar:**
+
 <link-container>
 <link-button link='{"name": "Bestaande veiligheids instructies","url": "/licenties/welke-licenties-zijn-er/bestaande-veiligheidsinstructies"}' />
 </link-container>
