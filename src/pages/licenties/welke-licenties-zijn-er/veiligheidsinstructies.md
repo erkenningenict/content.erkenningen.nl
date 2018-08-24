@@ -1,5 +1,5 @@
 ---
-title: Veiligheidsinstructies
+title: ' Bestaande Veiligheidsinstructies'
 ---
 De meest eenvoudige licentie is de veiligheidsinstructie. Wilt u (of uw werknemer) één bepaalde handeling uitvoeren, dan volstaat in een aantal gevallen het geven van een veiligheidsinstructie. 
 
