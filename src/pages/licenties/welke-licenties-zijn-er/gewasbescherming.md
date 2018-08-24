@@ -7,7 +7,7 @@ Voor gewasbescherming zijn [strenge regels](/licenties/wetten-en-regels) opgeste
 
 Wanneer u professionele bestrijdingsmiddelen voor gewasbescherming wilt gebruiken, verkopen of opslaan, heeft u een licentie nodig. 
 
-Welke licentie u nodig heeft, hangt af van uw functie (eigenaar, werknemer, verkoper). Gebruik de tool van Bureau Erkenningen om te bepalen welke licentie u nodig heeft.
+Welke licentie u nodig heeft, hangt af van uw functie (eigenaar, werknemer, verkoper). Met de de tool van Bureau Erkenningen kunt u bepalen welke licentie u nodig heeft.
 
 <link-container>
 <link-button link='{"name": "Welke licentie heb ik nodig?","url": "/licenties/licentie-tool"}' />
