@@ -1,7 +1,7 @@
 ---
 title: Knaagdierbeheersing
 ---
-Knaagdieren zoals muizen en ratten kunnen een lastig probleem vormen op uw (agrarische) bedrijf. 
+Knaagdieren zoals muizen en ratten kunnen een lastig probleem vormen op uw (agrarische) bedrijf. Ze knagen aan alles wat los en vast zit en verspreiden ziektes.
 
 Er zijn vele manieren om knaagdieren te beheersen.
 
