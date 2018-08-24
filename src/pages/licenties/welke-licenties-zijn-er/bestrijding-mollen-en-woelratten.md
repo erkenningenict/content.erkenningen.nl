@@ -16,3 +16,9 @@ Wanneer u mollen en woelratten wilt bestrijden met behulp van **middelen op basi
 <link-button link='{"name": "Licentie aanvragen","url": "/licenties/licentie-aanvragen"}' />
 
 </link-container>
+
+<link-container>
+
+<link-button link='{"name": "Wetten en regels","url": "/licenties/wetten-en-regels"}' />
+
+</link-container>
