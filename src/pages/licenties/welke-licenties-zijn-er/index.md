@@ -1,7 +1,7 @@
 ---
 title: Welke licenties zijn er?
 ---
-Er zijn verschillende soorten licenties. Welke u nodig heeft, hangt af van wat u wilt bestrijden of beheersen en wat uw rol is (eigenaar, werknemer etc). Gebruik de [tool van Bureau Erkenningen](licenties/licentie-tool) om te bepalen welke licentie u nodig heeft.
+Er zijn verschillende soorten licenties. Welke licentie u nodig heeft, hangt af van uw functie (eigenaar, werknemer, verkoper). Met de de tool van Bureau Erkenningen kunt u bepalen welke licentie u nodig heeft.
 
 Soms is het gebruiken van een [veiligheidsinstructie](/licenties/veiligheidsinstructie) voldoende. 
 
