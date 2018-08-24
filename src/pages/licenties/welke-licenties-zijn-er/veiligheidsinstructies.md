@@ -32,12 +32,12 @@ U kunt gebruik maken van een [bestaande veiligheidsinstructie](/licenties/welke-
 
 <link-container>
 
-<link-button link='{"name": "Veiligheids instructie aanvragen","url": "/licenties/welke-licenties-zijn-er/veiligheidsinstructies-aanvragen"}' />
+<link-button link='{"name": "Veiligheids instructie aanvragen","url": "/licenties/welke-licenties-zijn-er/aanvragen-veiligheidsinstructie"}' />
 
 </link-container>
 
 <link-container>
 
-<link-button link='{"name": "Veiligheids instructie registreren","url": "/licenties/welke-licenties-zijn-er/veiligheidsinstructies- registreren"}' />
+<link-button link='{"name": "Veiligheids instructie registreren","url": "/licenties/welke-licenties-zijn-er/registreren-veiligheidsinstructie"}' />
 
 </link-container>
