@@ -1,7 +1,7 @@
 ---
 title: Bestrijding Mollen en woelratten
 ---
-Mollen en woelratten kunnen op uw agrarisch bedrijf een lastig probleem vormen. Ze zijn een bedreiging voor weilanden, akkers, moestuinen en boomgaard.
+Mollen en woelratten kunnen een lastig probleem vormen op uw (agrarisch) bedrijf. Ze zijn een bedreiging voor weilanden, akkers, moestuinen en boomgaard.
 
 Er zijn diverse methoden om mollen en woelratten te bestrijden. 
 
