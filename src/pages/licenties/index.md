@@ -9,7 +9,7 @@ Een licentie is **verplicht** wanneer u professionele middelen gebruikt, verkoop
 * [chemische beheersing van knaagdieren](/licenties/welke-licenties-zijn-er/knaagdierbeheersing)
 * [chemische bestrijding van mollen en woelratten](/licenties/welke-licenties-zijn-er/bestrijding-mollen-en-woelratten)
 
-[Vul een aantal vragen in](/licenties/licentie-tool) om te weten welke licentie u nodig heeft.
+[Gebruik onze tool](/licenties/licentie-tool) om te weten welke licentie u nodig heeft.
 
 **Snel naar:**
 
