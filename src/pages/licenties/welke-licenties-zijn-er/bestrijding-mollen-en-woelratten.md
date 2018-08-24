@@ -5,7 +5,7 @@ Mollen en woelratten kunnen een lastig probleem vormen op uw (agrarisch) bedrijf
 
 Er zijn diverse methoden om mollen en woelratten te bestrijden. Als niets meer helpt, kunt u chemische bestrijdingsmiddelen inzetten.
 
-Wanneer u mollen en woelratten wilt bestrijden met behulp van chemische middelen** op basis van fosforwaterstof** heeft u de licentie Mollen- en Woelrattenbestrijding nodig. 
+Wanneer u mollen en woelratten wilt bestrijden met behulp van chemische middelen** **op basis van fosforwaterstof heeft u de licentie Mollen- en Woelrattenbestrijding nodig. 
 
 <link-container>
 <link-button link='{"name": "Welke licentie heb ik nodig?","url": "/licenties/licentie-tool"}' />
