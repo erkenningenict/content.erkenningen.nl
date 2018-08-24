@@ -1,5 +1,5 @@
 ---
-title: Welke licenties zijn er?
+title: Licenties voor bestrijden en beheersen
 ---
 Wilt u niet-professionele bestrijdingsmiddelen gebruiken? Dan heeft u **geen** licentie nodig. U moet zich wel houden aan de gebruiksaanwijzing op het etiket.
 
