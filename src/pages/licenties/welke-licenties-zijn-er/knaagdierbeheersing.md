@@ -15,6 +15,12 @@ Meer informatie over knaagdieren en knaagdierbeheersing in het [kennisdosier op 
 
 <link-container>
 
-<link-button link='{"name": "Licentie halen?","url": "/licenties/licentie-halen"}' />
+<link-button link='{"name": "Licentie aanvragen","url": "/licenties/licentie-aanvragen"}' />
+
+</link-container>
+
+<link-container>
+
+<link-button link='{"name": "Wetten en regels","url": "/licenties/wetten-en-regels"}' />
 
 </link-container>
