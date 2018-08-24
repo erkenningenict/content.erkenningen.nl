@@ -9,7 +9,7 @@ Wilt u niet-professionele bestrijdingsmiddelen gebruiken? Dan heeft u geen licen
 
 **Overzicht licenties:**
 
-* Licentie Uitvoeren Gewasbescherming
+* [Licentie Uitvoeren Gewasbescherming](/licenties/welke-licenties-zijn-er/licentie-uitvoeren-gewasbescherming)
 * Licentie Bedrijfsvoeren Gewasbescherming
 * Licentie Distribueren Bestrijdingsmiddelen
 * Licentie Bedrijfsvoeren + Distribueren
@@ -20,17 +20,9 @@ Wilt u niet-professionele bestrijdingsmiddelen gebruiken? Dan heeft u geen licen
 **Snel naar:**
 
 <link-container>
-<link-button link='{"name": "Welke licentie heb ik nodig?","url": "/licenties/licentie-tool"}' />
-</link-container>
+<link-button link='{"name": "Welke licentie heb ik nodig?","url": "/licenties/licentie-tool"}'></link-button>
+<link-button link='{"name": "Licentie aanvragen","url": "/licenties/licentie-aanvragen"}' ></link-button>
 
-<link-container>
-
-<link-button link='{"name": "Licentie aanvragen","url": "/licenties/licentie-aanvragen"}' />
-
-</link-container>
-
-<link-container>
-
-<link-button link='{"name": "Veiligheidsinstructies","url": "/licenties/veiligheidsinstructies"}' />
+<link-button link='{"name": "Veiligheidsinstructies","url": "/licenties/veiligheidsinstructies"}' ></link-button>
 
 </link-container>
