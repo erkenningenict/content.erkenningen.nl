@@ -7,7 +7,7 @@ Deze instructie moet worden uitgevoerd zoals het oorspronkelijke bedrijf of inst
 
 U hoeft geen melding te doen bij Bureau Erkenningen dat u de veiligheidsinstructie heeft gekopieerd. Wel moet de [deelname aan de veiligheidsinstructie worden vastgelegd ](http://erkenningencontentsite.netlify.com/licenties/welke-licenties-zijn-er/veiligheidsinstructies-administreren/)en op uw bedrijf worden bewaard.
 
-Het is ook mogelijk om zelf een veiligheidsinstructie te maken. Dat moet u bij ons [aanvragen](/licenties/welke-licenties-zijn-er/aanvragen-veiligheidsinstructie/). Alleen bij Bureau Erkenningen aangevraagde en goedgekeurde Veiligheidsinstructies zijn geldig.
+Het is ook mogelijk om [zelf een veiligheidsinstructie te maken. Dat moet u bij ons aanvragen.](/licenties/welke-licenties-zijn-er/veiligheidsinstructies-aanvragen) Alleen bij Bureau Erkenningen aangevraagde en goedgekeurde veiligheidsinstructies zijn geldig.
 
 **Snel naar:**
 
@@ -19,6 +19,6 @@ Het is ook mogelijk om zelf een veiligheidsinstructie te maken. Dat moet u bij o
 
 <link-container>
 
-<link-button link='{"name": "Veiligheids instructie registreren","url": "/licenties/welke-licenties-zijn-er/veiligheidsinstructies- registreren"}' />
+<link-button link='{"name": "Veiligheids instructie registreren","url": "/licenties/welke-licenties-zijn-er/veiligheidsinstructies-registreren"}' />
 
 </link-container>
