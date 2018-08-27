@@ -45,11 +45,29 @@ export default class Navbar extends React.Component {
               openAnimation="slide-up1"
               className={!this.state.collapsed ? "d-none d-lg-block" : "mr-4"}
             >
-              <MenuItem>
-                <Link activeClassName="active" exact to="/">
-                  Home
-                </Link>
-              </MenuItem>
+              <SubMenu
+                title={
+                  <Link activeClassName="active" exact to="/">
+                    Home
+                  </Link>
+                }
+              >
+                <MenuItem>
+                  <Link to="/licenties/welke-licenties-zijn-er/bestrijding-mollen-en-woelratten">
+                    Bestrijding Mollen en Woelratten
+                  </Link>
+                </MenuItem>
+                <MenuItem>
+                  <Link to="/licenties/welke-licenties-zijn-er/gewasbescherming">
+                    Gewasbescherming
+                  </Link>
+                </MenuItem>
+                <MenuItem>
+                  <Link to="/licenties/welke-licenties-zijn-er/knaagdierbeheersing">
+                    Knaagdierbeheersing
+                  </Link>
+                </MenuItem>
+              </SubMenu>
               <li className="rc-menu-item d-none d-lg-block">|</li>
               <SubMenu
                 title={
