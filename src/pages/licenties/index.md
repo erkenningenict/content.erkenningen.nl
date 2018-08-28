@@ -1,5 +1,5 @@
 ---
-title: Licenties voor agrarische beroepen
+title: Licenties voor agrarische en groene beroepen
 ---
 Wilt u niet-professionele bestrijdingsmiddelen gebruiken? Dan heeft u **geen** licentie nodig. U moet zich wel houden aan de gebruiksaanwijzing op het etiket.
 
