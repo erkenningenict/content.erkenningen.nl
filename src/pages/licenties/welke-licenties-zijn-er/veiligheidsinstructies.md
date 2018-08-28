@@ -32,12 +32,12 @@ U kunt gebruik maken van een [bestaande veiligheidsinstructie](/licenties/welke-
 
 <link-container>
 
-<link-button link='{"name": "Veiligheids instructie aanvragen","url": "/licenties/welke-licenties-zijn-er/aanvragen-veiligheidsinstructie"}' />
+<link-button link='{"name": "Veiligheids instructie aanvragen","url": "/licenties/welke-licenties-zijn-er/veiligheidsinstructies-aanvragen"}' />
 
 </link-container>
 
 <link-container>
 
-<link-button link='{"name": "Veiligheids instructie registreren","url": "/licenties/welke-licenties-zijn-er/registreren-veiligheidsinstructie"}' />
+<link-button link='{"name": "Veiligheids instructie registreren","url": "http://erkenningencontentsite.netlify.com/licenties/welke-licenties-zijn-er/veiligheidsinstructies-administreren"}' />
 
 </link-container>
