@@ -1,6 +1,4 @@
 ---
-title: Ik wil kennisaanbieder worden
+title: Eisen voor kennisaanbod
 ---
-
-Kennisaanbieders
-
+Eisen....
