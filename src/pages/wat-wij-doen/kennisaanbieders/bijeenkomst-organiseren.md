@@ -1,5 +1,5 @@
 ---
-title: Bijeenkomst organiseren
+title: Protocol voor kennisaanbod
 ---
 
 Bijeenkomst organiseren gaat zo:
