@@ -3,14 +3,14 @@ title: Protocol voor kennisaanbieders
 ---
 1. Organisatoren (kennisaanbieders) vragen een wachtwoord aan bij Bureau Erkenningen om communicatie via www.erkenningen.nl mogelijk te maken.
 2. Kennisaanbieders leggen hun kennisaanbod vooraf voor ter goedkeuring aan het Bureau Erkenningen. Het doen van een goedkeuringsaanvraag houdt in dat de kennisaanbieder het protocol onderschrijft.
-3. De goedkeuringsaanvraag gebeurt via de web-site (www.erkenningen.nl ) .
-4. Het Bureau neemt de aanvraag in behandeling nadat het vastgestelde tarief door de kennisaanbieder is voldaan. (€ 50,-- ex BTW).
+3. De goedkeuringsaanvraag gebeurt via deze website (www.erkenningen.nl ) .
+4. Het Bureau neemt de aanvraag in behandeling nadat het vastgestelde tarief door de kennisaanbieder is voldaan. (€ 50,- ex BTW).
 5. Het Bureau verwerkt de aanvraag om goedkeuring binnen 30 dagen nadat de betaling bij het Bureau is binnengekomen.
-6. Het Bureau Erkenningen keurt het aanbod goed of af en deelt het resultaat met redenen omkleed mee aan de kennisaanbieder. Er kan met de aanbieder overleg hebben om mogelijke bijstellingen te realiseren.
-7. De goedkeuring van het kennisaanbod gaat vergezeld van de uitgifte van een aanbodcode. (vijf cijfers).
-8. Bij afwijzing van de goedkeuring heeft de kennisaanbieder mogelijkheid voor een herkeuring bij de Commissie voor Bezwaar en Advies (CBA).
+6. Het Bureau Erkenningen keurt het aanbod en deelt het resultaat mee aan de kennisaanbieder. Eventueel is het na overleg mogelijk om het aanbod bij te stellen.
+7. Na goedkeuring ontvangt de kennisaanbieder van een aanbodcode (vijf cijfers) voor het kennisaanbod.
+8. Bij afwijzing heeft de kennisaanbieder mogelijkheid voor een herkeuring bij de Commissie voor Bezwaar en Advies (CBA).
 9. De CBA behandelt de aanvraag tot goedkeuring binnen 60 dagen na binnenkomst.
-10. De CBA keurt het aanbod goed of af en deelt het resultaat met redenen omkleed mee aan de kennisaanbieder.
+10. De CBA keurt het aanbod goed of af en deelt het resultaat mee aan de kennisaanbieder.
 11. De uitspraak van de CBA is bindend voor de aanvrager en het Bureau Erkenningen.
 12. Het goedgekeurde aanbod is geldig tot:
 
