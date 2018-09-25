@@ -3,7 +3,7 @@ title: Protocol voor kennisaanbieders
 ---
 1. Organisatoren (kennisaanbieders) vragen een wachtwoord aan bij Bureau Erkenningen om communicatie via www.erkenningen.nl mogelijk te maken.
 2. Kennisaanbieders leggen hun kennisaanbod vooraf voor ter goedkeuring aan het Bureau Erkenningen. Het doen van een goedkeuringsaanvraag houdt in dat de kennisaanbieder het protocol onderschrijft.
-3. De goedkeuringsaanvraag gebeurt via deze website (www.erkenningen.nl ) .
+3. De goedkeuringsaanvraag gebeurt via deze website (www.erkenningen.nl) .
 4. Het Bureau neemt de aanvraag in behandeling nadat het vastgestelde tarief door de kennisaanbieder is voldaan. (€ 50,- ex BTW).
 5. Het Bureau verwerkt de aanvraag om goedkeuring binnen 30 dagen nadat de betaling bij het Bureau is binnengekomen.
 6. Het Bureau Erkenningen keurt het aanbod en deelt het gefundeerde resultaat mee aan de kennisaanbieder. Eventueel is het na overleg mogelijk om het aanbod bij te stellen.
@@ -50,7 +50,7 @@ title: Protocol voor kennisaanbieders
     f. al of niet definitief onvoldoende verklaren door Bureau Erkenningen van bijeenkomst;\
     g. na derde onvoldoende beoordeling wordt aanbodcode ingetrokken.
 36. Het Bureau Erkenningen is niet aansprakelijk voor beleidswijzigingen welke gevolgen hebben voor de eisen die gesteld worden aan licentieverlenging; als ook niet aansprakelijk voor het optreden en administratieve verwerking van de kennisaanbieder.
-37. De informatie beschikbaar bij het Bureau Erkenningen dient voor: - het goedkeuren en erkennen van kennisaanbod; - het (laten) verifiëren van deelnamegegevens; - het zonodig (virtueel) uitreiken van getuigschriften, - het in opdracht van het ministerie van EZ afgeven van licenties en - het maken van voortgangsrapportages t.b.v. bestuur en beleid.
+37. De informatie beschikbaar bij het Bureau Erkenningen dient voor: - het goedkeuren en erkennen van kennisaanbod; - het (laten) verifiëren van deelnamegegevens; - het zo nodig (virtueel) uitreiken van getuigschriften, - het in opdracht van het ministerie van EZ afgeven van licenties en - het maken van voortgangsrapportages t.b.v. bestuur en beleid.
 38. Het kennisaanbod dat ter goedkeuring en erkenning wordt voorgelegd aan het Bureau Erkenningen, blijft eigendom van de kennisaanbieder.
 
 
