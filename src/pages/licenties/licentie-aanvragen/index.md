@@ -11,7 +11,6 @@ U kunt een diploma behalen op een erkende [exameninstelling](http://erkenningenc
 
 Een aantal niet-Nederlandse diploma's wordt ook erkend. 
 
+Snel naar:
 
-<link-button link='{"name": "Overzicht diploma's","url": "/licenties/overzicht-diploma's"}' ></link-button>
-<link-button link='{"name": "Licentie aanvragen na examen","url": "https://www.erkenningen.nl/Default.aspx?tabid=153"}' ></link-button>
-</link-container>
+Geldige diploma's
