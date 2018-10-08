@@ -3,19 +3,20 @@ title: Licentie Uitvoeren Gewasbescherming
 ---
 ## Voor wie?
 
-tekst
-
-## Welk diploma nodig?
-
-tekst, of kijk bij het overzicht geldige (buitenlandse) diploma's. 
-
-## Nodig voor verlenging licentie:
-
-tekst
+* Voor mensen die werken in opdracht van een ander, mits een derde persoon aanwezig of beschikbaar is die beschikt over Bedrijfsvoeren Gewasbescherming. 
+* Agrariërs geboren voor 01-01-1996, mits zij geen personeel in dienst hebben die gewasbeschermingshandelingen doen. 
 
 Weet u nog niet zeker of dit de licentie is die u nodig heeft, gebruik dan onze [tool](/licenties/welke-licentie-heb-ik-nodig).
 
-Snel naar:
+## Welk diploma/examen nodig?
+
+Kijk bij het overzicht geldige (buitenlandse) diploma's. 
+
+## Nodig voor verlenging licentie:
+
+U moet 4 kennisbijeenkomsten volgen, waarvan minimaal 1 met het thema 'Veiligheid en Techniek'. 
+
+**Snel naar:**
 
 Overzicht geldige diploma's
 
