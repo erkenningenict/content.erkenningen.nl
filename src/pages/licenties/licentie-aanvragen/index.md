@@ -1,12 +1,17 @@
 ---
 title: Licentie aanvragen
 ---
+Als u een licentie wilt aanvragen, heeft u een geldig diploma nodig dat niet ouder is dan 5 jaar. De module gewasbescherming A, B of C moet voldoende afgesloten zijn.
 
-Licenties verhaal
+U kunt een diploma behalen op een erkende [exameninstelling](http://erkenningencontentsite.netlify.com/wat-wij-doen/exameninstellingen/welke-exameninstellingen-zijn-er). 
 
-<link-container>
-<link-button link='{"name": "Examen doen","url": "/licenties/examen-doen"}' ></link-button>
-<link-button link='{"name": "Ik heb al een diploma","url": "/licenties/ik-heb-al-een-diploma"}' ></link-button>
-<link-button link='{"name": "Ik heb een buitenlands diploma","url": "/licenties/ik-heb-een-buitenlands-diploma"}' ></link-button>
-<link-button link='{"name": "Licentie aanvragen na examen","url": "/licenties/licentie-aanvragen-na-examen"}' ></link-button>
+[Aanvragen licentie op basis van een geldig examen.](https://www.erkenningen.nl/Default.aspx?tabid=153)
+
+\>> Didier inbouwen pagina
+
+Een aantal niet-Nederlandse diploma's wordt ook erkend. 
+
+
+<link-button link='{"name": "Overzicht diploma's","url": "/licenties/overzicht-diploma's"}' ></link-button>
+<link-button link='{"name": "Licentie aanvragen na examen","url": "https://www.erkenningen.nl/Default.aspx?tabid=153"}' ></link-button>
 </link-container>
