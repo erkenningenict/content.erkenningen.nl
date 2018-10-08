@@ -7,7 +7,7 @@ tekst
 
 ## Welk diploma nodig?
 
-tekst, of kijk bij het overzicht geldige diploma's. 
+tekst, of kijk bij het overzicht geldige (buitenlandse) diploma's. 
 
 ## Nodig voor verlenging licentie:
 
