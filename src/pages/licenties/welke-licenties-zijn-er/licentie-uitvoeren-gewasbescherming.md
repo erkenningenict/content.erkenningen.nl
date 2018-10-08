@@ -15,6 +15,10 @@ tekst
 
 Weet u nog niet zeker of dit de licentie is die u nodig heeft, gebruik dan onze [tool](/licenties/welke-licentie-heb-ik-nodig).
 
+Snel naar:
+
+Overzicht geldige diploma's
+
 </link-button>
 
 <link-button link='{"name": "Welke licentie heb ik nodig?","url": "/licenties/licentie-tool"}' ></link-button>
