@@ -7,19 +7,19 @@ Soms is het gebruiken van [veiligheidsinstructies](/licenties/welke-licenties-zi
 
 Wilt u niet-professionele bestrijdingsmiddelen gebruiken? Dan heeft u geen licentie nodig. 
 
-**Overzicht licenties:**
+## Overzicht licenties:
 
 * [Licentie Uitvoeren Gewasbescherming](/licenties/welke-licenties-zijn-er/licentie-uitvoeren-gewasbescherming)
-* Licentie Bedrijfsvoeren Gewasbescherming
-* Licentie Distribueren Bestrijdingsmiddelen
-* Licentie Bedrijfsvoeren + Distribueren
-* Licentie Adviseren Gewasbescherming
-* Licentie Mollen- en Woelrattenbestrijding
-* Licentie Knaagdier Beheersing op Agrarische bedrijven 
-* Licentie Knaagdier Beheersing op Agrarische bedrijven Geïntegreerde Beheersing
+* [Licentie Bedrijfsvoeren Gewasbescherming](/licenties/welke-licenties-zijn-er/licentie-bedrijfsvoeren-gewasbescherming/)
+* [Licentie Distribueren Bestrijdingsmiddelen](/licenties/welke-licenties-zijn-er/licentie-distribueren-bestrijdingsmiddelen)
+* [Licentie Bedrijfsvoeren + Distribueren](/licenties/welke-licenties-zijn-er/licentie-bedrijfsvoeren-+-distribueren)
+* [Licentie Adviseren Gewasbescherming](/licenties/welke-licenties-zijn-er/licentie-adviseren-gewasbescherming)
+* [Licentie Mollen- en Woelrattenbestrijding](/licenties/welke-licenties-zijn-er/licentie-mollen--en-woelratten)
+* [Licentie Knaagdier Beheersing op Agrarische bedrijven](/licenties/welke-licenties-zijn-er/licentie-knaagdier-beheersing-op-agrarische-bedrijven) 
+* [Licentie Knaagdier Beheersing op Agrarische bedrijven Geïntegreerde Beheersing](/licenties/welke-licenties-zijn-er/licentie-knaagdier-beheersing-op-agrarische-bedrijven-geintegreerde-beheersing)
 * [Veiligheidsinstructies](/licenties/welke-licenties-zijn-er/veiligheidsinstructies)
 
-**Snel naar:**
+## Snel naar:
 
 <link-container>
 <link-button link='{"name": "Welke licentie heb ik nodig?","url": "/licenties/licentie-tool"}'></link-button>
