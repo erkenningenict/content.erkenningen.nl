@@ -1,5 +1,5 @@
 ---
-title: Geldige diploma's
+title: Geldige diplomas
 ---
 _**\>> Didier netjes maken van overzicht**_
 
