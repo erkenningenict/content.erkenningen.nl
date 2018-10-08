@@ -9,7 +9,7 @@ tekst
 
 ## Welk diploma nodig?
 
-tekst
+tekst, of kijk bij het overzicht geldige diploma's. 
 
 
 
