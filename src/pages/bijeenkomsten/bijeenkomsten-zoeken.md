@@ -7,10 +7,13 @@ Wilt u ook gelijk aanmelden voor een bijeenkomst? Log dan eerst in met uw gebrui
 
 U kunt bijeenkomsten kiezen op basis van thema.
 
-_**Didier: hier de zoekfunctie inbouwen**_
+**_Didier: hier de zoekfunctie inbouwen_**
 
 Snel naar:
 
+Om te zien welke bijeenkomsten u heeft gevolgd, moet u inloggen op uw persoonlijke pagina. Dit doet u met uw gebruikersnaam en wachtwoord.
+
 <link-container>
-<link-button link='{"name": "Kennisaanbieder worden","url": "/wat-wij-doen/kennisaanbieders/kennisaanbieder-worden"}'></link-button>
+<link-button link='{"name": "Inloggen","url": "/licenties/licentie-tool"}'></link-button>
+<link-button link='{"name": "Inloggegevens kwijt","url": "/mijn-bureau-erkenningen/inloggegevens-kwijt"}'></link-button>
 </link-container>
