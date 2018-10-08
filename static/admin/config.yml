@@ -141,6 +141,14 @@ collections:
     fields:
       - { label: "Title", name: "title", widget: "string" }
       - { label: "Body", name: "body", widget: "markdown" }
+  - name: "Licenties-kba-gb-bijschrijven"
+    label: "Licenties/KBA-GB-bijschrijven"
+    folder: "src/pages/licenties/kba-gb-bijschrijven"
+    create: true
+    delete: true
+    fields:
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Body", name: "body", widget: "markdown" }
 
   - name: "Bijeenkomsten-index"
     label: "Bijeenkomsten-index"

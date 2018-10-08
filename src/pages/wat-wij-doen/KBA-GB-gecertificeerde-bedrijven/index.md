@@ -1,6 +1,7 @@
 ---
 title: KBA-GB gecertificeerde bedrijven
 ---
+
 Voor het gebruiken van chemische middelen voor knaagdierbeheersing, moet ook het bedrijf dat dit uitvoert gecertificeerd zijn.
 
 Agrarische bedrijven kunnen zich laten certificeren door Bureau Erkenningen.
@@ -13,7 +14,8 @@ Agrarische bedrijven kunnen zich laten certificeren door Bureau Erkenningen.
 4. Kies een certificerende instantie.
 5. Na bevestiging van uw keuze is uw (voorlopige of pre)registratie vastgelegd en ontvangt u een e-mail met uw ingevoerde gegevens. Ook de door u gekozen certificerende instantie ontvangt een e-mail met uw gegevens zodat er later contact met u kan worden opgenomen.
 
-Snel naar:
+**Snel naar:**
 
 <link-container>
-<link-button link='{"name": "KBA-GB Bedrijvenregister","url": "/wat-wij-doen/KBA-GB-gecertificeerde-bedrijven/KBA-GB-Bedrijvenregister"}'></link-button>
+<link-button link='{"name": "KBA-GB Bedrijven-register","url": "/wat-wij-doen/KBA-GB-gecertificeerde-bedrijven/KBA-GB-Bedrijvenregister"}'></link-button>
+</link-container>

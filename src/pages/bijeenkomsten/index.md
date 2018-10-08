@@ -1,7 +1,8 @@
 ---
 title: Bijeenkomsten
 ---
-**Voor het verlengen van uw licentie moet u een aantal erkende bijeenkomsten volgen. **
+
+**Voor het verlengen van uw licentie moet u een aantal erkende bijeenkomsten volgen.**
 
 Op deze website kunt u deze [bijeenkomsten zoeken](/bijeenkomsten/bijeenkomsten-zoeken) en aanmelden.
 

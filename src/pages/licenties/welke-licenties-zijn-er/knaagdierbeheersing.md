@@ -1,6 +1,7 @@
 ---
 title: Knaagdierbeheersing
 ---
+
 Knaagdieren zoals muizen en ratten kunnen een lastig probleem vormen op uw (agrarische) bedrijf. Ze knagen aan alles wat los en vast zit en verspreiden ziektes.
 
 Er zijn vele manieren om knaagdieren te beheersen. Als niets meer helpt, kunt u chemische bestrijdingsmiddelen inzetten.
@@ -14,17 +15,7 @@ Wilt u alleen een licentie knaagdierbeheersing? Dan moet u een examen doen en de
 Meer informatie over knaagdieren en knaagdierbeheersing in het [kennisdosier op Groen Kennisnet.](https://www.groenkennisnet.nl/nl/groenkennisnet/show/dossier-knaagdierbeheersing.htm)
 
 <link-container>
-<link-button link='{"name": "Welke licentie heb ik nodig?","url": "/licenties/licentie-tool"}' />
-</link-container>
-
-<link-container>
-
-<link-button link='{"name": "Licentie aanvragen","url": "/licenties/licentie-aanvragen"}' />
-
-</link-container>
-
-<link-container>
-
-<link-button link='{"name": "Wetten en regels","url": "/licenties/wetten-en-regels"}' />
-
+<link-button link='{"name": "Welke licentie heb ik nodig?","url": "/licenties/welke-licentie-heb-ik-nodig"}' ></link-button>
+<link-button link='{"name": "Licentie aanvragen","url": "/licenties/licentie-aanvragen"}' ></link-button>
+<link-button link='{"name": "Wetten en regels","url": "/licenties/wetten-en-regels"}' ></link-button>
 </link-container>

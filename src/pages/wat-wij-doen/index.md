@@ -23,7 +23,7 @@ Voor het [verlengen van een licentie](/licenties/licentie-verlengen) moet u een 
 **Snel naar:**
 
 <link-container>
-<link-button link='{"name": "Welke licentie heb ik nodig?","url": "/licenties/licentie-tool"}'></link-button>
+<link-button link='{"name": "Welke licentie heb ik nodig?","url": "/licenties/welke-licentie-heb-ik-nodig"}'></link-button>
 <link-button link='{"name": "Licentie aanvragen?","url": "/licenties/licentie-aanvragen"}'></link-button>
 <link-button link='{"name": "Licentie verlengen","url": "/licenties/licentie-verlengen"}'></link-button>
 <link-button link='{"name": "Pas kwijt","url": "/mijn-bureau-erkenningen/pas-kwijt"}'></link-button>

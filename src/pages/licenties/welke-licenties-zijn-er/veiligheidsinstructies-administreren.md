@@ -1,7 +1,8 @@
 ---
 title: Veiligheidsinstructies administreren
 ---
-Het bedrijf waar de veiligheidsinstructie wordt gegeven, administreert welke personen deze hebben gekregen. 
+
+Het bedrijf waar de veiligheidsinstructie wordt gegeven, administreert welke personen deze hebben gekregen.
 
 Er zijn verschillende formulieren beschikbaar waarmee vastgelegd kan worden waar en wanneer de werknemer de instructie heeft gekregen.
 

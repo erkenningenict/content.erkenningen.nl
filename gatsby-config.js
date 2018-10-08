@@ -36,6 +36,7 @@ module.exports = {
         modulePath: `${__dirname}/src/cms/cms.js`
       }
     },
+    "gatsby-plugin-catch-links",
     {
       resolve: `gatsby-transformer-remark`,
       options: {
