@@ -3,7 +3,7 @@ title: Exameninstellingen
 ---
 Voor het aanvragen van een licentie kunt u examen doen bij een erkende exameninstelling. Dit zijn de agrarisch opleidingscentra in Nederland (AOC's).
 
-Leerlingen of cursisten van een AOC worden rechtsreeks door de school aan Bureau Erkenningen gemeld.
+Leerlingen of cursisten van een AOC worden rechtstreeks door de school aan Bureau Erkenningen gemeld.
 
 **Snel naar: **
 
