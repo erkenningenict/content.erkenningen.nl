@@ -7,10 +7,10 @@ U kunt een diploma behalen op een erkende [exameninstelling](http://erkenningenc
 
 [Aanvragen licentie op basis van een geldig examen.](https://www.erkenningen.nl/Default.aspx?tabid=153)
 
-_**\>> Didier inbouwen pagina**_
+**_\>> Didier inbouwen pagina_**
 
-Een aantal niet-Nederlandse diploma's wordt ook erkend. Kijk bij de [geldige diploma's](</licenties/licentie-aanvragen/geldige diploma's>).
+Een aantal niet-Nederlandse diploma's wordt ook erkend. Kijk bij de geldige diploma's.
 
 **Snel naar:**
 
-[Geldige diploma's](</licenties/licentie-aanvragen/geldige diploma's>)
+Geldige diplomas
