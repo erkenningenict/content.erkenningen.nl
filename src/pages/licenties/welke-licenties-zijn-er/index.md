@@ -13,7 +13,7 @@ Wilt u niet-professionele bestrijdingsmiddelen gebruiken? Dan heeft u geen licen
 * Licentie Bedrijfsvoeren Gewasbescherming
 * Licentie Distribueren Bestrijdingsmiddelen
 * Licentie Bedrijfsvoeren + Distribueren
-* Licentie Adviseren gewasbescherming
+* Licentie Adviseren Gewasbescherming
 * Licentie Mollen- en Woelrattenbestrijding
 * Licentie Knaagdier Beheersing op Agrarische bedrijven 
 * Licentie Knaagdier Beheersing op Agrarische bedrijven Geïntegreerde Beheersing
