@@ -9,9 +9,7 @@ U kunt bijeenkomsten kiezen op basis van thema.
 
 **_Didier: hier de zoekfunctie inbouwen_**
 
-Snel naar:
-
-Om te zien welke bijeenkomsten u heeft gevolgd, moet u inloggen op uw persoonlijke pagina. Dit doet u met uw gebruikersnaam en wachtwoord.
+**Snel naar:**
 
 <link-container>
 <link-button link='{"name": "Inloggen","url": "/licenties/licentie-tool"}'></link-button>
