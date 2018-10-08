@@ -7,10 +7,7 @@ Agrarische bedrijven kunnen zich laten certificeren door Bureau Erkenningen.
 
 ## Het registratie proces bestaat uit 5 stappen:
 
-1. 
-
-Registreer u als agrarier door uw gegevens in te voeren, als u al bekend bent in Bureau Erkenningen staan uw gegevens vooraf ingevuld. Na registratie ontvangt u een e-mail met het verzoek om uw e-mailadres te verifieren.
-
+1. Registreer u als agrarier door uw gegevens in te voeren, als u al bekend bent in Bureau Erkenningen staan uw gegevens vooraf ingevuld. Na registratie ontvangt u een e-mail met het verzoek om uw e-mailadres te verifieren.
 2. Verifieer uw e-mailadres, zodat de certificerende instantie contact met u kan opnemen.
 3. Registreer uw bedrijf door de bedrijfsnaam in te voeren en eventueel adresgegevens aan te passen.
 4. Kies een certificerende instantie.
