@@ -10,7 +10,7 @@ Weet u nog niet zeker of dit de licentie is die u nodig heeft, gebruik dan onze 
 
 ## Welk diploma/examen nodig?
 
-Kijk bij het [overzicht geldige (buitenlandse) diploma's](/licenties/licentie-aanvragen/geldige-diplomas).
+Kijk bij het overzicht geldige (buitenlandse) diploma's.
 
 ## Nodig voor verlenging licentie:
 
