@@ -3,18 +3,17 @@ title: Licentie Mollen- en Woelrattenbestrijding
 ---
 ## Voor wie?
 
-* Voor mensen die werken in opdracht van een ander, mits een derde persoon aanwezig of beschikbaar is die beschikt over Bedrijfsvoeren Gewasbescherming.
-* Agrariërs geboren voor 01-01-1996, mits zij geen personeel in dienst hebben die gewasbeschermingshandelingen doen.
+* Voor iedereen die met behulp van middelen op basis van fosforwaterstof mollen en of woelratten bestrijdt.
 
 Weet u nog niet zeker of dit de licentie is die u nodig heeft, gebruik dan onze [tool](/licenties/welke-licentie-heb-ik-nodig).
 
 ## Welk diploma/examen nodig?
 
-Kijk bij het overzicht geldige (buitenlandse) diploma's.
+Kijk bij het overzicht geldige (buitenlandse) diploma's. 
 
 ## Nodig voor verlenging licentie:
 
-U moet 4 kennisbijeenkomsten volgen, waarvan minimaal 1 met het thema 'Veiligheid en Techniek'.
+???
 
 **Snel naar:**
 
