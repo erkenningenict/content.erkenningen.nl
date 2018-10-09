@@ -10,5 +10,5 @@ Een aantal niet-Nederlandse diploma's wordt ook erkend. Kijk bij de [geldige dip
 **Snel naar:**
 
 <link-container>
-<link-button link='{"name": "Geldige diploma%27s","url": "/licenties/licentie-aanvragen/ik-heb-al-een-diploma"}'></link-button>
+<link-button link='{"name": "Geldige diplomas","url": "/licenties/licentie-aanvragen/ik-heb-al-een-diploma"}'></link-button>
 </link-container>
