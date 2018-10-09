@@ -7,7 +7,7 @@ U kunt een diploma behalen op een erkende [exameninstelling](/wat-wij-doen/exame
 
 Een aantal niet-Nederlandse diploma's wordt ook erkend. Kijk bij de [geldige diploma's](/licenties/licentie-aanvragen/ik-heb-al-een-diploma) welk diploma volstaat voor welke licentie.
 
-**Snel naar:**
+**Snel naar: X**
 
 [Licentie aanvragen](https://www.erkenningen.nl/Default.aspx?tabid=153)
 
