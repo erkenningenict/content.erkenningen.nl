@@ -15,6 +15,8 @@ Met de de [tool van Bureau Erkenningen](/licenties/welke-licentie-heb-ik-nodig) 
 
 Meer informatie over knaagdieren en knaagdierbeheersing in het [kennisdosier op Groen Kennisnet.](https://www.groenkennisnet.nl/nl/groenkennisnet/show/dossier-knaagdierbeheersing.htm)
 
+## Snel naar:
+
 <link-container>
 <link-button link='{"name": "Welke licentie heb ik nodig?","url": "/licenties/welke-licentie-heb-ik-nodig"}' ></link-button>
 <link-button link='{"name": "Licentie aanvragen","url": "/licenties/licentie-aanvragen"}' ></link-button>
