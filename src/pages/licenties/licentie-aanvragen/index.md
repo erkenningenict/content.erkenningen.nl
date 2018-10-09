@@ -5,12 +5,12 @@ title: Licentie aanvragen
 
 U kunt een diploma behalen op een erkende [exameninstelling](/wat-wij-doen/exameninstellingen/welke-exameninstellingen-zijn-er). Deze geeft aan ons de resultaten van uw examen door. Bent u geslaagd, dan kunt u op deze website [een licentie aanvragen](https://www.erkenningen.nl/Default.aspx?tabid=153). >> Didier tool inbouwen in nieuwe site
 
-Een aantal niet-Nederlandse diploma's wordt ook erkend. Kijk bij de [geldige diploma's](/licenties/licentie-aanvragen/geldige-diplomas) welk diploma volstaat voor welke licentie.
+Een aantal niet-Nederlandse diploma's wordt ook erkend. Kijk bij de [geldige diploma's](/licenties/licentie-aanvragen/ik-heb-een-buitenlands-diploma) welk diploma volstaat voor welke licentie.
 
-**Snel naar: X**
+**Snel naar: z**
 
 [Licentie aanvragen](https://www.erkenningen.nl/Default.aspx?tabid=153)
 
 <link-container>
-<link-button link='{"name": "Geldige diplomas","url": "/licenties/licentie-aanvragen/geldige-diplomas"}'></link-button>
+<link-button link='{"name": "Geldige diplomas","url": "/licenties/licentie-aanvragen/ik-heb-een-buitenlands-diploma"}'></link-button>
 </link-container>
