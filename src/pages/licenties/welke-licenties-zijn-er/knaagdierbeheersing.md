@@ -1,16 +1,17 @@
 ---
 title: Knaagdierbeheersing
 ---
+**Knaagdieren zoals muizen en ratten kunnen een lastig probleem vormen op uw (agrarische) bedrijf. Ze knagen aan alles wat los en vast zit en verspreiden ziektes. Er zijn vele manieren om knaagdieren te beheersen. Als niets meer helpt, kunt u chemische bestrijdingsmiddelen inzetten.**
 
-Knaagdieren zoals muizen en ratten kunnen een lastig probleem vormen op uw (agrarische) bedrijf. Ze knagen aan alles wat los en vast zit en verspreiden ziektes.
+Wanneer u knaagdieren wilt beheersen met professionele chemische bestrijdingsmiddelen (rodenticiden), heeft u een licentie knaagdierbeheersing (KBA) nodig. 
 
-Er zijn vele manieren om knaagdieren te beheersen. Als niets meer helpt, kunt u chemische bestrijdingsmiddelen inzetten.
+## Binnen of buiten?
 
-Wanneer u knaagdieren wilt beheersen met professionele chemische bestrijdingsmiddelen (rodenticiden), heeft u een licentie nodig. Hierbij maakt het nog verschil of u dit alleen binnen of ook buiten wilt doen. Met de de tool van Bureau Erkenningen kunt u bepalen welke licentie u nodig heeft.
+Knaagdierbeheersing op agrarische bedrijven valt uiteen in twee delen: binnen bedrijfsgebouwen en buiten bedrijfsgebouwen. KBA geldt alleen voor binnen. KBA-GB geldt voor zowel binnen als buiten bedrijfsgebouwen. Als u op uw bedrijf buiten gebruiksgebouwen chemische knaagdierbeheersing wil toepassen, dan moet uw [bedrijf ook gecertificeerd](/wat-wij-doen/KBA-GB-gecertificeerde-bedrijven) zijn door het Keurmerk Plaagdier Management Bedrijven (KPMB).
 
-Heeft u al een licentie gewasbescherming? Dan kunt u een cursus knaagdierbeheersing volgen en dit laten bijschrijven op uw huidige pas.
+Heeft u al een licentie gewasbescherming? Dan kunt u een kennisbijeenkomst met het thema 'KBA' volgen en dit laten bijschrijven op uw huidige pas. Hiermee beschikt u over een licentie KBA.
 
-Wilt u alleen een licentie knaagdierbeheersing? Dan moet u een examen doen en deze licentie aanvragen.
+Met de de [tool van Bureau Erkenningen](/licenties/welke-licentie-heb-ik-nodig) kunt u bepalen welke licentie u nodig heeft.
 
 Meer informatie over knaagdieren en knaagdierbeheersing in het [kennisdosier op Groen Kennisnet.](https://www.groenkennisnet.nl/nl/groenkennisnet/show/dossier-knaagdierbeheersing.htm)
 
