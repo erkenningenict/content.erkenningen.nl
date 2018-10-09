@@ -5,14 +5,14 @@ title: >-
 ---
 ## Voor wie?
 
-* Voor iedereen die op het eigen agrarisch bedrijf biociden toepast voor het afweren of bestrijden van knaagdieren, buiten bedrijfsgebouwen. 
-* Deze licentie is een verplicht onderdeel van de verplichte bedrijfscertificering.
+* Voor iedereen die **binnen en buiten** bedrijfsgebouwen op het eigen agrarisch bedrijf biociden toepast voor het afweren of bestrijden van knaagdieren
+* Deze licentie is een verplicht onderdeel van de [verplichte bedrijfscertificering](/wat-wij-doen/KBA-GB-gecertificeerde-bedrijven).
 
 Weet u nog niet zeker of dit de licentie is die u nodig heeft, gebruik dan onze [tool](/licenties/welke-licentie-heb-ik-nodig).
 
 ## Welk diploma/examen nodig?
 
-Het vakbekwaamheidsbewijs KBA-GB kan alleen behaald worden door middel van en een examen. De opleiding KBA is een verplichte vooropleiding. KBA-GB sluit de KBA bevoegdheid in.
+U moet examen KBA-GB doen. De licentie KBA is een verplichte vooropleiding. U kunt hiervoor examen doen, of -indien u in het bezit bent van een licentie gewasbescherming- een kennisbijeenkomst volgen en de aantekening [KBA laten bijschrijven](/licenties/kba-gb-bijschrijven).
 
 ## Nodig voor verlenging licentie:
 
