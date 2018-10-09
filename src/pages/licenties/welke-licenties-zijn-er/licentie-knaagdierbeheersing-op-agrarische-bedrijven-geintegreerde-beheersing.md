@@ -1,10 +1,12 @@
 ---
-title: Licentie Knaagdier Beheersing op Agrarische bedrijven Geïntegreerde Beheersing
+title: >-
+  Licentie Knaagdier Beheersing op Agrarische bedrijven Geïntegreerde Beheersing
+  (KBA-GB)
 ---
 ## Voor wie?
 
-* Voor mensen die werken in opdracht van een ander, mits een derde persoon aanwezig of beschikbaar is die beschikt over Bedrijfsvoeren Gewasbescherming.
-* Agrariërs geboren voor 01-01-1996, mits zij geen personeel in dienst hebben die gewasbeschermingshandelingen doen.
+* Voor iedereen die op het eigen agrarisch bedrijf biociden toepast voor het afweren of bestrijden van knaagdieren, buiten bedrijfsgebouwen. 
+* Deze licentie is een verplicht onderdeel van de verplichte bedrijfscertificering.
 
 Weet u nog niet zeker of dit de licentie is die u nodig heeft, gebruik dan onze [tool](/licenties/welke-licentie-heb-ik-nodig).
 
@@ -14,7 +16,7 @@ Kijk bij het overzicht geldige (buitenlandse) diploma's.
 
 ## Nodig voor verlenging licentie:
 
-U moet 4 kennisbijeenkomsten volgen, waarvan minimaal 1 met het thema 'Veiligheid en Techniek'.
+U moet 1 kennisbijeenkomst volgen met het thema 'KBA'.
 
 **Snel naar:**
 
