@@ -12,7 +12,7 @@ Weet u nog niet zeker of dit de licentie is die u nodig heeft, gebruik dan onze 
 
 ## Welk diploma/examen nodig?
 
-Kijk bij het overzicht geldige (buitenlandse) diploma's.
+Het vakbekwaamheidsbewijs KBA-GB kan alleen behaald worden door middel van en een examen. De opleiding KBA is een verplichte vooropleiding. KBA-GB sluit de KBA bevoegdheid in.
 
 ## Nodig voor verlenging licentie:
 
