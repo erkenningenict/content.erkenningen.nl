@@ -1,7 +1,7 @@
 ---
 title: Uitgeven en erkennen
 ---
-**Bureau Erkenningen zorgt voor het uitgeven van licenties aan ruim 50.000 licentiehouders in Nederland. Deze licenties worden ook wel ‘Bewijzen van Vakbekwaamheid’ genoemd. **
+**Bureau Erkenningen zorgt voor het uitgeven van licenties aan ruim 50.000 licentiehouders in Nederland. Deze licenties worden ook wel Bewijzen van Vakbekwaamheid genoemd. **
 
 Elke licentiehouder ontvangt een pasje.
 
@@ -27,7 +27,7 @@ Voor het [verlengen van een licentie](/licenties/licentie-verlengen) moet u een 
 
 [Bureau Erkenningen](wat-wij-doen/bureau-erkenningen) beoordeelt en erkent de kennisbijeenkomsten.
 
-**Snel naar:**
+## Snel naar:
 
 <link-container>
 <link-button link='{"name": "Welke licentie heb ik nodig?","url": "/licenties/welke-licentie-heb-ik-nodig"}'></link-button>
