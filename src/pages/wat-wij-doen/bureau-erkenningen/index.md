@@ -9,7 +9,9 @@ Dit heeft de [overheid heeft bepaald](/licenties/wetten-en-regels). Er zijn vers
 
 Bureau Erkenningen [beoordeelt en erkent](/wat-wij-doen) deze [bijeenkomsten](/bijeenkomsten/bijeenkomsten-zoeken) en de [kennisaanbieders](/wat-wij-doen/kennisaanbieders).
 
-**Snel naar:**
+## Snel naar:
+
+Wetten en regels >> /licenties/wetten-en-regels
 
 <link-container>
 <link-button link='{"name": "Wat wij doen","url": "/wat-wij-doen/"}' ></link-button>
