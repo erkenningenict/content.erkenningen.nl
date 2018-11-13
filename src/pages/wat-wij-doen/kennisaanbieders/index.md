@@ -31,6 +31,5 @@ Voor elke licentiehouder die deelneemt betaalt de kennisaanbieder een afdracht v
 <link-container>
 <link-button link='{"name": "Eisen voor kennisaanbod","url": "/wat-wij-doen/kennisaanbieders/eisen-voor-kennisaanbod"}'></link-button>
 <link-button link='{"name": "Protocol voor kennisaanbieders", "url": "/wat-wij-doen/kennisaanbieders/protocol-voor-kennisaanbieders"}'></link-button>
-<link-button link='{"name": "Kennisaanbieder worden", "url": "/wat-wij-doen/kennisaanbieders/kennisaanbieder-worden"}'></link-button>
 <link-button link='{"name": "Bijeenkomst organiseren", "url": "/wat-wij-doen/kennisaanbieders/bijeenkomst-organiseren"}'></link-button>
 </link-container>
