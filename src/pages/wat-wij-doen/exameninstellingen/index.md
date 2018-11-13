@@ -3,7 +3,7 @@ title: Exameninstellingen
 ---
 **Voor het aanvragen van een nieuwe licentie moet u examen doen bij een erkende exameninstelling. Dit zijn de agrarisch opleidingscentra in Nederland (AOC's).**
 
-U vindt hier een overzicht van de exameninstellingen in Nederland. 
+U vindt hier een [overzicht van de exameninstellingen](http://erkenningencontentsite.netlify.com/wat-wij-doen/exameninstellingen/welke-exameninstellingen-zijn-er) in Nederland. 
 
 ## Buitenlands diploma?
 
