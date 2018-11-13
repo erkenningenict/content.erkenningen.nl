@@ -11,11 +11,13 @@ U kunt zichzelf ook identificeren met de [Bureau Erkenningen app](/wat-wij-doen/
 
 ## Nog geen pas
 
-Heeft u examen gedaan, maar nog geen pasje? Dan moet u eerst een [licentie aanvragen](/licenties/licentie-aanvragen).
+Heeft u examen gedaan en uw diploma behaald? Uw exameninstelling geeft dit automatisch aan ons door. Uw pasje krijgt u nadat u bij ons een [licentie heeft aangevraagd](/licenties/licentie-aanvragen).
 
 ## Inloggegevens kwijt
 
 Inloggevens kwijt? Bel dan met het RVO-loket: 088 042 42 42
+
+## Snel naar:
 
 <link-container>
 <link-button link='{"name": "inloggen","url": "/mijn-bureau-erkenningen/login"}' ></link-button>
