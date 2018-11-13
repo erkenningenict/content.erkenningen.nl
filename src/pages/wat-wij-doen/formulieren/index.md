@@ -1,14 +1,17 @@
 ---
 title: Formulieren
 ---
+**Met de formulieren kunt u zelf een aantal zaken regelen. Vul het formulier online in en verzend het digitaal naar Bureau Erkenningen.**
 
-Hierbij een overzicht van alle formulieren
+U kunt het formulier ook printen voor uw eigen administratie.
 
-- [Administreren veiligheidsinstructie bedrijf](https://erkenningen.nl)
-- [Administreren veiligheidsinstructie werknemer](https://erkenningen.nl)
-- [Vrijwillige wijziging licenties](https://erkenningen.nl)
-- [Samenvoegen licenties](https://erkenningen.nl)
-- [Waardering niet-Nederlands diploma](https://erkenningen.nl)
+## Formulieren 
+
+* [Administreren veiligheidsinstructie bedrijf](https://erkenningen.nl)
+* [Administreren veiligheidsinstructie werknemer](https://erkenningen.nl)
+* [Vrijwillige wijziging licenties](https://erkenningen.nl)
+* [Samenvoegen licenties](https://erkenningen.nl)
+* [Waardering niet-Nederlands diploma](https://erkenningen.nl)
 
 <link-container>
 <link-button link='{"name": "Administreren veiligheidsinstructie bedrijf","url": "/wat-wij-doen/kennisaanbieders/kennisaanbieder-worden"}'></link-button>
