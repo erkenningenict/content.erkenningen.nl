@@ -3,10 +3,6 @@ title: Kennisaanbieders
 ---
 **Licentiehouders volgen erkende kennisbijeenkomsten bij kennisaanbieders. Bureau Erkenningen erkent en beoordeelt deze kennisbijeenkomsten. **
 
-## Waar moeten kennisbijeenkomsten aan voldoen?
-
-De lesstof moet gericht zijn op de competenties die nodig zijn voor de [verschillende licenties](/licenties/welke-licenties-zijn-er). Naast de geboden lesstof wordt ook de aanpak, het lesmateriaal en de docenten bekeken. Een compleet overzicht van de beoordelingscriteria en competenties voor kennisaanbod [vindt u hier](/wat-wij-doen/kennisaanbieders/eisen-voor-kennisaanbod).
-
 ## Kennisaanbieder worden
 
 Wilt u zelf kennisaanbieder worden? \
@@ -15,6 +11,10 @@ Wilt u zelf kennisaanbieder worden? \
 Na inloggen kan via de website het kennisaanbod ter goedkeuring aan Bureau Erkenningen worden voorgelegd. Hieraan zijn kosten verbonden: € 50,- ex BTW. Lees voor het indienen van het kennisaanbod het protocol goed door. Indienen van een aanvraag betekent dat u het [protocol voor kennisaanbieders](/wat-wij-doen/kennisaanbieders/protocol-voor-kennisaanbieders) onderschrijft.
 
 Na goedkeuring komt het kennisaanbod op de website van Bureau Erkenningen en kunnen licentiehouders zich aanmelden.
+
+## Waar moeten kennisbijeenkomsten aan voldoen?
+
+De lesstof moet gericht zijn op de competenties die nodig zijn voor de [verschillende licenties](/licenties/welke-licenties-zijn-er). Naast de geboden lesstof wordt ook de aanpak, het lesmateriaal en de docenten bekeken. Een compleet overzicht van de beoordelingscriteria en competenties voor kennisaanbod [vindt u hier](/wat-wij-doen/kennisaanbieders/eisen-voor-kennisaanbod).
 
 ## Beoordeling kwaliteit
 
