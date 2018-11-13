@@ -1,7 +1,7 @@
 ---
 title: Kennisaanbieders
 ---
-**Voor het verlengen van een licentie moeten licentiehouders kennisbijeenkomsten volgen bij erkende kennisaanbieders. Deze moeten aan bepaalde eisen voldoen. Bureau Erkenningen erkent en beoordeelt kennisaanbieders en kennisbijeenkomsten. Niet erkende bijeenkomsten tellen niet mee voor verlenging.**
+**Licentiehouders volgen erkende kennisbijeenkomsten bij kennisaanbieders. Bureau Erkenningen erkent en beoordeelt deze kennisbijeenkomsten. **
 
 ## Waar moeten kennisbijeenkomsten aan voldoen?
 
@@ -23,10 +23,9 @@ Als kennisaanbieder bent u verantwoordelijk voor het correct invullen van deelne
 
 Voor elke licentiehouder die deelneemt betaalt de kennisaanbieder een afdracht van € 7,50 ex BTW per deelnemer aan Bureau Erkenningen.
 
-**Snel naar:**
+## Snel naar:
 
 <link-container>
-<link-button link='{"name": "Inloggen","url": "https://www.erkenningen.nl/Default.aspx?tabid=154"}'></link-button>
 <link-button link='{"name": "Eisen voor kennisaanbod","url": "/wat-wij-doen/kennisaanbieders/eisen-voor-kennisaanbod"}'></link-button>
 <link-button link='{"name": "Protocol voor kennisaanbieders", "url": "/wat-wij-doen/kennisaanbieders/protocol-voor-kennisaanbieders"}'></link-button>
 <link-button link='{"name": "Kennisaanbieder worden", "url": "/wat-wij-doen/kennisaanbieders/kennisaanbieder-worden"}'></link-button>
