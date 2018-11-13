@@ -10,6 +10,8 @@ Deze kunt u als PDF bestand downloaden en printen.
 * Chemische gewasbescherming in Nederland - Nederlands
 * Chemical Plant Protection in the Netherlands
 * Chemischer Pflanzenschutz in den Niederlande
+* Gewasbescherming - hoe haalt u een licentie
 * Knaagdierbeheersing - hoe haalt u een licentie
+* Mollen en woelratten - hoe haalt u een licentie
 * Wie moet wat – Overzicht welke licentie heeft u nodig heeft
 * Handleiding voor kennisaanbieders - gids voor gebruik van de website
