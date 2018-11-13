@@ -1,6 +1,4 @@
 ---
 title: Bijeenkomst organiseren
 ---
-
-Bijeenkomst organiseren gaat zo:
-TODO
+deze pagina kan weg (dubbel)
