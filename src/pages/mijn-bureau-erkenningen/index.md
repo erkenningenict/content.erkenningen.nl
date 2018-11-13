@@ -1,14 +1,16 @@
 ---
 title: Mijn Bureau Erkenningen
 ---
-In Mijn Bureau Erkenningen kunt u [inloggen](/mijn-bureau-erkenningen/inloggen) op uw persoonlijke inlogpagina. 
+**In Mijn Bureau Erkenningen heeft u een persoonlijke pagina, waar u al uw gegevens kunt beheren.**
 
-Bent u licentiehouder? Dan kunt u daar de gegevens van uw licenties bekijken: 
+Hiervoor moet u eerst [inloggen](/mijn-bureau-erkenningen/inloggen). 
+
+Bent u licentiehouder? Dan kunt u daar onder meer deze gegevens bekijken: 
 
 * hoe lang zijn uw licenties nog geldig
-* hoe veel bijeenkomsten moet u nog volgen voor verlenging.
+* hoe veel bijeenkomsten moet u nog volgen voor verlenging
 
-Bent u kennisaanbieder, exameninstelling, inspecteur of bedrijf? Dan kunt u hier al uw gegevens beheren.
+Werkt u bij een kennisaanbieder, exameninstelling of ander bedrijf, of bent u inspecteur? Dan kunt u hier ook al uw gegevens beheren.
 
 <link-container>
 <link-button link='{"name": "Inloggen","url": "mijn-bureau-erkenningen/inloggen"}'></link-button>
