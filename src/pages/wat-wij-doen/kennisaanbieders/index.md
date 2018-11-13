@@ -1,8 +1,9 @@
 ---
 title: Kennisaanbieders
 ---
+**Voor het verlengen van een licentie moeten licentiehouders kennisbijeenkomsten volgen bij erkende kennisaanbieders. Deze moeten aan bepaalde eisen voldoen. Bureau Erkenningen erkent en beoordeelt kennisaanbieders en [**kennisbijeenkomsten**](/bijeenkomsten/bijeenkomsten-zoeken). Niet erkende bijeenkomsten tellen niet mee voor verlenging.**
 
-**Bureau Erkenningen erkent en beoordeelt de [kennisbijeenkomsten](/bijeenkomsten/bijeenkomsten-zoeken) die licentiehouders volgen voor het verlengen van hun licentie. Deze kennisbijeenkomsten moeten aan bepaalde eisen voldoen.**
+## Waar moeten kennisbijeenkomsten aan voldoen?
 
 De lesstof moet gericht zijn op de competenties die nodig zijn voor de [verschillende licenties](/licenties/welke-licenties-zijn-er). Naast de geboden lesstof wordt ook de aanpak, het lesmateriaal en de docenten bekeken. Een compleet overzicht van de beoordelingscriteria en competenties voor kennisaanbod [vindt u hier](/wat-wij-doen/kennisaanbieders/eisen-voor-kennisaanbod).
 
