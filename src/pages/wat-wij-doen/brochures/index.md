@@ -1,19 +1,15 @@
 ---
 title: Brochures
 ---
+**Over een aantal onderwerpen hebben wij een brochure gemaakt.** 
 
-Brochures
+Deze kunt u als PDF bestand downloaden en printen.
 
-- [Uitvoeren gewasbescherming](https://erkenningen.nl)
-- [Bedrijfsvoeren gewasbescherming](https://erkenningen.nl)
-- [Distribueren gewasbescherming](https://erkenningen.nl)
-- [Knaagdierbeheersing](https://erkenningen.nl)
-- [Mollen- en Woelratten](https://erkenningen.nl)
+## Brochures
 
-<link-container>
-<link-button link='{"name": "Uitvoeren gewasbescherming","url": "/wat-wij-doen/kennisaanbieders/kennisaanbieder-worden"}'></link-button>
-<link-button link='{"name": "Bedrijfsvoeren gewasbescherming","url": "/wat-wij-doen/kennisaanbieders/bijeenkomst-organiseren"}'></link-button>
-<link-button link='{"name": "Distribueren gewasbescherming","url": "/wat-wij-doen/kennisaanbieders/bijeenkomst-organiseren"}'></link-button>
-<link-button link='{"name": "Knaagdierbeheersing","url": "/wat-wij-doen/kennisaanbieders/bijeenkomst-organiseren"}'></link-button>
-<link-button link='{"name": "Mollen- en Woelratten","url": "/wat-wij-doen/kennisaanbieders/bijeenkomst-organiseren"}'></link-button>
-</link-container>
+* Chemische gewasbescherming in Nederland - Nederlands
+* Chemical Plant Protection in the Netherlands
+* Chemischer Pflanzenschutz in den Niederlande
+* Knaagdierbeheersing - hoe haalt u een licentie
+* Wie moet wat – Overzicht welke licentie heeft u nodig heeft
+* Handleiding voor kennisaanbieders - gids voor gebruik van de website
