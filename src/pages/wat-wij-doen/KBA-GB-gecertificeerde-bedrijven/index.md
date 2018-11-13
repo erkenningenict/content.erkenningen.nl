@@ -4,12 +4,12 @@ title: KBA-GB gecertificeerde bedrijven
 **Als u op uw bedrijf buiten gebruiksgebouwen knaagdierbeheersing wil toepassen (rodenticiden), dan moet uw bedrijf gecertificeerd zijn door het Keurmerk Plaagdier Management Bedrijven (KPMB).
 **
 
-Meer informatie vindt u op de websites van het Keurmerk
- Plaagdier Management Bedrijven (KPMB), de Nederlandse Voedsel en Warenautoriteit
- (NVWA) en Inspectie Leefomgeving en
- Transport Infrastructuur (ILenT). 
+Meer informatie vindt u op de websites van het [Keurmerk
+ Plaagdier Management Bedrijven (KPMB)](https://kpmb.nl/register/certificerende-instanties), de [Nederlandse Voedsel en Warenautoriteit
+ (NVWA)](https://www.nvwa.nl/) en [Inspectie Leefomgeving en
+ Transport Infrastructuur ](https://www.ilent.nl/)(ILenT). 
 
-Bureau Erkenningen houdt een register bij van KBA-GB gecertificeerde bedrijven.
+Bureau Erkenningen houdt een [register bij van KBA-GB gecertificeerde bedrijven](/wat-wij-doen/KBA-GB-gecertificeerde-bedrijven/KBA-GB-Bedrijvenregister).
 
 U kunt uw agrarische bedrijf bij Bureau Erkenningen aanmelden voor certificering en registratie.
 
