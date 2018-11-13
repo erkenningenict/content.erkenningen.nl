@@ -1,13 +1,13 @@
 ---
 title: Geldige diplomas
 ---
+**Onderstaand vindt u een overzicht van de diploma's die geldig zijn voor het aanvragen van een licentie. **
 
-_**\>> Didier netjes maken van overzicht**_
+Ze zijn gerangschikt op alfabetische volgorde van het land. ook de Nederlandse diploma's.
 
-[Belgische diploma's](#belgische-diplomas)
-[Nederlandse diploma's](#nederlandse-diplomas)
+_Didier graag netjes maken van overzicht (tabel?)_
 
-## Belgische diplomas
+## Belgische diploma's
 
 1.26 \[België] Getuigschrift cursus Fytofarmacie Praktijkcentrum voor Land- en Tuinbouw; Roeselare. Licentie 1 afgegeven na inzage in het vakkenpakket dat onder andere bestond uit insectenleer, fytopathologie, fytofarmaceutische producten en de technologie van hun toepassing, toxicologie van bestrijdingsmiddelen en wet- en regelgeving mbt bestrijdingsmiddelen.
 
