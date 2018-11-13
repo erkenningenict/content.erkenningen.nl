@@ -5,6 +5,8 @@ title: Geldige diplomas
 
 Ze zijn gerangschikt op alfabetische volgorde van het land. ook de Nederlandse diploma's.
 
+Staat uw diploma er niet tussen? Vul dan een [formulier](/wat-wij-doen/formulieren) in.
+
 _Didier graag netjes maken van overzicht (tabel?)_
 
 ## Belgische diploma's
