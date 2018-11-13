@@ -11,6 +11,10 @@ Er zijn [verschillende soorten licenties](/licenties/welke-licenties-zijn-er). W
 
 Wilt u niet-professionele bestrijdingsmiddelen gebruiken, die u als consument bij de winkel kunt kopen? Dan heeft u geen licentie nodig.
 
+## Snel naar:
+
+Verschillende licenties gewasbescherming >> /licenties/welke-licenties-zijn-er
+
 <link-container>
 <link-button link='{"name": "Welke licentie heb ik nodig?","url": "/licenties/welke-licentie-heb-ik-nodig"}' ></link-button> 
 <link-button link='{"name": "Licentie aanvragen","url": "/licenties/licentie-aanvragen"}'  ></link-button>
