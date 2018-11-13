@@ -19,15 +19,3 @@ U kunt het formulier ook printen voor uw eigen administratie.
 * Administreren veiligheidsinstructie bedrijf
 * Administreren veiligheidsinstructie werknemer
 * Evaluatieformulier voor kennisaanbieders
-
-
-
-
-
-<link-container>
-<link-button link='{"name": "Administreren veiligheidsinstructie bedrijf","url": "/wat-wij-doen/kennisaanbieders/kennisaanbieder-worden"}'></link-button>
-<link-button link='{"name": "Administreren veiligheidsinstructie werknemer","url": "/wat-wij-doen/kennisaanbieders/bijeenkomst-organiseren"}'></link-button>
-<link-button link='{"name": "Vrijwillige wijziging licenties","url": "/wat-wij-doen/kennisaanbieders/bijeenkomst-organiseren"}'></link-button>
-<link-button link='{"name": "Samenvoegen licenties","url": "/wat-wij-doen/kennisaanbieders/bijeenkomst-organiseren"}'></link-button>
-<link-button link='{"name": "Waardering niet-Nederlands diploma","url": "/wat-wij-doen/kennisaanbieders/bijeenkomst-organiseren"}'></link-button>
-</link-container>
