@@ -1,16 +1,13 @@
 ---
 title: Bureau Erkenningen
 ---
+**Iedereen die met professionele gewasbeschermingsmiddelen of professionele biociden werkt, moet een licentie hebben (ook wel** **vakbekwaamheidsbewijs genoemd).**
 
-[De overheid heeft bepaald](/licenties/wetten-en-regels) dat iedereen die met professionele gewasbeschermingsmiddelen of professionele biociden werkt, een licentie moet hebben (ook wel vakbekwaamheidsbewijs genoemd).
-
-Bureau Erkenningen geeft deze [licenties](/licenties) uit.
+Dit heeft de [overheid heeft bepaald](/licenties/wetten-en-regels). Er zijn verschillende soorten [licenties](/licenties). Bureau Erkenningen geeft deze uit.
 
 [Licentiehouders](/wat-wij-doen/licentiehouders) moeten bijeenkomsten volgen voor de verlenging van hun licentie.
 
-Bureau Erkenningen beoordeelt en erkent bijeenkomsten van [kennisaanbieders](/wat-wij-doen/kennisaanbieders).
-
-Lees meer over het [uitgeven en erkennen](/wat-wij-doen) van Bureau Erkenningen.
+Bureau Erkenningen [beoordeelt en erkent](/wat-wij-doen) deze [bijeenkomsten](/bijeenkomsten/bijeenkomsten-zoeken) en de [kennisaanbieders](/wat-wij-doen/kennisaanbieders).
 
 **Snel naar:**
 
