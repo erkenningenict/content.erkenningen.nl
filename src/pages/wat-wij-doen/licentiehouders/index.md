@@ -1,8 +1,7 @@
 ---
 title: Licentiehouders
 ---
-
-Bureau Erkenningen registreert de gegevens van licenties voor ruim 50.000 licentiehouders in Nederland.
+**Bureau Erkenningen registreert de gegevens van licenties voor ruim 50.000 licentiehouders in Nederland.**
 
 Wij houden voor u bij welke licenties u heeft, hoe lang deze geldig zijn en hoe veel bijeenkomsten u nog moet volgen voor verlenging van de licentie.
 
