@@ -1,6 +1,4 @@
 ---
 title: Ik wil examenaanbieder worden
 ---
-
-Examenaanbieder worden
-
+Deze pagina mag weg
