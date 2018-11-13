@@ -1,13 +1,21 @@
 ---
 title: Knaagdierbeheersing
 ---
-**Knaagdieren zoals muizen en ratten kunnen een lastig probleem vormen op uw (agrarische) bedrijf. Ze knagen aan alles wat los en vast zit en verspreiden ziektes. Er zijn vele manieren om knaagdieren te beheersen. Als niets meer helpt, kunt u chemische bestrijdingsmiddelen inzetten.**
+**Er zijn vele manieren om knaagdieren te beheersen. Als niets meer helpt, kunt u chemische bestrijdingsmiddelen inzetten.**
 
-Wanneer u knaagdieren wilt beheersen met professionele chemische bestrijdingsmiddelen (rodenticiden), heeft u een licentie knaagdierbeheersing (KBA) nodig. 
+Knaagdieren zoals muizen en ratten kunnen een lastig probleem vormen op uw (agrarische) bedrijf. Ze knagen aan alles wat los en vast zit en verspreiden ziektes. 
+
+Wanneer u knaagdieren wilt beheersen met professionele chemische bestrijdingsmiddelen (rodenticiden), heeft u een [licentie knaagdierbeheersing (KBA)](http://erkenning/licenties/welke-licenties-zijn-er/licentie-knaagdierbeheersing-op-agrarische-bedrijven) nodig. 
 
 ## Binnen of buiten?
 
-Knaagdierbeheersing op agrarische bedrijven valt uiteen in twee delen: binnen bedrijfsgebouwen en buiten bedrijfsgebouwen. KBA geldt alleen voor binnen. KBA-GB geldt voor zowel binnen als buiten bedrijfsgebouwen. Als u op uw bedrijf buiten gebruiksgebouwen chemische knaagdierbeheersing wil toepassen, dan moet uw [bedrijf ook gecertificeerd](/wat-wij-doen/KBA-GB-gecertificeerde-bedrijven) zijn door het Keurmerk Plaagdier Management Bedrijven (KPMB).
+Knaagdierbeheersing op agrarische bedrijven
+ valt uiteen in twee delen: binnen bedrijfsgebouwen
+ en buiten bedrijfsgebouwen.
+ KBA geldt alleen voor binnen.
+ KBA-GB geldt voor zowel binnen als buiten
+ bedrijfsgebouwen.
+ Als u op uw bedrijf buiten gebruiksgebouwen chemische knaagdierbeheersing wil toepassen, dan moet uw [bedrijf ook gecertificeerd](/wat-wij-doen/KBA-GB-gecertificeerde-bedrijven) zijn door het Keurmerk Plaagdier Management Bedrijven (KPMB).
 
 Heeft u al een licentie gewasbescherming? Dan kunt u een kennisbijeenkomst met het thema 'KBA' volgen en dit laten bijschrijven op uw huidige pas. Hiermee beschikt u over een licentie KBA.
 
