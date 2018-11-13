@@ -13,13 +13,10 @@ Er zijn [verschillende soorten licenties](/licenties/welke-licenties-zijn-er).
 
 [Gebruik onze tool](/licenties/welke-licentie-heb-ik-nodig) om te weten welke licentie u nodig heeft.
 
-**Snel naar:**
+## Snel naar:
 
 <link-container>
 <link-button link='{"name": "Welke licenties zijn er?","url": "/licenties/welke-licenties-zijn-er"}' ></link-button>
 <link-button link='{"name": "Welke licentie heb ik nodig?","url": "/licenties/welke-licentie-heb-ik-nodig"}' ></link-button>
 <link-button link='{"name": "Licentie aanvragen","url": "/licenties/licentie-aanvragen"}' ></link-button>
 <link-button link='{"name": "Licentie verlengen","url": "/licenties/licentie-verlengen"}' ></link-button>
-<link-button link='{"name": "KBA-GB bijschrijven","url": "/licenties/kba-gb-bijschrijven"}' ></link-button>
-<link-button link='{"name": "Wetten en regels","url": "/licenties/wetten-en-regels"}' ></link-button>
-</link-container>
