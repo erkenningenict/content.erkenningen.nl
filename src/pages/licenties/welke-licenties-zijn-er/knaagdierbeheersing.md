@@ -25,6 +25,8 @@ Meer informatie over knaagdieren en knaagdierbeheersing in het [kennisdosier op 
 
 ## Snel naar:
 
+Verschillende licenties knaagdierbeheersing >> /licenties/welke-licenties-zijn-er 
+
 <link-container>
 <link-button link='{"name": "Welke licentie heb ik nodig?","url": "/licenties/welke-licentie-heb-ik-nodig"}' ></link-button>
 <link-button link='{"name": "Licentie aanvragen","url": "/licenties/licentie-aanvragen"}' ></link-button>
