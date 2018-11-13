@@ -14,7 +14,7 @@ U kunt het formulier ook printen voor uw eigen administratie.
 * Waardering niet-Nederlands diploma bedrijfsvoeren gewasbescherming - aanvullende vragen wanneer diploma niet in het overzicht voor komt
 * Waardering niet-Nederlands diploma distribueren bestrijdingsmiddelen - aanvullende vragen wanneer diploma niet in het overzicht voor komt
 
-## Formulieren voor kennisaanbieders
+## Formulieren voor kennisaanbieders
 
 * Administreren veiligheidsinstructie bedrijf
 * Administreren veiligheidsinstructie werknemer
