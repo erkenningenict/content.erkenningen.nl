@@ -1,7 +1,6 @@
 ---
 title: Wetten en regels
 ---
-
 **De overheid heeft bepaald dat iedereen die met professionele gewasbeschermingsmiddelen of professionele biociden werkt, een licentie moet hebben (in de wetgeving ook wel vakbekwaamheidsbewijs genoemd). Dit doen zij om risico’s voor mens, dier en milieu te verminderen en duurzame toepassingen te stimuleren.**
 
 Er zijn [verschillende soorten licenties](/licenties/welke-licenties-zijn-er). Iedereen die met professionele gewasbeschermingsmiddelen werkt moet een licentie moet hebben. Voor het bestrijden van mollen en woelratten met middelen op basis van fosforwaterstof is het bewijs Mollen- en Woelrattenbestrijding verplicht. Vanaf 1 juli 2015 heeft elke agrariër een bewijs van vakbekwaamheid nodig voor het toepassen van professionele biociden op het eigen bedrijf.
@@ -10,7 +9,7 @@ De wetten en regels voor gewasbescherming zijn vastgelegd in een [Europese Veror
 
 De wetten en regels voor bestrijding van mollen en woelratten en knaagdierbeheersing zijn vastgelegd in de Nederlandse [Regeling](http://wetten.overheid.nl/BWBR0022545/2018-01-01) Gewasbescherming en Biociden.
 
-**Snel naar:**
+## Snel naar:
 
 <link-container>
 <link-button link='{"name": "Welke licentie heb ik nodig?","url": "/licenties/welke-licentie-heb-ik-nodig"}'></link-button>
