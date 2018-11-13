@@ -7,6 +7,10 @@ Mollen en woelratten kunnen een lastig probleem vormen op uw (agrarisch) bedrijf
 
 Wanneer u mollen en woelratten wilt bestrijden met behulp van chemische middelen op basis van fosforwaterstof heeft u de [licentie Mollen- en Woelrattenbestrijding](/licenties/welke-licenties-zijn-er/licentie-mollen-en-woelrattenbestrijding) nodig.
 
+## Snel naar: 
+
+Licentie mollen en woelratten >> /licenties/welke-licenties-zijn-er/licentie-mollen-en-woelrattenbestrijding
+
 <link-container>
 <link-button link='{"name": "Welke licentie heb ik nodig?","url": "/licenties/welke-licentie-heb-ik-nodig"}' ></link-button>
 <link-button link='{"name": "Licentie aanvragen","url": "/licenties/licentie-aanvragen"}' ></link-button>
