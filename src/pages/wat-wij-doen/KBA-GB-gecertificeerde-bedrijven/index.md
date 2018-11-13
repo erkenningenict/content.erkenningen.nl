@@ -9,7 +9,7 @@ Meer informatie vindt u op de websites van het [Keurmerk
  (NVWA)](https://www.nvwa.nl/) en [Inspectie Leefomgeving en
  Transport Infrastructuur ](https://www.ilent.nl/)(ILenT). 
 
-Bureau Erkenningen houdt een [register bij van KBA-GB gecertificeerde bedrijve](/wat-wij-doen-KBA-GB-gecertificeerde-bedrijven/Bedrijvenregister/)n.
+Bureau Erkenningen houdt een [register bij van KBA-GB gecertificeerde bedrijven](/wat-wij-doen-KBA-GB-gecertificeerde-bedrijven/KBA-GB-Bedrijvenregister).
 
 U kunt uw agrarische bedrijf bij Bureau Erkenningen aanmelden voor certificering en registratie.
 
@@ -24,5 +24,5 @@ U kunt uw agrarische bedrijf bij Bureau Erkenningen aanmelden voor certificering
 **Snel naar:**
 
 <link-container>
-<link-button link='{"name": "KBA-GB Bedrijven-register","url": "/wat-wij-doen-KBA-GB-gecertificeerde-bedrijven/Bedrijvenregister/"}'></link-button>
+<link-button link='{"name": "KBA-GB Bedrijven-register","url": "/wat-wij-doen-KBA-GB-gecertificeerde-bedrijven/KBA-GB-Bedrijvenregister"}'></link-button>
 </link-container>
