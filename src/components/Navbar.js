@@ -3,6 +3,7 @@ import Link from "gatsby-link";
 import logo from "../img/BE-logo.svg";
 // import classNames from "classnames";
 import Menu, { SubMenu, Item as MenuItem } from "rc-menu";
+import Search from "../components/Search";
 
 // import { CSSTransition, TransitionGroup } from "react-transition-group";
 // import CSSTransition from "react-transition-group/CSSTransition";
@@ -16,12 +17,9 @@ export default class Navbar extends React.Component {
       collapsed: false
     };
     this.toggleNavbar = this.toggleNavbar.bind(this);
-    // this.showMenu = this.showMenu.bind(this);
-    // this.closeMenu = this.closeMenu.bind(this);
   }
 
   toggleNavbar() {
-    console.log("#DH# toggle called", this.state.collapsed);
     this.setState({
       collapsed: !this.state.collapsed
     });
