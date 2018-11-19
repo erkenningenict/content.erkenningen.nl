@@ -10,7 +10,9 @@ Kijk voor meer informatie bij een van de onderstaande instanties:
   (NVWA)](https://www.nvwa.nl/)
 * [Inspectie Leefomgeving en Transport Infrastructuur](https://www.ilent.nl/) (ILenT).
 
-Bureau Erkenningen houdt een [register bij van KBA-GB gecertificeerde bedrijven](/wat-wij-doen/KBA-GB-gecertificeerde-bedrijven/kba-bedrijven-register).
+Op verzoek van LTO Nederland houdt Bureau Erkenningen een [register bij van KBA-GB gecertificeerde bedrijven](/wat-wij-doen/KBA-GB-gecertificeerde-bedrijven/kba-bedrijven-register). Registratie is kosteloos. \
+\
+Het register wordt gebruikt om het certificeringsbeleid in Nederland te monitoren. Persoons- en bedrijfsgegevens zijn in de rapportages niet traceerbaar.
 
 U kunt uw agrarische bedrijf bij Bureau Erkenningen aanmelden voor certificering en registratie.
 
