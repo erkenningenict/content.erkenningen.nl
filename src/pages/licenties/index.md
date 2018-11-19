@@ -1,7 +1,7 @@
 ---
 title: Licenties voor agrarische en groene beroepen
 ---
-**Wilt u niet-professionele bestrijdingsmiddelen gebruiken? Dan heeft u _geen_ licentie nodig. U moet zich wel houden aan de gebruiksaanwijzing op het etiket.**
+**Wilt u niet-professionele middelen gebruiken? Dan heeft u _geen_ licentie nodig. U moet zich wel houden aan de gebruiksaanwijzing op het etiket.**
 
 Een licentie is **verplicht** wanneer u professionele middelen gebruikt, verkoopt of opslaat die nodig zijn voor:
 
