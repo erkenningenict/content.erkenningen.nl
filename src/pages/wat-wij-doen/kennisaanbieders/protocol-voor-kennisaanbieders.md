@@ -1,7 +1,6 @@
 ---
 title: Protocol voor kennisaanbieders
 ---
-
 1. Organisatoren (kennisaanbieders) vragen een wachtwoord aan bij Bureau Erkenningen om communicatie via www.erkenningen.nl mogelijk te maken.
 2. Kennisaanbieders leggen hun kennisaanbod vooraf voor ter goedkeuring aan het Bureau Erkenningen. Het doen van een goedkeuringsaanvraag houdt in dat de kennisaanbieder het protocol onderschrijft.
 3. De goedkeuringsaanvraag gebeurt via deze website (www.erkenningen.nl) .
@@ -39,9 +38,8 @@ title: Protocol voor kennisaanbieders
 30. De deelname van een licentiehouder wordt verwerkt nadat de betaling is ontvangen. ( €7,50,-- ex BTW per deelnemer).
 31. Het Bureau Erkenningen stuurt de licentiehouder een nieuwe licentie, nadat voldaan is aan de eisen voor het verlengen van de bestaande licentie. Mocht de nieuwe licentie ingaan later dan drie maanden na het aanmaken van het bewijs wordt eerst een brief gestuurd aan de licentiehouder.
 32. De nieuwe licentie heeft als begindatum , de datum “geldig tot”van het voorlopende bewijs; óf de dag die als examendatum door de exameninstelling is aangegeven. Voorwaarde in beide mogelijkheden is dat alle minimaal noodzakelijke deelnames van de licentiehouder correct zijn verwerkt en aan betaling en verificatie van rechtmatigheid is voldaan.
-
 33. Elke kennisbijeenkomst wordt afgesloten met een evaluatie die de kennisaanbieder gebruikt voor interne kwaliteitscontrole.
-34. Steekproefsgewijs kan het Bureau Erkenningen de evaluatieformulieren van een gehouden kennisbijeenkomst opvragen bij de kennisaanbieder. De kennisaanbieder is gehouden deze formulieren binnen 14 dagen na de vraag aan Bureau Erkenningen op te sturen. \[VERVALLEN PER 1 NOVEMBER 2008].
+34. Steekproefsgewijs kan het Bureau Erkenningen de evaluaties van een gehouden kennisbijeenkomst opvragen bij de kennisaanbieder. De kennisaanbieder is gehouden deze binnen 14 dagen na de vraag aan Bureau Erkenningen op te sturen.
 35. De organisatoren van bijeenkomsten verlenen toegang en medewerking tijdens bijeenkomsten aan toezichthouders vanuit of namens het Bureau Erkenningen. De procedure van toezicht en kwaliteitshandhaving is als volgt:\
     a. bezoek van toezichthouder aan bijeenkomst;\
     b. bespreking waarnemingen van toezichthouder met docent;\
@@ -49,9 +47,9 @@ title: Protocol voor kennisaanbieders
     d. kopie waarneming van Bureau Erkenningen aan kennisaanbieder;\
     e. ingeval onvoldoende beoordeling: vraag om aan reactie aan kennisaanbieder;\
     f. al of niet definitief onvoldoende verklaren door Bureau Erkenningen van bijeenkomst;\
-    g. na derde onvoldoende beoordeling wordt aanbodcode ingetrokken.
+    g. na tweede onvoldoende beoordeling wordt aanbodcode ingetrokken.
 36. Het Bureau Erkenningen is niet aansprakelijk voor beleidswijzigingen welke gevolgen hebben voor de eisen die gesteld worden aan licentieverlenging; als ook niet aansprakelijk voor het optreden en administratieve verwerking van de kennisaanbieder.
-37. De informatie beschikbaar bij het Bureau Erkenningen dient voor: - het goedkeuren en erkennen van kennisaanbod; - het (laten) verifiëren van deelnamegegevens; - het zo nodig (virtueel) uitreiken van getuigschriften, - het in opdracht van het ministerie van EZ afgeven van licenties en - het maken van voortgangsrapportages t.b.v. bestuur en beleid.
+37. De informatie beschikbaar bij het Bureau Erkenningen dient voor: - het goedkeuren en erkennen van kennisaanbod; - het (laten) verifiëren van deelnamegegevens; - het zo nodig (virtueel) uitreiken van getuigschriften, - het in opdracht van het ministerie van LNV afgeven van licenties en - het maken van voortgangsrapportages t.b.v. bestuur en beleid.
 38. Het kennisaanbod dat ter goedkeuring en erkenning wordt voorgelegd aan het Bureau Erkenningen, blijft eigendom van de kennisaanbieder.
 39. Het Bureau Erkenningen kan weigeren aanvragen in behandeling te nemen van organisaties die zich niet of onvoldoende hebben gehouden aan dit protocol.
 40. Perioden van niet keuren of erkennen, die worden aangegeven door het Bureau Erkenningen, laten de aangegeven termijnen evenredig opschuiven.
