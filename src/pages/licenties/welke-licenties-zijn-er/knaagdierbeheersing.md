@@ -9,9 +9,7 @@ Wanneer u knaagdieren wilt beheersen met professionele chemische bestrijdingsmid
 
 ## Binnen of buiten?
 
-Knaagdierbeheersing op agrarische bedrijven
-valt uiteen in twee delen: binnen bedrijfsgebouwen
-en buiten bedrijfsgebouwen.
+Knaagdierbeheersing op agrarische bedrijven valt tot op heden uiteen in twee delen: binnen bedrijfsgebouwen en buiten bedrijfsgebouwen.
 KBA geldt alleen voor binnen.
 KBA-GB geldt voor zowel binnen als buiten
 bedrijfsgebouwen.
@@ -20,6 +18,10 @@ Als u op uw bedrijf buiten gebruiksgebouwen chemische knaagdierbeheersing wil to
 Heeft u al een licentie gewasbescherming? Dan kunt u een kennisbijeenkomst met het thema 'KBA' volgen en dit laten bijschrijven op uw huidige pas. Hiermee beschikt u over een licentie KBA.
 
 Met de de [tool van Bureau Erkenningen](/licenties/welke-licentie-heb-ik-nodig) kunt u bepalen welke licentie u nodig heeft.
+
+## Let op
+
+Vanaf 2022 gaat het CTGB de toelatingen voor anti-coagulantia wijzigen. Voor steeds meer middelen is dan de licentie KBA-GB noodzakelijk en is de licentie KBA niet langer voldoende.
 
 Meer informatie over knaagdieren en knaagdierbeheersing in het [kennisdosier op Groen Kennisnet.](https://www.groenkennisnet.nl/nl/groenkennisnet/show/dossier-knaagdierbeheersing.htm)
 
