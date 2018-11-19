@@ -1,15 +1,14 @@
 ---
 title: KBA-GB gecertificeerde bedrijven
 ---
+**Als u op uw bedrijf buiten gebruiksgebouwen en voederopslagplaatsen knaagdierbeheersing wil toepassen (anti-coagulantia), dan moet uw bedrijf gecertificeerd zijn.  **
 
-**Als u op uw bedrijf buiten gebruiksgebouwen knaagdierbeheersing wil toepassen (rodenticiden), dan moet uw bedrijf gecertificeerd zijn bij een van de onderstaande instanties.**
+Kijk voor meer informatie bij een van de onderstaande instanties:
 
-Kijk voor meer informatie op de websites van deze instanties:
-
-- [Keurmerk Plaagdier Management Bedrijven (KPMB)](https://kpmb.nl/register/certificerende-instanties)
-- de [Nederlandse Voedsel en Warenautoriteit
+* [Keurmerk Plaagdier Management Bedrijven (KPMB)](https://kpmb.nl/register/certificerende-instanties)
+* de [Nederlandse Voedsel en Warenautoriteit
   (NVWA)](https://www.nvwa.nl/)
-- [Inspectie Leefomgeving en Transport Infrastructuur](https://www.ilent.nl/) (ILenT).
+* [Inspectie Leefomgeving en Transport Infrastructuur](https://www.ilent.nl/) (ILenT).
 
 Bureau Erkenningen houdt een [register bij van KBA-GB gecertificeerde bedrijven](/wat-wij-doen/KBA-GB-gecertificeerde-bedrijven/kba-bedrijven-register).
 
@@ -17,10 +16,10 @@ U kunt uw agrarische bedrijf bij Bureau Erkenningen aanmelden voor certificering
 
 ## Het registratie proces bestaat uit 5 stappen:
 
-1. Registreer u als agrariër door uw gegevens in te voeren, als u al bekend bent in Bureau Erkenningen staan uw gegevens vooraf ingevuld. Na registratie ontvangt u een e-mail met het verzoek om uw e-mailadres te verifiëren.
+1. Registreer u als agrariër door uw gegevens in te voeren. Als u al bekend bent in Bureau Erkenningen staan uw gegevens vooraf ingevuld. Na registratie ontvangt u een e-mail met het verzoek om uw e-mailadres te verifiëren.
 2. Verifieer uw e-mailadres, zodat de certificerende instantie contact met u kan opnemen.
 3. Registreer uw bedrijf door de bedrijfsnaam in te voeren en eventueel adresgegevens aan te passen.
-4. Kies een certificerende instantie.
+4. Kies een certificerende instantie (de audit organisatie).
 5. Na bevestiging van uw keuze is uw (voorlopige of pre)registratie vastgelegd en ontvangt u een e-mail met uw ingevoerde gegevens. Ook de door u gekozen certificerende instantie ontvangt een e-mail met uw gegevens zodat er later contact met u kan worden opgenomen.
 
 **Snel naar:**
