@@ -49,7 +49,7 @@ Staat uw diploma er niet tussen? Vul dan een [formulier](/wat-wij-doen/formulier
 
 2.01 Getuigschrift Bedrijfsvoeren Gewasbescherming of Certificaat Gewasbescherming B (licentie 2)
 
-3.01 Getuigschrift Gewasbescherming C of Distribueren bestrijdingsmiddelen.
+3.01 Certificaat Gewasbescherming C of Distribueren bestrijdingsmiddelen.
 
 4.01 Getuigschrift Mollen- en woelrattenbestrijding.
 
