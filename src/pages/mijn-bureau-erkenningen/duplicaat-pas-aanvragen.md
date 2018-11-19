@@ -12,7 +12,7 @@ U kunt zichzelf ook identificeren met de [Bureau Erkenningen app](/wat-wij-doen/
 ## Nog geen pas
 
 Heeft u examen gedaan en uw certificaat behaald? Uw exameninstelling geeft dit automatisch aan ons door. Uw pasje krijgt u thuisgestuurd. \
-**LET OP**: Dit geld niet voor de licentie Adviseur Gewasbescherming. Heeft u examen gedaan bij een hbo-instelling en uw certificaat behaald, dan moet u dit per mail bij ons melden.
+**LET OP**: Dit geldt niet voor de licentie Adviseren Gewasbescherming. Heeft u examen gedaan op een hbo-instelling en uw certificaat behaald, dan kunt u hier uw licentie aanvragen.
 
 ## Inloggegevens kwijt
 
