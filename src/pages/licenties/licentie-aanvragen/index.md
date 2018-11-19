@@ -5,7 +5,8 @@ title: Licentie aanvragen
 
 U kunt een certificaat behalen op een erkende [exameninstelling](/wat-wij-doen/exameninstellingen/welke-exameninstellingen-zijn-er). Deze geeft aan ons de resultaten van uw examen door.
 
-Bent u geslaagd, dan kunt u [een licentie aanvragen](https://www.erkenningen.nl/Default.aspx?tabid=153).
+Bent u geslaagd, dan krijgt u automatisch uw pas thuisgestuurd.\
+**LET OP**: Dit geldt niet voor de licentie Adviseur Gewasbescherming. Heeft u examen gedaan op een hbo-instelling en uw certificaat behaald, dan kunt u hier uw licentie aanvragen.
 
 Een aantal niet-Nederlandse diploma's wordt ook erkend. Kijk bij de [geldige diploma's](/licenties/licentie-aanvragen/ik-heb-een-buitenlands-diploma) welk diploma volstaat voor welke licentie.
 
