@@ -1,7 +1,6 @@
 ---
 title: Kennisaanbieders
 ---
-
 **Licentiehouders volgen erkende kennisbijeenkomsten bij kennisaanbieders. Bureau Erkenningen erkent en beoordeelt deze kennisbijeenkomsten.**
 
 ## Kennisaanbieder worden
@@ -19,7 +18,7 @@ De lesstof moet gericht zijn op de competenties die nodig zijn voor de [verschil
 
 ## Beoordeling kwaliteit
 
-Elke kennisbijeenkomst wordt afgesloten met een evaluatie. Deze dient voor interne kwaliteitscontrole en geeft inzicht aan Bureau Erkenningen. Steekproefsgewijs wonen toezichthouders van Bureau Erkenningen het kennisaanbod bij. Zij bespreken hun bevindingen met de docent en rapporteren aan Bureau Erkenningen. Een onvoldoende beoordeling kan leiden tot intrekken van het kennisaanbod.
+Elke kennisbijeenkomst wordt afgesloten met een evaluatie. Deze dient voor interne kwaliteitscontrole bij de kennisaanbieder. Steekproefsgewijs wonen toezichthouders van Bureau Erkenningen het kennisaanbod bij. Zij bespreken hun bevindingen met de docent en rapporteren aan Bureau Erkenningen. Een onvoldoende beoordeling kan leiden tot intrekken van het kennisaanbod.
 
 ## Verlengen licenties
 
