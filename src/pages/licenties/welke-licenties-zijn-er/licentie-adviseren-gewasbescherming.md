@@ -16,7 +16,7 @@ Sommige buitenlandse diploma's worden ook erkend.  Voor mensen met een niet Nede
 
 ## Nodig voor verlenging licentie:
 
-U moet 4 kennisbijeenkomsten volgen, waarvan minimaal 1 met het thema 'Veiligheid en Techniek'.
+U moet 5 kennisbijeenkomsten volgen, waarvan minimaal 1 met het thema 'Veiligheid en Techniek'.
 
 **Snel naar:**
 
