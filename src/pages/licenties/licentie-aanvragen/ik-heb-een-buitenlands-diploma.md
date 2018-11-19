@@ -1,7 +1,6 @@
 ---
 title: Geldige diplomas
 ---
-
 **Onderstaand vindt u een overzicht van de diploma's die geldig zijn voor het aanvragen van een licentie.**
 
 Ze zijn gerangschikt op alfabetische volgorde van het land. ook de Nederlandse diploma's.
@@ -48,69 +47,13 @@ Staat uw diploma er niet tussen? Vul dan een [formulier](/wat-wij-doen/formulier
 
 1.01 Getuigschrift Uitvoeren Gewasbescherming of Certificaat Gewasbescherming A
 
-1.01 Getuigschrift Uitvoeren Gewasbescherming of Certificaat Gewasbescherming A
-
-1.02 Certificaat Verzorgen Gewas
-
-1.03 Certificaat Verzorgen teelt in de afdeling plantenteelt
-
-1.04 Certificaat Verzorgen Veehouderijbedrijf
-
-1.05 Certificaat Verzorgen Paardenhouderijbedrijf
-
-1.06 Certificaat Uitvoeren Beschermings- en Bestrijdingswerkzaamheden in de afdeling groene ruimte
-
-1.07 Certificaat Verzorgen onderhoud terreinvoorziening en gewasbescherming in de afdeling groene ruimte
-
-1.08 Certificaat Verzorgen Gewasbescherming
-
-1.09 Getuigschrift Inzetten Gewasbescherming
-
-1.10 Diploma Beginnend Beroepsbeoefenaar Plantenteelt
-
-1.11 Diploma Beginnend Beroepsbeoefenaar Veehouderij diploma in de afdeling plantenteelt
-
-1.12 Diploma Beginnend Beroepsbeoefenaar Paardenhouderij en Paardensport diploma in de afdeling paardenhouderij en paardensport
-
-1.13 Diploma Beginnend Beroepsbeoefenaar Groene Ruimte diploma in de afdeling groene ruimte
-
-1.14 Diploma Gespecialiseerd beroepsbeoefenaar diploma in de afdeling plantenteelt (akkerbouw, bloementeelt, bollenteelt, boomteelt, fruitteelt, loonwerk, paddestoelenteelt, potplantenteelt, groenteteelt) of in de afdeling veehouderij
-
-1.15 Diploma Zelfstandig Beroepsbeoefenaar (ZB) diploma in de afdeling paardenhouderij en paardensport
-
-1.16 Diploma Zelfstandig Beroepsbeoefenaar Klein Groen diploma in de afdeling groene ruimte
-
-1.17 Diploma Zelfstandig Beroepsbeoefenaar diploma in de afdeling veehouderij
-
-1.18 Diploma Kader Functionaris Groenbeheer diploma in de afdeling groene ruimte
-
-1.19 Diploma Kader Functionaris diploma in de afdeling paardenhouderij en paardensport
-
-1.20 Diploma Kader Functionaris diploma in de afdeling veehouderij
-
-1.21 Diploma Kaderfunctionaris Bos- en Natuurbeheer Helicon, Velp Nederland, Licentie 1 afgegeven na inzage in het vakkenpakket, onderdeel van het pakket was 'Onderhouden terreinvoorzieningen en gewasbescherming'.
-
-1.22 Diploma Hoger Agrarisch Onderwijs, met daarop of daarbij de aantekening dat is voldaan aan de eindtermen behorend bij Gewasbescherming A of B (licentie 1 of 2)-afgegeven voor 01-10-2012 afgegeven voor 1 oktober 2012: afstudeerrichtingen (Nederlandse) Landbouw, Tuinbouw, Tropische tuinbouw, Bosbouw, Bos-en natuurbeheer, Plantenteelt, Veehouderij of de daaronder vallende differentiaties. Met daarop of daarbij de aantekening dat is voldaan aan de eindtermen behorend bij Gewasbescherming A (licentie 1)
-
-1.23 Diploma bacheloropleiding Tuin- en Akkerbouw-afgegeven voor 01-10-2012 afgegeven voor 1 oktober 2012: Hogeschool INHolland Delft, Nederland. Licentie 1 afgegeven na inzage in het vakkenpakket waarin onder andere de onderwijseenheid Gewasbescherming en bemesting was opgenomen.
-
-1.24 Diploma Hoger Beroepsonderwijs Tuinbouw en Akkerbouw-afgegeven voor 01-10-2012 afgegeven voor 1 oktober 2012: Hogeschool INHolland Delft, Nederland. Licentie 1 afgegeven na inzage in het vakkenpakket waarin onder andere de onderwijseenheid Gewasbescherming en bemesting was opgenomen.
-
-1.25 Diploma Agrarische Pedagogische Hogeschool-afgegeven voor 01-10-2012 afgegeven voor 1 oktober 2012: afstudeerrichtingen Plantenteelt en -verwerking of Dieren-/Veehouderij en –verwerking. Met daarop of daarbij de aantekening dat is voldaan aan de eindtermen behorend bij Gewasbescherming A (licentie 1)
-
 2.01 Getuigschrift Bedrijfsvoeren Gewasbescherming of Certificaat Gewasbescherming B (licentie 2)
-
-2.02 Certificaat Verzorgen gewasbescherming certificaat in de afdeling plantenteelt in combinatie met een certificaat uitvoeren … teelt (bijvoorbeeld 2e tak open teelt) of een certificaat bedrijfsvoeren … gewassen (bijvoorbeeld veldgewassen)
-
-2.03 Diploma Kader Functionaris Plantenteelt diploma in de afdeling plantenteelt (akkerbouw, bloementeelt, bollenteelt, boomteelt, fruitteelt, loonwerk, paddestoelenteelt, potplantenteelt, groenteteelt)
-
-2.04 Diploma Zelfstandig Beroepsbeoefenaar Plantenteelt
-
-2.05 Diploma Hoger Agrarisch Onderwijs afgegeven voor 1 oktober 2012: diploma/getuigschrift voorzien van een aantekening dat aan de eindtermen voor de licentie Bedrijfsvoeren Gewasbescherming is voldaan
 
 3.01 Getuigschrift Gewasbescherming C of Distribueren bestrijdingsmiddelen.
 
 4.01 Getuigschrift Mollen- en woelrattenbestrijding.
+
+5.01 Getuigschrift HBO Adviseren Gewasbescherming
 
 ## Poolse diploma's
 
