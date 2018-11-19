@@ -16,6 +16,9 @@ U kunt het formulier ook printen voor uw eigen administratie.
 
 ## Formulieren voor kennisaanbieders
 
+* Evaluatieformulier voor kennisaanbieders
+
+## Formulieren voor agrarische bedrijven
+
 * Administreren veiligheidsinstructie bedrijf
 * Administreren veiligheidsinstructie werknemer
-* Evaluatieformulier voor kennisaanbieders
