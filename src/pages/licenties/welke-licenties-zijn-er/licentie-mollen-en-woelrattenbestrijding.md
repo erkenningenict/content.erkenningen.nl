@@ -15,7 +15,7 @@ Sommige buitenlandse diploma's worden ook erkend.  Voor mensen met een niet Nede
 
 ## Nodig voor verlenging licentie:
 
-???
+U doet opnieuw examen of u volgt voor het einde van de geldigheid van de licentie één kennisbijeenkomst met het thema mollen en woelratten.
 
 **Snel naar:**
 
