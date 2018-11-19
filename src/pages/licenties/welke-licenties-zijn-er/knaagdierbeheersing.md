@@ -1,12 +1,11 @@
 ---
 title: Knaagdierbeheersing
 ---
-
 **Er zijn vele manieren om knaagdieren te beheersen. Als niets meer helpt, kunt u chemische bestrijdingsmiddelen inzetten.**
 
 Knaagdieren zoals muizen en ratten kunnen een lastig probleem vormen op uw (agrarische) bedrijf. Ze knagen aan alles wat los en vast zit en verspreiden ziektes.
 
-Wanneer u knaagdieren wilt beheersen met professionele chemische bestrijdingsmiddelen (rodenticiden), heeft u een [licentie knaagdierbeheersing (KBA)](/licenties/welke-licenties-zijn-er/licentie-knaagdierbeheersing-op-agrarische-bedrijven) nodig.
+Wanneer u knaagdieren wilt beheersen met professionele chemische bestrijdingsmiddelen (anti-coagulantia), heeft u een [licentie knaagdierbeheersing (KBA)](/licenties/welke-licenties-zijn-er/licentie-knaagdierbeheersing-op-agrarische-bedrijven) nodig.
 
 ## Binnen of buiten?
 
