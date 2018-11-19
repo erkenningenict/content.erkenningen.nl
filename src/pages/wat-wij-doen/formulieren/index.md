@@ -20,5 +20,6 @@ U kunt het formulier ook printen voor uw eigen administratie.
 
 ## Formulieren voor agrarische bedrijven
 
+* Aanvragen veiligheidsinstructie
 * Administreren veiligheidsinstructie bedrijf
 * Administreren veiligheidsinstructie werknemer
