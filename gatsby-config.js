@@ -7,7 +7,14 @@ module.exports = {
   },
   plugins: [
     "gatsby-plugin-react-helmet",
-    "gatsby-plugin-sass",
+    {
+      resolve: `gatsby-plugin-sass`,
+      options: {
+        cssLoaderOptions: {
+          camelCase: false
+        }
+      }
+    },
     {
       resolve: "gatsby-source-filesystem",
       options: {
@@ -54,7 +61,7 @@ module.exports = {
       }
     },
     {
-      resolve: `@andrew-codes/gatsby-plugin-elasticlunr-search`,
+      resolve: `@gatsby-contrib/gatsby-plugin-elasticlunr-search`,
       options: {
         // Fields to index
         fields: ["title", "excerpt"],
@@ -79,7 +86,6 @@ module.exports = {
         }
       }
     },
-    "gatsby-plugin-mdx",
     {
       resolve: "gatsby-source-filesystem",
       options: {

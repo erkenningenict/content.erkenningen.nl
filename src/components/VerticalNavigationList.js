@@ -10,7 +10,7 @@ class VerticalNavigationList extends Component {
     };
   }
   render() {
-    const { currentSlug, edges, searchData } = this.props;
+    const { edges, searchData } = this.props;
     const { hits } = this.state;
 
     return (

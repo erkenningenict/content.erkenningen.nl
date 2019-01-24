@@ -1,6 +1,5 @@
 import React from "react";
 import PropTypes from "prop-types";
-import { ContentPage } from "../../templates/content-page";
 
 const PagePreview = ({ entry, widgetFor }) => (
   <PageTemplate

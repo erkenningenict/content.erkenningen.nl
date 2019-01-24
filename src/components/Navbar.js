@@ -1,9 +1,11 @@
 import React from "react";
 import Link from "gatsby-link";
 import logo from "../img/BE-logo.svg";
-// import classNames from "classnames";
+import classNames from "classnames";
 import Menu, { SubMenu, Item as MenuItem } from "rc-menu";
-import Search from "../components/Search";
+import "./Navbar.css";
+import "./hamburger.css";
+import Separator from "./separator";
 
 // import { CSSTransition, TransitionGroup } from "react-transition-group";
 // import CSSTransition from "react-transition-group/CSSTransition";
@@ -28,16 +30,18 @@ export default class Navbar extends React.Component {
     return (
       <nav className="container navbar-be">
         <div className="row">
-          <div className="col-md-3 pr-lg-5 pt-lg-4 minWidth">
-            <Link to="/" className="navbar-brand">
-              <img
-                src={logo}
-                alt="Bureau Erkenningen"
-                style={{ width: "100%" }}
-              />
-            </Link>
+          <div className="col-md-3 col-5 col-sm-3 pr-lg-5 pt-lg-4 minWidth">
+            {!this.state.collapsed && (
+              <Link to="/" className="navbar-brand">
+                <img
+                  src={logo}
+                  alt="Bureau Erkenningen"
+                  style={{ width: "100%" }}
+                />
+              </Link>
+            )}
           </div>
-          <div className="col-md-9 pl-sm-3 pl-lg-0 pt-lg-5 pb-2 d-flex justify-content-end">
+          <div className="col-md-9 col-7 col-sm-9 pl-sm-3 pl-lg-0 pt-lg-5 pb-2 d-flex justify-content-end flex-list">
             <Menu
               mode={this.state.collapsed ? "inline" : "horizontal"}
               openAnimation="slide-up1"
@@ -45,7 +49,7 @@ export default class Navbar extends React.Component {
             >
               <SubMenu
                 title={
-                  <Link activeClassName="active" exact to="/">
+                  <Link activeClassName="active" to="/">
                     Home
                   </Link>
                 }
@@ -66,7 +70,7 @@ export default class Navbar extends React.Component {
                   </Link>
                 </MenuItem>
               </SubMenu>
-              <li className="rc-menu-item d-none d-lg-block">|</li>
+              <Separator />
               <SubMenu
                 title={
                   <Link activeClassName="active" to="/wat-wij-doen">
@@ -108,7 +112,7 @@ export default class Navbar extends React.Component {
                   <Link to="/wat-wij-doen/brochures">Brochures</Link>
                 </MenuItem>
               </SubMenu>
-              <li className="rc-menu-item d-none d-lg-block">|</li>
+              <Separator />
               <SubMenu
                 title={
                   <Link activeClassName="active" to="/licenties">
@@ -145,7 +149,7 @@ export default class Navbar extends React.Component {
                   <Link to="/licenties/wetten-en-regels">Wetten en regels</Link>
                 </MenuItem>
               </SubMenu>
-              <li className="rc-menu-item d-none d-lg-block">|</li>
+              <Separator />
               <SubMenu
                 title={
                   <Link activeClassName="active" to="/bijeenkomsten">
@@ -169,7 +173,7 @@ export default class Navbar extends React.Component {
                   </Link>
                 </MenuItem>
               </SubMenu>
-              <li className="rc-menu-item d-none d-lg-block">|</li>
+              <Separator />
               <SubMenu
                 title={
                   <Link activeClassName="active" to="/mijn-bureau-erkenningen">
@@ -201,7 +205,9 @@ export default class Navbar extends React.Component {
               />
             </form>
             <button
-              className="navbar-toggler d-lg-none"
+              className={`d-lg-none hamburger hamburger--slider ${
+                this.state.collapsed ? "is-active" : ""
+              }`}
               type="button"
               data-toggle="collapse"
               data-target="#navbarSupportedContent"
@@ -210,7 +216,9 @@ export default class Navbar extends React.Component {
               aria-label="Toggle navigation"
               onClick={this.toggleNavbar}
             >
-              <span className="navbar-toggler-icon" />
+              <span className="hamburger-box">
+                <span className="hamburger-inner" />
+              </span>
             </button>
           </div>
         </div>

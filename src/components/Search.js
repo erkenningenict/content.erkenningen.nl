@@ -19,7 +19,6 @@ export default class Search extends Component {
 
     this.updateQuery = evt => {
       const text = evt.target.value;
-      const newQuery = qs.stringify({ q: text }, { format: "RFC1738" });
       const hits = this.getHits(text);
       this.props.onSearch(text, hits);
       this.setState(s => {

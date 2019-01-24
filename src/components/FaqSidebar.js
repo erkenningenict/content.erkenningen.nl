@@ -2,12 +2,6 @@ import React from "react";
 import styled from "styled-components";
 import Link from "gatsby-link";
 
-const StyledArrow = styled.span`
-  font-size: 1rem;
-  color: #fff;
-  margin-right: 10px;
-`;
-
 const StyledButton = styled(Link)`
   text-decoration: none;
   background: none;
@@ -23,16 +17,12 @@ const StyledButton = styled(Link)`
   }
 `;
 
-const StyledBreadcrumbsContainer = styled.div`
-  // padding: 0.5rem 1rem;
-`;
-
 class FaqSidebar extends React.Component {
   render() {
     return (
       <div className="faqSidebar--container">
         <p>
-          Heeft u een vraag? Kijk dan eens bij de 'meest gestelde vragen' (FAQ)
+          Heeft u een vraag? Kijk dan eens bij de meest gestelde vragen (FAQ)
         </p>
 
         <p>

@@ -29,6 +29,7 @@ $menuPrefixCls: rc-menu;
     font-weight: normal;
     &.active {
       font-weight: 900;
+      color: $be-white;
     }
   }
 
@@ -188,7 +189,8 @@ $menuPrefixCls: rc-menu;
 
     & > .rc-menu-item,
     & > .rc-menu-submenu > .rc-menu-submenu-title {
-      padding: 15px 5px;
+      // padding: 15px 5px;
+      margin: 15px 5px;
     }
 
     & > .rc-menu-submenu,

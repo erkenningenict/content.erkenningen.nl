@@ -32,6 +32,7 @@ export default class LinkButton extends React.Component {
           className="link-button"
           href={url}
           target="_blank"
+          rel="noopener noreferrer"
           title={parsedName}
         >
           {parsedName}
