@@ -1,28 +1,5 @@
 import React from "react";
-import styled from "styled-components";
 import Link from "gatsby-link";
-
-const StyledArrow = styled.span`
-  font-size: 1rem;
-  color: #fff;
-  margin-right: 10px;
-`;
-
-const StyledLink = styled(Link)`
-  text-decoration: none;
-  color: #fff;
-  font-size: 1.5rem;
-  margin-right: 10px;
-  &:hover {
-    color: #fff;
-    text-decoration: underline;
-  }
-`;
-
-const StyledSpan = styled.span`
-  color: #fff;
-  font-size: 1.5rem;
-`;
 
 class Breadcrumb extends React.Component {
   render() {

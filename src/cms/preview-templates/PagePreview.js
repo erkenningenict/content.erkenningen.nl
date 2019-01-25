@@ -1,8 +1,8 @@
 import React from "react";
 import PropTypes from "prop-types";
-import { Page } from "../../templates/page";
 
 const PagePreview = ({ entry, widgetFor }) => (
+  // eslint-disable-next-line:react/jsx-no-undef
   <PageTemplate
     title={entry.getIn(["data", "title"])}
     content={widgetFor("body")}

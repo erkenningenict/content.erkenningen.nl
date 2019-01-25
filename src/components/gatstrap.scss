@@ -171,6 +171,10 @@ li.rc-menu-item.d-none {
   padding: 1rem;
   p {
     font-size: 1.25rem;
+    @include media-breakpoint-down(sm) {
+      font-size: 1rem;
+    }
+    margin-right: 0.2rem;
   }
 }
 
@@ -179,7 +183,7 @@ li.rc-menu-item.d-none {
 }
 
 .breadcrumbs {
-  font-size: 2vw;
+  font-size: calc(10px + 0.5vw);
   width: 100%;
   white-space: nowrap;
   overflow: hidden;
@@ -332,6 +336,9 @@ $link-button-gap: 2.5rem;
 .link-container {
   display: flex;
   flex-wrap: wrap;
+  @include media-breakpoint-down(sm) {
+    justify-content: center;
+  }
   > .link-button {
     margin-bottom: $link-button-gap;
     width: $link-button-width;
@@ -449,7 +456,7 @@ $margin-top-containers: 0.4rem;
         font-size: 1.5vw;
       }
       @include media-breakpoint-up(lg) {
-        font-size: 2vw;
+        font-size: calc(16px + 0.5vw);
       }
     }
     img {
