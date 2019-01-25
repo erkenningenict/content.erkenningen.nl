@@ -1,7 +1,6 @@
 import React from "react";
 import Link from "gatsby-link";
 import logo from "../img/BE-logo.svg";
-import classNames from "classnames";
 import Menu, { SubMenu, Item as MenuItem } from "rc-menu";
 import "./Navbar.css";
 import "./hamburger.css";
@@ -36,7 +35,7 @@ export default class Navbar extends React.Component {
                 <img
                   src={logo}
                   alt="Bureau Erkenningen"
-                  style={{ width: "100%" }}
+                  style={{ width: "100%", maxWidth: "230px" }}
                 />
               </Link>
             )}
@@ -46,6 +45,7 @@ export default class Navbar extends React.Component {
               mode={this.state.collapsed ? "inline" : "horizontal"}
               openAnimation="slide-up1"
               className={!this.state.collapsed ? "d-none d-lg-block" : "mr-4"}
+              style={{ width: "100%" }}
             >
               <SubMenu
                 title={
