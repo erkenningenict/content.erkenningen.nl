@@ -1,5 +1,0 @@
----
-title: Zoeken
----
-
-Zoeken pagina

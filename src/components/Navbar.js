@@ -194,6 +194,11 @@ export default class Navbar extends React.Component {
                     Duplicaat pas aanvragen
                   </Link>
                 </MenuItem>
+                <MenuItem>
+                  <Link to="/mijn-bureau-erkenningen/be-app">
+                    Gebruik onze app
+                  </Link>
+                </MenuItem>
               </SubMenu>
             </Menu>
             <form className="form-inline searchForm">

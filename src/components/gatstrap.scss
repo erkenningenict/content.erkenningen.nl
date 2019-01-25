@@ -183,7 +183,7 @@ li.rc-menu-item.d-none {
 }
 
 .breadcrumbs {
-  font-size: 2vw;
+  font-size: calc(10px + 0.5vw);
   width: 100%;
   white-space: nowrap;
   overflow: hidden;
