@@ -37,7 +37,11 @@ export default class Navbar extends React.Component {
             )}
           </div>
           <div className="col-md-9 col-7 col-sm-9 pl-sm-3 pl-lg-0 pt-lg-5 pb-2 d-flex justify-content-start flex-list">
-            <Menu mode={this.state.collapsed ? 'inline' : 'horizontal'} className={!this.state.collapsed ? 'd-none d-lg-block' : 'mr-4'}>
+            <Menu
+              mode={this.state.collapsed ? 'inline' : 'horizontal'}
+              openAnimation="slide-up"
+              className={!this.state.collapsed ? 'd-none d-lg-block' : 'mr-4'}
+            >
               <SubMenu
                 title={
                   <Link activeClassName="active" to="/">
