@@ -64,6 +64,9 @@ $menuPrefixCls: rc-menu;
   }
 
   &-submenu-active > &-submenu-title {
+    &:hover {
+      color: $be-black;
+    }
     & a:hover {
       color: $be-black;
     }
@@ -136,6 +139,7 @@ $menuPrefixCls: rc-menu;
     li.rc-menu-item,
     li.rc-menu-submenu {
       border-bottom: solid 2px #fff;
+      color: $be-black;
     }
     li.rc-menu-item:last-child {
       border-bottom: transparent solid 2px;
