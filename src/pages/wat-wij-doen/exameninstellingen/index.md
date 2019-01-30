@@ -1,7 +1,8 @@
 ---
 title: Exameninstellingen
 ---
-**Voor het aanvragen van een nieuwe licentie moet u eerst examen doen bij een erkende exameninstelling. **
+
+**Voor het aanvragen van een nieuwe licentie moet u eerst examen doen bij een erkende exameninstelling.**
 
 Zoek een [exameninstelling bij u in de buurt](/wat-wij-doen/exameninstellingen/welke-exameninstellingen-zijn-er).
 

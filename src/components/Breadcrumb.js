@@ -18,7 +18,7 @@ class Breadcrumb extends React.Component {
         <span key={index}>
           {index > 0 ? <span className="arrow">></span> : null}
           {cleanPaths.length === index + 1 ? (
-            <span>{path.replace(/-/g, " ").replace(".md", "")}</span>
+            <>{path.replace(/-/g, " ").replace(".md", "")}</>
           ) : (
             <Link to={fullPath}>
               {path.replace(/-/g, " ").replace(".md", "")}
