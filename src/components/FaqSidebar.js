@@ -22,13 +22,14 @@ class FaqSidebar extends React.Component {
     return (
       <div className="faqSidebar--container">
         <p>
-          Heeft u een vraag? Kijk dan eens bij de meest gestelde vragen (FAQ)
+          Heeft u een vraag? Kijk dan eens bij de meest gestelde vragen (
+          <Link to="/faq">FAQ</Link>)
         </p>
 
         <p>
           Of <Link to="/zoeken">zoek</Link> op trefwoorden
         </p>
-        <StyledButton to="/zoeken">FAQ</StyledButton>
+        <StyledButton to="/faq">FAQ</StyledButton>
       </div>
     );
   }
