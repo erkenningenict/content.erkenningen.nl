@@ -15,7 +15,6 @@ exports.onCreateNode = ({ node, getNode, actions }) => {
     if (dirSplit.length > 0 && dirSplit[0] === "") {
       dirSplit.shift(); // because path starts with /, '' is always at position 0
     }
-
     let type = "page";
     console.log("dirsplit:", slug, "dir", dirSplit[0]);
     switch (dirSplit[0]) {
