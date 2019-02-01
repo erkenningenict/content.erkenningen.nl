@@ -1,16 +1,12 @@
 $menuPrefixCls: rc-menu;
 
 @font-face {
-  font-family: "FontAwesome";
-  src: url("https://cdn.bootcss.com/font-awesome/4.2.0/fonts/fontawesome-webfont.eot?v=4.2.0");
-  src: url("https://cdn.bootcss.com/font-awesome/4.2.0/fonts/fontawesome-webfont.eot?#iefix&v=4.2.0")
-      format("embedded-opentype"),
-    url("https://cdn.bootcss.com/font-awesome/4.2.0/fonts/fontawesome-webfont.woff?v=4.2.0")
-      format("woff"),
-    url("https://cdn.bootcss.com/font-awesome/4.2.0/fonts/fontawesome-webfont.ttf?v=4.2.0")
-      format("truetype"),
-    url("https://cdn.bootcss.com/font-awesome/4.2.0/fonts/fontawesome-webfont.svg?v=4.2.0#fontawesomeregular")
-      format("svg");
+  font-family: 'FontAwesome';
+  src: url('https://cdn.bootcss.com/font-awesome/4.2.0/fonts/fontawesome-webfont.eot?v=4.2.0');
+  src: url('https://cdn.bootcss.com/font-awesome/4.2.0/fonts/fontawesome-webfont.eot?#iefix&v=4.2.0') format('embedded-opentype'),
+    url('https://cdn.bootcss.com/font-awesome/4.2.0/fonts/fontawesome-webfont.woff?v=4.2.0') format('woff'),
+    url('https://cdn.bootcss.com/font-awesome/4.2.0/fonts/fontawesome-webfont.ttf?v=4.2.0') format('truetype'),
+    url('https://cdn.bootcss.com/font-awesome/4.2.0/fonts/fontawesome-webfont.svg?v=4.2.0#fontawesomeregular') format('svg');
   font-weight: normal;
   font-style: normal;
 }
@@ -68,6 +64,9 @@ $menuPrefixCls: rc-menu;
   }
 
   &-submenu-active > &-submenu-title {
+    &:hover {
+      color: $be-black;
+    }
     & a:hover {
       color: $be-black;
     }
@@ -140,6 +139,7 @@ $menuPrefixCls: rc-menu;
     li.rc-menu-item,
     li.rc-menu-submenu {
       border-bottom: solid 2px #fff;
+      color: $be-black;
     }
     li.rc-menu-item:last-child {
       border-bottom: transparent solid 2px;
@@ -205,7 +205,7 @@ $menuPrefixCls: rc-menu;
     }
 
     &:after {
-      content: "\20";
+      content: '\20';
       display: block;
       height: 0;
       clear: both;
@@ -233,7 +233,7 @@ $menuPrefixCls: rc-menu;
       right: 16px;
       line-height: 1.5em;
       &:before {
-        content: "\f0da";
+        content: '\f0da';
       }
     }
   }
