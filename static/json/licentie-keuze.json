@@ -1,0 +1,170 @@
+[
+  {
+    "id": 1,
+    "text": "Bent u via handels- of commerciële organisatie betrokken bij advisering, verkoop, transport of opslag van professionele gewasbeschermingsmiddelen?",
+    "actions": [
+      {
+        "text": "Ja",
+        "nodeId": 3
+      },
+      {
+        "text": "Nee",
+        "nodeId": 2
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "text": "Gebruikt u professionele gewasbeschermingsmiddelen?",
+    "actions": [
+      {
+        "text": "Ja",
+        "nodeId": 4
+      },
+      {
+        "text": "Nee",
+        "nodeId": 11
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "text": "Adviseert u over gewasbescherming EN bent u verantwoordelijk voor transport of opslag van gewasbeschermingsmiddelen?",
+    "actions": [
+      {
+        "text": "Ja",
+        "nodeId": 17
+      },
+      {
+        "text": "Nee",
+        "nodeId": 7
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "text": "Doet u dit in opdracht en/of onder verantwoordelijkheid van een licentiehouder met Bedrijfsvoeren Gewasbescherming?",
+    "actions": [
+      {
+        "text": "Ja",
+        "nodeId": 5
+      },
+      {
+        "text": "Nee",
+        "nodeId": 6
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "text": "Voert u alleen laag risicohandelingen uit op basis van een goedgekeurde veiligheidsinstructie (RGB art. 6.3.a.)?",
+    "actions": [
+      {
+        "text": "Ja",
+        "nodeId": 12
+      },
+      {
+        "text": "Nee",
+        "nodeId": 13
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "text": "Bent u bedrijfshoofd van een land- of tuinbouwbedrijf?",
+    "actions": [
+      {
+        "text": "Ja",
+        "nodeId": 8
+      },
+      {
+        "text": "Nee",
+        "nodeId": 14
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "text": "Adviseert u over gewasbescherming?",
+    "actions": [
+      {
+        "text": "Ja",
+        "nodeId": 15
+      },
+      {
+        "text": "Nee",
+        "nodeId": 9
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "text": "Bent u geboren vóór 1 januari 1996?",
+    "actions": [
+      {
+        "text": "Ja",
+        "nodeId": 10
+      },
+      {
+        "text": "Nee",
+        "nodeId": 14
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "text": "Bent u verantwoordelijk voor transport of opslag van gewasbeschermingsmiddelen?",
+    "actions": [
+      {
+        "text": "Ja",
+        "nodeId": 16
+      },
+      {
+        "text": "Nee",
+        "nodeId": 11
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "text": "Geeft u opdrachten voor toepassing van middelen aan personeel in uw dienst?",
+    "actions": [
+      {
+        "text": "Ja",
+        "nodeId": 14
+      },
+      {
+        "text": "Nee",
+        "nodeId": 13
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "text": "U heeft geen licentie gewasbescherming nodig"
+  },
+  {
+    "id": 12,
+    "text": "Uw licentie: Veiligheidsinstructie Gewasbescherming"
+  },
+  {
+    "id": 13,
+    "text": "Uw licentie: Uitvoeren Gewasbescherming"
+  },
+  {
+    "id": 14,
+    "text": "Uw licentie: Bedrijfsvoeren Gewasbescherming"
+  },
+  {
+    "id": 15,
+    "text": "Uw licentie: Adviseren Gewasbescherming"
+  },
+  {
+    "id": 16,
+    "text": "Uw licentie: Distribueren Gewasbescherming"
+  },
+  {
+    "id": 17,
+    "text": "Uw licentie: Adviseren Gewasbescherming en Distribueren Gewasbescherming"
+  }
+]
