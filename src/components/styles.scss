@@ -1,0 +1,13 @@
+/* Custom styles */
+
+@import './colors.scss';
+
+// Decision-tree component
+.decision-tree {
+  .node {
+    .text {
+      font-size: 18px;
+      font-weight: bold;
+    }
+  }
+}
