@@ -1,6 +1,5 @@
 import React from 'react';
 import rehypeReact from 'rehype-react';
-
 import DecisionTree from '@bit/erkenningenict.ui-components.decision-tree';
 
 import LinkContainer from './LinkContainer';

@@ -7,43 +7,43 @@ exports.onCreateNode = ({ node, getNode, actions }) => {
     const slug = createFilePath({ node, getNode, basePath: `pages` });
     createNodeField({
       node,
-      name: "slug",
+      name: 'slug',
       value: slug
     });
 
     const dirSplit = path.parse(slug).dir.split(path.sep);
-    if (dirSplit.length > 0 && dirSplit[0] === "") {
+    if (dirSplit.length > 0 && dirSplit[0] === '') {
       dirSplit.shift(); // because path starts with /, '' is always at position 0
     }
-    let type = "page";
-    console.log("dirsplit:", slug, "dir", dirSplit[0]);
+    let type = 'page';
+    console.log('dirsplit:', slug, 'dir', dirSplit[0]);
     switch (dirSplit[0]) {
-      case "projects":
-        type = "project";
+      case 'projects':
+        type = 'project';
         break;
-      case "blog":
-        type = "post";
+      case 'blog':
+        type = 'post';
         break;
-      case "page":
-        type = "page";
+      case 'page':
+        type = 'page';
         break;
     }
 
     createNodeField({
       node,
-      name: "type",
+      name: 'type',
       value: type
     });
 
-    if (type === "project") {
+    if (type === 'project') {
       if (dirSplit.length > 1) {
         createNodeField({
           node,
-          name: "projectType",
+          name: 'projectType',
           value: dirSplit[1]
         });
       } else {
-        throw new Error("each project needs a type");
+        throw new Error('each project needs a type');
       }
     }
   }
@@ -68,17 +68,17 @@ exports.createPages = ({ graphql, actions }) => {
     }
   `).then(result => {
     result.data.allMarkdownRemark.edges.map(({ node }) => {
-      console.log("Node.field.type", JSON.stringify(node));
-      let templatePath = "./src/templates/page.js";
+      console.log('Node.field.type', JSON.stringify(node));
+      let templatePath = './src/templates/page.js';
       switch (node.fields.slug) {
-        case "/":
-          templatePath = "./src/templates/home-page.js";
+        case '/':
+          templatePath = './src/templates/home-page.js';
           break;
-        case "/zoeken/":
-          templatePath = "./src/templates/search-page.js";
+        case '/zoeken/':
+          templatePath = './src/templates/search-page.js';
           break;
       }
-      console.log("#DH# Pages", node.fields.slug, templatePath);
+      console.log('#DH# Pages', node.fields.slug, templatePath);
       createPage({
         path: node.fields.slug,
         component: path.resolve(templatePath),
