@@ -1,5 +1,5 @@
-import React from "react";
-import Link from "gatsby-link";
+import React from 'react';
+import Link from 'gatsby-link';
 
 const Footer = () => (
   <div className="container">
@@ -20,10 +20,7 @@ const Footer = () => (
           Disclaimer
         </a>
         <div className="d-none d-sm-block">|</div>
-        <a
-          href="https://www.erkenningen.nl/Default.aspx?tabid=289"
-          className="footerLink"
-        >
+        <a href="https://www.erkenningen.nl/Default.aspx?tabid=289" className="footerLink">
           Privacyverklaring
         </a>
       </div>

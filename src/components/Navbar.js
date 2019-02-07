@@ -15,14 +15,14 @@ export default class Navbar extends React.Component {
     super(props);
 
     this.state = {
-      collapsed: false
+      collapsed: false,
     };
     this.toggleNavbar = this.toggleNavbar.bind(this);
   }
 
   toggleNavbar() {
     this.setState({
-      collapsed: !this.state.collapsed
+      collapsed: !this.state.collapsed,
     });
   }
   render() {
@@ -32,7 +32,11 @@ export default class Navbar extends React.Component {
           <div className="col-md-3 col-5 col-sm-3 pr-lg-5 pt-lg-4 minWidth">
             {!this.state.collapsed && (
               <Link to="/" className="navbar-brand">
-                <img src={logo} alt="Bureau Erkenningen" style={{ width: '100%', maxWidth: '230px' }} />
+                <img
+                  src={logo}
+                  alt="Bureau Erkenningen"
+                  style={{ width: '100%', maxWidth: '230px' }}
+                />
               </Link>
             )}
           </div>
@@ -50,13 +54,19 @@ export default class Navbar extends React.Component {
                 }
               >
                 <MenuItem>
-                  <Link to="/licenties/welke-licenties-zijn-er/bestrijding-mollen-en-woelratten">Bestrijding Mollen en Woelratten</Link>
+                  <Link to="/licenties/welke-licenties-zijn-er/bestrijding-mollen-en-woelratten">
+                    Bestrijding Mollen en Woelratten
+                  </Link>
                 </MenuItem>
                 <MenuItem>
-                  <Link to="/licenties/welke-licenties-zijn-er/gewasbescherming">Gewasbescherming</Link>
+                  <Link to="/licenties/welke-licenties-zijn-er/gewasbescherming">
+                    Gewasbescherming
+                  </Link>
                 </MenuItem>
                 <MenuItem>
-                  <Link to="/licenties/welke-licenties-zijn-er/knaagdierbeheersing">Knaagdierbeheersing</Link>
+                  <Link to="/licenties/welke-licenties-zijn-er/knaagdierbeheersing">
+                    Knaagdierbeheersing
+                  </Link>
                 </MenuItem>
               </SubMenu>
               <Separator />
@@ -80,7 +90,9 @@ export default class Navbar extends React.Component {
                   <Link to="/wat-wij-doen/exameninstellingen">Exameninstellingen</Link>
                 </MenuItem>
                 <MenuItem>
-                  <Link to="/wat-wij-doen/KBA-GB-gecertificeerde-bedrijven">KBA-GB gecertificeerde bedrijven</Link>
+                  <Link to="/wat-wij-doen/KBA-GB-gecertificeerde-bedrijven">
+                    KBA-GB gecertificeerde bedrijven
+                  </Link>
                 </MenuItem>
                 <MenuItem>
                   <Link to="/wat-wij-doen/formulieren">Zelf doen - Formulieren</Link>
@@ -101,7 +113,9 @@ export default class Navbar extends React.Component {
                   <Link to="/licenties/welke-licenties-zijn-er">Welke licenties zijn er?</Link>
                 </MenuItem>
                 <MenuItem>
-                  <Link to="/licenties/welke-licentie-heb-ik-nodig">Welke licentie heb ik nodig?</Link>
+                  <Link to="/licenties/welke-licentie-heb-ik-nodig">
+                    Welke licentie heb ik nodig?
+                  </Link>
                 </MenuItem>
                 <MenuItem>
                   <Link to="/licenties/licentie-aanvragen">Licentie aanvragen</Link>
@@ -131,7 +145,9 @@ export default class Navbar extends React.Component {
                   <Link to="/bijeenkomsten/gevolgde-bijeenkomsten">Gevolgde bijeenkomsten</Link>
                 </MenuItem>
                 <MenuItem>
-                  <Link to="/bijeenkomsten/bijeenkomsten-organiseren">Bijeenkomsten organiseren</Link>
+                  <Link to="/bijeenkomsten/bijeenkomsten-organiseren">
+                    Bijeenkomsten organiseren
+                  </Link>
                 </MenuItem>
               </SubMenu>
               <Separator />
@@ -149,7 +165,9 @@ export default class Navbar extends React.Component {
                   <Link to="/mijn-bureau-erkenningen/inloggegevens-kwijt">Inloggegevens kwijt</Link>
                 </MenuItem>
                 <MenuItem>
-                  <Link to="/mijn-bureau-erkenningen/duplicaat-pas-aanvragen">Duplicaat pas aanvragen</Link>
+                  <Link to="/mijn-bureau-erkenningen/duplicaat-pas-aanvragen">
+                    Duplicaat pas aanvragen
+                  </Link>
                 </MenuItem>
                 <MenuItem>
                   <Link to="/mijn-bureau-erkenningen/be-app">Gebruik onze app</Link>
@@ -157,10 +175,17 @@ export default class Navbar extends React.Component {
               </SubMenu>
             </Menu>
             <form className="form-inline searchForm">
-              <input className="form-control search-input" type="search" placeholder="Zoek op trefwoord" aria-label="Search" />
+              <input
+                className="form-control search-input"
+                type="search"
+                placeholder="Zoek op trefwoord"
+                aria-label="Search"
+              />
             </form>
             <button
-              className={`d-lg-none hamburger hamburger--slider ${this.state.collapsed ? 'is-active' : ''}`}
+              className={`d-lg-none hamburger hamburger--slider ${
+                this.state.collapsed ? 'is-active' : ''
+              }`}
               type="button"
               data-toggle="collapse"
               data-target="#navbarSupportedContent"

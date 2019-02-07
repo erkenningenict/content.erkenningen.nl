@@ -1,6 +1,7 @@
 ---
 title: Licentie verlengen
 ---
+
 **Een licentie is 5 jaar geldig. U kunt uw licentie verlengen door opnieuw examen te doen of binnen deze 5 jaar een aantal kennisbijeenkomsten te volgen. Hoeveel en welke bijeenkomsten nodig zijn [verschilt per licentie](/licenties/welke-licenties-zijn-er).**
 
 Wilt u een licentie verlengen? Log dan in op uw persoonlijke pagina. Dit doet u met uw gebruikersnaam en wachtwoord.

@@ -1,9 +1,9 @@
-import React from "react";
-import Link from "gatsby-link";
+import React from 'react';
+import Link from 'gatsby-link';
 
 export default class Submenu extends React.Component {
   render() {
-    console.log("test", this.props);
+    console.log('test', this.props);
     return (
       <div className="single-link">
         <Link to={this.props.link.url}>{this.props.link.name}</Link>

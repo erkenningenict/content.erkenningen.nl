@@ -1,6 +1,7 @@
 ---
 title: Gewasbescherming
 ---
+
 **Wanneer u professionele bestrijdingsmiddelen voor gewasbescherming wilt gebruiken, verkopen of opslaan, heeft u een licentie nodig.**
 
 Gewasbescherming kan nodig zijn om er voor te zorgen dat het gewas niet aangetast wordt door invloeden van buitenaf. Dat kunnen insecten zijn, maar ook schadelijke schimmels of onkruid.

@@ -1,5 +1,5 @@
-import Link from "gatsby-link";
-import React from "react";
+import Link from 'gatsby-link';
+import React from 'react';
 
 const NavigationItem = ({ depth, href, title, excerpt }) => (
   <dd className={`depth-${depth}`}>
@@ -11,7 +11,7 @@ const NavigationItem = ({ depth, href, title, excerpt }) => (
 );
 
 NavigationItem.defaultProps = {
-  depth: 0
+  depth: 0,
 };
 
 export default NavigationItem;

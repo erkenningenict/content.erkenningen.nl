@@ -51,6 +51,7 @@
     "develop": "gatsby develop",
     "serve": "gatsby serve",
     "format": "prettier --trailing-comma es5 --no-semi --single-quote --write \"{gatsby-*.js,src/**/*.js}\"",
+    "prettier:all": "prettier --write \"**/*.{css,js,json,md,scss,ts,html}\"",
     "test": "echo \"Error: no test specified\" && exit 1",
     "generate-yml": "node --experimental-modules ./static/admin/generate-config.mjs"
   },

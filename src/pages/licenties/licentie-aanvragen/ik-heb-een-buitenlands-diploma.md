@@ -1,6 +1,7 @@
 ---
 title: Geldige diplomas
 ---
+
 **Onderstaand vindt u een overzicht van de diploma's die geldig zijn voor het aanvragen van een licentie.**
 
 Ze zijn gerangschikt op alfabetische volgorde van het land. ook de Nederlandse diploma's.

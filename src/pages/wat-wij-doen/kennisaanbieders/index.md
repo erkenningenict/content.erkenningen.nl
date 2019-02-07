@@ -1,6 +1,7 @@
 ---
 title: Kennisaanbieders
 ---
+
 **Licentiehouders volgen erkende kennisbijeenkomsten bij kennisaanbieders. Bureau Erkenningen erkent en beoordeelt deze kennisbijeenkomsten.**
 
 ## Kennisaanbieder worden

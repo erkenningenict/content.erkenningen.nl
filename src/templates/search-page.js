@@ -1,12 +1,12 @@
-import React from "react";
-import Helmet from "react-helmet";
+import React from 'react';
+import Helmet from 'react-helmet';
 
-import TextPageBody from "../components/TextPageBody";
-import Breadcrumb from "../components/Breadcrumb";
-import FaqSidebar from "../components/FaqSidebar";
-import VerticalNavigationList from "../components/VerticalNavigationList";
-import Layout from "../components/layout";
-import { graphql } from "gatsby";
+import TextPageBody from '../components/TextPageBody';
+import Breadcrumb from '../components/Breadcrumb';
+import FaqSidebar from '../components/FaqSidebar';
+import VerticalNavigationList from '../components/VerticalNavigationList';
+import Layout from '../components/layout';
+import { graphql } from 'gatsby';
 
 export const SearchPage = ({ data }) => {
   const page = data.markdownRemark;
@@ -26,14 +26,8 @@ export const SearchPage = ({ data }) => {
             <meta property="og:title" content={page.frontmatter.title} />
             <meta name="twitter:title" content={page.frontmatter.title} />
 
-            <meta
-              property="og:description"
-              content={page.frontmatter.excerpt}
-            />
-            <meta
-              name="twitter:description"
-              content={page.frontmatter.excerpt}
-            />
+            <meta property="og:description" content={page.frontmatter.excerpt} />
+            <meta name="twitter:description" content={page.frontmatter.excerpt} />
           </Helmet>
         )}
 

@@ -1,6 +1,7 @@
 ---
 title: Uitgeven en erkennen
 ---
+
 **Bureau Erkenningen zorgt voor het uitgeven van licenties aan ruim 50.000 licentiehouders in Nederland. Deze licenties worden ook wel 'Bewijzen van Vakbekwaamheid' genoemd.**
 
 Elke licentiehouder ontvangt een pasje.
@@ -11,9 +12,9 @@ Wilt u niet-professionele middelen gebruiken? Dan heeft u **geen** licentie nodi
 
 Een licentie is **verplicht** wanneer u professionele middelen gebruikt, verkoopt of opslaat die nodig zijn voor:
 
-* [chemische gewasbescherming](/licenties/welke-licenties-zijn-er/gewasbescherming)
-* [chemische beheersing van knaagdieren](/licenties/welke-licenties-zijn-er/knaagdierbeheersing)
-* [chemische bestrijding van mollen en woelratten](/licenties/welke-licenties-zijn-er/bestrijding-mollen-en-woelratten)
+- [chemische gewasbescherming](/licenties/welke-licenties-zijn-er/gewasbescherming)
+- [chemische beheersing van knaagdieren](/licenties/welke-licenties-zijn-er/knaagdierbeheersing)
+- [chemische bestrijding van mollen en woelratten](/licenties/welke-licenties-zijn-er/bestrijding-mollen-en-woelratten)
 
 Er zijn [verschillende soorten licenties](/licenties/welke-licenties-zijn-er).
 

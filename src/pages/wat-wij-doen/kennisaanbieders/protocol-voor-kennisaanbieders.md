@@ -1,6 +1,7 @@
 ---
 title: Protocol voor kennisaanbieders
 ---
+
 1. Organisatoren (kennisaanbieders) vragen een wachtwoord aan bij Bureau Erkenningen om communicatie via www.erkenningen.nl mogelijk te maken.
 2. Kennisaanbieders leggen hun kennisaanbod vooraf voor ter goedkeuring aan het Bureau Erkenningen. Het doen van een goedkeuringsaanvraag houdt in dat de kennisaanbieder het protocol onderschrijft.
 3. De goedkeuringsaanvraag gebeurt via deze website (www.erkenningen.nl) .

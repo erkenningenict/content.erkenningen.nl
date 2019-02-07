@@ -1,15 +1,15 @@
-import PropTypes from "prop-types";
-import qs from "qs";
-import React, { Component } from "react";
-import { Index } from "elasticlunr";
+import PropTypes from 'prop-types';
+import qs from 'qs';
+import React, { Component } from 'react';
+import { Index } from 'elasticlunr';
 
 const getSearch = ({ location }) => {
-  if (!location) return "";
-  if (!location.search) return "";
+  if (!location) return '';
+  if (!location.search) return '';
 
   const query = location.search.substring(1);
   const parsed = qs.parse(query);
-  if (!parsed.q) return "";
+  if (!parsed.q) return '';
   return parsed.q;
 };
 
@@ -17,15 +17,15 @@ export default class Search extends Component {
   constructor(props, context) {
     super(props, context);
 
-    this.updateQuery = evt => {
+    this.updateQuery = (evt) => {
       const text = evt.target.value;
       const hits = this.getHits(text);
       this.props.onSearch(text, hits);
-      this.setState(s => {
+      this.setState((s) => {
         return {
           ...s,
           hits,
-          query: text
+          query: text,
         };
       });
     };
@@ -33,7 +33,7 @@ export default class Search extends Component {
     const query = getSearch(props);
     this.state = {
       query,
-      hits: this.getHits(query)
+      hits: this.getHits(query),
     };
   }
 
@@ -67,7 +67,7 @@ export default class Search extends Component {
 
 Search.propTypes = {
   data: PropTypes.shape({
-    index: PropTypes.object.isRequired
+    index: PropTypes.object.isRequired,
   }).isRequired,
-  onSearch: PropTypes.func.isRequired
+  onSearch: PropTypes.func.isRequired,
 };

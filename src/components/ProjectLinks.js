@@ -1,5 +1,5 @@
-import React from "react";
-import styled from "styled-components";
+import React from 'react';
+import styled from 'styled-components';
 
 const StyledProjectLinksList = styled.ul`
   list-style: none;
@@ -10,11 +10,11 @@ const StyledProjectLink = styled.li`
   display: inline;
   line-height: 1.5em;
   &:after {
-    content: " | ";
+    content: ' | ';
   }
   &:last-child {
     &:after {
-      content: "";
+      content: '';
     }
   }
 `;
@@ -27,18 +27,14 @@ class ProjectLinks extends React.Component {
           {this.props.link && (
             <StyledProjectLink>
               <a href={this.props.link} target="_blank">
-                {this.props.link.length > 40 ? "Link" : this.props.link}
+                {this.props.link.length > 40 ? 'Link' : this.props.link}
               </a>
             </StyledProjectLink>
           )}
 
-          {this.props.date && (
-            <StyledProjectLink>{this.props.date}</StyledProjectLink>
-          )}
+          {this.props.date && <StyledProjectLink>{this.props.date}</StyledProjectLink>}
 
-          {this.props.lang && (
-            <StyledProjectLink>{this.props.lang}</StyledProjectLink>
-          )}
+          {this.props.lang && <StyledProjectLink>{this.props.lang}</StyledProjectLink>}
 
           {this.props.repo && (
             <StyledProjectLink>

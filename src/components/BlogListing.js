@@ -1,6 +1,6 @@
-import React from "react";
-import styled from "styled-components";
-import Link from "gatsby-link";
+import React from 'react';
+import styled from 'styled-components';
+import Link from 'gatsby-link';
 
 const DateSpan = styled.span`
   display: none;
@@ -24,12 +24,10 @@ const StyledBlogLink = styled(Link)``;
 
 class BlogListing extends React.Component {
   render() {
-    const postLinks = this.props.posts.map(post => {
+    const postLinks = this.props.posts.map((post) => {
       return (
         <StyledBlogItem key={post.node.fields.slug}>
-          <StyledBlogLink to={post.node.fields.slug}>
-            {post.node.frontmatter.title}
-          </StyledBlogLink>
+          <StyledBlogLink to={post.node.fields.slug}>{post.node.frontmatter.title}</StyledBlogLink>
           <DateSpan>({post.node.frontmatter.date})</DateSpan>
         </StyledBlogItem>
       );
