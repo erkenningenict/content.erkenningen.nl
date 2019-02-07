@@ -145,26 +145,26 @@
   },
   {
     "id": 12,
-    "text": "Uw licentie: Veiligheidsinstructie Gewasbescherming"
+    "text": "Uw licentie: <a href=\"/licenties/welke-licenties-zijn-er/veiligheidsinstructies\">Veiligheidsinstructie Gewasbescherming</a>"
   },
   {
     "id": 13,
-    "text": "Uw licentie: Uitvoeren Gewasbescherming"
+    "text": "Uw licentie: <a href=\"/licenties/welke-licenties-zijn-er/licentie-uitvoeren-gewasbescherming\">Uitvoeren Gewasbescherming</a>"
   },
   {
     "id": 14,
-    "text": "Uw licentie: Bedrijfsvoeren Gewasbescherming"
+    "text": "Uw licentie: <a href=\"/licenties/welke-licenties-zijn-er/licentie-bedrijfsvoeren-gewasbescherming\">Bedrijfsvoeren Gewasbescherming</a>"
   },
   {
     "id": 15,
-    "text": "Uw licentie: Adviseren Gewasbescherming"
+    "text": "Uw licentie: <a href=\"/licenties/welke-licenties-zijn-er/licentie-adviseren-gewasbescherming\">Adviseren Gewasbescherming</a>"
   },
   {
     "id": 16,
-    "text": "Uw licentie: Distribueren Gewasbescherming"
+    "text": "Uw licentie: <a href=\"/licenties/welke-licenties-zijn-er/licentie-distribueren-bestrijdingsmiddelen\">Distribueren Gewasbescherming</a>"
   },
   {
     "id": 17,
-    "text": "Uw licentie: Adviseren Gewasbescherming en Distribueren Gewasbescherming"
+    "text": "Uw licentie: <a href=\"/licenties/welke-licenties-zijn-er/licentie-adviseren-gewasbescherming\">Adviseren Gewasbescherming</a> en <a href=\"/licenties/welke-licenties-zijn-er/licentie-distribueren-bestrijdingsmiddelen\">Distribueren Gewasbescherming</a>"
   }
 ]
