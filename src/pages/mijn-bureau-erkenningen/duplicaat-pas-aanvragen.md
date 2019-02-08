@@ -17,7 +17,7 @@ Heeft u examen gedaan en uw certificaat behaald? Uw exameninstelling geeft dit a
 
 ## Inloggegevens kwijt
 
-Inloggevens kwijt? Bel dan met het RVO-loket: 088 042 42 42
+Inloggegevens kwijt? Bel dan met het RVO-loket: 088 042 42 42
 
 ## Snel naar:
 
