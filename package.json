@@ -46,7 +46,7 @@
   "license": "MIT",
   "main": "n/a",
   "scripts": {
-    "start": "set NPM_TOKEN=xxxx && npm run develop",
+    "start": "npm run develop",
     "build": "gatsby build --verbose",
     "develop": "gatsby develop",
     "serve": "gatsby serve",

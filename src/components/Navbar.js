@@ -1,5 +1,5 @@
 import React from 'react';
-import Link from 'gatsby-link';
+import { Link, navigate } from 'gatsby';
 import logo from '../img/BE-logo.svg';
 import Menu, { SubMenu, Item as MenuItem } from 'rc-menu';
 import './Navbar.css';
@@ -16,13 +16,14 @@ export default class Navbar extends React.Component {
 
     this.state = {
       collapsed: false,
+      search: ''
     };
     this.toggleNavbar = this.toggleNavbar.bind(this);
   }
 
   toggleNavbar() {
     this.setState({
-      collapsed: !this.state.collapsed,
+      collapsed: !this.state.collapsed
     });
   }
   render() {
@@ -174,12 +175,23 @@ export default class Navbar extends React.Component {
                 </MenuItem>
               </SubMenu>
             </Menu>
-            <form className="form-inline searchForm">
+            <form
+              className="form-inline searchForm"
+              onSubmit={e => {
+                e.preventDefault();
+                navigate('/zoeken', {
+                  state: { search: this.state.search }
+                });
+                this.setState({ search: '' });
+              }}
+            >
               <input
                 className="form-control search-input"
                 type="search"
                 placeholder="Zoek op trefwoord"
                 aria-label="Search"
+                onChange={e => this.setState({ search: e.target.value })}
+                value={this.state.search}
               />
             </form>
             <button

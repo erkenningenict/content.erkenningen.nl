@@ -481,10 +481,10 @@ $margin-top-containers: 0.4rem;
 
 .homeButtons {
   margin-top: 2rem;
-  > .link-container {
+  .link-container {
     justify-content: center;
   }
-  > .link-container > a.link-button {
+  .link-container > a.link-button {
     background-color: $be-orange !important;
   }
 }
