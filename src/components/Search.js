@@ -20,12 +20,18 @@ export default class Search extends Component {
   }
 
   componentDidMount() {
-    // Initially perform search based on query param
-    // this.search(this.queryParams.search);
+    // Initially perform search if navigation state is set (from navbar search input)
+    this.checkNavigationState();
   }
 
   componentWillReceiveProps() {
-    // Check if navigation state is set
+    this.checkNavigationState();
+  }
+
+  /**
+   * Check if a navigate action is set with search state
+   */
+  checkNavigationState() {
     if (
       window &&
       window.history &&
