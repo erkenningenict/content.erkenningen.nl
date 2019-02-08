@@ -1,40 +1,53 @@
 import PropTypes from 'prop-types';
-import qs from 'qs';
-import React, { Component } from 'react';
+import React from 'react';
+import ReactQueryParams from 'react-query-params';
 import { Index } from 'elasticlunr';
 
-const getSearch = ({ location }) => {
-  if (!location) return '';
-  if (!location.search) return '';
-
-  const query = location.search.substring(1);
-  const parsed = qs.parse(query);
-  if (!parsed.q) return '';
-  return parsed.q;
-};
-
-export default class Search extends Component {
+export default class Search extends ReactQueryParams {
   constructor(props, context) {
     super(props, context);
 
-    this.updateQuery = (evt) => {
+    this.search = this.search.bind(this);
+
+    this.handleSearchInput = evt => {
       const text = evt.target.value;
-      const hits = this.getHits(text);
-      this.props.onSearch(text, hits);
-      this.setState((s) => {
+      this.search(text);
+    };
+
+    this.state = {
+      query: '',
+      hits: []
+    };
+  }
+
+  componentDidMount() {
+    // Initially perform search based on query param
+    this.search(this.queryParams.search);
+  }
+
+  componentWillReceiveProps() {
+    // Update search if query param has changed
+    if (this.state.query !== this.queryParams.search) {
+      this.search(this.queryParams.search);
+    }
+  }
+
+  search(text) {
+    const hits = this.getHits(text);
+    this.setState(
+      s => {
         return {
           ...s,
           hits,
-          query: text,
+          query: text
         };
-      });
-    };
-
-    const query = getSearch(props);
-    this.state = {
-      query,
-      hits: this.getHits(query),
-    };
+      },
+      () => {
+        // Update query param *after* state has been set
+        this.setQueryParams({ search: text });
+        this.props.onSearch(text, hits);
+      }
+    );
   }
 
   createIndex() {
@@ -45,7 +58,7 @@ export default class Search extends Component {
     if (!query) return [];
 
     if (!this.index) this.createIndex();
-    const hits = this.index.search(query);
+    const hits = this.index.search(query, {});
     return hits.map(({ ref }) => this.index.documentStore.getDoc(ref));
   }
 
@@ -54,7 +67,7 @@ export default class Search extends Component {
     return (
       <div role="search">
         <input
-          onChange={this.updateQuery}
+          onChange={this.handleSearchInput}
           placeholder="Zoek op trefwoord"
           className="searchInput"
           type="search"
@@ -67,7 +80,7 @@ export default class Search extends Component {
 
 Search.propTypes = {
   data: PropTypes.shape({
-    index: PropTypes.object.isRequired,
+    index: PropTypes.object.isRequired
   }).isRequired,
-  onSearch: PropTypes.func.isRequired,
+  onSearch: PropTypes.func.isRequired
 };

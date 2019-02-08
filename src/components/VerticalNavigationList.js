@@ -6,7 +6,7 @@ class VerticalNavigationList extends Component {
   constructor(...rest) {
     super(...rest);
     this.state = {
-      hits: null,
+      hits: null
     };
   }
   render() {
@@ -19,14 +19,14 @@ class VerticalNavigationList extends Component {
           data={searchData}
           onSearch={(text, hits) =>
             this.setState({
-              hits: text !== '' ? hits : null,
+              hits: text !== '' ? hits : null
             })
           }
         />
         <nav>
           <dl>
             {edges
-              .filter(({ node }) => !hits || hits.filter((hit) => hit.id === node.id).length > 0)
+              .filter(({ node }) => !hits || hits.filter(hit => hit.id === node.id).length > 0)
               .map(({ node }, index) => (
                 <div key={`nav-header-wrapper-${index}`}>
                   <NavigationItem
