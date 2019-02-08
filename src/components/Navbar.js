@@ -179,7 +179,10 @@ export default class Navbar extends React.Component {
               className="form-inline searchForm"
               onSubmit={e => {
                 e.preventDefault();
-                navigate('/zoeken/?search=' + this.state.search);
+                navigate('/zoeken', {
+                  state: { search: this.state.search }
+                });
+                this.setState({ search: '' });
               }}
             >
               <input
@@ -188,6 +191,7 @@ export default class Navbar extends React.Component {
                 placeholder="Zoek op trefwoord"
                 aria-label="Search"
                 onChange={e => this.setState({ search: e.target.value })}
+                value={this.state.search}
               />
             </form>
             <button

@@ -1,9 +1,8 @@
 import PropTypes from 'prop-types';
-import React from 'react';
-import ReactQueryParams from 'react-query-params';
+import React, { Component } from 'react';
 import { Index } from 'elasticlunr';
 
-export default class Search extends ReactQueryParams {
+export default class Search extends Component {
   constructor(props, context) {
     super(props, context);
 
@@ -22,13 +21,21 @@ export default class Search extends ReactQueryParams {
 
   componentDidMount() {
     // Initially perform search based on query param
-    this.search(this.queryParams.search);
+    // this.search(this.queryParams.search);
   }
 
   componentWillReceiveProps() {
-    // Update search if query param has changed
-    if (this.state.query !== this.queryParams.search) {
-      this.search(this.queryParams.search);
+    // Check if navigation state is set
+    if (
+      window &&
+      window.history &&
+      window.history.state &&
+      window.history.state.search &&
+      this.state.query !== window.history.state.search
+    ) {
+      this.search(window.history.state.search);
+      // Clear navigation state
+      window.history.state.search = '';
     }
   }
 
@@ -43,8 +50,6 @@ export default class Search extends ReactQueryParams {
         };
       },
       () => {
-        // Update query param *after* state has been set
-        this.setQueryParams({ search: text });
         this.props.onSearch(text, hits);
       }
     );
