@@ -1,14 +1,12 @@
-import React from "react";
-import FaqSidebar from "../components/FaqSidebar";
+import React from 'react';
+import FaqSidebar from '../components/FaqSidebar';
 
 const NotFoundPage = () => (
   <div className="container">
     <div className="row mb-5">
       <div className="col-md-1 navbar-be__breadcrumbs-spacer-orange" />
       <div className="col-md-2 navbar-be__breadcrumbs-spacer-green" />
-      <div className="col-md-9 navbar-be__breadcrumbs-container">
-        Niet gevonden
-      </div>
+      <div className="col-md-9 navbar-be__breadcrumbs-container">Niet gevonden</div>
     </div>
     <div className="row">
       <div className="col-md-3 pr-5">

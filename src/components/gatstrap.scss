@@ -18,7 +18,7 @@ $theme-colors: (
   warning: $yellow,
   danger: $red,
   light: $gray-100,
-  dark: $gray-800
+  dark: $gray-800,
 ) !default;
 
 // Options
@@ -40,7 +40,7 @@ $container-max-widths: (
   sm: 540px,
   md: 640px,
   lg: 1200px,
-  xl: 1201px
+  xl: 1201px,
 ) !default;
 
 // Body

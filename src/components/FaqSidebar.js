@@ -1,6 +1,6 @@
-import React from "react";
-import styled from "styled-components";
-import Link from "gatsby-link";
+import React from 'react';
+import styled from 'styled-components';
+import Link from 'gatsby-link';
 
 const StyledButton = styled(Link)`
   text-decoration: none;
@@ -22,8 +22,7 @@ class FaqSidebar extends React.Component {
     return (
       <div className="faqSidebar--container">
         <p>
-          Heeft u een vraag? Kijk dan eens bij de meest gestelde vragen (
-          <Link to="/faq">FAQ</Link>)
+          Heeft u een vraag? Kijk dan eens bij de meest gestelde vragen (<Link to="/faq">FAQ</Link>)
         </p>
 
         <p>

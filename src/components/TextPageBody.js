@@ -10,12 +10,12 @@ const renderAst = new rehypeReact({
   components: {
     'link-container': LinkContainer,
     'link-button': LinkButton,
-    'decision-tree': DecisionTree
+    'decision-tree': DecisionTree,
     // hidden: Hidden
     // countup: CountUp,
     // rainbowknot: RainbowKnot,
     // markdownrenderer: MarkdownRenderer
-  }
+  },
 }).Compiler;
 
 class TextPageBody extends React.Component {

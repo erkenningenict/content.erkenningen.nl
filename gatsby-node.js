@@ -8,7 +8,7 @@ exports.onCreateNode = ({ node, getNode, actions }) => {
     createNodeField({
       node,
       name: 'slug',
-      value: slug
+      value: slug,
     });
 
     const dirSplit = path.parse(slug).dir.split(path.sep);
@@ -32,7 +32,7 @@ exports.onCreateNode = ({ node, getNode, actions }) => {
     createNodeField({
       node,
       name: 'type',
-      value: type
+      value: type,
     });
 
     if (type === 'project') {
@@ -40,7 +40,7 @@ exports.onCreateNode = ({ node, getNode, actions }) => {
         createNodeField({
           node,
           name: 'projectType',
-          value: dirSplit[1]
+          value: dirSplit[1],
         });
       } else {
         throw new Error('each project needs a type');
@@ -66,7 +66,7 @@ exports.createPages = ({ graphql, actions }) => {
         }
       }
     }
-  `).then(result => {
+  `).then((result) => {
     result.data.allMarkdownRemark.edges.map(({ node }) => {
       console.log('Node.field.type', JSON.stringify(node));
       let templatePath = './src/templates/page.js';
@@ -84,8 +84,8 @@ exports.createPages = ({ graphql, actions }) => {
         component: path.resolve(templatePath),
         context: {
           // Data passed to context is available in page queries as GraphQL variables.
-          slug: node.fields.slug
-        }
+          slug: node.fields.slug,
+        },
       });
     });
     // resolve();

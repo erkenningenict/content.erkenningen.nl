@@ -1,13 +1,13 @@
-import React from "react";
-import Helmet from "react-helmet";
+import React from 'react';
+import Helmet from 'react-helmet';
 
-import TextPageBody from "./../components/TextPageBody";
-import Layout from "./../components/layout";
-import Link from "gatsby-link";
-import mol from "../../static/img/1.Mol.jpg";
-import graan from "../../static/img/2.Graan.jpg";
-import rat from "../../static/img/3.Rat.jpg";
-import { graphql } from "gatsby";
+import TextPageBody from './../components/TextPageBody';
+import Layout from './../components/layout';
+import Link from 'gatsby-link';
+import mol from '../../static/img/1.Mol.jpg';
+import graan from '../../static/img/2.Graan.jpg';
+import rat from '../../static/img/3.Rat.jpg';
+import { graphql } from 'gatsby';
 
 export const HomePage = ({ data }) => {
   const page = data.markdownRemark;
@@ -26,14 +26,8 @@ export const HomePage = ({ data }) => {
             <meta property="og:title" content={page.frontmatter.title} />
             <meta name="twitter:title" content={page.frontmatter.title} />
 
-            <meta
-              property="og:description"
-              content={page.frontmatter.excerpt}
-            />
-            <meta
-              name="twitter:description"
-              content={page.frontmatter.excerpt}
-            />
+            <meta property="og:description" content={page.frontmatter.excerpt} />
+            <meta name="twitter:description" content={page.frontmatter.excerpt} />
           </Helmet>
         )}
 
@@ -45,16 +39,14 @@ export const HomePage = ({ data }) => {
               </Link>
               <p>
                 <Link to="/licenties/wetten-en-regels">
-                  Voor het gebruik van professionele chemische middelen bij{" "}
+                  Voor het gebruik van professionele chemische middelen bij{' '}
                 </Link>
                 <Link to="/licenties/welke-licenties-zijn-er/gewasbescherming">
                   gewasbescherming
-                </Link>{" "}
-                en het bestrijden van{" "}
-                <Link to="/licenties/welke-licenties-zijn-er/knaagdierbeheersing">
-                  knaagdieren
-                </Link>
-                ,{" "}
+                </Link>{' '}
+                en het bestrijden van{' '}
+                <Link to="/licenties/welke-licenties-zijn-er/knaagdierbeheersing">knaagdieren</Link>
+                ,{' '}
                 <Link to="/licenties/welke-licenties-zijn-er/bestrijding-mollen-en-woelratten">
                   mollen en woelratten
                 </Link>
