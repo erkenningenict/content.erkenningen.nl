@@ -10,7 +10,6 @@ import { graphql } from 'gatsby';
 
 export const SearchPage = ({ data }) => {
   const page = data.markdownRemark;
-  const siteSearchIndex = data.siteSearchIndex;
   const allMarkdownRemark = data.allMarkdownRemark;
   return (
     <Layout>
@@ -49,7 +48,6 @@ export const SearchPage = ({ data }) => {
             <VerticalNavigationList
               currentSlug={page.fields.slug}
               edges={allMarkdownRemark.edges}
-              searchData={siteSearchIndex}
             />
           </div>
         </div>
@@ -70,9 +68,6 @@ export const query = graphql`
         title
       }
       excerpt
-    }
-    siteSearchIndex {
-      index
     }
     allMarkdownRemark {
       edges {

@@ -1,6 +1,5 @@
 import PropTypes from 'prop-types';
 import React, { Component } from 'react';
-import { Index } from 'elasticlunr';
 
 export default class Search extends Component {
   constructor(props, context) {
@@ -61,16 +60,25 @@ export default class Search extends Component {
     );
   }
 
-  createIndex() {
-    this.index = Index.load(this.props.data.index);
+  /**
+   * Parse terms from query (using whitespace separator) and add required and wildcard options
+   */
+  parseTerms(query) {
+    const ws = ' ';
+    return query
+      .split(ws)
+      .map(term => '+' + term + '*')
+      .join(ws);
   }
 
   getHits(query) {
-    if (!query) return [];
-
-    if (!this.index) this.createIndex();
-    const hits = this.index.search(query, {});
-    return hits.map(({ ref }) => this.index.documentStore.getDoc(ref));
+    if (!query || !window.__LUNR__) {
+      return [];
+    }
+    const terms = this.parseTerms(query);
+    const lunrIndex = window.__LUNR__['du'];
+    const results = lunrIndex.index.search(terms);
+    return results.map(({ ref, score }) => ({ ...lunrIndex.store[ref], id: ref, score: score }));
   }
 
   render() {
@@ -90,8 +98,5 @@ export default class Search extends Component {
 }
 
 Search.propTypes = {
-  data: PropTypes.shape({
-    index: PropTypes.object.isRequired
-  }).isRequired,
   onSearch: PropTypes.func.isRequired
 };

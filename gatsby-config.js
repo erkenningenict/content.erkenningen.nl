@@ -3,7 +3,7 @@ const visit = require('unist-util-visit');
 
 module.exports = {
   siteMetadata: {
-    title: 'Erkenningen.nl',
+    title: 'Erkenningen.nl'
   },
   plugins: [
     'gatsby-plugin-react-helmet',
@@ -11,31 +11,31 @@ module.exports = {
       resolve: `gatsby-plugin-sass`,
       options: {
         cssLoaderOptions: {
-          camelCase: false,
-        },
-      },
+          camelCase: false
+        }
+      }
     },
     {
       resolve: 'gatsby-source-filesystem',
       options: {
         path: `${__dirname}/src/pages`,
-        name: 'pages',
-      },
+        name: 'pages'
+      }
     },
     {
       resolve: 'gatsby-source-filesystem',
       options: {
         path: `${__dirname}/src/img`,
-        name: 'images',
-      },
+        name: 'images'
+      }
     },
     'gatsby-plugin-sharp',
     'gatsby-transformer-sharp',
     {
       resolve: 'gatsby-plugin-netlify-cms',
       options: {
-        modulePath: `${__dirname}/src/cms/cms.js`,
-      },
+        modulePath: `${__dirname}/src/cms/cms.js`
+      }
     },
     'gatsby-plugin-catch-links',
     {
@@ -47,47 +47,49 @@ module.exports = {
             options: {
               blocks: {
                 singleLink: 'single-link',
-                info: 'custom-block-info',
-              },
-            },
+                info: 'custom-block-info'
+              }
+            }
           },
-          'gatsby-remark-component',
-        ],
-      },
+          'gatsby-remark-component'
+        ]
+      }
     },
     {
-      resolve: `@gatsby-contrib/gatsby-plugin-elasticlunr-search`,
+      resolve: 'gatsby-plugin-lunr',
       options: {
-        // Fields to index
-        fields: ['title', 'excerpt'],
-        // How to resolve each field's value for a supported node type
+        languages: [
+          {
+            name: 'du'
+          }
+        ],
+        fields: [
+          { name: 'title', store: true, attributes: { boost: 20 } },
+          { name: 'excerpt', store: true }
+        ],
         resolvers: {
-          // For any node of type MarkdownRemark, list how to resolve the fields' values
           MarkdownRemark: {
-            title: (node) => node.frontmatter.title,
-            excerpt: (node) => {
-              const excerptLength = 136; // Hard coded excerpt length
+            title: node => node.frontmatter.title,
+            excerpt: node => {
               let excerpt = '';
-              console.log('#DH# raw', node.internal.content);
-              // const tree = remark().parse(node.rawMarkdownBody);
               const tree = remark().parse(node.internal.content);
-              visit(tree, 'text', (node) => {
+              visit(tree, 'text', node => {
                 excerpt += node.value;
               });
-              console.log('#DH# except', excerpt);
               return excerpt;
-            },
-          },
+            }
+          }
         },
-      },
+        filename: 'search_index.json'
+      }
     },
     {
       resolve: 'gatsby-source-filesystem',
       options: {
         name: 'pages',
-        path: `${__dirname}/src/pages/`,
-      },
+        path: `${__dirname}/src/pages/`
+      }
     },
-    'gatsby-plugin-netlify', // make sure to keep it last in the array
-  ],
+    'gatsby-plugin-netlify' // make sure to keep it last in the array
+  ]
 };
