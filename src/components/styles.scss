@@ -2,12 +2,48 @@
 
 @import './colors.scss';
 
-// Decision-tree component
+// DecisionTree component
 .decision-tree {
   .node {
     .text {
       font-size: 18px;
       font-weight: bold;
+    }
+  }
+}
+
+// CookieConsent component
+.cookieConsent {
+  background: #000;
+  color: #fff;
+  font-size: 18px;
+  line-height: 1.5;
+  padding: 1rem;
+  width: 440px;
+  position: fixed;
+  right: 2rem;
+  bottom: 2rem;
+  text-align: center;
+
+  @media (max-width: 991px) {
+    right: 50%;
+    margin-right: -220px;
+  }
+
+  button {
+    background: $be-white;
+    color: $be-black;
+    margin-top: 1rem;
+    width: 100%;
+    border: none;
+    font-weight: bold;
+    text-transform: uppercase;
+    font-size: 1rem;
+    line-height: 2rem;
+    cursor: pointer;
+
+    &:hover {
+      background: $gray-200;
     }
   }
 }
