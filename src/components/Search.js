@@ -15,7 +15,7 @@ export default class Search extends Component {
     this.state = {
       query: '',
       hits: [],
-      keywords: []
+      keywords: [],
     };
   }
 
@@ -53,7 +53,7 @@ export default class Search extends Component {
           ...s,
           hits,
           keywords,
-          query: text
+          query: text,
         };
       },
       () => {
@@ -93,7 +93,7 @@ export default class Search extends Component {
 
     return {
       keywords: keywords,
-      hits: results.map(({ ref, score }) => ({ ...lunrIndex.store[ref], id: ref, score: score }))
+      hits: results.map(({ ref, score }) => ({ ...lunrIndex.store[ref], id: ref, score: score })),
     };
   }
 
@@ -111,9 +111,10 @@ export default class Search extends Component {
         {keywords && keywords.length > 1 ? (
           <div className="suggestions">
             Suggesties:
-            {keywords.slice(0, 6).map(keyword => (
+            {keywords.slice(0, 6).map((keyword, index) => (
               <a key={keyword} href="#" onClick={() => this.search(keyword)}>
-                {keyword},
+                {keyword}
+                {index < 5 ? ', ' : null}
               </a>
             ))}
           </div>
@@ -124,5 +125,5 @@ export default class Search extends Component {
 }
 
 Search.propTypes = {
-  onSearch: PropTypes.func.isRequired
+  onSearch: PropTypes.func.isRequired,
 };
