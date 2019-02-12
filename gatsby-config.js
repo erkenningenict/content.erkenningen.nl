@@ -1,6 +1,16 @@
 const remark = require('remark');
 const visit = require('unist-util-visit');
 
+const lunrPlugin = lunr => builder => {
+  // Include dutch language features
+  require('lunr-languages/lunr.du')(lunr);
+
+  // Reset pipeline and re-add trimmer and stopwordfilter, but not stemmer (which causes unwanted search issues)
+  builder.pipeline.reset();
+  builder.searchPipeline.reset();
+  builder.pipeline.add(lunr.du.trimmer, lunr.du.stopWordFilter);
+};
+
 module.exports = {
   siteMetadata: {
     title: 'Erkenningen.nl'
@@ -60,11 +70,12 @@ module.exports = {
       options: {
         languages: [
           {
-            name: 'du'
+            name: 'en', // Use en, because du will override custom pipeline
+            plugins: [lunrPlugin]
           }
         ],
         fields: [
-          { name: 'title', store: true, attributes: { boost: 20 } },
+          { name: 'title', store: true, attributes: { boost: 50 } },
           { name: 'excerpt', store: true }
         ],
         resolvers: {
@@ -74,7 +85,7 @@ module.exports = {
               let excerpt = '';
               const tree = remark().parse(node.internal.content);
               visit(tree, 'text', node => {
-                excerpt += node.value;
+                excerpt += node.value + ' ';
               });
               return excerpt;
             }

@@ -14,7 +14,8 @@ export default class Search extends Component {
 
     this.state = {
       query: '',
-      hits: []
+      hits: [],
+      keywords: []
     };
   }
 
@@ -45,12 +46,13 @@ export default class Search extends Component {
   }
 
   search(text) {
-    const hits = this.getHits(text);
+    const { hits, keywords } = this.getHits(text);
     this.setState(
       s => {
         return {
           ...s,
           hits,
+          keywords,
           query: text
         };
       },
@@ -76,15 +78,29 @@ export default class Search extends Component {
       return [];
     }
     const terms = this.parseTerms(query);
-    const lunrIndex = window.__LUNR__['du'];
+    const lunrIndex = window.__LUNR__['en'];
     const results = lunrIndex.index.search(terms);
-    return results.map(({ ref, score }) => ({ ...lunrIndex.store[ref], id: ref, score: score }));
+    const keywords = [];
+    const regex = /^[A-Za-z0-9\-]+$/;
+    for (const result of results) {
+      for (const key of Object.keys(result.matchData.metadata)) {
+        // Only add key if it doesn't contain special characters to create a clean list of usable keywords
+        if (regex.test(key) && keywords.indexOf(key) === -1) {
+          keywords.push(key);
+        }
+      }
+    }
+
+    return {
+      keywords: keywords,
+      hits: results.map(({ ref, score }) => ({ ...lunrIndex.store[ref], id: ref, score: score }))
+    };
   }
 
   render() {
-    const { query } = this.state;
+    const { query, keywords } = this.state;
     return (
-      <div role="search">
+      <div role="search" className="searchInputContainer">
         <input
           onChange={this.handleSearchInput}
           placeholder="Zoek op trefwoord"
@@ -92,6 +108,16 @@ export default class Search extends Component {
           type="search"
           value={query}
         />
+        {keywords && keywords.length > 1 ? (
+          <div className="suggestions">
+            Suggesties:
+            {keywords.slice(0, 6).map(keyword => (
+              <a key={keyword} href="#" onClick={() => this.search(keyword)}>
+                {keyword},
+              </a>
+            ))}
+          </div>
+        ) : null}
       </div>
     );
   }

@@ -151,8 +151,16 @@ li.rc-menu-item.d-none {
     display: none;
   }
 }
-.searchInput {
+.searchInputContainer {
   margin-bottom: 2rem;
+
+  .searchInput {
+  }
+  .suggestions {
+    a {
+      margin: 0 0 0 0.3rem;
+    }
+  }
 }
 .searchForm {
   > .form-control:focus {
