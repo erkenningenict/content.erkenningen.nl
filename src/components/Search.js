@@ -1,6 +1,5 @@
 import PropTypes from 'prop-types';
 import React, { Component } from 'react';
-import { Index } from 'elasticlunr';
 
 export default class Search extends Component {
   constructor(props, context) {
@@ -15,7 +14,8 @@ export default class Search extends Component {
 
     this.state = {
       query: '',
-      hits: []
+      hits: [],
+      keywords: [],
     };
   }
 
@@ -46,13 +46,14 @@ export default class Search extends Component {
   }
 
   search(text) {
-    const hits = this.getHits(text);
+    const { hits, keywords } = this.getHits(text);
     this.setState(
       s => {
         return {
           ...s,
           hits,
-          query: text
+          keywords,
+          query: text,
         };
       },
       () => {
@@ -61,22 +62,45 @@ export default class Search extends Component {
     );
   }
 
-  createIndex() {
-    this.index = Index.load(this.props.data.index);
+  /**
+   * Parse terms from query (using whitespace separator) and add required and wildcard options
+   */
+  parseTerms(query) {
+    const ws = ' ';
+    return query
+      .split(ws)
+      .map(term => '+' + term + '*')
+      .join(ws);
   }
 
   getHits(query) {
-    if (!query) return [];
+    if (!query || !window.__LUNR__) {
+      return [];
+    }
+    const terms = this.parseTerms(query);
+    const lunrIndex = window.__LUNR__['en'];
+    const results = lunrIndex.index.search(terms);
+    const keywords = [];
+    const regex = /^[A-Za-z0-9\-]+$/;
+    for (const result of results) {
+      for (const key of Object.keys(result.matchData.metadata)) {
+        // Only add key if it doesn't contain special characters to create a clean list of usable keywords
+        if (regex.test(key) && keywords.indexOf(key) === -1) {
+          keywords.push(key);
+        }
+      }
+    }
 
-    if (!this.index) this.createIndex();
-    const hits = this.index.search(query, {});
-    return hits.map(({ ref }) => this.index.documentStore.getDoc(ref));
+    return {
+      keywords: keywords,
+      hits: results.map(({ ref, score }) => ({ ...lunrIndex.store[ref], id: ref, score: score })),
+    };
   }
 
   render() {
-    const { query } = this.state;
+    const { query, keywords } = this.state;
     return (
-      <div role="search">
+      <div role="search" className="searchInputContainer">
         <input
           onChange={this.handleSearchInput}
           placeholder="Zoek op trefwoord"
@@ -84,14 +108,22 @@ export default class Search extends Component {
           type="search"
           value={query}
         />
+        {keywords && keywords.length > 1 ? (
+          <div className="suggestions">
+            Suggesties:
+            {keywords.slice(0, 6).map((keyword, index) => (
+              <a key={keyword} href="#" onClick={() => this.search(keyword)}>
+                {keyword}
+                {index < 5 ? ', ' : null}
+              </a>
+            ))}
+          </div>
+        ) : null}
       </div>
     );
   }
 }
 
 Search.propTypes = {
-  data: PropTypes.shape({
-    index: PropTypes.object.isRequired
-  }).isRequired,
-  onSearch: PropTypes.func.isRequired
+  onSearch: PropTypes.func.isRequired,
 };

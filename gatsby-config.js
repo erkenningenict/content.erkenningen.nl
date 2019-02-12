@@ -1,6 +1,16 @@
 const remark = require('remark');
 const visit = require('unist-util-visit');
 
+const lunrPlugin = lunr => builder => {
+  // Include dutch language features
+  require('lunr-languages/lunr.du')(lunr);
+
+  // Reset pipeline and re-add trimmer and stopwordfilter, but not stemmer (which causes unwanted search issues)
+  builder.pipeline.reset();
+  builder.searchPipeline.reset();
+  builder.pipeline.add(lunr.du.trimmer, lunr.du.stopWordFilter);
+};
+
 module.exports = {
   siteMetadata: {
     title: 'Erkenningen.nl',
@@ -56,29 +66,32 @@ module.exports = {
       },
     },
     {
-      resolve: `@gatsby-contrib/gatsby-plugin-elasticlunr-search`,
+      resolve: 'gatsby-plugin-lunr',
       options: {
-        // Fields to index
-        fields: ['title', 'excerpt'],
-        // How to resolve each field's value for a supported node type
+        languages: [
+          {
+            name: 'en', // Use en, because du will override custom pipeline
+            plugins: [lunrPlugin],
+          },
+        ],
+        fields: [
+          { name: 'title', store: true, attributes: { boost: 50 } },
+          { name: 'excerpt', store: true },
+        ],
         resolvers: {
-          // For any node of type MarkdownRemark, list how to resolve the fields' values
           MarkdownRemark: {
-            title: (node) => node.frontmatter.title,
-            excerpt: (node) => {
-              const excerptLength = 136; // Hard coded excerpt length
+            title: node => node.frontmatter.title,
+            excerpt: node => {
               let excerpt = '';
-              console.log('#DH# raw', node.internal.content);
-              // const tree = remark().parse(node.rawMarkdownBody);
               const tree = remark().parse(node.internal.content);
-              visit(tree, 'text', (node) => {
-                excerpt += node.value;
+              visit(tree, 'text', node => {
+                excerpt += node.value + ' ';
               });
-              console.log('#DH# except', excerpt);
               return excerpt;
             },
           },
         },
+        filename: 'search_index.json',
       },
     },
     {
