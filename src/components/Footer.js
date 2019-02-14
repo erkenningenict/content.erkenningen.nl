@@ -1,5 +1,6 @@
 import React from 'react';
 import Link from 'gatsby-link';
+import CookieConsent from 'react-cookie-consent';
 
 const Footer = () => (
   <div className="container">
@@ -25,6 +26,10 @@ const Footer = () => (
         </a>
       </div>
     </div>
+    <CookieConsent location="none" buttonText="Accepteren" disableStyles="true">
+      Bureau Erkenningen gebruikt cookies en vergelijkbare technieken om de website goed te kunnen
+      laten werken en om te analyseren hoe de website wordt gebruikt.
+    </CookieConsent>
   </div>
 );
 
