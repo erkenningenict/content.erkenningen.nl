@@ -27,7 +27,8 @@
 
   @media (max-width: 991px) {
     right: 50%;
-    margin-right: -220px;
+    transform: translate(50%, 0);
+    max-width: 90%;
   }
 
   button {
