@@ -57,19 +57,19 @@ export const HomePage = ({ data }) => {
               <section>
                 <Link to="./licenties/welke-licenties-zijn-er/bestrijding-mollen-en-woelratten">
                   <p>Mollen en woelratten</p>
-                  <img src={mol} />
+                  <img src={mol} alt="Mollen en woelratten bestrijding" />
                 </Link>
               </section>
               <section>
                 <Link to="./licenties/welke-licenties-zijn-er/gewasbescherming">
                   <p>Gewasbescherming</p>
-                  <img src={graan} />
+                  <img src={graan} alt="Gewasbescherming" />
                 </Link>
               </section>
               <section>
                 <Link to="./licenties/welke-licenties-zijn-er/knaagdierbeheersing">
                   <p>Knaagdierbeheersing: KBA</p>
-                  <img src={rat} />
+                  <img src={rat} alt="Knaagdierbeheersing: KBA" />
                 </Link>
               </section>
             </div>
