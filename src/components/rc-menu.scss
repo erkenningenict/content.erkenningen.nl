@@ -201,7 +201,6 @@ $menuPrefixCls: rc-menu;
     & > .rc-menu-submenu,
     & > .rc-menu-item {
       float: left;
-      margin-right: 0.3rem;
 
       &-active {
         //background-color: lighten($be-green, 25%);

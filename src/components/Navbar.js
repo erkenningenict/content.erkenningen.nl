@@ -4,7 +4,6 @@ import logo from '../img/BE-logo.svg';
 import Menu, { SubMenu, Item as MenuItem } from 'rc-menu';
 import './Navbar.css';
 import './hamburger.css';
-import Separator from './separator';
 
 // import { CSSTransition, TransitionGroup } from "react-transition-group";
 // import CSSTransition from "react-transition-group/CSSTransition";
@@ -16,14 +15,14 @@ export default class Navbar extends React.Component {
 
     this.state = {
       collapsed: false,
-      search: ''
+      search: '',
     };
     this.toggleNavbar = this.toggleNavbar.bind(this);
   }
 
   toggleNavbar() {
     this.setState({
-      collapsed: !this.state.collapsed
+      collapsed: !this.state.collapsed,
     });
   }
   render() {
@@ -70,7 +69,6 @@ export default class Navbar extends React.Component {
                   </Link>
                 </MenuItem>
               </SubMenu>
-              <Separator />
               <SubMenu
                 title={
                   <Link activeClassName="active" to="/wat-wij-doen">
@@ -102,7 +100,6 @@ export default class Navbar extends React.Component {
                   <Link to="/wat-wij-doen/brochures">Brochures</Link>
                 </MenuItem>
               </SubMenu>
-              <Separator />
               <SubMenu
                 title={
                   <Link activeClassName="active" to="/licenties">
@@ -131,7 +128,6 @@ export default class Navbar extends React.Component {
                   <Link to="/licenties/wetten-en-regels">Wetten en regels</Link>
                 </MenuItem>
               </SubMenu>
-              <Separator />
               <SubMenu
                 title={
                   <Link activeClassName="active" to="/bijeenkomsten">
@@ -151,7 +147,6 @@ export default class Navbar extends React.Component {
                   </Link>
                 </MenuItem>
               </SubMenu>
-              <Separator />
               <SubMenu
                 title={
                   <Link activeClassName="active" to="/mijn-bureau-erkenningen">
@@ -177,10 +172,10 @@ export default class Navbar extends React.Component {
             </Menu>
             <form
               className="form-inline searchForm"
-              onSubmit={e => {
+              onSubmit={(e) => {
                 e.preventDefault();
                 navigate('/zoeken', {
-                  state: { search: this.state.search }
+                  state: { search: this.state.search },
                 });
                 this.setState({ search: '' });
               }}
@@ -190,7 +185,7 @@ export default class Navbar extends React.Component {
                 type="search"
                 placeholder="Zoek op trefwoord"
                 aria-label="Search"
-                onChange={e => this.setState({ search: e.target.value })}
+                onChange={(e) => this.setState({ search: e.target.value })}
                 value={this.state.search}
               />
             </form>

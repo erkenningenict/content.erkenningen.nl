@@ -6,7 +6,7 @@ export default class LinkButton extends React.Component {
     return (
       <svg className="link-button__line" width="50" height="5" xmlns="http://www.w3.org/2000/svg">
         <g>
-          <rect fill="#fff" id="canvas_background" height="5" width="52" y="-1" x="-1" />
+          <rect fill="#fff" height="5" width="52" y="-1" x="-1" />
         </g>
       </svg>
     );

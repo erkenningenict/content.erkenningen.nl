@@ -1,23 +1,6 @@
-/* .flex-list {
-  position: relative;
-  margin: 1em;
-  overflow: hidden;
+/* nth-last-child(2) is a hack because of the menu that contains an overflowed menu */
+li.rc-menu-submenu-horizontal:not(:nth-last-child(2)) div::after {
+  color: #fff;
+  padding-left: 10px;
+  content: '|';
 }
-.flex-list ul {
-  display: flex;
-  flex-direction: row;
-  flex-wrap: wrap;
-  justify-content: space-between;
-  margin-left: -1px;
-}
-.flex-list li {
-  flex-grow: 1;
-  flex-basis: auto;
-  margin: 0.25em 0;
-  padding: 0 1em;
-  text-align: center;
-  border-left: 1px solid #ccc;
-} */
-/* li + li a::before {
-  content: " | ";
-} */
