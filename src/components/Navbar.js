@@ -29,8 +29,8 @@ export default class Navbar extends React.Component {
     return (
       <nav className="container navbar-be">
         <div className="row">
-          <div className="col-md-3 col-5 col-sm-3 pr-lg-5 pt-lg-4 minWidth">
-            {!this.state.collapsed && (
+          {!this.state.collapsed && (
+            <div className="col-md-3 col-5 col-sm-3 pr-lg-5 pt-lg-4 minWidth">
               <Link to="/" className="navbar-brand">
                 <img
                   src={logo}
@@ -38,13 +38,22 @@ export default class Navbar extends React.Component {
                   style={{ width: '100%', maxWidth: '230px' }}
                 />
               </Link>
-            )}
-          </div>
-          <div className="col-md-9 col-7 col-sm-9 pl-sm-3 pl-lg-0 pt-lg-5 pb-2 d-flex justify-content-start flex-list">
+            </div>
+          )}
+          <div
+            className={
+              (this.state.collapsed
+                ? 'col-9'
+                : 'col-4 col-lg-9 col-md-6 col-sm-6 col-xs-4 pl-sm-3 pl-lg-0 pt-lg-5 pb-2 d-flex justify-content-start flex-list') +
+              ' '
+            }
+            style={{ zIndex: 99 }}
+          >
             <Menu
               mode={this.state.collapsed ? 'inline' : 'horizontal'}
               openAnimation="slide-up"
               className={!this.state.collapsed ? 'd-none d-lg-block' : 'mr-4'}
+              inlineIndent={0}
             >
               <SubMenu
                 title={
@@ -172,7 +181,7 @@ export default class Navbar extends React.Component {
             </Menu>
             <form
               className="form-inline searchForm"
-              onSubmit={(e) => {
+              onSubmit={e => {
                 e.preventDefault();
                 navigate('/zoeken', {
                   state: { search: this.state.search },
@@ -185,10 +194,12 @@ export default class Navbar extends React.Component {
                 type="search"
                 placeholder="Zoek op trefwoord"
                 aria-label="Search"
-                onChange={(e) => this.setState({ search: e.target.value })}
+                onChange={e => this.setState({ search: e.target.value })}
                 value={this.state.search}
               />
             </form>
+          </div>
+          <div className="col-3 text-right">
             <button
               className={`d-lg-none hamburger hamburger--slider ${
                 this.state.collapsed ? 'is-active' : ''

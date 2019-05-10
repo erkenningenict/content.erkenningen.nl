@@ -33,8 +33,7 @@ export const Page = ({ data }) => {
         <div className="row mb-2 mb-lg-5">
           <div className="col-md-1 mt-2 d-none d-lg-block navbar-be__breadcrumbs-spacer-orange" />
           <div className="col-md-2 mt-2 d-none d-lg-block navbar-be__breadcrumbs-spacer-green" />
-          <div className="col-md-3 mt-2 d-none d-lg-none d-md-block spacer-green" />
-          <div className="col-md-7 mt-2 navbar-be__breadcrumbs-container d-none d-md-block">
+          <div className="col-md-10 col-lg-7 mt-2 navbar-be__breadcrumbs-container d-none d-md-block">
             <Breadcrumb absolutePath={page.fileAbsolutePath} />
           </div>
           <div className="col-md-2 mt-2 spacer-green text-right navbar-be__breadcrumbs-menu">
