@@ -1,11 +1,13 @@
 import React from 'react';
 import Helmet from 'react-helmet';
+import Link from 'gatsby-link';
+import { graphql } from 'gatsby';
 
 import TextPageBody from './../components/TextPageBody';
 import Breadcrumb from './../components/Breadcrumb';
 import FaqSidebar from '../components/FaqSidebar';
 import Layout from '../components/layout';
-import { graphql } from 'gatsby';
+import LoginkLink from '../components/LoginLink';
 
 export const Page = ({ data }) => {
   const page = data.markdownRemark;
@@ -32,8 +34,11 @@ export const Page = ({ data }) => {
           <div className="col-md-1 mt-2 d-none d-lg-block navbar-be__breadcrumbs-spacer-orange" />
           <div className="col-md-2 mt-2 d-none d-lg-block navbar-be__breadcrumbs-spacer-green" />
           <div className="col-md-3 mt-2 d-none d-lg-none d-md-block spacer-green" />
-          <div className="col-md-9 mt-2 navbar-be__breadcrumbs-container d-none d-md-block">
+          <div className="col-md-7 mt-2 navbar-be__breadcrumbs-container d-none d-md-block">
             <Breadcrumb absolutePath={page.fileAbsolutePath} />
+          </div>
+          <div className="col-md-2 mt-2 spacer-green text-right navbar-be__breadcrumbs-menu">
+            <LoginkLink />
           </div>
         </div>
         <div className="row">
