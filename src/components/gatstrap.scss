@@ -142,7 +142,13 @@ li.rc-menu-item.d-none {
 
 @include media-breakpoint-down(sm) {
   .navbar-brand {
-    max-width: 81px;
+    max-width: 110px;
+  }
+}
+
+@include media-breakpoint-down(md) {
+  .navbar-brand {
+    max-width: 110px;
   }
 }
 

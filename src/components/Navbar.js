@@ -30,7 +30,7 @@ export default class Navbar extends React.Component {
       <nav className="container navbar-be">
         <div className="row">
           {!this.state.collapsed && (
-            <div className="col-md-3 col-5 col-sm-3 pr-lg-5 pt-lg-4 minWidth">
+            <div className="col-md-5 col-5 col-sm-5 col-lg-3 pr-lg-5 pt-lg-4 minWidth">
               <Link to="/" className="navbar-brand">
                 <img
                   src={logo}
@@ -44,7 +44,7 @@ export default class Navbar extends React.Component {
             className={
               (this.state.collapsed
                 ? 'col-9'
-                : 'col-4 col-lg-9 col-md-6 col-sm-6 col-xs-4 pl-sm-3 pl-lg-0 pt-lg-5 pb-2 d-flex justify-content-start flex-list') +
+                : 'col-4 col-lg-9 col-md-4 col-sm-4 col-xs-4 pl-sm-3 pl-lg-0 pt-lg-5 pb-2 d-flex justify-content-start flex-list') +
               ' '
             }
             style={{ zIndex: 99 }}
@@ -53,7 +53,8 @@ export default class Navbar extends React.Component {
               mode={this.state.collapsed ? 'inline' : 'horizontal'}
               openAnimation="slide-up"
               className={!this.state.collapsed ? 'd-none d-lg-block' : 'mr-4'}
-              inlineIndent={0}
+              inlineIndent={5}
+              selectable={false}
             >
               <SubMenu
                 title={
