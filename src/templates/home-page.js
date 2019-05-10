@@ -33,6 +33,9 @@ export const HomePage = ({ data }) => {
 
         <div className="row">
           <div className="col p-0">
+            <div className="mt-1 mr-3 spacer-green float-right text-right navbar-be__breadcrumbs-menu">
+              <Link to="/mijn-bureau-erkenningen/inloggen">Inloggen</Link>
+            </div>
             <div className="greenContainer">
               <Link to="/licenties">
                 <h1>Licenties voor groene en agrarische beroepen</h1>

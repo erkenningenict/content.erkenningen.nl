@@ -203,7 +203,7 @@ li.rc-menu-item.d-none {
   overflow: hidden;
   text-overflow: ellipsis;
   line-height: 2;
-  line-height: 2.2rem;
+  line-height: 2.5rem;
   @media (max-width: 991px) {
     margin-right: 0.2rem;
   }
@@ -257,6 +257,19 @@ li.rc-menu-item.d-none {
 .navbar-be__breadcrumbs {
   padding: 0.5rem 1rem;
 }
+
+.navbar-be__breadcrumbs-menu {
+  a {
+    color: #fff;
+    text-decoration: none;
+    line-height: 2.5rem;
+
+    &:hover {
+      text-decoration: underline;
+    }
+  }
+}
+
 .navbar-be .navbar-brand,
 .navbar-be .navbar-text {
   color: rgba(255, 255, 255, 0.8);
