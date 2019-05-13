@@ -2,7 +2,7 @@ import 'whatwg-fetch';
 
 import React from 'react';
 import Helmet from 'react-helmet';
-import NavBar from './../components/Navbar';
+import NavBar from './Navigation';
 import Footer from './../components/Footer';
 import Favicon from './../components/Favicon';
 
