@@ -101,6 +101,13 @@ module.exports = {
         path: `${__dirname}/src/pages/`,
       },
     },
+    {
+      resolve: `gatsby-plugin-google-analytics`,
+      options: {
+        trackingId: 'UA-140291354-1',
+        head: true,
+      },
+    },
     'gatsby-plugin-netlify', // make sure to keep it last in the array
   ],
 };
