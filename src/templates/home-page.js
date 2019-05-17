@@ -1,13 +1,15 @@
 import React from 'react';
 import Helmet from 'react-helmet';
+import { graphql } from 'gatsby';
+import Link from 'gatsby-link';
 
 import TextPageBody from './../components/TextPageBody';
 import Layout from './../components/layout';
-import Link from 'gatsby-link';
+import LoginLink from '../components/LoginLink';
+
 import mol from '../../static/img/1.Mol.jpg';
 import graan from '../../static/img/2.Graan.jpg';
 import rat from '../../static/img/3.Rat.jpg';
-import { graphql } from 'gatsby';
 
 export const HomePage = ({ data }) => {
   const page = data.markdownRemark;
@@ -34,7 +36,7 @@ export const HomePage = ({ data }) => {
         <div className="row">
           <div className="col p-0">
             <div className="mt-1 mr-3 spacer-green float-right text-right navbar-be__breadcrumbs-menu">
-              <Link to="/mijn-bureau-erkenningen/inloggen">Inloggen</Link>
+              <LoginLink />
             </div>
             <div className="greenContainer">
               <Link to="/licenties">
