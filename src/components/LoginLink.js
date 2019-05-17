@@ -31,7 +31,9 @@ export default class LoginLink extends React.Component {
           this.setState({ isLoggedIn: false, loading: false });
         }
       })
-      .catch((error) => {});
+      .catch((error) => {
+        this.setState({ isLoggedIn: false, loading: false });
+      });
   }
 
   render() {
