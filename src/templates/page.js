@@ -7,7 +7,7 @@ import TextPageBody from './../components/TextPageBody';
 import Breadcrumb from './../components/Breadcrumb';
 import FaqSidebar from '../components/FaqSidebar';
 import Layout from '../components/layout';
-import LoginkLink from '../components/LoginLink';
+import LoginLink from '../components/LoginLink';
 
 export const Page = ({ data }) => {
   const page = data.markdownRemark;
@@ -38,7 +38,7 @@ export const Page = ({ data }) => {
             <Breadcrumb absolutePath={page.fileAbsolutePath} />
           </div>
           <div className="col-md-2 mt-2 spacer-green text-right navbar-be__breadcrumbs-menu">
-            <LoginkLink />
+            <LoginLink />
           </div>
         </div>
         <div className="row">

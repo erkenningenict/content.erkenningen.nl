@@ -5,6 +5,7 @@
   "author": "Didier Hartong, Gerwin Koudijs",
   "dependencies": {
     "@bit/erkenningenict.ui-components.decision-tree": "0.0.19",
+    "axios": "^0.18.0",
     "classnames": "2.2.6",
     "gatsby": "2.0.91",
     "gatsby-link": "2.0.8",
