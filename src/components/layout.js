@@ -3,9 +3,9 @@ import 'whatwg-fetch';
 import React from 'react';
 import Helmet from 'react-helmet';
 
-import NavBar from './../components/Navbar';
-import Footer from './../components/Footer';
-import Favicon from './../components/Favicon';
+import Navigation from './Navigation';
+import Footer from './Footer';
+import Favicon from './Favicon';
 
 import './gatstrap.scss';
 import './styles.scss';
@@ -36,7 +36,7 @@ const Template = ({ children }) => (
       <meta name="twitter:creator" content="@bureauerkenningen" />
     </Helmet>
 
-    <NavBar />
+    <Navigation />
 
     {children}
     <Footer />

@@ -142,7 +142,13 @@ li.rc-menu-item.d-none {
 
 @include media-breakpoint-down(sm) {
   .navbar-brand {
-    max-width: 81px;
+    max-width: 110px;
+  }
+}
+
+@include media-breakpoint-down(md) {
+  .navbar-brand {
+    max-width: 110px;
   }
 }
 
@@ -270,21 +276,33 @@ li.rc-menu-item.d-none {
   }
 }
 
-.navbar-be .navbar-brand,
-.navbar-be .navbar-text {
-  color: rgba(255, 255, 255, 0.8);
+.navbar-be {
+  .navbar-brand,
+  .navbar-text {
+    color: rgba(255, 255, 255, 0.8);
+  }
+  .navbar-nav .nav-link {
+    color: $be-white;
+    text-transform: uppercase;
+    text-decoration: none;
+  }
+  .nav-item.active,
+  .nav-item:hover {
+  }
+
+  .nav-link {
+    color: $be-white;
+    text-transform: uppercase;
+    text-decoration: none;
+  }
+  .dropdown-menu .nav-link {
+    color: $be-black;
+    font-weight: normal;
+    padding-left: 10px;
+    text-transform: none;
+  }
 }
-.navbar-be .navbar-nav .nav-link {
-  color: $be-white;
-  text-transform: uppercase;
-  text-decoration: none;
-}
-.navbar-be .nav-item.active .nav-link,
-.navbar-be .nav-item:hover .nav-link {
-  color: $be-white;
-  text-transform: uppercase;
-  text-decoration: none;
-}
+
 .navbar-toggler-icon {
   color: red;
   fill: white;
