@@ -8,5 +8,5 @@
   GATSBY_API_URL = "https://api.adviseren.erkenningen.nl/graphql"
   GATSBY_DNN_URL = "https://adviseren.erkenningen.nl"
 [context.deploy-preview.environment]
-  GATSBY_API_URL = "https://XXapi.adviseren.erkenningen.nl/graphql"
-  GATSBY_DNN_URL = "https://XXadviseren.erkenningen.nl"
+  GATSBY_API_URL = "https://api.adviseren.erkenningen.nl/graphql"
+  GATSBY_DNN_URL = "https://adviseren.erkenningen.nl"
