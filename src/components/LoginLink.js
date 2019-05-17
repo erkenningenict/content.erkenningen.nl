@@ -9,7 +9,7 @@ export default class LoginLink extends React.Component {
   }
 
   componentDidMount() {
-    Axios.post(process.env.API_URL, {
+    Axios.post(process.env.GATSBY_API_URL, {
       operationName: null,
       variables: {},
       query: '{ my { Persoon { PersoonID Voorletters Tussenvoegsel Achternaam } } } ',
@@ -41,7 +41,7 @@ export default class LoginLink extends React.Component {
     return (
       <div>
         {this.state.isLoggedIn ? (
-          <a href={process.env.DNN_URL + '/Default.aspx?tabid=143'}>{this.state.name}</a>
+          <a href={process.env.GATSBY_DNN_URL + '/Default.aspx?tabid=143'}>{this.state.name}</a>
         ) : (
           <Link to="/mijn-bureau-erkenningen/inloggen">Inloggen</Link>
         )}
