@@ -4,6 +4,7 @@ import DecisionTree from '@bit/erkenningenict.ui-components.decision-tree';
 
 import LinkContainer from './LinkContainer';
 import LinkButton from './LinkButton';
+import Redirect from './Redirect';
 
 const renderAst = new rehypeReact({
   createElement: React.createElement,
@@ -11,6 +12,7 @@ const renderAst = new rehypeReact({
     'link-container': LinkContainer,
     'link-button': LinkButton,
     'decision-tree': DecisionTree,
+    redirect: Redirect,
     // hidden: Hidden
     // countup: CountUp,
     // rainbowknot: RainbowKnot,

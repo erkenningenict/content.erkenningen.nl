@@ -4,3 +4,7 @@ li.rc-menu-submenu-horizontal:not(:nth-last-child(2)) div::after {
   padding-left: 10px;
   content: '|';
 }
+
+.navbar-light .navbar-toggler {
+  border: none;
+}
