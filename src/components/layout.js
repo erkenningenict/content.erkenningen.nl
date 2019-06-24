@@ -7,6 +7,10 @@ import Navigation from './Navigation';
 import Footer from './Footer';
 import Favicon from './Favicon';
 
+import '@fortawesome/fontawesome-free/css/all.min.css';
+import 'primeicons/primeicons.css';
+import 'primereact/resources/primereact.min.css';
+
 import './gatstrap.scss';
 import './styles.scss';
 
