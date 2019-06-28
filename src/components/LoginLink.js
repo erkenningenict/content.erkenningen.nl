@@ -1,14 +1,17 @@
-import React from 'react';
+import React, { useState, useEffect, useContext } from 'react';
 import Link from 'gatsby-link';
 import Axios from 'axios';
 
-export default class LoginLink extends React.Component {
-  constructor(props) {
-    super(props);
-    this.state = { isLoggedIn: false, name: '', loading: true };
-  }
+// Create a login context to provide global login state
+const LoginContext = React.createContext({ isLoggedIn: false, name: '', ready: false });
 
-  componentDidMount() {
+export const LoginProvider = (props) => {
+  const [state, setState] = useState({ isLoggedIn: false, name: '', ready: false });
+
+  useEffect(() => {
+    if (state.ready) {
+      return;
+    }
     Axios.post(process.env.GATSBY_API_URL, {
       operationName: null,
       variables: {},
@@ -22,32 +25,39 @@ export default class LoginLink extends React.Component {
           response.data.data.my.Persoon
         ) {
           const person = response.data.data.my.Persoon;
-          this.setState({
+          setState({
             isLoggedIn: true,
-            loading: false,
+            ready: true,
             name: person.Voorletters + ' ' + (person.Tussenvoegsel || '') + person.Achternaam,
           });
         } else {
-          this.setState({ isLoggedIn: false, loading: false });
+          setState({ isLoggedIn: false, ready: true });
         }
       })
-      .catch((error) => {
-        this.setState({ isLoggedIn: false, loading: false });
+      .catch(() => {
+        setState({ isLoggedIn: false, ready: true });
       });
+  }, []);
+
+  return <LoginContext.Provider value={state}>{props.children}</LoginContext.Provider>;
+};
+
+const LoginLink = () => {
+  const state = useContext(LoginContext);
+
+  if (!state || !state.ready) {
+    return null;
   }
 
-  render() {
-    if (this.state.loading) {
-      return null;
-    }
-    return (
-      <div>
-        {this.state.isLoggedIn ? (
-          <a href={process.env.GATSBY_DNN_URL + '/Default.aspx?tabid=143'}>{this.state.name}</a>
-        ) : (
-          <Link to="/mijn-bureau-erkenningen/inloggen">Inloggen</Link>
-        )}
-      </div>
-    );
-  }
-}
+  return (
+    <div>
+      {state.isLoggedIn ? (
+        <a href={process.env.GATSBY_DNN_URL + '/Default.aspx?tabid=143'}>{state.name}</a>
+      ) : (
+        <Link to="/mijn-bureau-erkenningen/inloggen">Inloggen</Link>
+      )}
+    </div>
+  );
+};
+
+export default LoginLink;
