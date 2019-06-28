@@ -1,7 +1,9 @@
 import React from 'react';
 import FaqSidebar from '../components/FaqSidebar';
+import Layout from '../components/layout';
 
 const NotFoundPage = () => (
+  <Layout>
   <div className="container">
     <div className="row mb-5">
       <div className="col-md-1 navbar-be__breadcrumbs-spacer-orange" />
@@ -17,7 +19,8 @@ const NotFoundPage = () => (
         <p>Wat jammer, de gezocht pagina bestaat niet. Kies uit het menu een pagina.</p>
       </div>
     </div>
-  </div>
+    </div>
+    </Layout>
 );
 
 export default NotFoundPage;
