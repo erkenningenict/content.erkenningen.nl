@@ -20,6 +20,6 @@ U kunt het formulier ook printen voor uw eigen administratie.
 
 ## Formulieren voor agrarische bedrijven
 
-* [Aanvragen veiligheidsinstructie](https://adviseren.erkenningen.nl/Default.aspx?tabid=202)
+* [Aanvragen veiligheidsinstructie](https://acceptatie.erkenningen.nl/Default.aspx?tabid=202)
 * Administreren veiligheidsinstructie bedrijf
 * Administreren veiligheidsinstructie werknemer
