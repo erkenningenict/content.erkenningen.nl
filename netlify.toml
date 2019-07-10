@@ -7,6 +7,9 @@
 [context.production.environment]
   GATSBY_API_URL = "https://api.acceptatie.erkenningen.nl/graphql"
   GATSBY_DNN_URL = "https://acceptatie.erkenningen.nl"
+[context.develop.environment]
+  GATSBY_API_URL = "https://api.acceptatie.erkenningen.nl/graphql"
+  GATSBY_DNN_URL = "https://acceptatie.erkenningen.nl"
 [context.deploy-preview.environment]
   GATSBY_API_URL = "https://api.acceptatie.erkenningen.nl/graphql"
   GATSBY_DNN_URL = "https://acceptatie.erkenningen.nl"
