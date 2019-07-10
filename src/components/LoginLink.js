@@ -16,6 +16,8 @@ export const LoginProvider = (props) => {
       operationName: null,
       variables: {},
       query: '{ my { Persoon { PersoonID Voorletters Tussenvoegsel Achternaam } } } ',
+    }, {
+      withCredentials: true
     })
       .then((response) => {
         if (
