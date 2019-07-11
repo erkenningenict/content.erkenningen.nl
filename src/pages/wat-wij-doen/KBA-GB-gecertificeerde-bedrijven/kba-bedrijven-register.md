@@ -7,5 +7,5 @@ Welkom bij het KBA-GB bedrijven register. Als agrariër kunt u hier uw bedrijf a
 **Snel naar:**
 
 <link-container>
-<link-button link='{"name": "Register","url": "https://www.erkenningen.nl/Default.aspx?tabid=255"}'></link-button>
+<link-button to="https://www.erkenningen.nl/Default.aspx?tabid=255">Register</link-button>
 </link-container>

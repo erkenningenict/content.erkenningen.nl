@@ -13,6 +13,6 @@ Het is ook mogelijk om [zelf een veiligheidsinstructie te maken. Dat moet u bij 
 **Snel naar:**
 
 <link-container>
-<link-button link='{"name": "Veiligheids instructie aanvragen","url": "/licenties/welke-licenties-zijn-er/veiligheidsinstructies-aanvragen"}' ></link-button>
-<link-button link='{"name": "Veiligheids instructie administreren","url": "/licenties/welke-licenties-zijn-er/veiligheidsinstructies-administreren"}'></link-button>
+<link-button to="/licenties/welke-licenties-zijn-er/veiligheidsinstructies-aanvragen">Veiligheids instructie aanvragen</link-button>
+<link-button to="/licenties/welke-licenties-zijn-er/veiligheidsinstructies-administreren">Veiligheids instructie administreren</link-button>
 </link-container>

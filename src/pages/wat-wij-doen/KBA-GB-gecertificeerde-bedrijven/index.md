@@ -28,5 +28,5 @@ U kunt uw agrarische bedrijf bij Bureau Erkenningen aanmelden voor certificering
 **Snel naar:**
 
 <link-container>
-<link-button link='{"name": "KBA-GB Bedrijven-register","url": "/wat-wij-doen/KBA-GB-gecertificeerde-bedrijven/kba-bedrijven-register"}'></link-button>
+<link-button to="/wat-wij-doen/KBA-GB-gecertificeerde-bedrijven/kba-bedrijven-register">KBA-GB Bedrijven-register</link-button>
 </link-container>

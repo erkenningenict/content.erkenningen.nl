@@ -30,6 +30,6 @@ Voor elke licentiehouder die deelneemt betaalt de kennisaanbieder een afdracht v
 ## Snel naar:
 
 <link-container>
-<link-button link='{"name": "Eisen voor kennisaanbod","url": "/wat-wij-doen/kennisaanbieders/eisen-voor-kennisaanbod"}'></link-button>
-<link-button link='{"name": "Protocol voor kennisaanbieders", "url": "/wat-wij-doen/kennisaanbieders/protocol-voor-kennisaanbieders"}'></link-button>
+<link-button to="/wat-wij-doen/kennisaanbieders/eisen-voor-kennisaanbod">Eisen voor kennisaanbod</link-button>
+<link-button to="/wat-wij-doen/kennisaanbieders/protocol-voor-kennisaanbieders">Protocol voor kennisaanbieders</link-button>
 </link-container>

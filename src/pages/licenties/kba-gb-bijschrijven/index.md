@@ -15,5 +15,5 @@ Dat geld voor de licenties:
 ## Snel naar:
 
 <link-container>
-<link-button link='{"name": "Inloggen","url": "https://erkenningen.nl"}' />
+<link-button to="https://erkenningen.nl">Inloggen</link-button>
 </link-container>

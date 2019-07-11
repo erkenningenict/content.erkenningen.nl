@@ -1,9 +1,7 @@
 import React from 'react';
 import rehypeReact from 'rehype-react';
-import { DecisionTree } from '@erkenningen/ui';
+import { DecisionTree, LinkButton, LinkButtonContainer } from '@erkenningen/ui';
 
-import LinkContainer from './LinkContainer';
-import LinkButton from './LinkButton';
 import Redirect from './Redirect';
 
 class Placeholder extends React.Component {
@@ -15,7 +13,7 @@ class Placeholder extends React.Component {
 const renderAst = new rehypeReact({
   createElement: React.createElement,
   components: {
-    'link-container': LinkContainer,
+    'link-container': LinkButtonContainer,
     'link-button': LinkButton,
     'decision-tree': typeof window !== 'undefined' ? DecisionTree : Placeholder,
     redirect: Redirect,

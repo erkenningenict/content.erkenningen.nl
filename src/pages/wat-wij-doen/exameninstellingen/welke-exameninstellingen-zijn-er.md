@@ -9,5 +9,5 @@ Zoek een exameninstelling bij u in de buurt.
 ## Snel naar:
 
 <link-container>
-<link-button link='{"name": "Exameninstelling zoeken","url": "https://www.erkenningen.nl/Default.aspx?tabid=151"}' ></link-button>
+<link-button to="https://www.erkenningen.nl/Default.aspx?tabid=151">Exameninstelling zoeken</link-button>
 </link-container>

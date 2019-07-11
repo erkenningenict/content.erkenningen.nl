@@ -9,6 +9,6 @@ Dit doet u met uw gebruikersnaam en wachtwoord.
 ## Snel naar:
 
 <link-container>
-<link-button link='{"name": "Inloggen","url": "/licenties/welke-licentie-heb-ik-nodig"}'></link-button>
-<link-button link='{"name": "Inloggegevens kwijt","url": "/mijn-bureau-erkenningen/inloggegevens-kwijt"}'></link-button>
+<link-button to="/licenties/welke-licentie-heb-ik-nodig">Inloggen</link-button>
+<link-button to="/mijn-bureau-erkenningen/inloggegevens-kwijt">Inloggegevens kwijt</link-button>
 </link-container>

@@ -14,5 +14,5 @@ Een aantal niet-Nederlandse diploma's wordt ook erkend. Kijk bij de [geldige dip
 ## Snel naar:
 
 <link-container>
-<link-button link='{"name": "Geldige diplomas","url": "/licenties/licentie-aanvragen/ik-heb-een-buitenlands-diploma"}'></link-button>
+<link-button to="/licenties/licentie-aanvragen/ik-heb-een-buitenlands-diploma">Geldige diplomas</link-button>
 </link-container>

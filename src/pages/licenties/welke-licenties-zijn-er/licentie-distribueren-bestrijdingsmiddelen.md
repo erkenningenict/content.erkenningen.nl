@@ -27,7 +27,7 @@ U moet 3 kennisbijeenkomsten volgen, waarvan minimaal 1 met het thema 'Transport
 [Overzicht geldige diploma's](/licenties/licentie-aanvragen/geldige-diplomas)
 
 <link-container>
-<link-button link='{"name": "Welke licentie heb ik nodig?","url": "/licenties/welke-licentie-heb-ik-nodig"}' ></link-button>
-<link-button link='{"name": "Licentie aanvragen","url": "/licenties/licentie-aanvragen"}' ></link-button>
-<link-button link='{"name": "Licentie verlengen","url": "/licenties/licentie-verlengen"}' ></link-button>
+<link-button to="/licenties/welke-licentie-heb-ik-nodig">Welke licentie heb ik nodig?</link-button>
+<link-button to="/licenties/licentie-aanvragen">Licentie aanvragen</link-button>
+<link-button to="/licenties/licentie-verlengen">Licentie verlengen</link-button>
 </link-container>

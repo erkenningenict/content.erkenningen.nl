@@ -29,8 +29,8 @@ Meer informatie over knaagdieren en knaagdierbeheersing in het [kennisdosier op 
 ## Snel naar:
 
 <link-container>
-<link-button link='{"name": "Licenties knaagdier-beheersing","url": "/licenties/welke-licenties-zijn-er"}' ></link-button>
-<link-button link='{"name": "Welke licentie heb ik nodig?","url": "/licenties/welke-licentie-heb-ik-nodig"}' ></link-button>
-<link-button link='{"name": "Licentie aanvragen","url": "/licenties/licentie-aanvragen"}' ></link-button>
-<link-button link='{"name": "Wetten en regels","url": "/licenties/wetten-en-regels"}' ></link-button>
+<link-button to="/licenties/welke-licenties-zijn-er">Licenties knaagdier-beheersing</link-button>
+<link-button to="/licenties/welke-licentie-heb-ik-nodig">Welke licentie heb ik nodig?</link-button>
+<link-button to="/licenties/licentie-aanvragen">Licentie aanvragen</link-button>
+<link-button to="/licenties/wetten-en-regels">Wetten en regels</link-button>
 </link-container>
