@@ -5,11 +5,11 @@
   YARN_VERSION = "1.3.2"
   YARN_FLAGS = "--no-ignore-optional"
 [context.production.environment]
-  GATSBY_API_URL = "https://api.acceptatie.erkenningen.nl/graphql"
-  GATSBY_DNN_URL = "https://administratie.acceptatie.erkenningen.nl"
+  GATSBY_ERKENNINGEN_GRAPHQL_API_URL = "https://api.acceptatie.erkenningen.nl/graphql"
+  GATSBY_ERKENNINGEN_ADMIN_URL = "https://administratie.acceptatie.erkenningen.nl"
 [context.develop.environment]
-  GATSBY_API_URL = "https://api.acceptatie.erkenningen.nl/graphql"
-  GATSBY_DNN_URL = "https://administratie.acceptatie.erkenningen.nl"
+  GATSBY_ERKENNINGEN_GRAPHQL_API_URL = "https://api.acceptatie.erkenningen.nl/graphql"
+  GATSBY_ERKENNINGEN_ADMIN_URL = "https://administratie.acceptatie.erkenningen.nl"
 [context.deploy-preview.environment]
-  GATSBY_API_URL = "https://api.acceptatie.erkenningen.nl/graphql"
-  GATSBY_DNN_URL = "https://administratie.acceptatie.erkenningen.nl"
+  GATSBY_ERKENNINGEN_GRAPHQL_API_URL = "https://api.acceptatie.erkenningen.nl/graphql/DEPLOYPREVIEWTEST"
+  GATSBY_ERKENNINGEN_ADMIN_URL = "https://administratie.acceptatie.erkenningen.nl/DEPLOYPREVIEWTEST"
