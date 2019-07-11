@@ -9,16 +9,13 @@ export default class Redirect extends React.Component {
       return null;
     }
 
-    let href =
-      this.props.children.length &&
-      this.props.children[0].props &&
-      this.props.children[0].props.href;
+    let href = this.props.children.length && this.props.children[0];
 
     if (!href) {
       href = '/';
     }
 
-    if (this.props.toAdmin) {
+    if (this.props.admin === 'true') {
       href = ERKENNINGEN_ADMIN_URL + href;
     }
 
