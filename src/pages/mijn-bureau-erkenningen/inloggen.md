@@ -2,4 +2,4 @@
 title: Inloggen
 ---
 
-<redirect>https://acceptatie.erkenningen.nl/Default.aspx?tabid=104</redirect>
+<redirect>https://administratie.acceptatie.erkenningen.nl/Default.aspx?tabid=104</redirect>
