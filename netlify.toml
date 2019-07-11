@@ -11,5 +11,5 @@
   GATSBY_ERKENNINGEN_GRAPHQL_API_URL = "https://api.acceptatie.erkenningen.nl/graphql"
   GATSBY_ERKENNINGEN_ADMIN_URL = "https://administratie.acceptatie.erkenningen.nl"
 [context.deploy-preview.environment]
-  GATSBY_ERKENNINGEN_GRAPHQL_API_URL = "https://api.acceptatie.erkenningen.nl/graphql/DEPLOYPREVIEWTEST"
-  GATSBY_ERKENNINGEN_ADMIN_URL = "https://administratie.acceptatie.erkenningen.nl/DEPLOYPREVIEWTEST"
+  GATSBY_ERKENNINGEN_GRAPHQL_API_URL = "https://api.acceptatie.erkenningen.nl/graphql"
+  GATSBY_ERKENNINGEN_ADMIN_URL = "https://administratie.acceptatie.erkenningen.nl"
