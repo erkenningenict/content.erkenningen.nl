@@ -102,6 +102,10 @@ exports.onCreateWebpackConfig = ({ stage, loaders, actions }) => {
             test: /@erkenningen\/ui/,
             use: loaders.null(),
           },
+          {
+            test: /.*npm-erkenningen-ui.*/,
+            use: loaders.null(),
+          },
         ],
       },
     });

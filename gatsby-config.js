@@ -1,7 +1,7 @@
 const remark = require('remark');
 const visit = require('unist-util-visit');
 
-const lunrPlugin = lunr => builder => {
+const lunrPlugin = (lunr) => (builder) => {
   // Include dutch language features
   require('lunr-languages/lunr.du')(lunr);
 
@@ -80,11 +80,11 @@ module.exports = {
         ],
         resolvers: {
           MarkdownRemark: {
-            title: node => node.frontmatter.title,
-            excerpt: node => {
+            title: (node) => node.frontmatter.title,
+            excerpt: (node) => {
               let excerpt = '';
               const tree = remark().parse(node.internal.content);
-              visit(tree, 'text', node => {
+              visit(tree, 'text', (node) => {
                 excerpt += node.value + ' ';
               });
               return excerpt;

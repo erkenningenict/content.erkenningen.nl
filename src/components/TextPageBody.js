@@ -8,7 +8,7 @@ const hasWindow = typeof window !== 'undefined';
 
 class Placeholder extends React.Component {
   render() {
-    return <div />;
+    return <>{this.props.children}</>;
   }
 }
 
