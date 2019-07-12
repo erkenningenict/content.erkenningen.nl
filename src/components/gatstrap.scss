@@ -520,14 +520,15 @@ $margin-top-containers: 0.4rem;
 
 .homeButtons {
   margin-top: 2rem;
-  .link-container {
+  div {
     justify-content: center;
-  }
-  .link-container > a.link-button {
-    background-color: $be-orange !important;
-    transition: all 0.15s ease-in-out;
-    &:hover {
-      background-color: lighten($be-orange, 10%) !important;
+
+    a {
+      background-color: $be-orange !important;
+      transition: all 0.15s ease-in-out;
+      &:hover {
+        background-color: lighten($be-orange, 10%) !important;
+      }
     }
   }
 }
