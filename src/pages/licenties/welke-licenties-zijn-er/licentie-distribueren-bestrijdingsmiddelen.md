@@ -30,4 +30,5 @@ U moet 3 kennisbijeenkomsten volgen, waarvan minimaal 1 met het thema 'Transport
 <link-button to="/licenties/welke-licentie-heb-ik-nodig">Welke licentie heb ik nodig?</link-button>
 <link-button to="/licenties/licentie-aanvragen">Licentie aanvragen</link-button>
 <link-button to="/licenties/licentie-verlengen">Licentie verlengen</link-button>
+<link-button to="https://administratie.acceptatie.erkenningen.nl/Default.aspx?tabid=132#/bijeenkomsten-zoeken/op-locatie?certificeringId=308794&competentieId=5">Bijeenkomst zoeken</link-button>
 </link-container>

@@ -25,3 +25,7 @@ U moet 4 kennisbijeenkomsten volgen:
 - 1 met een thema naar keuze
 
 ## Snel naar:
+
+<link-container>
+<link-button to="https://administratie.acceptatie.erkenningen.nl/Default.aspx?tabid=132#/bijeenkomsten-zoeken/op-locatie?certificeringId=308794&competentieId=2">Bijeenkomst zoeken</link-button>
+</link-container
