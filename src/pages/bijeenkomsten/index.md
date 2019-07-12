@@ -11,7 +11,7 @@ Zelf kennisbijeenkomsten organiseren? Dan kunt u zich aanmelden bij Bureau Erken
 ## Snel naar:
 
 <link-container>
-<link-button link='{"name": "Bijeenkomsten zoeken","url": "/bijeenkomsten/bijeenkomsten-zoeken"}' ></link-button>
-<link-button link='{"name": "Gevolgde bijeenkomsten","url": "/bijeenkomsten/gevolgde-bijeenkomsten"}' ></link-button>
-<link-button link='{"name": "Bijeenkomsten organiseren","url": "/bijeenkomsten/bijeenkomsten-organiseren"}' ></link-button>
+<link-button to="/bijeenkomsten/bijeenkomsten-zoeken">Bijeenkomsten zoeken</link-button>
+<link-button to="/bijeenkomsten/gevolgde-bijeenkomsten">Gevolgde bijeenkomsten</link-button>
+<link-button to="/bijeenkomsten/bijeenkomsten-organiseren">Bijeenkomsten organiseren</link-button>
 </link-container>

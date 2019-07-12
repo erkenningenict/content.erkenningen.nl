@@ -26,7 +26,7 @@ const Footer = () => (
         </a>
       </div>
     </div>
-    <CookieConsent location="none" buttonText="Accepteren" disableStyles={true}>
+    <CookieConsent location="none" buttonText="Begrepen" disableStyles={true}>
       Bureau Erkenningen gebruikt cookies en vergelijkbare technieken om de website goed te kunnen
       laten werken en om te analyseren hoe de website wordt gebruikt.
     </CookieConsent>

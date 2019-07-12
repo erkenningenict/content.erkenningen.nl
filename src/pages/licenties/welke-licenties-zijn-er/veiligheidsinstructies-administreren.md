@@ -10,4 +10,6 @@ Een veiligheidsinstructie is 5 jaar geldig. Een werknemer mag in die 5 jaar deze
 
 **Snel naar:**
 
-[Formulieren](/wat-wij-doen/formulieren)
+<link-container>
+<link-button to="/wat-wij-doen/formulieren">Formulieren</link-button>
+</link-container>

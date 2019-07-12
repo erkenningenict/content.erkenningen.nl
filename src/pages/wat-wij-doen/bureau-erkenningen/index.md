@@ -13,8 +13,8 @@ Bureau Erkenningen [beoordeelt en erkent](/wat-wij-doen) deze [bijeenkomsten](/b
 ## Snel naar:
 
 <link-container>
-<link-button link='{"name": "Wat wij doen","url": "/wat-wij-doen/"}' ></link-button>
-<link-button link='{"name": "Wetten en regels","url": "/licenties/wetten-en-regels"}' ></link-button>
-<link-button link='{"name": "Licentie aanvragen","url": "/licenties/licentie-aanvragen/"}' ></link-button>
-<link-button link='{"name": "Licentie verlengen","url": "/licenties/licentie-verlengen/"}' ></link-button>
+<link-button to="/wat-wij-doen/">Wat wij doen</link-button>
+<link-button to="/licenties/wetten-en-regels">Wetten en regels</link-button>
+<link-button to="/licenties/licentie-aanvragen/">Licentie aanvragen</link-button>
+<link-button to="/licenties/licentie-verlengen/">Licentie verlengen</link-button>
 </link-container>

@@ -17,6 +17,6 @@ Voor mensen met een niet Nederlands diploma geldt tevens dat de houder van de li
 ## Snel naar:
 
 <link-container>
-<link-button link='{"name": "licentie aanvragen","url": "/licenties/licentie-aanvragen"}'></link-button>
-<link-button link='{"name": "Zoek exameninstelling","url": "/wat-wij-doen/exameninstellingen/welke-exameninstellingen-zijn-er"}'></link-button>
+<link-button to="/licenties/licentie-aanvragen">licentie aanvragen</link-button>
+<link-button to="/wat-wij-doen/exameninstellingen/welke-exameninstellingen-zijn-er">Zoek exameninstelling</link-button>
 </link-container>

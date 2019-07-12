@@ -28,7 +28,7 @@ U kunt gebruik maken van een [bestaande veiligheidsinstructie](/licenties/welke-
 **Snel naar:**
 
 <link-container>
-<link-button link='{"name": "Bestaande veiligheids instructies","url": "/licenties/welke-licenties-zijn-er/bestaande-veiligheidsinstructies"}' ></link-button>
-<link-button link='{"name": "Veiligheids instructie aanvragen","url": "/licenties/welke-licenties-zijn-er/veiligheidsinstructies-aanvragen"}' ></link-button>
-<link-button link='{"name": "Veiligheids instructie registreren","url": "/licenties/welke-licenties-zijn-er/veiligheidsinstructies-administreren"}' ></link-button>
+<link-button to="/licenties/welke-licenties-zijn-er/bestaande-veiligheidsinstructies">Bestaande veiligheids instructies</link-button>
+<link-button to="/licenties/welke-licenties-zijn-er/veiligheidsinstructies-aanvragen">Veiligheids instructie aanvragen</link-button>
+<link-button to="/licenties/welke-licenties-zijn-er/veiligheidsinstructies-administreren">Veiligheids instructie registreren</link-button>
 </link-container>

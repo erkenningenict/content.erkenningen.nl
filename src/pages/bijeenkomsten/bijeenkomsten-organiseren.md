@@ -11,6 +11,6 @@ Nadat u bent ingelogd, kunt u een kennisbijeenkomst aanmelden voor erkenning. Na
 ## Snel naar:
 
 <link-container>
-<link-button link='{"name": "Kennisaanbieder worden","url": "/wat-wij-doen/kennisaanbieders/"}'></link-button>
-<link-button link='{"name": "Inloggen als kennisaanbieder","url": "https://erkenningen.nl/Default.aspx?tabid=154"}'></link-button>
+<link-button to="/wat-wij-doen/kennisaanbieders/">Kennisaanbieder worden</link-button>
+<link-button to="https://erkenningen.nl/Default.aspx?tabid=154">Inloggen als kennisaanbieder</link-button>
 </link-container>

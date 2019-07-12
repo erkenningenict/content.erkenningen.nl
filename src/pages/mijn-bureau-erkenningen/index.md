@@ -16,7 +16,7 @@ Werkt u bij een kennisaanbieder, exameninstelling of ander bedrijf, of bent u in
 ## Snel naar:
 
 <link-container>
-<link-button link='{"name": "Inloggen","url": "mijn-bureau-erkenningen/inloggen"}'></link-button>
-<link-button link='{"name": "Inloggegevens kwijt","url": "/mijn-bureau-erkenningen/inloggegevens-kwijt"}'></link-button>
-<link-button link='{"name": "Duplicaat pas aanvragen","url": "/mijn-bureau-erkenningen/duplicaat-pas-aanvragen"}'></link-button>
+<link-button to="mijn-bureau-erkenningen/inloggen">Inloggen</link-button>
+<link-button to="/mijn-bureau-erkenningen/inloggegevens-kwijt">Inloggegevens kwijt</link-button>
+<link-button to="/mijn-bureau-erkenningen/duplicaat-pas-aanvragen">Duplicaat pas aanvragen</link-button>
 </link-container>

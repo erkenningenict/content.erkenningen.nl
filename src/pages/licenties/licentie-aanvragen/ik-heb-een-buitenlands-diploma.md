@@ -61,5 +61,5 @@ Staat uw diploma er niet tussen? Vul dan een [formulier](/wat-wij-doen/formulier
 7.1 \[Pools] Verklaring van scholing op gebied van gewasbescherming afgegeven sinds mei 2013 doorOśrodek Doradztwa Rolnieczego’ te Boguchwała
 
 <link-container>
-<link-button link='{"name": "Welke licentie heb ik nodig?","url": "/licenties/welke-licentie-heb-ik-nodig"}' />
+<link-button to="/licenties/welke-licentie-heb-ik-nodig">Welke licentie heb ik nodig?</link-button>
 </link-container>

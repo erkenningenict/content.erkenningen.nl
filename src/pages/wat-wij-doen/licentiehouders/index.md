@@ -11,7 +11,7 @@ Bent u licentiehouder? Dan kunt u uw gegevens bekijken door [in te loggen](/mijn
 ## Snel naar:
 
 <link-container>
-<link-button link='{"name": "Inloggen","url": "/mijn-bureau-erkenningen/inloggen"}' ></link-button>
-<link-button link='{"name": "Licentie verlengen","url": "/licenties/licentie-verlengen"}' ></link-button>
-<link-button link='{"name": "licentie aanvragen","url": "/licenties/licentie-aanvragen"}' ></link-button>
-<link-button link='{"name": "Licentie aanvragen","url": "/licenties/licentie-aanvragen"}' ></link-button></link-container>
+<link-button to="/mijn-bureau-erkenningen/inloggen">Inloggen</link-button>
+<link-button to="/licenties/licentie-verlengen">Licentie verlengen</link-button>
+<link-button to="/licenties/licentie-aanvragen">licentie aanvragen</link-button>
+<link-button to="/licenties/licentie-aanvragen">Licentie aanvragen</link-button></link-container>

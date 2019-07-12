@@ -11,8 +11,8 @@ Wanneer u mollen en woelratten wilt bestrijden met behulp van chemische middelen
 ## Snel naar:
 
 <link-container>
-<link-button link='{"name": "Licentie mollen- en woelratten","url": "/licenties/welke-licenties-zijn-er/licentie-mollen-en-woelrattenbestrijding"}' ></link-button>
-<link-button link='{"name": "Welke licentie heb ik nodig?","url": "/licenties/welke-licentie-heb-ik-nodig"}' ></link-button>
-<link-button link='{"name": "Licentie aanvragen","url": "/licenties/licentie-aanvragen"}' ></link-button>
-<link-button link='{"name": "Wetten en regels","url": "/licenties/wetten-en-regels"}' ></link-button>
+<link-button to="/licenties/welke-licenties-zijn-er/licentie-mollen-en-woelrattenbestrijding">Licentie mollen- en woelratten</link-button>
+<link-button to="/licenties/welke-licentie-heb-ik-nodig">Welke licentie heb ik nodig?</link-button>
+<link-button to="/licenties/licentie-aanvragen">Licentie aanvragen</link-button>
+<link-button to="/licenties/wetten-en-regels">Wetten en regels</link-button>
 </link-container>
