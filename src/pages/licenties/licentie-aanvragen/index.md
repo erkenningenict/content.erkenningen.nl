@@ -15,4 +15,5 @@ Een aantal niet-Nederlandse diploma's wordt ook erkend. Kijk bij de [geldige dip
 
 <link-container>
 <link-button link='{"name": "Geldige diplomas","url": "/licenties/licentie-aanvragen/ik-heb-een-buitenlands-diploma"}'></link-button>
+<link-button link='{"name": "Licentie aanvraag indienen","url": "https://erkenningen.nl/Default.aspx?tabid=153#/"}'></link-button>
 </link-container>
