@@ -16,7 +16,7 @@ De wetten en regels voor bestrijding van mollen en woelratten en knaagdierbeheer
 <link-button to="/licenties/welke-licentie-heb-ik-nodig">Welke licentie heb ik nodig?</link-button>
 <link-button to="https://eur-lex.europa.eu/legal-content/NL/TXT/HTML/?uri=CELEX:32009R1107&from=NL">Europese Verordening</link-button>
 <link-button to="https://eur-lex.europa.eu/legal-content/NL/TXT/?uri=CELEX:32009L0128">Europese Richtlijn</link-button>
+<link-button to="http://wetten.overheid.nl/BWBR0021670/2018-02-17">Nederlandse Wet</link-button>
 <link-button to="/licenties/wetten-en-regels/nederlands-besluit">Nederlands Besluit</link-button>
 <link-button to="http://wetten.overheid.nl/BWBR0022545/2018-01-01">Nederlandse Regeling</link-button>
-<link-button to="http://wetten.overheid.nl/BWBR0021670/2018-02-17">Nederlandse Wet</link-button>
 </link-container>
