@@ -5,7 +5,7 @@
   "author": "Didier Hartong, Gerwin Koudijs",
   "dependencies": {
     "@erkenningen/config": "^1.0.6",
-    "@erkenningen/ui": "^1.0.44",
+    "@erkenningen/ui": "^1.0.46",
     "axios": "0.18.0",
     "classnames": "2.2.6",
     "gatsby": "^2.0.91",
