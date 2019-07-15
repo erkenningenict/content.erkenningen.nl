@@ -2,7 +2,6 @@ import React from 'react';
 import { ERKENNINGEN_ADMIN_URL } from '@erkenningen/config';
 import FaqSidebar from '../components/FaqSidebar';
 import Layout from '../components/layout';
-import { Alert } from '@erkenningen/ui';
 
 const NotFoundPage = () => {
   // Determine if original request was a link to the old site
@@ -28,7 +27,7 @@ const NotFoundPage = () => {
           </div>
           <div className="col-md-9 pl-0">
             <h1>Pagina niet gevonden</h1>
-            <Alert type="warning">
+            <p className="alert alert-warning">
               {isOldLink() ? (
                 <>
                   De pagina die u probeerde op te vragen is verhuisd naar de administratiesite van
@@ -40,7 +39,7 @@ const NotFoundPage = () => {
               ) : (
                 <>Wat jammer, de gezocht pagina bestaat niet. Kies uit het menu een pagina.</>
               )}
-            </Alert>
+            </p>
           </div>
         </div>
       </div>
