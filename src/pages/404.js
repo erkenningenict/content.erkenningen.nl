@@ -18,7 +18,7 @@ const NotFoundPage = () => {
           <div className="col-md-1 navbar-be__breadcrumbs-spacer-orange" />
           <div className="col-md-2 navbar-be__breadcrumbs-spacer-green" />
           <div className="col-md-9 navbar-be__breadcrumbs-container">
-            {isOldLink ? 'Pagina niet gevonden' : 'Pagina verhuisd'}
+            {isOldLink ? 'Pagina verhuisd' : 'Pagina niet gevonden'}
           </div>
         </div>
         <div className="row">
@@ -26,7 +26,7 @@ const NotFoundPage = () => {
             <FaqSidebar />
           </div>
           <div className="col-md-9 pl-0">
-            <h1>{isOldLink ? 'Pagina niet gevonden' : 'Pagina verhuisd'}</h1>
+            <h1>{isOldLink ? 'Pagina verhuisd' : 'Pagina niet gevonden'}</h1>
             <p className="alert alert-warning">
               {isOldLink ? (
                 <>
