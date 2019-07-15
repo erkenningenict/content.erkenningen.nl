@@ -33,8 +33,8 @@ const NotFoundPage = () => {
                   De pagina die u probeerde op te vragen is verhuisd naar de administratiesite van
                   Bureau Erkenningen en is mogelijk niet meer beschikbaar. Klik{' '}
                   <a href={ERKENNINGEN_ADMIN_URL + getOldPath()}>hier</a> om de pagina te openen in
-                  de administratiesite of blijf op deze informatiesite. En werk uw bladwijzers of
-                  favorieten bij.
+                  de administratiesite of blijf op deze informatiesite. Zorg ervoor dat u uw
+                  bladwijzers of favorieten bijwerkt.
                 </>
               ) : (
                 <>Wat jammer, de gezocht pagina bestaat niet. Kies uit het menu een pagina.</>
