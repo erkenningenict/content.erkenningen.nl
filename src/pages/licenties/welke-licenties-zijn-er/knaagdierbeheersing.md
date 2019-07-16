@@ -1,8 +1,7 @@
 ---
 title: Knaagdierbeheersing
 ---
-
-**Er zijn vele manieren om knaagdieren te beheersen. Als niets meer helpt, kunt u chemische bestrijdingsmiddelen inzetten.**
+**Er zijn vele manieren om knaagdieren te beheersen. Als niets meer helpt, kunt u chemische middelen inzetten.**
 
 Knaagdieren zoals muizen en ratten kunnen een lastig probleem vormen op uw (agrarische) bedrijf. Ze knagen aan alles wat los en vast zit en verspreiden ziektes.
 
@@ -14,15 +13,17 @@ Knaagdierbeheersing op agrarische bedrijven valt tot op heden uiteen in twee del
 KBA geldt alleen voor binnen.
 KBA-GB geldt voor zowel binnen als buiten
 bedrijfsgebouwen.
-Als u op uw bedrijf buiten gebruiksgebouwen chemische knaagdierbeheersing wil toepassen, dan moet uw [bedrijf ook gecertificeerd](/wat-wij-doen/KBA-GB-gecertificeerde-bedrijven) zijn door het Keurmerk Plaagdier Management Bedrijven (KPMB).
+Als u op uw bedrijf buiten gebruiksgebouwen, anticoagulantia wilt toepassen, dan moet uw [bedrijf ook gecertificeerd](/wat-wij-doen/KBA-GB-gecertificeerde-bedrijven) zijn door het Keurmerk Plaagdier Management Bedrijven (KPMB).
 
-Heeft u al een licentie gewasbescherming? Dan kunt u een kennisbijeenkomst met het thema 'KBA' volgen en dit laten bijschrijven op uw huidige pas. Hiermee beschikt u over een licentie KBA.
+Heeft u al een licentie gewasbescherming? Dan kunt u een kennisbijeenkomst met het thema 'KBA' volgen. Hiermee beschikt u over een licentie KBA.
 
-Met de de [tool van Bureau Erkenningen](/licenties/welke-licentie-heb-ik-nodig) kunt u bepalen welke licentie u nodig heeft.
+In de brochure Knaagdierbeheersing kunt u lezen welke licentie u nodig heeft.
 
 ## Let op
 
-Vanaf 2022 gaat het CTGB de toelatingen voor anti-coagulantia wijzigen. Voor steeds meer middelen is dan de licentie KBA-GB noodzakelijk en is de licentie KBA niet langer voldoende.
+Vanaf 2022 gaat het CTGB de toelatingen voor anti-coagulantia wijzigen. Voor steeds minder middelen is dan de licentie KBA toereikend. Geleidelijk aan zal voor steeds meer middelen gaan gelden dat de licentie KBA-GB noodzakelijk is. 
+
+De verwachting is dat per 2026 de licentie KBA voor geen enkel middel toereikend is
 
 Meer informatie over knaagdieren en knaagdierbeheersing in het [kennisdosier op Groen Kennisnet.](https://www.groenkennisnet.nl/nl/groenkennisnet/show/dossier-knaagdierbeheersing.htm)
 
@@ -30,7 +31,6 @@ Meer informatie over knaagdieren en knaagdierbeheersing in het [kennisdosier op 
 
 <link-container>
 <link-button to="/licenties/welke-licenties-zijn-er">Licenties knaagdier-beheersing</link-button>
-<link-button to="/licenties/welke-licentie-heb-ik-nodig">Welke licentie heb ik nodig?</link-button>
 <link-button to="/licenties/licentie-aanvragen">Licentie aanvragen</link-button>
 <link-button to="/licenties/wetten-en-regels">Wetten en regels</link-button>
 </link-container>
