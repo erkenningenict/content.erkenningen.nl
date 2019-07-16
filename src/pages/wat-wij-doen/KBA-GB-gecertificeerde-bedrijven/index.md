@@ -1,17 +1,16 @@
 ---
 title: KBA-GB gecertificeerde bedrijven
 ---
-
 **Als u op uw bedrijf buiten gebruiksgebouwen en voederopslagplaatsen knaagdierbeheersing wil toepassen (anti-coagulantia), dan moet uw bedrijf gecertificeerd zijn.**
 
 Kijk voor meer informatie bij een van de onderstaande instanties:
 
-- [Keurmerk Plaagdier Management Bedrijven (KPMB)](https://kpmb.nl/register/certificerende-instanties)
-- de [Nederlandse Voedsel en Warenautoriteit
+* [Keurmerk Plaagdier Management Bedrijven (KPMB)](https://kpmb.nl/register/certificerende-instanties)
+* de [Nederlandse Voedsel en Warenautoriteit
   (NVWA)](https://www.nvwa.nl/)
-- [Inspectie Leefomgeving en Transport Infrastructuur](https://www.ilent.nl/) (ILenT).
+* [Inspectie Leefomgeving en Transport Infrastructuur](https://www.ilent.nl/) (ILenT).
 
-Op verzoek van LTO Nederland houdt Bureau Erkenningen een [register bij van KBA-GB gecertificeerde bedrijven](/wat-wij-doen/KBA-GB-gecertificeerde-bedrijven/kba-bedrijven-register). Registratie is kosteloos. \
+Op verzoek van KPMB en LTO Nederland houdt Bureau Erkenningen een [register bij van KBA-GB gecertificeerde bedrijven](/wat-wij-doen/KBA-GB-gecertificeerde-bedrijven/kba-bedrijven-register). Registratie is kosteloos. \
 \
 Het register wordt gebruikt om het certificeringsbeleid in Nederland te monitoren. Persoons- en bedrijfsgegevens zijn in de rapportages niet traceerbaar.
 
