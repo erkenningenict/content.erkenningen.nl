@@ -1,23 +1,23 @@
 ---
 title: Licentie Adviseren gewasbescherming
 ---
-
 ## Voor wie?
 
-- Voor mensen die werken in opdracht van een ander, mits een derde persoon aanwezig of beschikbaar is die beschikt over Bedrijfsvoeren Gewasbescherming.
-- Agrariërs geboren voor 01-01-1996, mits zij geen personeel in dienst hebben die gewasbeschermingshandelingen doen.
+* Per 1 januari 2019 is de licentie Adviseren verplicht voor professionele adviseurs of teeltbegeleiders.
 
 Weet u nog niet zeker of dit de licentie is die u nodig heeft, gebruik dan onze [tool](/licenties/welke-licentie-heb-ik-nodig).
 
 ## Welk diploma/examen nodig?
 
-Voor deze licentie moet u examen doen bij een [exameninstelling](/wat-wij-doen/exameninstellingen).
+Certificaat Gewasbescherming B + Opleiding Tuin- en Akkerbouw, module Adviseren 
+
+De opleiding Tuin- en Akkerbouw, module Adviseren wordt gegeven aan de groene HBO instellingen (Delft, Den Bosch, Dronten, Leeuwarden).
 
 Sommige buitenlandse diploma's worden ook erkend. Voor mensen met een niet Nederlands diploma geldt tevens dat de houder van de licentie de Nederlandse taal beheerst, op zodanig niveau dat voorschriften op etiketten van gewasbeschermingsmiddelen en biociden en andere voor de toepassing van de wet geldende voorschriften begrepen en uitgevoerd kunnen worden. [Kijk hier voor de lijst met geldige diploma's.](/licenties/licentie-aanvragen/ik-heb-een-buitenlands-diploma)
 
 ## Nodig voor verlenging licentie:
 
-U moet 5 kennisbijeenkomsten volgen, waarvan minimaal 1 met het thema 'Veiligheid en Techniek'.
+U moet 5 kennisbijeenkomsten volgen, allen in de competentie “Adviseren Gewasbescherming”. Elk thema dient minstens één maal te worden gevolgd.
 
 **Snel naar:**
 
