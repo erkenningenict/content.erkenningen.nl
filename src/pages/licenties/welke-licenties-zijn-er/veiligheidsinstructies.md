@@ -1,7 +1,6 @@
 ---
 title: Veiligheidsinstructies
 ---
-
 De meest eenvoudige licentie is de veiligheidsinstructie. Wilt u (of uw werknemer) één bepaalde handeling uitvoeren, dan volstaat in een aantal gevallen het geven of krijgen van een veiligheidsinstructie.
 
 Veiligheidsinstructies worden altijd gegeven door een licentiehouder van het bedrijf waar de medewerker werkt. Als medewerkers elders al een instructie hebben gevolgd, moet daarvan een bewijs zijn.
@@ -10,18 +9,19 @@ Het bedrijf waar de veiligheidsinstructie wordt gegeven, [administreert](/licent
 
 Een veiligheidsinstructie is verplicht voor de volgende handelingen (klik op i voor meer informatie):
 
-- bedienen zaadcoatingsmachine
-- laboratoriumtoepassingen van gewasbeschermingsmiddelen
-- verwijderen aardappelopslag met glyfosaat
-- doden van ongewenste planten met handapparatuur (ziekzoeken)
-- pleksgewijze onkruidbestrijding met handapparatuur
-- stobbebehandeling met handapperatuur
-- toepassing met indolylboterzuur
-- gebruik dispensers met feromonen
-- insmeren stammen met kwartszand
-- gebruik houdbaarheidsmiddelen na oogst snijbloemen
-- gebruik aardappelpootmachine met poederdoseerapparatuur met pencycuron
-- bedienen fytodrip machine.
+* bedienen zaadcoatingsmachine
+* laboratoriumtoepassingen van gewasbeschermingsmiddelen
+* verwijderen aardappelopslag met glyfosaat
+* doden van ongewenste planten met handapparatuur (ziekzoeken)
+* pleksgewijze onkruidbestrijding met handapparatuur
+* pleksgewijze onkruidbestrijding met handbediende slangen voorzien van spuitdop en afschermkap
+* stobbebehandeling met handapperatuur
+* toepassing met indolylboterzuur
+* gebruik dispensers met feromonen
+* insmeren stammen met kwartszand
+* gebruik houdbaarheidsmiddelen na oogst snijbloemen
+* gebruik aardappelpootmachine met poederdoseerapparatuur met pencycuron
+* bedienen fytodrip machine.
 
 U kunt gebruik maken van een [bestaande veiligheidsinstructie](/licenties/welke-licenties-zijn-er/bestaande-veiligheidsinstructies), of er zelf één maken. Dat moet u bij ons [aanvragen](/licenties/welke-licenties-zijn-er/aanvragen-veiligheidsinstructie/). Alleen bij Bureau Erkenningen aangevraagde en goedgekeurde Veiligheidsinstructies zijn geldig.
 
