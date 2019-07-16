@@ -7,7 +7,9 @@ Veiligheidsinstructies worden altijd gegeven door een licentiehouder van het bed
 
 Het bedrijf waar de veiligheidsinstructie wordt gegeven, [administreert](/licenties/welke-licenties-zijn-er/veiligheidsinstructies-administreren) welke personen deze hebben gevolgd. Een veiligheidsinstructie is 5 jaar geldig.
 
-Een veiligheidsinstructie is verplicht voor de volgende handelingen (klik op i voor meer informatie):
+Een veiligheidsinstructie is verplicht voor de volgende handelingen (zoals voorgeschreven in de regeling gewasbescherming en biociden).
+
+Klik op i voor meer informatie:
 
 * bedienen zaadcoatingsmachine
 * laboratoriumtoepassingen van gewasbeschermingsmiddelen
@@ -28,7 +30,7 @@ U kunt gebruik maken van een [bestaande veiligheidsinstructie](/licenties/welke-
 **Snel naar:**
 
 <link-container>
-<link-button to="/licenties/welke-licenties-zijn-er/bestaande-veiligheidsinstructies">Bestaande veiligheids instructies</link-button>
+<link-button to="/licenties/wetten-en-regels">Wetten en regels</link-button><link-button to="/licenties/welke-licenties-zijn-er/bestaande-veiligheidsinstructies">Bestaande veiligheids instructies</link-button>
 <link-button to="/licenties/welke-licenties-zijn-er/veiligheidsinstructies-aanvragen">Veiligheids instructie aanvragen</link-button>
 <link-button to="/licenties/welke-licenties-zijn-er/veiligheidsinstructies-administreren">Veiligheids instructie registreren</link-button>
 </link-container>
