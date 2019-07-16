@@ -3,7 +3,7 @@ title: Licentie Distribueren Bestrijdingsmiddelen
 ---
 ## Voor wie?
 
-* Voor iedereen die via een handels- of commerciële organisatie betrokken is bij verkoop, transport en opslag van professionele chemische gewasbeschermingsmiddelen.
+* Voor iedereen die verantwoordelijk is voor transport of opslag van gewasbeschermingsmiddelen bij handelsbedrijven.
 
 Weet u nog niet zeker of dit de licentie is die u nodig heeft, gebruik dan onze [tool](/licenties/welke-licentie-heb-ik-nodig).
 
@@ -15,7 +15,10 @@ Sommige buitenlandse diploma's worden ook erkend. Voor mensen met een niet Neder
 
 ## Nodig voor verlenging licentie:
 
-U moet 3 kennisbijeenkomsten volgen, waarvan minimaal 1 met het thema 'Transport/Opslag'
+* Licenties met ingangsdatum voor 1-1-2019: U moet 3 kennisbijeenkomsten volgen, waarvan minimaal 1 met het thema 'Transport/Opslag'.
+* Licenties met ingangsdatum vanaf 1-1-2019: U moet 2 kennisbijeenkomsten volgen, beide met het thema 'Transport/Opslag'.
+
+'
 
 ## Snel naar:
 
