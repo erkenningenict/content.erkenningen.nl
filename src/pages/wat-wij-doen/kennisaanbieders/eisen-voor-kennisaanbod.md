@@ -67,6 +67,14 @@ richten op: “De deelnemer kan de knaagdierenbestrijding verantwoord uitvoeren,
 * Evaluatie
   : hoe meet u wat de deelnemers van deze bijeenkomst vonden?
 
+Bij een kennisaanbod Adviseren Gewasbescherming gelden er een paar extra spelregels:
+
+* Bij het indienen van het aanbod moeten naam en functie van de inleiders/gastdocenten/docenten bekend zijn en van welke organisatie zij zijn.
+* Het deel van de bijeenkomst waarin de aangeboden kennis verwerkt wordt door de deelnemers middels ervarings- en kennisuitwisseling, is minstens 1/3 van het totale tijdsbeslag.
+* Het deel van de bijeenkomst waarin de aangeboden kennis verwerkt wordt door de deelnemers, bevat maximaal 15 deelnemers.
+* Deelnemers die niet beschikken over de licentie Adviseren, dienen aantoonbaar betrokken te zijn op de inhoud van de bijeenkomst.
+
+
 ## Digitaal aanbod
 
 De volgende eisen en vragen moeten worden gesteld voor digitaal kennisaanbod:
