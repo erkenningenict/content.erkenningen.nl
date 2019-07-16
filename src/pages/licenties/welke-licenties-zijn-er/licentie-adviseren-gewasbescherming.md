@@ -21,11 +21,10 @@ U moet 5 kennisbijeenkomsten volgen, allen in de competentie “Adviseren Gewasb
 
 **Snel naar:**
 
-[Overzicht geldige diploma's](/licenties/licentie-aanvragen/geldige-diplomas)
-
 <link-container>
 <link-button to="/licenties/welke-licentie-heb-ik-nodig">Welke licentie heb ik nodig?</link-button>
 <link-button to="/licenties/licentie-aanvragen">Licentie aanvragen</link-button>
-<link-button to="/licenties/licentie-verlengen">Licentie verlengen</link-button><link-button to="/bijeenkomsten/bijeenkomsten-zoeken">Bijeenkomst zoeken?</link-button>
+<link-button to="/licenties/licentie-verlengen">Licentie verlengen</link-button>
+<link-button to="https://erkenningen.nl/Default.aspx?tabid=150">Geldige diploma's</link-button>
+<link-button to="https://administratie.acceptatie.erkenningen.nl/Default.aspx?tabid=132#/bijeenkomsten-zoeken/op-locatie?certificeringId=308794&competentieId=1">Bijeenkomst zoeken</link-button>
 </link-container>
-<link-button to="/licenties/welke-licentie-heb-ik-nodig">Welke licentie heb ik nodig?</link-button>
