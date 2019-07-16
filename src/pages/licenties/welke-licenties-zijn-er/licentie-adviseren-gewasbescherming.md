@@ -26,5 +26,6 @@ U moet 5 kennisbijeenkomsten volgen, allen in de competentie “Adviseren Gewasb
 <link-container>
 <link-button to="/licenties/welke-licentie-heb-ik-nodig">Welke licentie heb ik nodig?</link-button>
 <link-button to="/licenties/licentie-aanvragen">Licentie aanvragen</link-button>
-<link-button to="/licenties/licentie-verlengen">Licentie verlengen</link-button>
+<link-button to="/licenties/licentie-verlengen">Licentie verlengen</link-button><link-button to="/bijeenkomsten/bijeenkomsten-zoeken">Bijeenkomst zoeken?</link-button>
 </link-container>
+<link-button to="/licenties/welke-licentie-heb-ik-nodig">Welke licentie heb ik nodig?</link-button>
