@@ -110,7 +110,7 @@ Google Chrome
 
 #### Mijn organisatie wil zelf kennisbijeenkomsten gaan organiseren. Hoe worden wij kennisaanbieder?
 
-Stuur een [e-mail bericht](info@erkenningen.nl) naar Bureau Erkenningen. Geef aan wat voor organisatie u bent en wie uw contactpersoon is. Er zal dan zo spoedig mogelijk contact met u opgenomen worden.
+Stuur een e-mail bericht naar info@erkenningen.nl. Geef aan wat voor organisatie u bent en wie uw contactpersoon is. Er zal dan zo spoedig mogelijk contact met u opgenomen worden.
 
 - - -
 
