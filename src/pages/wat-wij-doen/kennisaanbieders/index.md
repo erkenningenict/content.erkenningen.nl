@@ -6,7 +6,7 @@ title: Kennisaanbieders
 ## Kennisaanbieder worden
 
 Wilt u zelf kennisaanbieder worden? \
-Vraag dan [via e-mai](info@erkenningen.nl)l eerst een inlognaam en wachtwoord aan.
+Vraag dan via e-mail (info@erkenningen.nl) eerst een inlognaam en wachtwoord aan.
 
 Na inloggen kan via de website het kennisaanbod ter goedkeuring aan Bureau Erkenningen worden voorgelegd. Hieraan zijn kosten verbonden: € 50,- ex BTW. Lees voor het indienen van het kennisaanbod het protocol goed door. Indienen van een aanvraag betekent dat u het [protocol voor kennisaanbieders](/wat-wij-doen/kennisaanbieders/protocol-voor-kennisaanbieders) onderschrijft.
 
