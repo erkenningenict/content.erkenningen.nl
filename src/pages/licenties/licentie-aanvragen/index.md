@@ -10,6 +10,8 @@ Bent u geslaagd, dan krijgt u automatisch uw pas thuisgestuurd.\
 
 Een aantal niet-Nederlandse diploma's wordt ook erkend. Kijk bij de [geldige diploma's](/licenties/licentie-aanvragen/ik-heb-een-buitenlands-diploma) welk diploma volstaat voor welke licentie.
 
+<module-loader>https://erkenningen-module-search-course.netlify.com</module-loader>
+
 ## Snel naar:
 
 <link-container>
