@@ -5,24 +5,37 @@ import Axios from 'axios';
  * Dynamic React module loader for Erkenningen modules
  */
 const ModuleLoader = (props) => {
-  const loadjscssfile = (filename, filetype) => {
-    if (filetype == 'js') {
-      //if filename is a external JavaScript file
-      var fileref = document.createElement('script');
-      fileref.setAttribute('type', 'text/javascript');
-      fileref.setAttribute('src', filename);
-    } else if (filetype == 'script') {
-      //if filename is a external JavaScript file
-      var fileref = document.createElement('script');
-      fileref.setAttribute('type', 'text/javascript');
-      fileref.innerHTML = filename;
-    } else if (filetype == 'css') {
-      //if filename is an external CSS file
-      var fileref = document.createElement('link');
-      fileref.setAttribute('rel', 'stylesheet');
-      fileref.setAttribute('type', 'text/css');
-      fileref.setAttribute('href', filename);
+  const loadInlineScript = (script) => {
+    const fileref = document.createElement('script');
+    fileref.setAttribute('type', 'text/javascript');
+    fileref.innerHTML = script;
+    if (typeof fileref != 'undefined') {
+      document.getElementsByTagName('head')[0].appendChild(fileref);
     }
+  };
+
+  const loadExternalScript = (src) => {
+    return new Promise((resolve, reject) => {
+      const fileref = document.createElement('script');
+      fileref.setAttribute('type', 'text/javascript');
+      fileref.setAttribute('src', src);
+
+      if (typeof fileref != 'undefined') {
+        document.getElementsByTagName('head')[0].appendChild(fileref);
+      }
+
+      fileref.addEventListener('load', () => {
+        resolve(true);
+      });
+    });
+  };
+
+  const loadCss = (href) => {
+    const fileref = document.createElement('link');
+    fileref.setAttribute('rel', 'stylesheet');
+    fileref.setAttribute('type', 'text/css');
+    fileref.setAttribute('href', href);
+
     if (typeof fileref != 'undefined')
       document.getElementsByTagName('head')[0].appendChild(fileref);
   };
@@ -42,7 +55,7 @@ const ModuleLoader = (props) => {
 
     const url = props.children[0].props.href;
 
-    Axios.get(url).then((result) => {
+    Axios.get(url).then(async (result) => {
       if (result.status !== 200) {
         return;
       }
@@ -56,16 +69,21 @@ const ModuleLoader = (props) => {
       // Load css
       for (const cssElem of parseElem.getElementsByTagName('link')) {
         if (cssElem.href) {
-          loadjscssfile(url + cssElem.href.replace(window.location.origin, ''), 'css');
+          loadCss(url + cssElem.href.replace(window.location.origin, ''), 'css');
         }
       }
 
-      // Load scripts
+      // Load and wait until external scripts have been loaded
       for (const scriptElem of parseElem.getElementsByTagName('script')) {
         if (scriptElem.src) {
-          loadjscssfile(url + scriptElem.src.replace(window.location.origin, ''), 'js');
-        } else {
-          loadjscssfile(scriptElem.innerHTML, 'script');
+          await loadExternalScript(url + scriptElem.src.replace(window.location.origin, ''), 'js');
+        }
+      }
+
+      // Load inline scripts
+      for (const scriptElem of parseElem.getElementsByTagName('script')) {
+        if (!scriptElem.src) {
+          loadInlineScript(scriptElem.innerHTML, 'script');
         }
       }
 
