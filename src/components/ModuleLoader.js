@@ -43,7 +43,9 @@ const ModuleLoader = (props) => {
       document.getElementsByTagName('head')[0].appendChild(fileref);
   };
 
-  useEffect(() => {
+  const parseProps = () => {
+    let result = { url: null, skeletonFormat: null };
+
     if (
       !(
         props &&
@@ -53,12 +55,26 @@ const ModuleLoader = (props) => {
         props.children[0].props.href
       )
     ) {
+      return result;
+    }
+
+    result.url = props.children[0].props.href;
+
+    if (props.skeleton) {
+      result.skeletonFormat = props.skeleton.split('N').join('\n');
+    }
+
+    return result;
+  };
+
+  const { url, skeletonFormat } = parseProps();
+
+  useEffect(() => {
+    if (!url) {
       return;
     }
 
-    const url = props.children[0].props.href;
-
-    Axios.get(url, { withCredentials: false }).then(async (result) => {
+    Axios.get(url + '?_c=' + Date.now, { withCredentials: false }).then(async (result) => {
       if (result.status !== 200) {
         return;
       }
@@ -98,7 +114,7 @@ const ModuleLoader = (props) => {
 
   return (
     <>
-      {ready ? null : <Skeleton />}
+      {ready ? null : <Skeleton format={skeletonFormat} />}
       <div id="root" />
     </>
   );

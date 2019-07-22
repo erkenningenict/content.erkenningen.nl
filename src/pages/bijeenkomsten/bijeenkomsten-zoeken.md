@@ -8,7 +8,7 @@ Wilt u ook gelijk aanmelden voor een bijeenkomst? Log dan eerst in met uw gebrui
 
 U kunt bijeenkomsten kiezen op basis van thema.
 
-<module-loader>https://erkenningen-module-search-course.netlify.com</module-loader>
+<module-loader skeleton="=====N####N####N####NN====N---   ========N---   ========N---   ========N---   ===N---   ===N---   ========N---   ========N==NN--      -- -- ---     ----N--------------------------N--------------------------N--------------------------N">https://erkenningen-module-search-course.netlify.com</module-loader>
 
 ## Snel naar:
 
