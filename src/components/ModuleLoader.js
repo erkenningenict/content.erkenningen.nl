@@ -55,7 +55,7 @@ const ModuleLoader = (props) => {
 
     const url = props.children[0].props.href;
 
-    Axios.get(url).then(async (result) => {
+    Axios.get(url, { responseType: 'text' }).then(async (result) => {
       if (result.status !== 200) {
         return;
       }
