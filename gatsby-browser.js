@@ -1,7 +1,10 @@
 import React from 'react';
+import { ThemeContext } from '@erkenningen/ui';
 
 import { LoginProvider } from './src/components/LoginLink';
 
-window.ERKENNINGEN_SITE_TYPE = 'content';
-
-export const wrapRootElement = ({ element }) => <LoginProvider>{element}</LoginProvider>;
+export const wrapRootElement = ({ element }) => (
+  <LoginProvider>
+    <ThemeContext.Provider value={{ mode: 'content' }}>{element}</ThemeContext.Provider>
+  </LoginProvider>
+);
