@@ -8,7 +8,7 @@ U kunt ook het diplomaoverzicht downloaden. Geldige diploma's zijn gerangschikt 
 
 Staat uw diploma er niet tussen? Vul dan een [formulier](/wat-wij-doen/formulieren) in.
 
-<module-loader>https://erkenningen-module-certificates-info.netlify.com/</module-loader>
+<module-loader>https://erkenningen-module-certificates-info.netlify.com</module-loader>
 
 ## Snel naar:
 
