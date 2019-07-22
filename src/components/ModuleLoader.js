@@ -1,10 +1,13 @@
-import React, { useEffect } from 'react';
+import React, { useEffect, useState } from 'react';
 import Axios from 'axios';
+import { Skeleton } from '@erkenningen/ui';
 
 /**
  * Dynamic React module loader for Erkenningen modules
  */
 const ModuleLoader = (props) => {
+  const [ready, setReady] = useState(false);
+
   const loadInlineScript = (script) => {
     const fileref = document.createElement('script');
     fileref.setAttribute('type', 'text/javascript');
@@ -80,6 +83,8 @@ const ModuleLoader = (props) => {
         }
       }
 
+      setReady(true);
+
       // Load inline scripts
       for (const scriptElem of parseElem.getElementsByTagName('script')) {
         if (!scriptElem.src) {
@@ -91,7 +96,12 @@ const ModuleLoader = (props) => {
     });
   }, []);
 
-  return <div id="root" />;
+  return (
+    <>
+      {ready ? null : <Skeleton />}
+      <div id="root" />
+    </>
+  );
 };
 
 export default ModuleLoader;
