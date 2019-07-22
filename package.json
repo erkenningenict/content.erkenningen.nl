@@ -54,6 +54,7 @@
   "scripts": {
     "start": "npm run develop",
     "build": "gatsby build --verbose",
+    "build:netlify": "gatsby build --verbose && sed -i s/CORS_DOMAIN_PLACEHOLDER/${DEPLOY_PRIME_URL}/g netlify.toml",
     "develop": "gatsby develop",
     "serve": "gatsby serve",
     "format": "prettier --trailing-comma es5 --no-semi --single-quote --write \"{gatsby-*.js,src/**/*.js}\"",
