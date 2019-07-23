@@ -19,7 +19,7 @@ Sommige buitenlandse diploma's worden ook erkend. Voor mensen met een niet Neder
 
 U moet 4 kennisbijeenkomsten volgen, waarvan minimaal 1 met het thema 'Veiligheid en Techniek'.
 
-**Snel naar:**
+## Snel naar:
 
 <link-container>
 <link-button to="/licenties/welke-licentie-heb-ik-nodig">Welke licentie heb ik nodig?</link-button>

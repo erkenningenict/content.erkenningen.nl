@@ -1,6 +1,7 @@
 import React from 'react';
 import rehypeReact from 'rehype-react';
 import { DecisionTree, LinkButton, LinkButtonContainer } from '@erkenningen/ui';
+import ModuleLoader from './ModuleLoader';
 
 import Redirect from './Redirect';
 
@@ -18,6 +19,7 @@ const renderAst = new rehypeReact({
     'link-container': hasWindow ? LinkButtonContainer : Placeholder,
     'link-button': hasWindow ? LinkButton : Placeholder,
     'decision-tree': hasWindow ? DecisionTree : Placeholder,
+    'module-loader': hasWindow ? ModuleLoader : Placeholder,
     redirect: Redirect,
   },
 }).Compiler;
