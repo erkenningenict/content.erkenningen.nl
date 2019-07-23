@@ -43,6 +43,7 @@ const Template = ({ children }) => (
     <Navigation />
 
     {children}
+
     <Footer />
   </div>
 );
