@@ -550,3 +550,19 @@ input {
   border: 0px solid transparent;
   background: $be-light-green;
 }
+
+@media (min-width: 768px) {
+  .form-horizontal .control-label {
+    text-align: right;
+    margin-bottom: 0;
+    padding-top: 7px;
+  }
+}
+
+.control-label {
+  color: #000;
+}
+
+.form-control {
+  border-radius: 0;
+}

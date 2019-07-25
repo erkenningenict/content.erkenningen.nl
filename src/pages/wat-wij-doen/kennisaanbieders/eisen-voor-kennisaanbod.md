@@ -74,15 +74,13 @@ Bij een kennisaanbod Adviseren Gewasbescherming gelden er een paar extra spelreg
 * Het deel van de bijeenkomst waarin de aangeboden kennis verwerkt wordt door de deelnemers, bevat maximaal 15 deelnemers.
 * Deelnemers die niet beschikken over de licentie Adviseren, dienen aantoonbaar betrokken te zijn op de inhoud van de bijeenkomst.
 
-
 ## Digitaal aanbod
 
 De volgende eisen en vragen moeten worden gesteld voor digitaal kennisaanbod:
 
 * Hoe wordt de identiteit van de deelnemers tijdens de digitale bijeenkomst geverifieerd?
 * Wat wordt er gedaan om deelnemers vragen en antwoorden te laten stellen/geven aan elkaar (de
-  interactie bevorderen – leren van elkaar)
-  ?
+  interactie bevorderen – leren van elkaar)?
 
 Aandachtspunten voor digitaal aanbod:
 
