@@ -1,6 +1,7 @@
 ---
 title: Knaagdierbeheersing
 ---
+
 **Er zijn vele manieren om knaagdieren te beheersen. Als niets meer helpt, kunt u chemische middelen inzetten.**
 
 Knaagdieren zoals muizen en ratten kunnen een lastig probleem vormen op uw (agrarische) bedrijf. Ze knagen aan alles wat los en vast zit en verspreiden ziektes.
@@ -17,11 +18,11 @@ Als u op uw bedrijf buiten gebruiksgebouwen, anticoagulantia wilt toepassen, dan
 
 Heeft u al een licentie gewasbescherming? Dan kunt u een kennisbijeenkomst met het thema 'KBA' volgen. Hiermee beschikt u over een licentie KBA.
 
-In de brochure Knaagdierbeheersing kunt u lezen welke licentie u nodig heeft.
+In de [brochure Knaagdierbeheersing](https://erkenningen.nl/LinkClick.aspx?fileticket=eFqRDAdU_H8%3d&tabid=152&portalid=1&mid=573) kunt u lezen welke licentie u nodig heeft.
 
 ## Let op
 
-Vanaf 2022 gaat het CTGB de toelatingen voor anti-coagulantia wijzigen. Voor steeds minder middelen is dan de licentie KBA toereikend. Geleidelijk aan zal voor steeds meer middelen gaan gelden dat de licentie KBA-GB noodzakelijk is. 
+Vanaf 2022 gaat het CTGB de toelatingen voor anti-coagulantia wijzigen. Voor steeds minder middelen is dan de licentie KBA toereikend. Geleidelijk aan zal voor steeds meer middelen gaan gelden dat de licentie KBA-GB noodzakelijk is.
 
 De verwachting is dat per 2026 de licentie KBA voor geen enkel middel toereikend is
 

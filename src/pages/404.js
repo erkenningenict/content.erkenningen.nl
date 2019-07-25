@@ -30,11 +30,10 @@ const NotFoundPage = () => {
             <p className="alert alert-warning">
               {isOldLink ? (
                 <>
-                  De pagina die u probeerde op te vragen is verhuisd naar de administratiesite van
-                  Bureau Erkenningen en is mogelijk niet meer beschikbaar. Klik{' '}
-                  <a href={ERKENNINGEN_ADMIN_URL + oldLinkPath}>hier</a> om de pagina te openen in
-                  de administratiesite of blijf op deze informatiesite. Zorg ervoor dat u uw
-                  bladwijzers of favorieten bijwerkt.
+                  Onze website is onlangs vernieuwd. De pagina die u zoekt, heeft een ander adres
+                  (url) gekregen. Klik <a href={ERKENNINGEN_ADMIN_URL + oldLinkPath}>hier</a> om de
+                  pagina te openen in de administratiesite of blijf op deze informatiesite. Zorg
+                  ervoor dat u uw bladwijzers of favorieten bijwerkt.
                 </>
               ) : (
                 <>Wat jammer, de gezocht pagina bestaat niet. Kies uit het menu een pagina.</>
