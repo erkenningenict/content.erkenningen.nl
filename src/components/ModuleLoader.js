@@ -144,16 +144,14 @@ const ModuleLoader = (props) => {
       }
 
       setCurrentScriptElems(scriptElems);
-
-      parseElem.parentNode.removeChild(parseElem);
     });
 
     return () => {
       // Remove scripts
       const el = document.getElementById(scriptRootElemId);
-      el.parentNode.removeChild(el);
+      el.parentNode && el.parentNode.removeChild(el);
       for (const elem of scriptElems) {
-        elem.parentNode.removeChild(elem);
+        elem.parentNode && elem.parentNode.removeChild(elem);
       }
     };
   }, []);
