@@ -3,12 +3,12 @@ const visit = require('unist-util-visit');
 
 const lunrPlugin = (lunr) => (builder) => {
   // Include dutch language features
-  require('lunr-languages/lunr.du')(lunr);
+  require('lunr-languages/lunr.nl')(lunr);
 
   // Reset pipeline and re-add trimmer and stopwordfilter, but not stemmer (which causes unwanted search issues)
   builder.pipeline.reset();
   builder.searchPipeline.reset();
-  builder.pipeline.add(lunr.du.trimmer, lunr.du.stopWordFilter);
+  builder.pipeline.add(lunr.nl.trimmer, lunr.nl.stopWordFilter);
 };
 
 module.exports = {
