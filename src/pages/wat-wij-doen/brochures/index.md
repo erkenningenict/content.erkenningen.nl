@@ -13,5 +13,4 @@ Deze kunt u als PDF bestand downloaden en printen.
 - [Chemischer Pflanzenschutz in den Niederlande](https://erkenningen.nl/LinkClick.aspx?fileticket=UKG4qsg-m08%3d&tabid=152&portalid=1&mid=573)
 - [Wie moet wat gewasbescherming – Overzicht welke licentie heeft u nodig heeft voor gewasbescherming](https://erkenningen.nl/LinkClick.aspx?fileticket=x-A1ZbfC7Wo%3d&tabid=152&portalid=1&mid=573)
 - [Wie moet wat knaagdierbeheersing – Overzicht welke licentie heeft u nodig heeft voor knaagdierbeheersing](https://erkenningen.nl/LinkClick.aspx?fileticket=eFqRDAdU_H8%3d&tabid=152&portalid=1&mid=573)
-- [Mollen- en Woelratten](https://erkenningen.nl/LinkClick.aspx?fileticket=FWaY0BmK5mc%3d&tabid=152&portalid=1&mid=573)
 - [Protocol Kennisaanbieders](https://erkenningen.nl/LinkClick.aspx?fileticket=Bc0JdtaMSKY%3d&tabid=152&portalid=1&mid=573)
