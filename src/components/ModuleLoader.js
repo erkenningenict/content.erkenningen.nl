@@ -145,14 +145,15 @@ const ModuleLoader = (props) => {
 
       setCurrentScriptElems(scriptElems);
 
-      parseElem.remove();
+      parseElem.parentNode.removeChild(parseElem);
     });
 
     return () => {
       // Remove scripts
-      document.getElementById(scriptRootElemId).remove();
+      const el = document.getElementById(scriptRootElemId);
+      el.parentNode.removeChild(el);
       for (const elem of scriptElems) {
-        elem.remove();
+        elem.parentNode.removeChild(elem);
       }
     };
   }, []);
