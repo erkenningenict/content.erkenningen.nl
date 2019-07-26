@@ -3,6 +3,7 @@ import 'whatwg-fetch';
 import 'core-js/es6/map';
 import 'core-js/es6/set';
 import 'es6-shim';
+import Promise from 'promise-polyfill';
 
 import React from 'react';
 import Helmet from 'react-helmet';
@@ -17,6 +18,11 @@ import 'primereact/resources/primereact.min.css';
 
 import './gatstrap.scss';
 import './styles.scss';
+
+// To add to window
+if (!window.Promise) {
+  window.Promise = Promise;
+}
 
 const Template = ({ children }) => (
   <div>
