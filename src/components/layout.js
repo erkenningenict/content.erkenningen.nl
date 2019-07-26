@@ -1,4 +1,8 @@
+// Add IE11 support
 import 'whatwg-fetch';
+import 'core-js/es6/map';
+import 'core-js/es6/set';
+import 'es6-shim';
 
 import React from 'react';
 import Helmet from 'react-helmet';

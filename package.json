@@ -8,6 +8,8 @@
     "@erkenningen/ui": "^1.0.53",
     "axios": "0.18.0",
     "classnames": "2.2.6",
+    "core-js": "2.6.5",
+    "es6-shim": "0.35.5",
     "gatsby": "^2.0.91",
     "gatsby-link": "2.0.8",
     "gatsby-plugin-catch-links": "2.0.9",
@@ -44,6 +46,7 @@
     "styled-normalize": "8.0.4",
     "unist-util-visit": "1.4.0",
     "uuid": "3.3.2",
+    "whatwg-fetch": "3.0.0",
     "write-yaml": "1.0.0"
   },
   "keywords": [
@@ -71,6 +74,7 @@
   },
   "browserslist": [
     ">0.25%",
-    "not dead"
+    "not dead",
+    "not ie <= 11"
   ]
 }
