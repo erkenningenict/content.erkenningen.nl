@@ -1,5 +1,5 @@
 import React, { useState, useEffect, useContext } from 'react';
-import Link from 'gatsby-link';
+import { Link } from 'gatsby'
 import Axios from 'axios';
 
 import { ERKENNINGEN_GRAPHQL_API_URL, ERKENNINGEN_ADMIN_URL } from '@erkenningen/config';

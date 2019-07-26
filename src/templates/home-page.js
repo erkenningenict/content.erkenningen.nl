@@ -1,7 +1,6 @@
 import React from 'react';
 import Helmet from 'react-helmet';
-import { graphql } from 'gatsby';
-import Link from 'gatsby-link';
+import { graphql, Link } from 'gatsby';
 
 import TextPageBody from './../components/TextPageBody';
 import Layout from './../components/layout';
@@ -11,6 +10,7 @@ import mol from '../../static/img/1.Mol.jpg';
 import graan from '../../static/img/2.Graan.jpg';
 import rat from '../../static/img/3.Rat.jpg';
 
+// eslint-disable-next-line react/prop-types
 export const HomePage = ({ data }) => {
   const page = data.markdownRemark;
 
@@ -60,19 +60,19 @@ export const HomePage = ({ data }) => {
             </div>
             <div className="imagesContainer">
               <section>
-                <Link to="./licenties/welke-licenties-zijn-er/bestrijding-mollen-en-woelratten">
+                <Link to="/licenties/welke-licenties-zijn-er/bestrijding-mollen-en-woelratten">
                   <p>Mollen en woelratten</p>
                   <img src={mol} alt="Mollen en woelratten bestrijding" />
                 </Link>
               </section>
               <section>
-                <Link to="./licenties/welke-licenties-zijn-er/gewasbescherming">
+                <Link to="/licenties/welke-licenties-zijn-er/gewasbescherming">
                   <p>Gewasbescherming</p>
                   <img src={graan} alt="Gewasbescherming" />
                 </Link>
               </section>
               <section>
-                <Link to="./licenties/welke-licenties-zijn-er/knaagdierbeheersing">
+                <Link to="/licenties/welke-licenties-zijn-er/knaagdierbeheersing">
                   <p>Knaagdierbeheersing: KBA</p>
                   <img src={rat} alt="Knaagdierbeheersing: KBA" />
                 </Link>
