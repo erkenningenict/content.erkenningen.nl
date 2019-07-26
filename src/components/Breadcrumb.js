@@ -1,5 +1,5 @@
 import React from 'react';
-import Link from 'gatsby-link';
+import { Link } from 'gatsby';
 
 class Breadcrumb extends React.Component {
   render() {
@@ -10,7 +10,7 @@ class Breadcrumb extends React.Component {
       .replace('index.md', '')
       .replace(/.md/, '')
       .split('/');
-    const cleanPaths = paths.filter(path => path !== '');
+    const cleanPaths = paths.filter((path) => path !== '');
     let fullPath = '';
     const breadCrumbs = cleanPaths.map((path, index) => {
       fullPath = `${fullPath}/${path}`;

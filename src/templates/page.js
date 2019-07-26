@@ -1,6 +1,5 @@
 import React from 'react';
 import Helmet from 'react-helmet';
-import Link from 'gatsby-link';
 import { graphql } from 'gatsby';
 
 import TextPageBody from './../components/TextPageBody';
@@ -9,6 +8,7 @@ import FaqSidebar from '../components/FaqSidebar';
 import Layout from '../components/layout';
 import LoginLink from '../components/LoginLink';
 
+// eslint-disable-next-line react/prop-types
 export const Page = ({ data }) => {
   const page = data.markdownRemark;
   return (
