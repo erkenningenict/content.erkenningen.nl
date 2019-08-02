@@ -11,6 +11,6 @@ U kunt dan per licentie inzien hoe veel bijeenkomsten u heeft gevolgd en nog moe
 ## Snel naar:
 
 <link-container>
-<link-button to="https://erkenningen.nl">Inloggen</link-button>
+<link-button to="https://administratie.erkenningen.nl">Inloggen</link-button>
 <link-button to="/licenties/welke-licenties-zijn-er">Welke licenties zijn er</link-button>
 </link-container>

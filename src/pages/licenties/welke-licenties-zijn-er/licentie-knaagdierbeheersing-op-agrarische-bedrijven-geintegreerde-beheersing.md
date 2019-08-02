@@ -28,5 +28,5 @@ U moet 1 kennisbijeenkomst volgen met het thema 'KBA-GB'.
 <link-button to="/licenties/welke-licentie-heb-ik-nodig">Brochure Knaagdier beheersing</link-button>
 <link-button to="/licenties/licentie-aanvragen">Licentie aanvragen</link-button>
 <link-button to="/licenties/licentie-verlengen">Licentie verlengen</link-button>
-<link-button to="https://administratie.acceptatie.erkenningen.nl/Default.aspx?tabid=132#/bijeenkomsten-zoeken/op-locatie?certificeringId=308794&competentieId=23">Bijeenkomst zoeken</link-button>
+<link-button to="https://administratie.erkenningen.nl/Default.aspx?tabid=132#/bijeenkomsten-zoeken/op-locatie?certificeringId=308794&competentieId=23">Bijeenkomst zoeken</link-button>
 </link-container>

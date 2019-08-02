@@ -15,5 +15,5 @@ U kunt bijeenkomsten kiezen op basis van thema.
 <link-container>
 <link-button to="/licenties/welke-licentie-heb-ik-nodig">Inloggen</link-button>
 <link-button to="/mijn-bureau-erkenningen/inloggegevens-kwijt">Inloggegevens kwijt</link-button>
-<link-button to="https://www.erkenningen.nl/Default.aspx?tabid=132">Bijeenkomsten zoeken</link-button>
+<link-button to="https://administratie.erkenningen.nl/Default.aspx?tabid=132">Bijeenkomsten zoeken</link-button>
 </link-container>

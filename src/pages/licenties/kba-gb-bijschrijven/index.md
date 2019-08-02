@@ -14,5 +14,5 @@ Dat geld voor de licenties:
 ## Snel naar:
 
 <link-container>
-<link-button to="https://erkenningen.nl">Inloggen</link-button>
+<link-button to="https://administratie.erkenningen.nl">Inloggen</link-button>
 </link-container>

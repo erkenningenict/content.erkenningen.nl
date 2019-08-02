@@ -4,7 +4,7 @@ import { ThemeContext } from '@erkenningen/ui';
 
 import { LoginProvider } from './src/components/LoginLink';
 
-window.ERKENNINGEN_GRAPHQL_API_URL = 'https://api.acceptatie.erkenningen.nl/graphql';
+window.ERKENNINGEN_GRAPHQL_API_URL = 'https://api.erkenningen.nl/graphql';
 
 export const wrapRootElement = ({ element }) => (
   <LoginProvider>

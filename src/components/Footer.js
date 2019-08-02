@@ -15,13 +15,13 @@ const Footer = () => (
         </Link>
         <div className="d-none d-sm-block">|</div>
         <a
-          href="https://www.erkenningen.nl/Default.aspx?tabid=154&ctl=Terms"
+          href="https://administratie.erkenningen.nl/Default.aspx?tabid=154&ctl=Terms"
           className="footerLink"
         >
           Disclaimer
         </a>
         <div className="d-none d-sm-block">|</div>
-        <a href="https://www.erkenningen.nl/Default.aspx?tabid=289" className="footerLink">
+        <a href="https://administratie.erkenningen.nl/Default.aspx?tabid=289" className="footerLink">
           Privacyverklaring
         </a>
       </div>

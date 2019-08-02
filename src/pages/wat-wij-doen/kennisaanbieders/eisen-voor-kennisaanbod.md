@@ -19,12 +19,12 @@ voorbereiding, de planning, de uitvoering en de evaluatie van de gewasbeschermen
 
 [Distribueren Bestrijdingsmiddelen](/licenties/welke-licenties-zijn-er/licentie-bedrijfsvoeren-distribueren) (Transport en Opslag): Een kennisaanbod dat past in deze categorie moet zich richten op: “De deelnemer kan het coördineren van de opslag, het vervoeren van bestrijdingsmiddelen, rekening houdend met de geldige wet- en regelgeving.“
 
-[Adviseren Gewasbescherming](https://acceptatie.erkenningen.nl/licenties/welke-licenties-zijn-er/licentie-adviseren-gewasbescherming): Een kennisaanbod dat past in deze categorie moet zich richten op: “De deelnemer beschikt over voldoende vaktechnische- en voorlichtingskundige kennis om beroepsmatig of in het kader van een commerciële dienst advies te verstrekt over de bestrijding van plagen en het veilig gebruik van pesticiden”. Adviezen worden gegeven vanuit de gezichtshoek van geïntegreerde gewasbescherming.
+[Adviseren Gewasbescherming](https://administratie.erkenningen.nl/licenties/welke-licenties-zijn-er/licentie-adviseren-gewasbescherming): Een kennisaanbod dat past in deze categorie moet zich richten op: “De deelnemer beschikt over voldoende vaktechnische- en voorlichtingskundige kennis om beroepsmatig of in het kader van een commerciële dienst advies te verstrekt over de bestrijding van plagen en het veilig gebruik van pesticiden”. Adviezen worden gegeven vanuit de gezichtshoek van geïntegreerde gewasbescherming.
 
-[Knaagdierbeheersing (KBA)](http://erkenningencontentsite.netlify.com/licenties/welke-licenties-zijn-er/licentie-knaagdierbeheersing-op-agrarische-bedrijven): Een kennisaanbod dat past in deze categorie moet zich
+[Knaagdierbeheersing (KBA)](/licenties/welke-licenties-zijn-er/licentie-knaagdierbeheersing-op-agrarische-bedrijven): Een kennisaanbod dat past in deze categorie moet zich
 richten op: “De deelnemer kan de knaagdierenbestrijding verantwoord uitvoeren, aantastingen herkennen en apparatuur en middelen veilig inzetten.“ Dit kennisaanbod mag niet digitaal aangeboden worden.
 
-[Mollen en Woelratten bestrijding](https://acceptatie.erkenningen.nl/licenties/welke-licenties-zijn-er/licentie-mollen-en-woelrattenbestrijding): Een kennisaanbod dat past in deze categorie moet zich richten op: “De deelnemer kan de mollen en woelrattenbestrijding met behulp van fosforwaterstoftabletten verantwoord uitvoeren, aantastingen herkennen en apparatuur en middelen veilig inzetten.“
+[Mollen en Woelratten bestrijding](/licenties/welke-licenties-zijn-er/licentie-mollen-en-woelrattenbestrijding): Een kennisaanbod dat past in deze categorie moet zich richten op: “De deelnemer kan de mollen en woelrattenbestrijding met behulp van fosforwaterstoftabletten verantwoord uitvoeren, aantastingen herkennen en apparatuur en middelen veilig inzetten.“
 
 ## Overige vragen en eisen
 

@@ -18,7 +18,7 @@ Als u op uw bedrijf buiten gebruiksgebouwen, anticoagulantia wilt toepassen, dan
 
 Heeft u al een licentie gewasbescherming? Dan kunt u een kennisbijeenkomst met het thema 'KBA' volgen. Hiermee beschikt u over een licentie KBA.
 
-In de [brochure Knaagdierbeheersing](https://erkenningen.nl/LinkClick.aspx?fileticket=eFqRDAdU_H8%3d&tabid=152&portalid=1&mid=573) kunt u lezen welke licentie u nodig heeft.
+In de [brochure Knaagdierbeheersing](https://administratie.erkenningen.nl/LinkClick.aspx?fileticket=eFqRDAdU_H8%3d&tabid=152&portalid=1&mid=573) kunt u lezen welke licentie u nodig heeft.
 
 ## Let op
 

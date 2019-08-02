@@ -21,5 +21,5 @@ U doet opnieuw examen of u volgt voor het einde van de geldigheid van de licenti
 <link-button to="/licenties/welke-licentie-heb-ik-nodig">Brochure Mollen en Woelratten</link-button>
 <link-button to="/licenties/licentie-aanvragen">Licentie aanvragen</link-button>
 <link-button to="/licenties/licentie-verlengen">Licentie verlengen</link-button>
-<link-button to="https://administratie.acceptatie.erkenningen.nl/Default.aspx?tabid=132#/bijeenkomsten-zoeken/op-locatie?certificeringId=308794&competentieId=4">Bijeenkomst zoeken</link-button>
+<link-button to="https://administratie.erkenningen.nl/Default.aspx?tabid=132#/bijeenkomsten-zoeken/op-locatie?certificeringId=308794&competentieId=4">Bijeenkomst zoeken</link-button>
 </link-container>

@@ -148,7 +148,7 @@ Uw bedrijf voldoet aan de certificeringseisen, dat betekent dat u werkt volgens 
 
 #### KBA-GB registratie lukt niet want e-mail komt niet aan.
 
-Ga opnieuw via [erkenningen](https://erkenningen.nl/Default.aspx?tabid=255) naar Registratie agrariër en pas het e-mail adres aan in bestaande gegevens. Dan wordt de verificatie mail opnieuw gestuurd naar het aangepast e-mailadres.
+Ga opnieuw via [erkenningen](https://administratie.erkenningen.nl/Default.aspx?tabid=255) naar Registratie agrariër en pas het e-mail adres aan in bestaande gegevens. Dan wordt de verificatie mail opnieuw gestuurd naar het aangepast e-mailadres.
 
 - - -
 
@@ -164,7 +164,7 @@ Uw bedrijf voldoet aan de certificeringseisen, dat betekent dat u werkt volgens 
 
 #### Ik ben mijn pas kwijt, ik wil een duplicaat pas aan vragen. Hoe werkt dat?
 
-U logt in op [erkenningen.nl](https://erkenningen.nl/Default.aspx?tabid=154).
+U logt in op [erkenningen.nl](https://administratie.erkenningen.nl/Default.aspx?tabid=154).
 Ga naar het tabblad licenties
 Ga naar het onderwerp: Pasjes
 U voert het aantal duplicaten in en u klikt op aanvragen
@@ -176,7 +176,7 @@ Als u de inlogcodes kwijt bent, bel het RVO loket: 088 042 42 42 (lokaal tarief)
 
 #### Ik ben mijn inlogcodes kwijt, hoe vraag ik nieuwe aan?
 
-U logt in op [erkenningen.nl](https://erkenningen.nl/Default.aspx?tabid=154).
+U logt in op [erkenningen.nl](https://administratie.erkenningen.nl/Default.aspx?tabid=154).
 Klik op de inlogbutton.
 Linksonder in het scherm leest u hoe u nieuwe aan kunt vragen.
 
@@ -184,7 +184,7 @@ Linksonder in het scherm leest u hoe u nieuwe aan kunt vragen.
 
 #### Hoe vraag ik een veiligheidsinstructie aan?
 
-Ga naar de homepage van [erkenningen.nl](https://erkenningen.nl) en volg de instructies.
+Ga naar de homepage van [erkenningen.nl](https://administratie.erkenningen.nl) en volg de instructies.
 
 - - -
 
@@ -192,7 +192,7 @@ Ga naar de homepage van [erkenningen.nl](https://erkenningen.nl) en volg de in
 
 Bijeenkomsten KBA worden vanaf 14 november weer hervat.
 
-Voor het verlengen van de licentie KBA, UG+KBA, BG+KBA of BG+DB+KBA volgt u een kennisbijeenkomst KBA. Vanaf 14 november 2016 kunt u zich aanmelden voor bijeenkomsten KBA via de site van Bureau Erkenningen, [erkenningen.nl](https://erkenningen.nl).
+Voor het verlengen van de licentie KBA, UG+KBA, BG+KBA of BG+DB+KBA volgt u een kennisbijeenkomst KBA. Vanaf 14 november 2016 kunt u zich aanmelden voor bijeenkomsten KBA via de site van Bureau Erkenningen, [erkenningen.nl](https://administratie.erkenningen.nl).
 
 Met een geldige licentie KBA, UG+KBA, BG+KBA of BG+DB+KBA mag u rodenticiden alleen binnen de bedrijfsgebouwen gebruiken van uw agrarisch bedrijf.
 
@@ -214,7 +214,7 @@ Ja, mits u het doet volgens de richtlijnen op het etiket
 
 Als u geen vakbekwaamheidsbewijs gewasbescherming heeft, moet u een examen doen. Ga daarvoor naar een AOC of naar het CPMV of EVM.
 
-Zie [www.erkenningen.nl – informatie - aanmelden](https://erkenningen.nl/Default.aspx?tabid=151)
+Zie [www.erkenningen.nl – informatie - aanmelden](https://administratie.erkenningen.nl/Default.aspx?tabid=151)
 
 - - -
 

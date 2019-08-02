@@ -15,5 +15,5 @@ Een aantal niet-Nederlandse diploma's wordt ook erkend. Kijk bij de [geldige (bu
 
 <link-container>
 <link-button to="/licenties/licentie-aanvragen/ik-heb-een-buitenlands-diploma">Geldige (buitenlandse) diploma's</link-button>
-<link-button to="https://erkenningen.nl/Default.aspx?tabid=153#/">Licentie aanvraag indienen</link-button>
+<link-button to="https://administratie.erkenningen.nl/Default.aspx?tabid=153#/">Licentie aanvraag indienen</link-button>
 </link-container>
