@@ -44,7 +44,7 @@ export const Page = ({ data }) => {
           <div className="col-md-3 pl-0 pr-0 pl-lg-3 pr-md-3 pr-lg-5">
             <FaqSidebar />
           </div>
-          <div className="col-md-9 px-sm-0 pl-md-0 mt-2 mt-md-0 pr-lg-5">
+          <div className="col-md-9 px-sm-0 pl-md-0 mt-2 mt-md-0">
             <h1>{page.frontmatter.title}</h1>
             <TextPageBody htmlAst={page.htmlAst} />
           </div>
