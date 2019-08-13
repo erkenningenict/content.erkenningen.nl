@@ -1,5 +1,5 @@
 ---
-title: Geldige diplomas
+title: Geldige diploma's
 ---
 
 **Hier kunt u bekijken of u een geldig diploma heeft, waarmee u een licentie kunt aanvragen. U kunt zoeken op land (welke diploma's geldig zijn) of op de gewenste licentie (welke diploma's hiervoor kwalificeren).**
