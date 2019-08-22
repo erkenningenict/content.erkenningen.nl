@@ -18,12 +18,12 @@ Sommige buitenlandse diploma's worden ook erkend. Voor mensen met een niet Neder
 
 ## Nodig voor verlenging licentie:
 
-U moet 4 kennisbijeenkomsten volgen:
+U moet 5 kennisbijeenkomsten volgen:
 
 - 1 met het thema 'Veiligheid en Techniek'
 - 1 met het thema 'Teelt'
 - 1 met het thema 'Transport/Opslag
-- 1 met een thema naar keuze
+- 2 met een thema naar keuze ((Transport&Opslag of Teelt of Veiligheid en Techniek)
 
 ## Snel naar:
 
