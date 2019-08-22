@@ -29,6 +29,11 @@ class FaqSidebar extends React.Component {
           Of <Link to="/zoeken">zoek</Link> op trefwoorden
         </p>
         <StyledButton to="/faq">FAQ</StyledButton>
+        <div className="mt-3">
+          <a target="_blank" rel="noopener noreferrer" href="https://administratie.erkenningen.nl">
+            &gt; Naar de administratie site
+          </a>
+        </div>
       </div>
     );
   }
