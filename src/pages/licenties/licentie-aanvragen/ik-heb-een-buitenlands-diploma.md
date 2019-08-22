@@ -4,7 +4,7 @@ title: Geldige diploma's
 
 **Hier kunt u bekijken of u een geldig diploma heeft, waarmee u een licentie kunt aanvragen. U kunt zoeken op land (welke diploma's geldig zijn) of op de gewenste licentie (welke diploma's hiervoor kwalificeren).**
 
-U kunt ook het diplomaoverzicht downloaden. Geldige diploma's zijn gerangschikt op alfabetische volgorde van het land. ook de Nederlandse diploma's.
+Geldige diploma's zijn gerangschikt op alfabetische volgorde van het land. ook de Nederlandse diploma's.
 
 Staat uw diploma er niet tussen? Vul dan een [formulier](/wat-wij-doen/formulieren) in.
 
