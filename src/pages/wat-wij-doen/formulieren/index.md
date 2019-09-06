@@ -8,7 +8,7 @@ U kunt het formulier ook printen voor uw eigen administratie.
 
 ## Formulieren voor licentiehouders
 
-- Wijzigen niveau licentie - formele melding voor het verlagen van niveau licentie
+- [Wijzigen niveau licentie - formele melding voor het verlagen van niveau licentie](https://administratie.erkenningen.nl/Portals/1/20190415%20verlagen%20vakbekwaamheidsbewijs.pdf)
 - [Waardering niet-Nederlands diploma gewasbescherming - aanvullende vragen wanneer diploma niet in het overzicht voor komt](https://administratie.erkenningen.nl/LinkClick.aspx?fileticket=iy5lGOoXikA%3d&tabid=152&portalid=1&mid=573)
 - [Waardering niet-Nederlands diploma bedrijfsvoeren gewasbescherming - aanvullende vragen wanneer diploma niet in het overzicht voor komt](https://administratie.erkenningen.nl/LinkClick.aspx?fileticket=iskGd770wac%3d&tabid=152&portalid=1&mid=573)
 - [Waardering niet-Nederlands diploma distribueren bestrijdingsmiddelen - aanvullende vragen wanneer diploma niet in het overzicht voor komt](https://administratie.erkenningen.nl/LinkClick.aspx?fileticket=6kBnrOPVL5U%3d&tabid=152&portalid=1&mid=573)

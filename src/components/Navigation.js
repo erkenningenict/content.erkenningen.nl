@@ -90,6 +90,10 @@ export default class extends React.Component {
             link: '/licenties/licentie-verlengen',
           },
           {
+            name: 'Licentie verlagen',
+            link: '/licenties/licentie-verlagen',
+          },
+          {
             name: 'KBA-GB bijschrijven',
             link: '/licenties/kba-gb-bijschrijven',
           },
@@ -166,12 +170,12 @@ export default class extends React.Component {
 
             <Navbar.Collapse id="basic-navbar-nav">
               <Nav className="mr-auto">
-                {this.menuItems.map(item => {
+                {this.menuItems.map((item) => {
                   if (item.items.length) {
                     return (
                       <NavDropdown key={item.name} title={item.name}>
                         <Nav.Link href={item.link}>{item.name}</Nav.Link>
-                        {item.items.map(subItem => {
+                        {item.items.map((subItem) => {
                           return (
                             <Nav.Link key={subItem.name} href={subItem.link}>
                               {subItem.name}
@@ -200,7 +204,7 @@ export default class extends React.Component {
             </div>
             <div className="col-4 col-lg-9 col-md-4 col-sm-4 col-xs-4 pl-sm-3 pl-lg-0 pt-lg-5 pb-2 d-flex justify-content-start flex-list">
               <Menu mode="horizontal" openAnimation="slide-up" className="d-none d-lg-block">
-                {this.menuItems.map(item => {
+                {this.menuItems.map((item) => {
                   if (item.items.length) {
                     return (
                       <SubMenu
@@ -211,7 +215,7 @@ export default class extends React.Component {
                           </Link>
                         }
                       >
-                        {item.items.map(subItem => {
+                        {item.items.map((subItem) => {
                           return (
                             <MenuItem key={subItem.name}>
                               <Link to={subItem.link}>{subItem.name}</Link>
@@ -229,7 +233,7 @@ export default class extends React.Component {
               </Menu>
               <form
                 className="form-inline searchForm"
-                onSubmit={e => {
+                onSubmit={(e) => {
                   e.preventDefault();
                   navigate('/zoeken', {
                     state: { search: this.state.search },
@@ -242,7 +246,7 @@ export default class extends React.Component {
                   type="search"
                   placeholder="Zoek op trefwoord"
                   aria-label="Search"
-                  onChange={e => this.setState({ search: e.target.value })}
+                  onChange={(e) => this.setState({ search: e.target.value })}
                   value={this.state.search}
                 />
               </form>
