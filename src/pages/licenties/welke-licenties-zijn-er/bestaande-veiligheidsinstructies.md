@@ -6,7 +6,7 @@ title: Bestaande veiligheidsinstructies
 
 Deze instructie moet worden uitgevoerd zoals het oorspronkelijke bedrijf of instelling deze heeft opgesteld.
 
-U hoeft geen melding te doen bij Bureau Erkenningen dat u de veiligheidsinstructie heeft gekopieerd. Wel moet de [deelname aan de veiligheidsinstructie worden vastgelegd](/licenties/welke-licenties-zijn-er/veiligheidsinstructies-administreren/)en op uw bedrijf worden bewaard.
+U hoeft geen melding te doen bij Bureau Erkenningen dat u de veiligheidsinstructie heeft gekopieerd. Wel moet de [deelname aan de veiligheidsinstructie worden vastgelegd](/licenties/welke-licenties-zijn-er/veiligheidsinstructies-administreren/) en op uw bedrijf worden bewaard.
 
 Het is ook mogelijk om [zelf een veiligheidsinstructie te maken. Dat moet u bij ons aanvragen.](/licenties/welke-licenties-zijn-er/veiligheidsinstructies-aanvragen) Alleen bij Bureau Erkenningen aangevraagde en goedgekeurde veiligheidsinstructies zijn geldig.
 
