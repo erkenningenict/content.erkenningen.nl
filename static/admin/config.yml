@@ -73,9 +73,9 @@ collections:
     fields:
       - { label: 'Title', name: 'title', widget: 'string' }
       - { label: 'Body', name: 'body', widget: 'markdown' }
-  - name: 'brochures'
-    label: 'Wat-wij-doen/Brochures'
-    folder: 'src/pages/wat-wij-doen/brochures'
+  - name: 'brochures-en-documenten'
+    label: 'Wat-wij-doen/Brochures-en-documenten'
+    folder: 'src/pages/wat-wij-doen/brochures-en-documenten'
     create: true
     delete: false
     fields:

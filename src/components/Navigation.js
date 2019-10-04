@@ -64,8 +64,8 @@ export default class extends React.Component {
             link: '/wat-wij-doen/formulieren',
           },
           {
-            name: 'Brochures',
-            link: '/wat-wij-doen/brochures',
+            name: 'Brochures en documenten',
+            link: '/wat-wij-doen/brochures-en-documenten',
           },
         ],
       },
