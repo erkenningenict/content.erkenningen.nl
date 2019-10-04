@@ -25,4 +25,4 @@ Klik op een van de onderstaande links voor een volledig overzicht van inhoud:
 - [Bedrijvoeren Gewasbescherming](https://administratie.erkenningen.nl/Portals/1/20170913 2 bedrijfsvoeren gewasbescherming eindtermen - vaardigheden.doc)
 - [Bedrijvoeren + Distribueren](https://administratie.erkenningen.nl/Portals/1/20170913 3 bedrijfsvoeren gewasbescherming en distribueren bestrijdingsmiddelen eindtermen - vaardigheden.doc)
 - [Distribueren](https://administratie.erkenningen.nl/Portals/1/20170913 4 distribueren bestrijdingsmiddelen eindtermen - vaardigheden.doc)
-- [Adviseren](https://administratie.erkenningen.nl/Portals/1/20190131 eindtermen en vaardigheden Adviseren Gewasbescherming.docx)
+- [Adviseren](https://administratie.erkenningen.nl/Portals/1/20191001 eindtermen en vaardigheden Adviseren Gewasbescherming.docx)
