@@ -1,9 +1,0 @@
----
-title: Nederlandse wet
----
-
-Nederlandse wet
-
-<link-container>
-<link-button to="/licenties/welke-licentie-heb-ik-nodig">Welke licentie heb ik nodig?</link-button>
-</link-container>
