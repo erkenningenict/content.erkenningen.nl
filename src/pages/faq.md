@@ -242,3 +242,9 @@ U kunt preventieve maatregelen nemen, een professioneel knaagdierenbestrijder in
 Alleen wanneer u dat doet volgens de richtlijnen op het etiket
 
 ---
+
+#### Met welke smartphone kan ik de App van Bureau Erkenningen gebruiken?
+
+De App van Erkenningen werkt het best op smartphones met het besturingssysteem Android vanaf 4.4 en op iOS vanaf versie 12.
+
+---
