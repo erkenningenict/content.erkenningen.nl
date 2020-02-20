@@ -29,6 +29,6 @@ U kunt ook gebruik maken van [bestaande veiligheidsinstructies.](/licenties/welk
 <link-container>
 <link-button to="https://administratie.erkenningen.nl/Default.aspx?tabid=202">Aanvraag formulier</link-button>
 <link-button to="/licenties/welke-licenties-zijn-er/bestaande-veiligheidsinstructies">Bestaande veiligheids instructies</link-button>
-<link-button to="/licenties/wetten-en-regels">Wetten en regels</link-button><link-button to="/licenties/welke-licenties-zijn-er/bestaande-veiligheidsinstructies">Bestaande veiligheids instructies</link-button>
+<link-button to="/licenties/wetten-en-regels">Wetten en regels</link-button>
 <link-button to="/wat-wij-doen/formulieren">Formulieren</link-button>
 </link-container>
