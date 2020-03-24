@@ -8,15 +8,14 @@ title: Home page
 <link-button to="/mijn-bureau-erkenningen/duplicaat-pas-aanvragen">Duplicaat pas aanvragen</link-button>
 </link-container>
 
-## Nieuws: Corona virus (COVID-19) en licentieverlengingen | 13-3-2020
+## Nieuws: Corona virus (COVID-19) en licentieverlengingen | 24-3-2020
 
 De preventieve maatregelen rondom het Corona virus hebben ook effect op kennisbijeenkomsten gewasbescherming. Zowel deelnemers als organisatoren hebben vragen over wel of niet doorgaan van bijeenkomsten en mogelijke gevolgen daarvan.
-Voor de kennisbijeenkomsten gewasbescherming geldt dat deze zeer divers zijn. Het is aan organisatoren en deelnemers of de bijeenkomst door gaat.  Altijd binnen de preventiemaatregelen welke vanuit de overheid zijn aangegeven (massaliteit, onderling contact, etc.)
 
-Voor de licenties gewasbescherming zal geen uitstel van de einddatum toegepast worden. Er zijn digitale kennisbijeenkomsten als mogelijk alternatief.
+Kennisbijeenkomsten gewasbescherming (incl. knaagdierbeheersing en mollen/woelratten) kunnen tot 1 juni a.s. geen doorgang vinden. Alle geplande bijeenkomsten worden geschrapt.
 
-De kennisbijeenkomsten knaagdierbeheersing en mollen/woelratten hebben een verplicht gering aantal deelnemers. Ook hier is, geen uitstel van de licentie einddatum aan de orde. 
+Hoe er precies omgegaan wordt met licenties welke in de periode tot 1 juni vervallen, is nu nog niet bekend. Wel is bekend dat de ministeries in overleg zijn om dit vraagstuk op te lossen.
 
-De nieuwe licenties Adviseren Gewasbescherming kennen een tussendatum van 1 april 2020, waarvoor de eerste kennisbijeenkomst moet zijn gevolgd. Op deze tussendatum wordt één maand uitstel van toepassing (1 mei 2020).
+De nieuwe licenties Adviseren Gewasbescherming kennen een tussendatum van 1 april 2020, waarvoor de eerste kennisbijeenkomst moet zijn gevolgd. Deze tussendatum wordt opnieuw vastgesteld.
 
 Mocht blijken dat aanvullende maatregelen noodzakelijk zijn, zal daar naar gehandeld worden.
