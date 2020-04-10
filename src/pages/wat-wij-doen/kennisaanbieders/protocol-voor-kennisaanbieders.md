@@ -2,4 +2,4 @@
 title: Protocol voor kennisaanbieders
 ---
 
-[Protocol voor kennisaanbieders downloaden](https://administratie.erkenningen.nl/LinkClick.aspx?fileticket=Bc0JdtaMSKY%3d&tabid=152&portalid=1&mid=573)
+[Protocol voor kennisaanbieders downloaden](https://administratie.erkenningen.nl/Portals/1/20200331 Protocol voor kennisaanbieders.doc)

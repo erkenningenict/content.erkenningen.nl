@@ -18,7 +18,7 @@ Deze kunt u als PDF bestand downloaden en printen.
 - [Wie moet wat gewasbescherming – Overzicht welke licentie heeft u nodig heeft voor gewasbescherming](https://administratie.erkenningen.nl/LinkClick.aspx?fileticket=x-A1ZbfC7Wo%3d&tabid=152&portalid=1&mid=573)
 - [Wie moet wat knaagdierbeheersing – Overzicht welke licentie heeft u nodig heeft voor knaagdierbeheersing](https://administratie.erkenningen.nl/LinkClick.aspx?fileticket=eFqRDAdU_H8%3d&tabid=152&portalid=1&mid=573)
 - [Aantal te volgen bijeenkomsten](https://administratie.erkenningen.nl/Portals/1/20191031 Verlengingseisen bewijzen van vakbekwaamheid.docx)
-- [Protocol Kennisaanbieders](https://administratie.erkenningen.nl/LinkClick.aspx?fileticket=Bc0JdtaMSKY%3d&tabid=152&portalid=1&mid=573)
+- [Protocol Kennisaanbieders](https://administratie.erkenningen.nl/Portals/1/20200331 Protocol voor kennisaanbieders.doc)
 
 ## Documenten
 
