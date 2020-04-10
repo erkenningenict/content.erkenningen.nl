@@ -8,6 +8,10 @@ Deze kunt u als PDF bestand downloaden en printen.
 
 ## Brochures
 
+- [Geïntegreerde gewasbescherming in nederland en het gebruik van gewasbeschermingsmiddelen](https://administratie.erkenningen.nl/Portals/1/Brochures/Folder_Licenties_gewasbescherming_ndls_a5.pdf)
+- [Integrated crop protection in the Netherlands and using crop protection products](https://administratie.erkenningen.nl/Portals/1/Brochures/Folder_Licenties_gewasbescherming_engels_a5.pdf)
+- [Integrierten Pflanzenschutz in den Niederlanden und der Einzatz von Pflanzenschutsmitteln](https://administratie.erkenningen.nl/Portals/1/Brochures/Folder_Licenties_gewasbescherming_Duits_a5.pdf)
+- [La protection intégrée des cultures aux Pays-Bas et l’utilisation de produits phytosanitaires](https://administratie.erkenningen.nl/Portals/1/Brochures/Folder_Licenties_gewasbescherming_Frans_a5.pdf)
 - [Chemische gewasbescherming in Nederland - Nederlands](https://administratie.erkenningen.nl/LinkClick.aspx?fileticket=K0CarsgSAaw%3d&tabid=152&portalid=1&mid=573)
 - [Chemical Plant Protection in the Netherlands](https://administratie.erkenningen.nl/LinkClick.aspx?fileticket=Uaz4dH0cP3s%3d&tabid=152&portalid=1&mid=573)
 - [Chemischer Pflanzenschutz in den Niederlande](https://administratie.erkenningen.nl/LinkClick.aspx?fileticket=UKG4qsg-m08%3d&tabid=152&portalid=1&mid=573)
