@@ -8,7 +8,7 @@ Geldige diploma's zijn gerangschikt op alfabetische volgorde van het land. ook d
 
 Staat uw diploma er niet tussen? Vul dan een [formulier](/wat-wij-doen/formulieren) in.
 
-<module-loader skeleton="NN--- -- =========N-----  =========N==NN--- ---     -----N====N-----------------N-----------------N-----------------N">https://erkenningen-module-certificates-info.netlify.com</module-loader>
+<module-loader skeleton="NN--- -- =========N-----  =========N==NN--- ---     -----N====N-----------------N-----------------N-----------------N">https://erkenningen-module-certificates-info.netlify.app</module-loader>
 
 ## Snel naar:
 
