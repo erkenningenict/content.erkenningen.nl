@@ -21,8 +21,20 @@ const Footer = () => (
           Disclaimer
         </a>
         <div className="d-none d-sm-block">|</div>
-        <a href="https://administratie.erkenningen.nl/Default.aspx?tabid=289" className="footerLink">
+        <a
+          href="https://administratie.erkenningen.nl/Default.aspx?tabid=289"
+          className="footerLink"
+        >
           Privacyverklaring
+        </a>
+        <div className="d-none d-sm-block">|</div>
+        <a
+          href="https://administratie.erkenningen.nl/Portals/1/20200408 Gedragscode gebruik  ICT Bedrijfsmiddelen BE Versie 2020APR.pdf"
+          target="_blank"
+          rel="noreferrer noopener"
+          className="footerLink"
+        >
+          Gedragscode gebruik ICT Bedrijfsmiddelen
         </a>
       </div>
     </div>
