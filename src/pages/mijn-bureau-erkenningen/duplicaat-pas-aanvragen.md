@@ -4,7 +4,7 @@ title: Duplicaat pas aanvragen
 
 **Bent u uw pasje kwijt? Dan kunt u een nieuwe pas aanvragen**.
 
-Aan het aanvragen van een nieuwe pas zijn kosten verbonden. [Log in](/mijn-bureau-erkenningen/login) bij Mijn Bureau Erkenningen voor het aanvragen van een nieuwe pas.
+Aan het aanvragen van een nieuwe pas zijn kosten verbonden. [Log in](/mijn-bureau-erkenningen/inloggen) bij Mijn Bureau Erkenningen voor het aanvragen van een nieuwe pas.
 
 ## Gebruik onze app
 
