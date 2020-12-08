@@ -6,7 +6,7 @@ title: Frequently Asked Questions (Veel gestelde vragen)
 
 Ook een zaadcoatingsmachine moet bijgevuld worden met gewasbeschermingsmiddel. Dat mag alleen door een medewerker met Uitvoeren gewasbescherming of Bedrijfsvoeren.
 De werknemer met de veiligheidsinstructie voor werken met een volledig gesloten zaadcoatingsmachine mag niet met het middel in aanraking komen.
-Er is sprake van een "volledige gesloten zaadcatingsmachine" indien er geen delen van het gebruikte gewasbeschermingsmiddel ongecontroleerd buiten de zaadcoatingsmachine komen. De werknemer met veiligheidsinstructie komt zo niet in aanraking met het gewasbeschermingsmiddel.
+Er is sprake van een "volledige gesloten zaadcoatingsmachine" indien er geen delen van het gebruikte gewasbeschermingsmiddel ongecontroleerd buiten de zaadcoatingsmachine komen. De werknemer met veiligheidsinstructie komt zo niet in aanraking met het gewasbeschermingsmiddel.
 
 ---
 
@@ -24,8 +24,8 @@ Dit vakbekwaamheidsbewijs geldt voor het bestrijden van mollen en woelratten met
 
 #### Welk nummer kan ik bellen voor informatie?
 
-U kunt bellen met het telefoonnummer 088 042 42 42 (lokaal tarief). De RVO.nl beantwoordt hier uw vragen.
-Vanuit het buitenland kan gebeld worden naar: +31 88 042 42 42. Dit nummer is niet gratis.
+U kunt bellen met het telefoonnummer +31 70 379 80 00. De RVO.nl beantwoordt hier uw vragen.
+Vanuit het buitenland kan gebeld worden naar: +31 70 379 80 00. Dit nummer is niet gratis.
 
 ---
 
@@ -171,7 +171,7 @@ Ga naar het onderwerp: Pasjes
 U voert het aantal duplicaten in en u klikt op aanvragen
 Betaal de factuur en het pasje wordt toegestuurd.
 
-Als u de inlogcodes kwijt bent, bel het RVO loket: 088 042 42 42 (lokaal tarief).
+Als u de inlogcodes kwijt bent, bel het RVO loket: +31 70 379 80 00.
 
 ---
 

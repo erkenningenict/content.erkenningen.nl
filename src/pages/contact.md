@@ -5,8 +5,8 @@ Kijk eerst bij de veelgestelde vragen (FAQ) of uw vraag hier tussen staat.
 
 Voor vragen over uw licenties belt u met het RVO loket:
 
-088 - 042 42 42.
++31 70 379 80 00.
 
-Dit kan van maandag tot en met vrijdag: van 8.30 tot 17.00 uur. U belt tegen lokaal tarief.
+Dit kan van maandag tot en met vrijdag: van 8.30 tot 17.00 uur.
 
-Vanuit het buitenland belt u +31 88 - 042 42 42. U belt dan tegen het tarief dat geldt voor het buitenland.
+Vanuit het buitenland belt u ook +31 70 379 80 00. U belt dan tegen het tarief dat geldt voor het buitenland.
