@@ -171,7 +171,7 @@ Ga naar het onderwerp: Pasjes
 U voert het aantal duplicaten in en u klikt op aanvragen
 Betaal de factuur en het pasje wordt toegestuurd.
 
-Als u de inlogcodes kwijt bent, bel het RVO loket: +31 70 379 80 00.
+Als u de inlogcodes kwijt bent, bel het RVO loket: 088 042 42 42 (vanuit het buitenland via +31 70 379 80 00).
 
 ---
 
