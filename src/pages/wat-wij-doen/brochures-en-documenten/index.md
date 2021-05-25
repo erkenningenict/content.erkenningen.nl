@@ -14,7 +14,7 @@ Deze kunt u als PDF bestand downloaden en printen.
 - [La protection intégrée des cultures aux Pays-Bas et l’utilisation de produits phytosanitaires](https://administratie.erkenningen.nl/Portals/1/Brochures/Folder_Licenties_gewasbescherming_Frans_a5.pdf)
 - [Wie moet wat gewasbescherming – Overzicht welke licentie u nodig heeft voor gewasbescherming](https://administratie.erkenningen.nl/LinkClick.aspx?fileticket=x-A1ZbfC7Wo%3d&tabid=152&portalid=1&mid=573)
 - [Wie moet wat knaagdierbeheersing – Overzicht welke licentie u nodig heeft voor knaagdierbeheersing](https://administratie.erkenningen.nl/LinkClick.aspx?fileticket=eFqRDAdU_H8%3d&tabid=152&portalid=1&mid=573)
-- [Aantal te volgen bijeenkomsten](https://administratie.erkenningen.nl/Portals/1/20191031%20Verlengingseisen%20bewijzen%20van%20vakbekwaamheid.docx)
+- [Aantal te volgen bijeenkomsten](https://administratie.erkenningen.nl/Portals/1/20210526%20Verlengingseisen%20bewijzen%20van%20vakbekwaamheid%20gewasbescherming%20en%20KBA.pdf)
 - [Protocol Kennisaanbieders](https://administratie.erkenningen.nl/Portals/1/20200331%20Protocol%20voor%20kennisaanbieders.doc)
 - [Gedragscode gebruik ICT/bedrijfsmiddelen Bureau Erkenningen](https://administratie.erkenningen.nl/Portals/1/20200408%20Gedragscode%20gebruik%20%20ICT%20Bedrijfsmiddelen%20BE%20Versie%202020APR.pdf)
 
