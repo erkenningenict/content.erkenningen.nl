@@ -77,26 +77,38 @@ Bij een kennisaanbod Adviseren Gewasbescherming gelden er een paar extra spelreg
 
 ## Digitaal aanbod
 
-De volgende eisen en vragen moeten worden gesteld voor digitaal kennisaanbod:
+Versie 25 mei 2021.
 
-- Hoe wordt de identiteit van de deelnemers tijdens de digitale bijeenkomst geverifieerd?
-- Wat wordt er gedaan om deelnemers vragen en antwoorden te laten stellen/geven aan elkaar (de
-  interactie bevorderen – leren van elkaar)?
+De volgende aandachtspunten, eisen en vragen bij een digitaal kennisaanbod:
 
-Aandachtspunten voor digitaal aanbod:
+### Beoordeling
+
+- Beoordelen van online aanboden kent een extra stap: een pré meeting (vooraf gesprek) van de beoordelaar(s) met de aanbieder. Dit gesprek is nadat de aanbieder het aanbod heeft ingediend.
+- Een aanbod wordt normaal door onze beoordelaars verwerkt. (hoe is de doelstelling, hoe is de aanpak, wat is de inhoud, welke materie wordt op welk niveau en voor welke competentie behandeld).
+- Zo nodig wordt aanvullend een onderzoek gedaan door BE naar de kwaliteit door een speciaal ingehuurde ict toets deskundige.
+
+### Inhoud
 
 - Kennis in de digitale cursussen dient aantoonbaar permanent vernieuwd te worden. Vanuit welke bron wordt kennis geput en hoe wordt actuele kennis geïmplementeerd in de site.
-- Kennisuitwisseling, tussen beroepsgenoten is een belangrijk element bij leren door volwassenen. Om de eenzijdigheid van digitale cursussen te verrijken met kennisuitwisseling dient er een platform te zijn waarop deelnemers kunnen discussiëren. Op het platform dienen minstens vier serieuze vragen gesteld en/of antwoorden gegeven te worden per module. Het platform wordt gemonitord door een web-master. Deze webmaster beoordeelt de forumbijdragen op relevantie ten aanzien van de bestudeerde stof. Pas na goedkeuring wordt een bijdrage zichtbaar op het forum voor andere deelnemers. Andere vormen van interactiviteit tussen deelnemers zijn toegestaan, mits voldoende beargumenteerd.
-- Er kunnen niet meer dan 2 modules per 24 uur afgerond worden.
-- Tussentijdse toets vragen moeten correct beantwoord worden om door te kunnen in het programma.
+- In digitaal aanbod wordt zoveel mogelijk met illustratiemateriaal dragers inhoud gegeven (film, foto, schema’s etc.)
+- Aanboden zijn sectorspecifiek of kennen sectorspecifieke invulling
+
+### Vragen/toetsen
+
+- Tussentijdse vragen moeten correct beantwoord worden om door te kunnen in het programma. Verwerkingsopdrachten kennen systemische controle of feedback.
+- Aanbieders zullen toekomstig verwerkingsvragen hebben, na illustratiemateriaal.
+- Verdiepend illustratiemateriaal, buiten het directe doel van de bijeenkomst, zullen als zodanig aangegeven worden (en vallen buiten verwerkingsvragen)
 - Drie maal fout antwoorden van één vraag of niet halen van een eindtoets stuurt de deelnemer terug naar het begin en roept op, om eerst de stof te bestuderen. Nieuwe deelname is pas na 24 uur mogelijk.
-- Deelname wordt “live” gemonitord.
-- Deelname wordt telefonisch geverifieerd.
-- Via logboeken kan BE nagaan wanneer deelnames geverifieerd zijn.
-- Een aanbod wordt per sector gemaakt.
-- Deelnemers worden per sector geregistreerd.
-- Een aanbod wordt normaal door onze beoordelaars verwerkt. (hoe is de doelstelling, hoe is de aanpak, wat is de inhoud, welke materie wordt op welk niveau en voor welke competentie behandeld).
-- Zo nodig wordt aanvullend een onderzoek gedaan door BE naar de kwaliteit door een speciaal ingehuurde ict toetsdeskundige.
-- In digitaal aanbod wordt zoveel mogelijk met visuele dragers (film, foto, schema’s etc.)
-- Een module wordt afgemeld door de site de complete stof is bekeken, de eindtoets is gehaald en minimaal vier forumbijdragen zijn goedgekeurd.
+
+### Identiteit
+
+- Deelname wordt geverifieerd (o.a. telefonisch, sms, activiteit)
 - Persoons- en deelnameverificatie naar de realiseerbare stand van technische ontwikkelingen.
+- Deelname wordt “live” gemonitord.
+- Verificaties worden vastgelegd in opvraagbare logfiles
+- Via logboeken kan BE nagaan wanneer deelnames geverifieerd zijn.
+
+### Afmelding
+
+- Een deelname aan een module wordt afgemeld wanneer de complete stof is bekeken en de toetsen positief zijn doorlopen.
+- Er kunnen niet meer dan 2 modules per 24 uur afgerond worden.
