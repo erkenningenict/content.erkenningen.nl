@@ -523,7 +523,7 @@ $margin-top-containers: 0.4rem;
   div {
     justify-content: center;
 
-    a {
+    div > a {
       background-color: $be-orange !important;
       transition: all 0.15s ease-in-out;
       &:hover {
