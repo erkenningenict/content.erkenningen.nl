@@ -78,7 +78,7 @@ export const HomePage = ({ data }) => {
                 </Link>
               </section>
             </div>
-            <TextPageBody className="homeButtons" htmlAst={page.htmlAst} />
+            <TextPageBody className="container homeButtons" htmlAst={page.htmlAst} />
           </div>
         </div>
       </div>
