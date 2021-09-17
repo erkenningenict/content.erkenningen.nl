@@ -22,9 +22,11 @@ In de [brochure Knaagdierbeheersing](https://administratie.erkenningen.nl/LinkCl
 
 ## Let op
 
-Vanaf 2022 gaat het CTGB de toelatingen voor anti-coagulantia wijzigen. Voor steeds minder middelen is dan de licentie KBA toereikend. Geleidelijk aan zal voor steeds meer middelen gaan gelden dat de licentie KBA-GB noodzakelijk is.
+Vanaf 1 januari 2023 zullen de licenties KBA en KBA-GB niet meer bruikbaar zijn. Bij de toelating van middelen stelt het CTGB per 1 januari 2023 nieuwe eisen aan bedrijven en toepassers van rodenticiden.
 
-De verwachting is dat per 2026 de licentie KBA voor geen enkel middel toereikend is
+Leidend in de knaagdierbeheersing is de IPM aanpak. Voor het uiteindelijke gebruik van de rodenticiden dient zowel de agrarier als het bedrijf gecertificeerd te zijn.
+
+In het gebruiksvoorschrift van het de rodenticide staat aangegeven of het IPM-systeem gevolgd moet worden.
 
 Meer informatie over knaagdieren en knaagdierbeheersing in het [kennisdosier op Groen Kennisnet.](https://www.groenkennisnet.nl/nl/groenkennisnet/show/dossier-knaagdierbeheersing.htm)
 
