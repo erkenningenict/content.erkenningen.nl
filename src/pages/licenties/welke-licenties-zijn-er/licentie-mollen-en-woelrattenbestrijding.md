@@ -6,7 +6,7 @@ title: Licentie Mollen- en Woelrattenbestrijding
 
 - Voor iedereen die met behulp van middelen op basis van fosforwaterstof mollen en of woelratten bestrijdt.
 
-Weet u nog niet zeker of dit de licentie is die u nodig heeft, lees dan onze brochure.
+Weet u nog niet zeker of dit de licentie is die u nodig heeft, lees dan onze [brochure](https://administratie.erkenningen.nl/Portals/1/20211014%20flyer%20Mollen-%20en%20woelwrattenbestrijding).
 
 ## Welk diploma/examen nodig?
 
