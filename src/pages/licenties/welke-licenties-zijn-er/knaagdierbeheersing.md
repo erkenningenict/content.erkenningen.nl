@@ -28,8 +28,6 @@ Leidend in de knaagdierbeheersing is de IPM aanpak. Voor het uiteindelijke gebru
 
 In het gebruiksvoorschrift van het de rodenticide staat aangegeven of het IPM-systeem gevolgd moet worden.
 
-Meer informatie over knaagdieren en knaagdierbeheersing in het [kennisdosier op Groen Kennisnet.](https://www.groenkennisnet.nl/nl/groenkennisnet/show/dossier-knaagdierbeheersing.htm)
-
 ## Snel naar:
 
 <link-container>
