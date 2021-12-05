@@ -1,6 +1,6 @@
 import 'whatwg-fetch';
 import React from 'react';
-import { ThemeContext } from '@erkenningen/ui';
+import { ThemeContext } from '@erkenningen/ui/layout/theme';
 
 import { LoginProvider } from './src/components/LoginLink';
 

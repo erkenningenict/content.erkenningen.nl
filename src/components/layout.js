@@ -44,9 +44,7 @@ const Template = ({ children }) => (
     </Helmet>
 
     <Navigation />
-
-    {children}
-
+      {children}
     <Footer />
   </div>
 );
