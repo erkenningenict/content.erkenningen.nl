@@ -1,11 +1,11 @@
 import 'whatwg-fetch';
 import React from 'react';
-import { ThemeContext } from '@erkenningen/ui/layout/theme';
 
 import { LoginProvider } from './src/components/LoginLink';
 import { MDXProvider } from '@mdx-js/react';
 import Link from './src/components/Link';
-import { LinkButton, LinkButtonContainer } from '@erkenningen/ui/components/link-button';
+import LinkButton from './src/components/LinkButton';
+import LinkButtonContainer from './src/components/LinkButtonContainer';
 import Redirect from './src/components/Redirect';
 import ModuleLoader from './src/components/ModuleLoader';
 
@@ -18,8 +18,6 @@ if (typeof window !== 'undefined') {
 // eslint-disable-next-line react/prop-types
 export const wrapRootElement = ({ element }) => (
   <MDXProvider components={shortcodes}>
-    <LoginProvider>
-      <ThemeContext.Provider value={{ mode: 'content' }}>{element}</ThemeContext.Provider>
-    </LoginProvider>
+    <LoginProvider>{element}</LoginProvider>
   </MDXProvider>
 );

@@ -5,7 +5,7 @@ module.exports = {
     title: 'Erkenningen.nl',
   },
   plugins: [
-    // 'gatsby-plugin-react-helmet',
+    'gatsby-plugin-react-helmet',
     {
       resolve: `gatsby-plugin-sass`,
       options: {
@@ -112,46 +112,6 @@ module.exports = {
           })),
       },
     },
-
-    // {
-    //   resolve: 'gatsby-plugin-flexsearch',
-    //   options: {
-    //     languages: ['nl'],
-    //     type: 'Mdx',
-    //     fields: [
-    //       {
-    //         name: 'title',
-    //         indexed: true,
-    //         resolver: 'title',
-    //         attributes: {
-    //           encode: 'balance',
-    //           tokenize: 'full',
-    //           // threshold: 6,
-    //           depth: 1,
-    //         },
-    //         store: true,
-    //       },
-    //       {
-    //         name: 'body',
-    //         indexed: true,
-    //         resolver: 'body',
-    //         attributes: {
-    //           encode: 'balance',
-    //           tokenize: 'full',
-    //           // threshold: 6,
-    //           depth: 2,
-    //         },
-    //         store: false,
-    //       },
-    //       {
-    //         name: 'url',
-    //         indexed: false,
-    //         resolver: 'slug',
-    //         store: true,
-    //       },
-    //     ],
-    //   },
-    // },
 
     // 'gatsby-plugin-sharp',
     // 'gatsby-transformer-sharp',

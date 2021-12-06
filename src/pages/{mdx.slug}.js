@@ -1,5 +1,5 @@
 import React from 'react';
-// import Helmet from 'react-helmet';
+import { Helmet } from 'react-helmet';
 import { graphql } from 'gatsby';
 
 import { MDXRenderer } from 'gatsby-plugin-mdx';
@@ -13,13 +13,13 @@ const Page = ({ data }) => {
   return (
     <Layout>
       <div className="container">
-        {/* {page.frontmatter.title && (
+        {page.frontmatter.title && (
           <Helmet>
             <title>Erkenningen | {page.frontmatter.title}</title>
           </Helmet>
-        )} */}
+        )}
 
-        {/* {page.frontmatter.title && page.frontmatter.excerpt && (
+        {page.frontmatter.title && page.frontmatter.excerpt && (
           <Helmet>
             <meta property="og:title" content={page.frontmatter.title} />
             <meta name="twitter:title" content={page.frontmatter.title} />
@@ -27,7 +27,7 @@ const Page = ({ data }) => {
             <meta property="og:description" content={page.frontmatter.excerpt} />
             <meta name="twitter:description" content={page.frontmatter.excerpt} />
           </Helmet>
-        )} */}
+        )}
 
         <div className="row mb-2 mb-lg-5">
           <div className="col-md-1 mt-2 d-none d-lg-block navbar-be__breadcrumbs-spacer-orange" />

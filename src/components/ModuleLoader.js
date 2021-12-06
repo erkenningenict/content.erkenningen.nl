@@ -1,7 +1,7 @@
 import React, { useEffect, useState } from 'react';
 import ReactDOM from 'react-dom';
 import Axios from 'axios';
-import { Skeleton } from '@erkenningen/ui/components/skeleton';
+import Skeleton from './Skeleton';
 
 /**
  * Dynamic React module loader for Erkenningen modules

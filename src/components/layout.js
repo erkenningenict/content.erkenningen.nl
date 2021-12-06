@@ -4,15 +4,11 @@ import 'core-js/es6/set';
 import 'es6-shim';
 
 import React from 'react';
-// import Helmet from 'react-helmet';
+import { Helmet } from 'react-helmet';
 
 import Navigation from './Navigation';
 import Footer from './Footer';
 import Favicon from './Favicon';
-
-import '@fortawesome/fontawesome-free/css/all.min.css';
-import 'primeicons/primeicons.css';
-import 'primereact/resources/primereact.min.css';
 
 import './gatstrap.scss';
 import './styles.scss';
@@ -21,7 +17,7 @@ const Template = ({ children }) => (
   <div>
     <Favicon />
 
-    {/* <Helmet>
+    <Helmet>
       <title>Erkenningen</title>
       <html lang="nl-NL" />
       <meta property="og:title" content="Bureau Erkenningen" />
@@ -41,7 +37,7 @@ const Template = ({ children }) => (
       />
       <meta name="twitter:image" content="https://erkenningen.nl.com/social-meta.png" />
       <meta name="twitter:creator" content="@bureauerkenningen" />
-    </Helmet> */}
+    </Helmet>
 
     <Navigation />
     {children}
