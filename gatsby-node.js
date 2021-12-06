@@ -3,14 +3,14 @@ exports.onCreateWebpackConfig = ({ stage, loaders, actions }) => {
     actions.setWebpackConfig({
       module: {
         rules: [
-          {
-            test: /@erkenningen\/ui/,
-            use: loaders.null(),
-          },
-          {
-            test: /.*npm-erkenningen-ui.*/,
-            use: loaders.null(),
-          },
+          // {
+          //   test: /@erkenningen\/ui/,
+          //   use: loaders.null(),
+          // },
+          // {
+          //   test: /.*npm-erkenningen-ui.*/,
+          //   use: loaders.null(),
+          // },
         ],
       },
     });

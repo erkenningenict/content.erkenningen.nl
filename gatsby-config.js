@@ -5,7 +5,7 @@ module.exports = {
     title: 'Erkenningen.nl',
   },
   plugins: [
-    'gatsby-plugin-react-helmet',
+    // 'gatsby-plugin-react-helmet',
     {
       resolve: `gatsby-plugin-sass`,
       options: {

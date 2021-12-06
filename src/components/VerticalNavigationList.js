@@ -4,7 +4,10 @@ import SearchBar from '../components/SearchBar';
 import { useFlexSearch } from 'react-use-flexsearch';
 
 const VerticalNavigationList = ({ data }) => {
-  const { search } = window.location;
+  let search = '';
+  if (typeof window !== 'undefined') {
+    search = window.location.search;
+  }
   const query = new URLSearchParams(search).get('zoekterm');
   const [searchQuery, setSearchQuery] = useState(query || '');
   const searchOptions = {

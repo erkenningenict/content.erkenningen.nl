@@ -7,7 +7,6 @@ import { Skeleton } from '@erkenningen/ui/components/skeleton';
  * Dynamic React module loader for Erkenningen modules
  */
 const ModuleLoader = (props) => {
-  console.log('#DH# props', props);
   const [ready, setReady] = useState(false);
   const [rootElemId, setRootElemId] = useState('root');
   const [currentScriptElems, setCurrentScriptElems] = useState([]);

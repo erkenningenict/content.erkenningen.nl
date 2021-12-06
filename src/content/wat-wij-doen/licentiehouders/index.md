@@ -14,4 +14,5 @@ Bent u licentiehouder? Dan kunt u uw gegevens bekijken door [in te loggen](/mijn
 <LinkButton to="/mijn-bureau-erkenningen/inloggen">Inloggen</LinkButton>
 <LinkButton to="/licenties/licentie-verlengen">Licentie verlengen</LinkButton>
 <LinkButton to="/licenties/licentie-aanvragen">licentie aanvragen</LinkButton>
-<LinkButton to="/licenties/licentie-aanvragen">Licentie aanvragen</LinkButton></LinkButtonContainer>
+<LinkButton to="/licenties/licentie-aanvragen">Licentie aanvragen</LinkButton>
+</LinkButtonContainer>

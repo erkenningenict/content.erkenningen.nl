@@ -94,7 +94,7 @@ Voor dertien verschillende handelingen
 - stobbebehandeling met handapparatuur gevuld met een gewasbeschermingsmiddel op basis van de werkzame stof glyfosaat in gewassen en natuurgebieden, voor zover de apparatuur is gevuld door een andere persoon die beschikt over een bewijs van vakbekwaamheid Uitvoeren of Bedrijfsvoeren gewasbescherming als bedoeld in artikel 6.3, derde en vierde lid;
 - toepassing van bewortelingspoeders op basis van indolylboterzuur;
 - uithangen van dispensers met middelen op basis van feromonen voor feromoonverwarring in fruitteeltgewassen;
-- insmeren van stammen met middelen op basis van kwartszand voor wildafweer in fruitteeltge-wassen;
+- insmeren van stammen met middelen op basis van kwartszand voor wildafweer in fruitteeltgewassen;
 - het vullen van bewaarbakken voor na de oogst van snijbloemen met een gebruiksklare oplossing naoogst toedienen van houdbaarheidsmiddelen aan bewaarbakken met snijbloemen m.u.v. middelen met gevaarsymbool Xn schadelijk, voor zover de oplossing is bereid door een andere persoon die beschikt over een bewijs van vakbekwaamheid Uitvoeren of Bedrijfsvoeren gewasbescherming als bedoeld in artikel 6.3, derde en vierde lid;
 - het poten van aardappels met een trekker en aardappelpootmachine waarbij via poederdoseer-apparatuur middel(en) op basis van pencycuron worden toegediend tegen Rhizoctonia, voor zover de poederdoseerapparatuur is gevuld door een andere persoon die beschikt over een bewijs van vakbekwaamheid Uitvoeren of Bedrijfsvoeren gewasbescherming als bedoeld in artikel 6.3, derde en vierde lid;
 - het bedienen van een machine voor fytodrip in uitgangsmateriaal, voor zover de machine is gevuld door een andere persoon die beschikt over een bewijs van vakbekwaamheid Uitvoeren of Bedrijfsvoeren gewasbescherming als bedoeld in artikel 6.3, derde en vierde lid.
@@ -149,7 +149,7 @@ Uw bedrijf voldoet aan de certificeringseisen, dat betekent dat u werkt volgens 
 
 #### KBA-GB registratie lukt niet want e-mail komt niet aan.
 
-Ga opnieuw via [erkenningen](https://administratie.erkenningen.nl/Default.aspx?tabid=255) naar Registratie agrariër en pas het e-mail adres aan in bestaande gegevens. Dan wordt de verificatie mail opnieuw gestuurd naar het aangepast e-mailadres.
+Ga opnieuw via [erkenningen.nl](https://administratie.erkenningen.nl/Default.aspx?tabid=255) naar Registratie agrariër en pas het e-mail adres aan in bestaande gegevens. Dan wordt de verificatie mail opnieuw gestuurd naar het aangepast e-mailadres.
 
 ---
 
@@ -246,5 +246,3 @@ Alleen wanneer u dat doet volgens de richtlijnen op het etiket
 #### Met welke smartphone kan ik de App van Bureau Erkenningen gebruiken?
 
 De App van Erkenningen werkt het best op smartphones met het besturingssysteem Android vanaf 4.4 en op iOS vanaf versie 12.
-
----

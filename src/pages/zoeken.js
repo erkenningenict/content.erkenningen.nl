@@ -1,6 +1,5 @@
 import React from 'react';
-import Helmet from 'react-helmet';
-import { Link, graphql, useStaticQuery } from 'gatsby';
+import { graphql, useStaticQuery } from 'gatsby';
 
 import Breadcrumb from './../components/Breadcrumb';
 import FaqSidebar from '../components/FaqSidebar';
@@ -8,35 +7,12 @@ import Layout from '../components/layout';
 import LoginLink from '../components/LoginLink';
 import VerticalNavigationList from '../components/VerticalNavigationList';
 
-// import { MDXRenderer } from 'gatsby-plugin-mdx';
-// import { MDXProvider } from "@mdx-js/react";
-// import { LinkButton, LinkButtonContainer } from '@erkenningen/ui/components/link-button';
-// import Redirect from '../components/Redirect';
-
-// const shortcodes = { Link, LinkButton, LinkButtonContainer, Redirect };
-
 const Zoeken = () => {
   const data = useStaticQuery(searchQuery);
 
   return (
     <Layout>
       <div className="container">
-        {/* {page.frontmatter.title && (
-          <Helmet>
-            <title>Erkenningen | {page.frontmatter.title}</title>
-          </Helmet>
-        )}
-
-        {page.frontmatter.title && page.frontmatter.excerpt && (
-          <Helmet>
-            <meta property="og:title" content={page.frontmatter.title} />
-            <meta name="twitter:title" content={page.frontmatter.title} />
-
-            <meta property="og:description" content={page.frontmatter.excerpt} />
-            <meta name="twitter:description" content={page.frontmatter.excerpt} />
-          </Helmet>
-        )} */}
-
         <div className="row mb-2 mb-lg-5">
           <div className="col-md-1 mt-2 d-none d-lg-block navbar-be__breadcrumbs-spacer-orange" />
           <div className="col-md-2 mt-2 d-none d-lg-block navbar-be__breadcrumbs-spacer-green" />

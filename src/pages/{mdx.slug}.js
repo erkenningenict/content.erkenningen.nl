@@ -1,34 +1,25 @@
 import React from 'react';
-import Helmet from 'react-helmet';
+// import Helmet from 'react-helmet';
 import { graphql } from 'gatsby';
 
+import { MDXRenderer } from 'gatsby-plugin-mdx';
 import Breadcrumb from './../components/Breadcrumb';
 import FaqSidebar from '../components/FaqSidebar';
 import Layout from '../components/layout';
 import LoginLink from '../components/LoginLink';
-import Link from '../components/Link';
-import { MDXRenderer } from 'gatsby-plugin-mdx';
-import { MDXProvider } from '@mdx-js/react';
-import { LinkButton, LinkButtonContainer } from '@erkenningen/ui/components/link-button';
-import Redirect from '../components/Redirect';
-import ModuleLoader from '../components/ModuleLoader';
-
-const shortcodes = { a: Link, LinkButton, LinkButtonContainer, Redirect, ModuleLoader };
 
 const Page = ({ data }) => {
-  console.log('#DH# page', data);
-
   const page = data.mdx;
   return (
     <Layout>
       <div className="container">
-        {page.frontmatter.title && (
+        {/* {page.frontmatter.title && (
           <Helmet>
             <title>Erkenningen | {page.frontmatter.title}</title>
           </Helmet>
-        )}
+        )} */}
 
-        {page.frontmatter.title && page.frontmatter.excerpt && (
+        {/* {page.frontmatter.title && page.frontmatter.excerpt && (
           <Helmet>
             <meta property="og:title" content={page.frontmatter.title} />
             <meta name="twitter:title" content={page.frontmatter.title} />
@@ -36,7 +27,7 @@ const Page = ({ data }) => {
             <meta property="og:description" content={page.frontmatter.excerpt} />
             <meta name="twitter:description" content={page.frontmatter.excerpt} />
           </Helmet>
-        )}
+        )} */}
 
         <div className="row mb-2 mb-lg-5">
           <div className="col-md-1 mt-2 d-none d-lg-block navbar-be__breadcrumbs-spacer-orange" />
@@ -54,9 +45,7 @@ const Page = ({ data }) => {
           </div>
           <div className="col-md-9 px-sm-0 pl-md-0 mt-2 mt-md-0">
             <h1>{page.frontmatter.title}</h1>
-            <MDXProvider components={shortcodes}>
-              <MDXRenderer frontmatter={page.frontmatter}>{page.body}</MDXRenderer>
-            </MDXProvider>
+            <MDXRenderer frontmatter={page.frontmatter}>{page.body}</MDXRenderer>
           </div>
         </div>
       </div>
@@ -65,7 +54,7 @@ const Page = ({ data }) => {
 };
 
 export const query = graphql`
-  query PageQuery2($slug: String!) {
+  query PageQuery($slug: String!) {
     mdx(slug: { eq: $slug }) {
       body
       frontmatter {

@@ -2,4 +2,4 @@
 title: KBA-GB Bedrijvenregister
 ---
 
-Deze pagina is nog niet compleet...
+Deze pagina is nog niet compleet.
