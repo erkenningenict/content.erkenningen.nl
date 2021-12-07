@@ -6,7 +6,6 @@ import Navbar from 'react-bootstrap/Navbar';
 import Nav from 'react-bootstrap/Nav';
 import NavDropdown from 'react-bootstrap/NavDropdown';
 import './Navigation.css';
-import './hamburger.css';
 
 export default class extends React.Component {
   constructor(props) {
@@ -33,6 +32,10 @@ export default class extends React.Component {
             name: 'Knaagdierbeheersing',
             link: '/licenties/welke-licenties-zijn-er/knaagdierbeheersing',
           },
+          {
+            name: 'Zoeken',
+            link: '/zoeken',
+          },
         ],
       },
       {
@@ -57,7 +60,7 @@ export default class extends React.Component {
           },
           {
             name: 'KBA-GB gecertificeerde bedrijven',
-            link: '/wat-wij-doen/KBA-GB-gecertificeerde-bedrijven',
+            link: '/wat-wij-doen/kba-gb-gecertificeerde-bedrijven',
           },
           {
             name: 'Zelf doen - Formulieren',
@@ -150,7 +153,10 @@ export default class extends React.Component {
     return (
       <div>
         <nav className="container navbar-be">
-          <Navbar expand="lg" collapseOnSelect className="col-12 d-flex d-lg-none pl-0 pr-0 pt-3">
+          <Navbar
+            expand="lg"
+            collapseOnSelect
+            className="col-12 d-flex d-lg-none pl-0 pr-0 pt-3 navbar-default">
             <Link to="/" className="col-8 pl-0">
               <img
                 src={logo}
@@ -159,13 +165,11 @@ export default class extends React.Component {
                 style={{ width: '100%', maxWidth: '150px' }}
               />
             </Link>
-            <Navbar.Toggle
-              aria-controls="basic-navbar-nav"
-              className="d-lg-none hamburger hamburger--slider"
-            >
-              <span className="hamburger-box">
-                <span className="hamburger-inner" />
-              </span>
+            <Navbar.Toggle aria-controls="basic-navbar-nav" className="navbar-toggle">
+              <span className="sr-only">Toggle navigation</span>
+              <span className="icon-bar"></span>
+              <span className="icon-bar"></span>
+              <span className="icon-bar"></span>
             </Navbar.Toggle>
 
             <Navbar.Collapse id="basic-navbar-nav">
@@ -213,8 +217,7 @@ export default class extends React.Component {
                           <Link activeClassName="active" to={item.link}>
                             {item.name}
                           </Link>
-                        }
-                      >
+                        }>
                         {item.items.map((subItem) => {
                           return (
                             <MenuItem key={subItem.name}>
@@ -233,21 +236,18 @@ export default class extends React.Component {
               </Menu>
               <form
                 className="form-inline searchForm"
-                onSubmit={(e) => {
-                  e.preventDefault();
-                  navigate('/zoeken', {
-                    state: { search: this.state.search },
-                  });
-                  this.setState({ search: '' });
-                }}
-              >
+                action="/zoeken"
+                method="get"
+                autoComplete="off">
                 <input
-                  className="form-control search-input"
-                  type="search"
-                  placeholder="Zoek op trefwoord"
-                  aria-label="Search"
                   onChange={(e) => this.setState({ search: e.target.value })}
                   value={this.state.search}
+                  type="search"
+                  id="header-search"
+                  placeholder="Zoek op trefwoord"
+                  className="form-control search-input"
+                  aria-label="Search"
+                  name="zoekterm"
                 />
               </form>
             </div>

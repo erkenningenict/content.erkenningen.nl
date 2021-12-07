@@ -1,0 +1,17 @@
+.mask {
+  animation: mask 1000ms ease infinite;
+
+  @keyframes mask {
+    from {
+      transform: translateX(0) rotateZ(45deg);
+      opacity: 0;
+    }
+    50% {
+      opacity: 0.5;
+    }
+    to {
+      transform: translateX(100%) rotateZ(45deg);
+      opacity: 0;
+    }
+  }
+}

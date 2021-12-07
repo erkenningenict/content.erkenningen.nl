@@ -1,7 +1,7 @@
 import React, { useEffect, useState } from 'react';
 import ReactDOM from 'react-dom';
 import Axios from 'axios';
-import { Skeleton } from '@erkenningen/ui';
+import Skeleton from './Skeleton';
 
 /**
  * Dynamic React module loader for Erkenningen modules
@@ -57,19 +57,7 @@ const ModuleLoader = (props) => {
   const parseProps = () => {
     let result = { url: null, skeletonFormat: null };
 
-    if (
-      !(
-        props &&
-        props.children &&
-        props.children[0] &&
-        props.children[0].props &&
-        props.children[0].props.href
-      )
-    ) {
-      return result;
-    }
-
-    result.url = props.children[0].props.href;
+    result.url = props.url;
 
     if (props.skeleton) {
       result.skeletonFormat = props.skeleton.split('N').join('\n');
@@ -120,7 +108,7 @@ const ModuleLoader = (props) => {
           loadCss(
             moduleEntry[0].id,
             scriptElems,
-            url + cssElem.href.replace(window.location.origin, ''),
+            url + cssElem.href.replace(window.location.origin, '')
           );
         }
       }
@@ -131,7 +119,7 @@ const ModuleLoader = (props) => {
           loadExternalScript(
             moduleEntry[0].id,
             scriptElems,
-            url + scriptElem.src.replace(window.location.origin, ''),
+            url + scriptElem.src.replace(window.location.origin, '')
           );
         }
       }
@@ -149,9 +137,11 @@ const ModuleLoader = (props) => {
     return () => {
       // Remove scripts
       const el = document.getElementById(scriptRootElemId);
-      el.parentNode && el.parentNode.removeChild(el);
-      for (const elem of scriptElems) {
-        elem.parentNode && elem.parentNode.removeChild(elem);
+      if (el !== null) {
+        el.parentNode && el.parentNode.removeChild(el);
+        for (const elem of scriptElems) {
+          elem.parentNode && elem.parentNode.removeChild(elem);
+        }
       }
     };
   }, []);

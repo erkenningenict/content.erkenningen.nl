@@ -202,10 +202,10 @@ $menuPrefixCls: rc-menu;
     & > .rc-menu-item {
       float: left;
 
-      &-active {
-        //background-color: lighten($be-green, 25%);
-        //color: $be-white;
-      }
+      // &-active {
+      //background-color: lighten($be-green, 25%);
+      //color: $be-white;
+      // }
     }
 
     &:after {

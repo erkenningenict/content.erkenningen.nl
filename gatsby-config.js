@@ -1,15 +1,4 @@
-const remark = require('remark');
-const visit = require('unist-util-visit');
-
-const lunrPlugin = (lunr) => (builder) => {
-  // Include dutch language features
-  require('lunr-languages/lunr.nl')(lunr);
-
-  // Reset pipeline and re-add trimmer and stopwordfilter, but not stemmer (which causes unwanted search issues)
-  builder.pipeline.reset();
-  builder.searchPipeline.reset();
-  builder.pipeline.add(lunr.nl.trimmer, lunr.nl.stopWordFilter);
-};
+const path = require('path');
 
 module.exports = {
   siteMetadata: {
@@ -26,81 +15,30 @@ module.exports = {
       },
     },
     {
-      resolve: 'gatsby-source-filesystem',
+      resolve: `gatsby-plugin-mdx`,
       options: {
-        path: `${__dirname}/src/pages`,
-        name: 'pages',
-      },
-    },
-    {
-      resolve: 'gatsby-source-filesystem',
-      options: {
-        path: `${__dirname}/src/img`,
-        name: 'images',
-      },
-    },
-    'gatsby-plugin-sharp',
-    'gatsby-transformer-sharp',
-    {
-      resolve: 'gatsby-plugin-netlify-cms',
-      options: {
-        modulePath: `${__dirname}/src/cms/cms.js`,
-      },
-    },
-    'gatsby-plugin-catch-links',
-    {
-      resolve: `gatsby-transformer-remark`,
-      options: {
-        plugins: [
-          {
-            resolve: 'gatsby-remark-custom-blocks',
-            options: {
-              blocks: {
-                singleLink: 'single-link',
-                info: 'custom-block-info',
-              },
-            },
-          },
-          {
-            resolve: 'gatsby-remark-external-links',
-            options: {
-              target: '_blank',
-              rel: 'nofollow',
-            },
-          },
-          'gatsby-remark-component',
-        ],
-      },
-    },
-    {
-      resolve: 'gatsby-plugin-lunr',
-      options: {
-        languages: [
-          {
-            name: 'en', // Use en, because du will override custom pipeline
-            plugins: [lunrPlugin],
-          },
-        ],
-        fields: [
-          { name: 'title', store: true, attributes: { boost: 50 } },
-          { name: 'excerpt', store: true },
-        ],
-        resolvers: {
-          MarkdownRemark: {
-            title: (node) => node.frontmatter.title,
-            excerpt: (node) => {
-              let excerpt = '';
-              const tree = remark().parse(node.internal.content);
-              visit(tree, 'text', (node) => {
-                excerpt += node.value + ' ';
-              });
-              return excerpt;
-            },
-          },
+        extensions: [`.mdx`, `.md`],
+        defaultLayouts: {
+          content: path.resolve('./src/components/default-page.js'),
+          search: path.resolve('./src/components/search-page.js'),
+          default: path.resolve('./src/components/home-page.js'),
         },
-        filename: 'search_index.json',
       },
     },
+    {
+      resolve: 'gatsby-source-filesystem',
+      options: {
+        name: 'content',
+        path: `${__dirname}/src/content/`,
+      },
+    },
+    {
+      resolve: 'gatsby-plugin-page-creator',
+      options: {
+        path: `${__dirname}/src/content`,
+      },
+    },
+
     {
       resolve: 'gatsby-source-filesystem',
       options: {
@@ -109,12 +47,82 @@ module.exports = {
       },
     },
     {
+      resolve: 'gatsby-plugin-local-search',
+      options: {
+        // A unique name for the search index. This should be descriptive of
+        // what the index contains. This is required.
+        name: 'pages',
+
+        // Set the search engine to create the index. This is required.
+        // The following engines are supported: flexsearch, lunr
+        engine: 'flexsearch',
+
+        // Provide options to the engine. This is optional and only recommended
+        // for advanced users.
+        //
+        // Note: Only the flexsearch engine supports options.
+        engineOptions: {
+          // encode: 'balance',
+          tokenize: 'full',
+          // depth: 1,
+          // async: false,
+        },
+
+        // GraphQL query used to fetch all data for the search index. This is
+        // required.
+        query: `
+        {
+          allMdx {
+            nodes {
+              id
+              frontmatter {
+                title
+              }
+              slug
+              rawBody
+            }
+          }
+        }
+      `,
+
+        // Field used as the reference value for each document.
+        // Default: 'id'.
+        ref: 'id',
+
+        // List of keys to index. The values of the keys are taken from the
+        // normalizer function below.
+        // Default: all fields
+        // index: ['title', 'body'],
+
+        // List of keys to store and make available in your UI. The values of
+        // the keys are taken from the normalizer function below.
+        // Default: all fields
+        // store: ['id', 'slug', 'title'],
+
+        // Function used to map the result from the GraphQL query. This should
+        // return an array of items to index in the form of flat objects
+        // containing properties to index. The objects must contain the `ref`
+        // field above (default: 'id'). This is required.
+        normalizer: ({ data }) =>
+          data.allMdx.nodes.map((node) => ({
+            id: node.id,
+            slug: node.slug,
+            title: node.frontmatter.title,
+            body: node.rawBody,
+          })),
+      },
+    },
+
+    // 'gatsby-plugin-sharp',
+    // 'gatsby-transformer-sharp',
+    'gatsby-plugin-catch-links',
+    {
       resolve: `gatsby-plugin-google-analytics`,
       options: {
         trackingId: 'UA-140291354-1',
         head: true,
       },
     },
-    'gatsby-plugin-netlify', // make sure to keep it last in the array
+    // 'gatsby-plugin-netlify', // make sure to keep it last in the array
   ],
 };

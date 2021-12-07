@@ -4,15 +4,11 @@ import 'core-js/es6/set';
 import 'es6-shim';
 
 import React from 'react';
-import Helmet from 'react-helmet';
+import { Helmet } from 'react-helmet';
 
 import Navigation from './Navigation';
 import Footer from './Footer';
 import Favicon from './Favicon';
-
-import '@fortawesome/fontawesome-free/css/all.min.css';
-import 'primeicons/primeicons.css';
-import 'primereact/resources/primereact.min.css';
 
 import './gatstrap.scss';
 import './styles.scss';
@@ -44,9 +40,7 @@ const Template = ({ children }) => (
     </Helmet>
 
     <Navigation />
-
     {children}
-
     <Footer />
   </div>
 );

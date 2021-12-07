@@ -11,7 +11,7 @@
 
 // Reassign color vars to semantic color scheme
 $theme-colors: (
-  primary: $purple,
+  primary: $be-orange,
   secondary: $gray-600,
   success: $green,
   info: $cyan,
@@ -523,7 +523,7 @@ $margin-top-containers: 0.4rem;
   div {
     justify-content: center;
 
-    div > a {
+    > a {
       background-color: $be-orange !important;
       transition: all 0.15s ease-in-out;
       &:hover {
@@ -566,4 +566,9 @@ input {
 
 .form-control {
   border-radius: 0;
+}
+
+.btn.btn-primary {
+  color: #fff;
+  text-decoration: none;
 }
