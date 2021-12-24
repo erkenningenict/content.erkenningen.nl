@@ -1,14 +1,10 @@
 ---
-title: Licentie Knaagdierbeheersing op Agrarische bedrijven (KBA) OUD
+title: Licentie IPM Knaagdierbeheersing op Agrarische bedrijven (IPM-KBA)
 ---
-
-## Let op
-
-Deze licentie wordt per 1 januari 2023 vervangen door de nieuwe [licentie IPM-KBA](/licenties/welke-licenties-zijn-er/licentie-ipm-knaagdierbeheersing-op-agrarische-bedrijven).
 
 ## Voor wie?
 
-- Voor iedereen die op het eigen agrarisch bedrijf biociden toepast voor het afweren of bestrijden van knaagdieren, binnen bedrijfsgebouwen.
+- Voor iedereen die op het eigen agrarisch bedrijf biociden toepast voor het afweren of bestrijden van knaagdieren.
 
 Weet u nog niet zeker of dit de licentie is die u nodig heeft, lees dan onze [brochure Knaagdierbeheersing](https://administratie.erkenningen.nl/Portals/1/20211201_Brochure_IPM-KBA.pdf).
 
@@ -18,7 +14,7 @@ Voor deze licentie moet u examen doen bij een [exameninstelling](/wat-wij-doen/e
 
 ## Nodig voor verlenging licentie:
 
-U moet 1 kennisbijeenkomst volgen met het thema KBA.
+U moet 1 kennisbijeenkomst volgen met het thema IPM-KBA en aansluitend een examen doen.
 
 **Snel naar:**
 

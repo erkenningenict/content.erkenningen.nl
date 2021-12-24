@@ -56,8 +56,8 @@ export default function HomePage() {
               </section>
               <section>
                 <Link to="/licenties/welke-licenties-zijn-er/knaagdierbeheersing">
-                  <p>Knaagdierbeheersing: KBA</p>
-                  <img src={rat} alt="Knaagdierbeheersing: KBA" />
+                  <p>Knaagdierbeheersing</p>
+                  <img src={rat} alt="Knaagdierbeheersing" />
                 </Link>
               </section>
             </div>
