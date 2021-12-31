@@ -559,6 +559,10 @@ input {
   }
 }
 
+.form-group {
+  display: flex;
+}
+
 .control-label {
   color: #000;
   font-weight: bold;
