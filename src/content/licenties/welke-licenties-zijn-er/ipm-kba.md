@@ -1,5 +1,5 @@
 ---
-title: Knaagdierbeheersing
+title: IPM Knaagdierbeheersing
 ---
 
 **Er zijn vele manieren om knaagdieren te beheersen. Als niets meer helpt, kunt u chemische middelen inzetten.**
@@ -24,21 +24,11 @@ Leidend in de knaagdierbeheersing is de IPM aanpak. Voor het uiteindelijke gebru
 
 In het gebruiksvoorschrift van het de rodenticide staat aangegeven of het IPM-systeem gevolgd moet worden.
 
-## Meer over IPM-KBA
-
-Lees meer over de nieuwe [IPM-KBA licentie](/licenties/welke-licenties-zijn-er/licentie-ipm-knaagdierbeheersing-op-agrarische-bedrijven).
-
-## Meer over binnenkort verouderde licenties KBA en KBA-GB
-
-- Lees meer over de [KBA licentie](/licenties/welke-licenties-zijn-er/licentie-knaagdierbeheersing-op-agrarische-bedrijven).
-- Lees meer over de [KBA-GB licentie](/licenties/welke-licenties-zijn-er/licentie-knaagdierbeheersing-op-agrarische-bedrijven-geintegreerde-beheersing).
-
 ## Snel naar:
 
 <LinkButtonContainer>
 <LinkButton to="https://administratie.erkenningen.nl/Portals/1/20211201_Brochure_IPM-KBA.pdf">Brochure Knaagdier beheersing</LinkButton>
-<LinkButton to="/licenties/welke-licenties-zijn-er/ipm-kba">Licentie IPM-KBA</LinkButton>
-<LinkButton to="/licenties/welke-licenties-zijn-er">Licenties knaagdier-beheersing (oud)</LinkButton>
+<LinkButton to="/licenties/welke-licenties-zijn-er">Licenties knaagdier-beheersing</LinkButton>
 <LinkButton to="/licenties/licentie-aanvragen">Licentie aanvragen</LinkButton>
 <LinkButton to="/licenties/wetten-en-regels">Wetten en regels</LinkButton>
 </LinkButtonContainer>
