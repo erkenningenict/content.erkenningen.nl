@@ -59,10 +59,6 @@ export default class extends React.Component {
             link: '/wat-wij-doen/exameninstellingen',
           },
           {
-            name: 'KBA-GB gecertificeerde bedrijven',
-            link: '/wat-wij-doen/kba-gb-gecertificeerde-bedrijven',
-          },
-          {
             name: 'Zelf doen - Formulieren',
             link: '/wat-wij-doen/formulieren',
           },
