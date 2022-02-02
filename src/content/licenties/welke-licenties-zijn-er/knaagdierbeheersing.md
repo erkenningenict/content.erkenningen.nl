@@ -14,7 +14,7 @@ Tot 1 januari 2023 is er bij knaagdierbeheersing een onderscheid tussen binnen b
 
 Vanaf 1 januari 2023 is dat onderscheid er niet meer. Ieder heeft voor gebruik van biocide de licentie IPM-KBA nodig. En uw bedrijf moet gecertificeerd zijn. U kunt dit aanvragen via [administratie.erkenningen.nl](https://administratie.erkenningen.nl).
 
-In de [brochure Knaagdierbeheersing](https://administratie.erkenningen.nl/Portals/1/20211201_Brochure_IPM-KBA.pdf) kunt u lezen welke licentie u nodig heeft.
+In de [brochure Knaagdierbeheersing](https://administratie.erkenningen.nl/Portals/1/20220128_Folder_knaagdierbeheersing-2021.pdf) kunt u lezen welke licentie u nodig heeft.
 
 ## Let op
 
@@ -36,7 +36,7 @@ Lees meer over de nieuwe [IPM-KBA licentie](/licenties/welke-licenties-zijn-er/l
 ## Snel naar:
 
 <LinkButtonContainer>
-<LinkButton to="https://administratie.erkenningen.nl/Portals/1/20211201_Brochure_IPM-KBA.pdf">Brochure Knaagdier beheersing</LinkButton>
+<LinkButton to="https://administratie.erkenningen.nl/Portals/1/20220128_Folder_knaagdierbeheersing-2021.pdf">Brochure Knaagdier beheersing</LinkButton>
 <LinkButton to="/licenties/welke-licenties-zijn-er/ipm-kba">Licentie IPM-KBA</LinkButton>
 <LinkButton to="/licenties/welke-licenties-zijn-er">Licenties knaagdier-beheersing (oud)</LinkButton>
 <LinkButton to="/licenties/licentie-aanvragen">Licentie aanvragen</LinkButton>

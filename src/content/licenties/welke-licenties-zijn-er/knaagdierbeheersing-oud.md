@@ -31,7 +31,7 @@ In het gebruiksvoorschrift van het de rodenticide staat aangegeven of het IPM-sy
 ## Snel naar:
 
 <LinkButtonContainer>
-<LinkButton to="https://administratie.erkenningen.nl/Portals/1/20211201_Brochure_IPM-KBA.pdf">Brochure Knaagdier beheersing</LinkButton>
+<LinkButton to="https://administratie.erkenningen.nl/Portals/1/20220128_Folder_knaagdierbeheersing-2021.pdf">Brochure Knaagdier beheersing</LinkButton>
 <LinkButton to="/licenties/welke-licenties-zijn-er">Licenties knaagdier-beheersing</LinkButton>
 <LinkButton to="/licenties/licentie-aanvragen">Licentie aanvragen</LinkButton>
 <LinkButton to="/licenties/wetten-en-regels">Wetten en regels</LinkButton>
