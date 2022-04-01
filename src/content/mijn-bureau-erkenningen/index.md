@@ -16,7 +16,7 @@ Werkt u bij een kennisaanbieder, exameninstelling of ander bedrijf, of bent u in
 ## Snel naar:
 
 <LinkButtonContainer>
-<LinkButton to="mijn-bureau-erkenningen/inloggen">Inloggen</LinkButton>
+<LinkButton to="/mijn-bureau-erkenningen/inloggen">Inloggen</LinkButton>
 <LinkButton to="/mijn-bureau-erkenningen/inloggegevens-kwijt">Inloggegevens kwijt</LinkButton>
 <LinkButton to="/mijn-bureau-erkenningen/duplicaat-pas-aanvragen">Duplicaat pas aanvragen</LinkButton>
 </LinkButtonContainer>
