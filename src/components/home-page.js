@@ -1,5 +1,5 @@
-import React from 'react';
-import { Link, graphql, useStaticQuery } from 'gatsby';
+import React, { useState, useEffect, useCallback } from 'react';
+import { Link, graphql } from 'gatsby';
 
 import Layout from '../components/layout';
 import LoginLink from '../components/LoginLink';
@@ -7,12 +7,45 @@ import LoginLink from '../components/LoginLink';
 import mol from '../../static/img/1.Mol.jpg';
 import graan from '../../static/img/2.Graan.jpg';
 import rat from '../../static/img/3.Rat.jpg';
-import { MDXRenderer } from 'gatsby-plugin-mdx';
+import ReactMarkdown from 'react-markdown';
+import LinkButtonContainer from '../components/LinkButtonContainer';
+import LinkButton from '../components/LinkButton';
+import axios from 'axios';
 
 export default function HomePage() {
-  const data = useStaticQuery(homePageQuery);
+  const [newsItems, setNewsItems] = useState();
+  const [isLoading, setIsLoading] = useState(false);
+  const [hasError, setHasError] = useState(false);
 
-  const { mdx } = data;
+  const fetchData = useCallback(async () => {
+    setIsLoading(true);
+    try {
+      // filter on archivedDate is null and sort descending on updatedAt (last edited item at the top)
+      const response = await axios.get(
+        `${process.env.GATSBY_ERKENNINGEN_CONTENT_API_URL}/api/news-items?filters[archivedDate][$null]=true&sort[0]=updatedAt%3Adesc`
+      );
+      const data = await response.data;
+      if (data.error) {
+        setHasError(true);
+      } else {
+        setHasError(false);
+      }
+      setNewsItems(data);
+      setIsLoading(false);
+    } catch (error) {
+      setHasError(true);
+      setIsLoading(false);
+    }
+  }, []);
+
+  useEffect(() => {
+    const fetcher = async () => {
+      await fetchData();
+    };
+    fetcher();
+  }, [fetchData]);
+
+  // const { mdx } = data;
   return (
     <Layout>
       <div className="container">
@@ -62,7 +95,49 @@ export default function HomePage() {
               </section>
             </div>
             <div className="container homeButtons">
-              <MDXRenderer frontmatter={mdx.frontmatter}>{mdx.body}</MDXRenderer>
+              <LinkButtonContainer>
+                <LinkButton to="/licenties/licentie-aanvragen">Licentie aanvragen</LinkButton>
+                <LinkButton to="/licenties/licentie-verlengen">Licentie verlengen</LinkButton>
+                <LinkButton to="/mijn-bureau-erkenningen/duplicaat-pas-aanvragen">
+                  Duplicaat pas aanvragen
+                </LinkButton>
+              </LinkButtonContainer>
+              {isLoading && <div>Nieuwsberichten worden geladen...</div>}
+              {hasError && <div>Kon nieuws niet ophalen. Probeer het later opnieuw.</div>}
+              {newsItems?.data?.map((item) => (
+                <div key={item.id} className="news-item-container">
+                  <h2>{item.attributes.title}</h2>
+                  <ReactMarkdown
+                    components={{
+                      h1({ children, ...props }) {
+                        return <h2 {...props}>{children}</h2>;
+                      },
+                      img({ ...props }) {
+                        return <img {...props} style={{ maxWidth: '100%' }} />;
+                      },
+                      a({ children, ...props }) {
+                        return (
+                          <a
+                            className="font-bold text-primary-500 underline"
+                            target="_blank"
+                            {...props}>
+                            {children}
+                          </a>
+                        );
+                      },
+                      p({ children, ...props }) {
+                        return (
+                          <p className="mb2" {...props}>
+                            {children}
+                          </p>
+                        );
+                      },
+                    }}>
+                    {item.attributes.content}
+                  </ReactMarkdown>
+                </div>
+              ))}
+              {newsItems?.data?.length === 0 && <div>Er is momenteel geen nieuws.</div>}
             </div>
           </div>
         </div>

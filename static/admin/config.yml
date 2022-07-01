@@ -8,7 +8,7 @@ public_folder: /img
 collections:
   # - name: "Wat-wij-doen"
   #   label: "Wat wij doen"
-  #   folder: "src/pages/wat-wij-doen"
+  #   folder: "src/content/wat-wij-doen"
   #   create: false
   #   delete: false
   #   fields:
@@ -17,7 +17,7 @@ collections:
   - name: 'Wat-wij-doen'
     label: 'Wat-wij-doen'
     files:
-      - file: 'src/pages/wat-wij-doen/index.md'
+      - file: 'src/content/wat-wij-doen/index.md'
         label: 'Wat wij doen - index'
         name: 'wat-wij-doen'
         delete: false
@@ -27,7 +27,7 @@ collections:
 
   - name: 'wat-wij-doen-bureau-erkenningen'
     label: 'Wat-wij-doen/Bureau Erkenningen'
-    folder: 'src/pages/wat-wij-doen/bureau-erkenningen'
+    folder: 'src/content/wat-wij-doen/bureau-erkenningen'
     create: true
     delete: false
     fields:
@@ -35,7 +35,7 @@ collections:
       - { label: 'Body', name: 'body', widget: 'markdown' }
   - name: 'wat-wij-doen-licentiehouders'
     label: 'Wat-wij-doen/licentiehouders'
-    folder: 'src/pages/wat-wij-doen/licentiehouders'
+    folder: 'src/content/wat-wij-doen/licentiehouders'
     create: true
     delete: false
     fields:
@@ -43,7 +43,7 @@ collections:
       - { label: 'Body', name: 'body', widget: 'markdown' }
   - name: 'wat-wij-doen-kennisaanbieders'
     label: 'Wat-wij-doen/kennisaanbieders'
-    folder: 'src/pages/wat-wij-doen/kennisaanbieders'
+    folder: 'src/content/wat-wij-doen/kennisaanbieders'
     create: true
     delete: false
     fields:
@@ -51,7 +51,7 @@ collections:
       - { label: 'Body', name: 'body', widget: 'markdown' }
   - name: 'wat-wij-doen-exameninstellingen'
     label: 'Wat-wij-doen/exameninstellingen'
-    folder: 'src/pages/wat-wij-doen/exameninstellingen'
+    folder: 'src/content/wat-wij-doen/exameninstellingen'
     create: true
     delete: false
     fields:
@@ -59,7 +59,7 @@ collections:
       - { label: 'Body', name: 'body', widget: 'markdown' }
   - name: 'wat-wij-doen-KBA-GB-gecertificeerde-bedrijven'
     label: 'Wat-wij-doen/KBA-GB-gecertificeerde-bedrijven'
-    folder: 'src/pages/wat-wij-doen/KBA-GB-gecertificeerde-bedrijven'
+    folder: 'src/content/wat-wij-doen/KBA-GB-gecertificeerde-bedrijven'
     create: true
     delete: false
     fields:
@@ -67,7 +67,7 @@ collections:
       - { label: 'Body', name: 'body', widget: 'markdown' }
   - name: 'wat-wij-doen-formulieren'
     label: 'Wat-wij-doen/Formulieren'
-    folder: 'src/pages/wat-wij-doen/formulieren'
+    folder: 'src/content/wat-wij-doen/formulieren'
     create: true
     delete: false
     fields:
@@ -75,7 +75,7 @@ collections:
       - { label: 'Body', name: 'body', widget: 'markdown' }
   - name: 'brochures-en-documenten'
     label: 'Wat-wij-doen/Brochures-en-documenten'
-    folder: 'src/pages/wat-wij-doen/brochures-en-documenten'
+    folder: 'src/content/wat-wij-doen/brochures-en-documenten'
     create: true
     delete: false
     fields:
@@ -85,7 +85,7 @@ collections:
   - name: 'Licenties-index'
     label: 'Licenties-index'
     files:
-      - file: 'src/pages/licenties/index.md'
+      - file: 'src/content/licenties/index.md'
         label: 'Licenties - index'
         name: 'licenties-index'
         delete: false
@@ -94,7 +94,7 @@ collections:
           - { label: 'Body', name: 'body', widget: 'markdown' }
   - name: 'Licenties'
     label: 'Licenties'
-    folder: 'src/pages/licenties'
+    folder: 'src/content/licenties'
     create: false
     delete: false
     fields:
@@ -103,7 +103,7 @@ collections:
 
   - name: 'Licenties-welke-licenties-zijn-er'
     label: 'Licenties/welke-licenties-zijn-er'
-    folder: 'src/pages/licenties/welke-licenties-zijn-er'
+    folder: 'src/content/licenties/welke-licenties-zijn-er'
     create: true
     delete: true
     fields:
@@ -111,7 +111,7 @@ collections:
       - { label: 'Body', name: 'body', widget: 'markdown' }
   - name: 'Licenties-welke-heb-ik-nodig'
     label: 'Licenties/welke-heb-ik-nodig?'
-    folder: 'src/pages/licenties/welke-licentie-heb-ik-nodig'
+    folder: 'src/content/licenties/welke-licentie-heb-ik-nodig'
     create: true
     delete: true
     fields:
@@ -119,7 +119,7 @@ collections:
       - { label: 'Body', name: 'body', widget: 'markdown' }
   - name: 'Licenties-licentie-aanvragen'
     label: 'Licenties/licentie-aanvragen'
-    folder: 'src/pages/licenties/licentie-aanvragen'
+    folder: 'src/content/licenties/licentie-aanvragen'
     create: true
     delete: true
     fields:
@@ -127,7 +127,7 @@ collections:
       - { label: 'Body', name: 'body', widget: 'markdown' }
   - name: 'Licenties-licentie-verlengen'
     label: 'Licenties/licentie-verlengen'
-    folder: 'src/pages/licenties/licentie-verlengen'
+    folder: 'src/content/licenties/licentie-verlengen'
     create: true
     delete: true
     fields:
@@ -135,7 +135,7 @@ collections:
       - { label: 'Body', name: 'body', widget: 'markdown' }
   - name: 'Licenties-licentie-verlagen'
     label: 'Licenties/licentie-verlagen'
-    folder: 'src/pages/licenties/licentie-verlagen'
+    folder: 'src/content/licenties/licentie-verlagen'
     create: true
     delete: true
     fields:
@@ -143,7 +143,7 @@ collections:
       - { label: 'Body', name: 'body', widget: 'markdown' }
   - name: 'Licenties-wetten-en-regels'
     label: 'Licenties/wetten-en-regels'
-    folder: 'src/pages/licenties/wetten-en-regels'
+    folder: 'src/content/licenties/wetten-en-regels'
     create: true
     delete: true
     fields:
@@ -151,7 +151,7 @@ collections:
       - { label: 'Body', name: 'body', widget: 'markdown' }
   - name: 'Licenties-kba-gb-bijschrijven'
     label: 'Licenties/KBA-GB-bijschrijven'
-    folder: 'src/pages/licenties/kba-gb-bijschrijven'
+    folder: 'src/content/licenties/kba-gb-bijschrijven'
     create: true
     delete: true
     fields:
@@ -161,7 +161,7 @@ collections:
   - name: 'Bijeenkomsten-index'
     label: 'Bijeenkomsten-index'
     files:
-      - file: 'src/pages/bijeenkomsten/index.md'
+      - file: 'src/content/bijeenkomsten/index.md'
         label: 'Bijeenkomsten - index'
         name: 'bijeenkomsten-index'
         delete: false
@@ -170,7 +170,7 @@ collections:
           - { label: 'Body', name: 'body', widget: 'markdown' }
   - name: 'Bijeenkomsten'
     label: 'Bijeenkomsten'
-    folder: 'src/pages/bijeenkomsten'
+    folder: 'src/content/bijeenkomsten'
     create: false
     delete: false
     fields:
@@ -180,7 +180,7 @@ collections:
   - name: 'MijnBureauErkenningen-index'
     label: 'MijnBureauErkenningen-index'
     files:
-      - file: 'src/pages/mijn-bureau-erkenningen/index.md'
+      - file: 'src/content/mijn-bureau-erkenningen/index.md'
         label: 'Mijn Bureau Erkenningen - index'
         name: 'mijn-bureau-erkenningen-index'
         delete: false
@@ -189,24 +189,17 @@ collections:
           - { label: 'Body', name: 'body', widget: 'markdown' }
   - name: 'mijn-bureau-erkenningen'
     label: 'Mijn Bureau Erkenningen'
-    folder: 'src/pages/mijn-bureau-erkenningen'
+    folder: 'src/content/mijn-bureau-erkenningen'
     create: true
     delete: true
     fields:
       - { label: 'Title', name: 'title', widget: 'string' }
       - { label: 'Body', name: 'body', widget: 'markdown' }
 
-  - name: 'home-footer'
-    label: 'Home en Footer'
+  - name: 'contact'
+    label: 'Contact'
     files:
-      - file: 'src/pages/index.md'
-        label: 'Home'
-        name: 'home'
-        delete: false
-        fields:
-          - { label: 'Title', name: 'title', widget: 'string' }
-          - { label: 'Body', name: 'body', widget: 'markdown' }
-      - file: 'src/pages/contact.md'
+      - file: 'src/content/contact.md'
         label: 'Contact'
         name: 'contact'
         delete: false
@@ -216,7 +209,7 @@ collections:
   - name: 'faq'
     label: 'faq'
     files:
-      - file: 'src/pages/faq.md'
+      - file: 'src/content/faq.md'
         label: 'FAQ'
         name: 'faq'
         delete: false
