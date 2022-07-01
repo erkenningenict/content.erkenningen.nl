@@ -14,187 +14,270 @@ collections:
   #   fields:
   #     - { label: "Title", name: "title", widget: "string" }
   #     - { label: "Body", name: "body", widget: "markdown" }
-  - name: 'Wat-wij-doen'
-    label: 'Wat-wij-doen'
-    files:
-      - file: 'src/content/wat-wij-doen/index.md'
-        label: 'Wat wij doen - index'
-        name: 'wat-wij-doen'
-        delete: false
-        fields:
-          - { label: 'Title', name: 'title', widget: 'string' }
-          - { label: 'Body', name: 'body', widget: 'markdown' }
+  # - name: 'Wat-wij-doen'
+  #   label: 'Wat-wij-doen'
+  #   files:
+  #     - file: 'src/content/wat-wij-doen/index.md'
+  #       label: 'Wat wij doen - index'
+  #       name: 'wat-wij-doen'
+  #       delete: false
+  #       fields:
+  #         - { label: 'Title', name: 'title', widget: 'string' }
+  #         - { label: 'Body', name: 'body', widget: 'markdown' }
 
-  - name: 'wat-wij-doen-bureau-erkenningen'
-    label: 'Wat-wij-doen/Bureau Erkenningen'
-    folder: 'src/content/wat-wij-doen/bureau-erkenningen'
-    create: true
-    delete: false
-    fields:
-      - { label: 'Title', name: 'title', widget: 'string' }
-      - { label: 'Body', name: 'body', widget: 'markdown' }
-  - name: 'wat-wij-doen-licentiehouders'
-    label: 'Wat-wij-doen/licentiehouders'
-    folder: 'src/content/wat-wij-doen/licentiehouders'
-    create: true
-    delete: false
-    fields:
-      - { label: 'Title', name: 'title', widget: 'string' }
-      - { label: 'Body', name: 'body', widget: 'markdown' }
-  - name: 'wat-wij-doen-kennisaanbieders'
-    label: 'Wat-wij-doen/kennisaanbieders'
-    folder: 'src/content/wat-wij-doen/kennisaanbieders'
-    create: true
-    delete: false
-    fields:
-      - { label: 'Title', name: 'title', widget: 'string' }
-      - { label: 'Body', name: 'body', widget: 'markdown' }
-  - name: 'wat-wij-doen-exameninstellingen'
-    label: 'Wat-wij-doen/exameninstellingen'
-    folder: 'src/content/wat-wij-doen/exameninstellingen'
-    create: true
-    delete: false
-    fields:
-      - { label: 'Title', name: 'title', widget: 'string' }
-      - { label: 'Body', name: 'body', widget: 'markdown' }
-  - name: 'wat-wij-doen-KBA-GB-gecertificeerde-bedrijven'
-    label: 'Wat-wij-doen/KBA-GB-gecertificeerde-bedrijven'
-    folder: 'src/content/wat-wij-doen/KBA-GB-gecertificeerde-bedrijven'
-    create: true
-    delete: false
-    fields:
-      - { label: 'Title', name: 'title', widget: 'string' }
-      - { label: 'Body', name: 'body', widget: 'markdown' }
-  - name: 'wat-wij-doen-formulieren'
-    label: 'Wat-wij-doen/Formulieren'
-    folder: 'src/content/wat-wij-doen/formulieren'
-    create: true
-    delete: false
-    fields:
-      - { label: 'Title', name: 'title', widget: 'string' }
-      - { label: 'Body', name: 'body', widget: 'markdown' }
-  - name: 'brochures-en-documenten'
-    label: 'Wat-wij-doen/Brochures-en-documenten'
-    folder: 'src/content/wat-wij-doen/brochures-en-documenten'
-    create: true
-    delete: false
-    fields:
-      - { label: 'Title', name: 'title', widget: 'string' }
-      - { label: 'Body', name: 'body', widget: 'markdown' }
+  # - name: 'wat-wij-doen-bureau-erkenningen'
+  #   label: 'Wat-wij-doen/Bureau Erkenningen'
+  #   folder: 'src/content/wat-wij-doen/bureau-erkenningen'
+  #   create: true
+  #   delete: false
+  #   fields:
+  #     - { label: 'Title', name: 'title', widget: 'string' }
+  #     - { label: 'Body', name: 'body', widget: 'markdown' }
+  # - name: 'wat-wij-doen-licentiehouders'
+  #   label: 'Wat-wij-doen/licentiehouders'
+  #   folder: 'src/content/wat-wij-doen/licentiehouders'
+  #   create: true
+  #   delete: false
+  #   fields:
+  #     - { label: 'Title', name: 'title', widget: 'string' }
+  #     - { label: 'Body', name: 'body', widget: 'markdown' }
+  # - name: 'wat-wij-doen-kennisaanbieders'
+  #   label: 'Wat-wij-doen/kennisaanbieders'
+  #   folder: 'src/content/wat-wij-doen/kennisaanbieders'
+  #   create: true
+  #   delete: false
+  #   fields:
+  #     - { label: 'Title', name: 'title', widget: 'string' }
+  #     - { label: 'Body', name: 'body', widget: 'markdown' }
+  # - name: 'wat-wij-doen-exameninstellingen'
+  #   label: 'Wat-wij-doen/exameninstellingen'
+  #   folder: 'src/content/wat-wij-doen/exameninstellingen'
+  #   create: true
+  #   delete: false
+  #   fields:
+  #     - { label: 'Title', name: 'title', widget: 'string' }
+  #     - { label: 'Body', name: 'body', widget: 'markdown' }
+  # - name: 'wat-wij-doen-KBA-GB-gecertificeerde-bedrijven'
+  #   label: 'Wat-wij-doen/KBA-GB-gecertificeerde-bedrijven'
+  #   folder: 'src/content/wat-wij-doen/KBA-GB-gecertificeerde-bedrijven'
+  #   create: true
+  #   delete: false
+  #   fields:
+  #     - { label: 'Title', name: 'title', widget: 'string' }
+  #     - { label: 'Body', name: 'body', widget: 'markdown' }
+  # - name: 'wat-wij-doen-formulieren'
+  #   label: 'Wat-wij-doen/Formulieren'
+  #   folder: 'src/content/wat-wij-doen/formulieren'
+  #   create: true
+  #   delete: false
+  #   fields:
+  #     - { label: 'Title', name: 'title', widget: 'string' }
+  #     - { label: 'Body', name: 'body', widget: 'markdown' }
+  # - name: 'brochures-en-documenten'
+  #   label: 'Wat-wij-doen/Brochures-en-documenten'
+  #   folder: 'src/content/wat-wij-doen/brochures-en-documenten'
+  #   create: true
+  #   delete: false
+  #   fields:
+  #     - { label: 'Title', name: 'title', widget: 'string' }
+  #     - { label: 'Body', name: 'body', widget: 'markdown' }
 
-  - name: 'Licenties-index'
-    label: 'Licenties-index'
-    files:
-      - file: 'src/content/licenties/index.md'
-        label: 'Licenties - index'
-        name: 'licenties-index'
-        delete: false
-        fields:
-          - { label: 'Title', name: 'title', widget: 'string' }
-          - { label: 'Body', name: 'body', widget: 'markdown' }
-  - name: 'Licenties'
-    label: 'Licenties'
-    folder: 'src/content/licenties'
+  # - name: 'Licenties-index'
+  #   label: 'Licenties-index'
+  #   files:
+  #     - file: 'src/content/licenties/index.md'
+  #       label: 'Licenties - index'
+  #       name: 'licenties-index'
+  #       delete: false
+  #       fields:
+  #         - { label: 'Title', name: 'title', widget: 'string' }
+  #         - { label: 'Body', name: 'body', widget: 'markdown' }
+  # - name: 'Licenties'
+  #   label: 'Licenties'
+  #   folder: 'src/content/licenties'
+  #   create: false
+  #   delete: false
+  #   fields:
+  #     - { label: 'Title', name: 'title', widget: 'string' }
+  #     - { label: 'Body', name: 'body', widget: 'markdown' }
+
+  # - name: 'Licenties-welke-licenties-zijn-er'
+  #   label: 'Licenties/welke-licenties-zijn-er'
+  #   folder: 'src/content/licenties/welke-licenties-zijn-er'
+  #   create: true
+  #   delete: true
+  #   fields:
+  #     - { label: 'Title', name: 'title', widget: 'string' }
+  #     - { label: 'Body', name: 'body', widget: 'markdown' }
+  # - name: 'Licenties-welke-heb-ik-nodig'
+  #   label: 'Licenties/welke-heb-ik-nodig?'
+  #   folder: 'src/content/licenties/welke-licentie-heb-ik-nodig'
+  #   create: true
+  #   delete: true
+  #   fields:
+  #     - { label: 'Title', name: 'title', widget: 'string' }
+  #     - { label: 'Body', name: 'body', widget: 'markdown' }
+  # - name: 'Licenties-licentie-aanvragen'
+  #   label: 'Licenties/licentie-aanvragen'
+  #   folder: 'src/content/licenties/licentie-aanvragen'
+  #   create: true
+  #   delete: true
+  #   fields:
+  #     - { label: 'Title', name: 'title', widget: 'string' }
+  #     - { label: 'Body', name: 'body', widget: 'markdown' }
+  # - name: 'Licenties-licentie-verlengen'
+  #   label: 'Licenties/licentie-verlengen'
+  #   folder: 'src/content/licenties/licentie-verlengen'
+  #   create: true
+  #   delete: true
+  #   fields:
+  #     - { label: 'Title', name: 'title', widget: 'string' }
+  #     - { label: 'Body', name: 'body', widget: 'markdown' }
+  # - name: 'Licenties-licentie-verlagen'
+  #   label: 'Licenties/licentie-verlagen'
+  #   folder: 'src/content/licenties/licentie-verlagen'
+  #   create: true
+  #   delete: true
+  #   fields:
+  #     - { label: 'Title', name: 'title', widget: 'string' }
+  #     - { label: 'Body', name: 'body', widget: 'markdown' }
+  # - name: 'Licenties-wetten-en-regels'
+  #   label: 'Licenties/wetten-en-regels'
+  #   folder: 'src/content/licenties/wetten-en-regels'
+  #   create: true
+  #   delete: true
+  #   fields:
+  #     - { label: 'Title', name: 'title', widget: 'string' }
+  #     - { label: 'Body', name: 'body', widget: 'markdown' }
+  # - name: 'Licenties-kba-gb-bijschrijven'
+  #   label: 'Licenties/KBA-GB-bijschrijven'
+  #   folder: 'src/content/licenties/kba-gb-bijschrijven'
+  #   create: true
+  #   delete: true
+  #   fields:
+  #     - { label: 'Title', name: 'title', widget: 'string' }
+  #     - { label: 'Body', name: 'body', widget: 'markdown' }
+
+  # - name: 'Bijeenkomsten-index'
+  #   label: 'Bijeenkomsten-index'
+  #   files:
+  #     - file: 'src/content/bijeenkomsten/index.md'
+  #       label: 'Bijeenkomsten - index'
+  #       name: 'bijeenkomsten-index'
+  #       delete: false
+  #       fields:
+  #         - { label: 'Title', name: 'title', widget: 'string' }
+  #         - { label: 'Body', name: 'body', widget: 'markdown' }
+  # - name: 'Bijeenkomsten'
+  #   label: 'Bijeenkomsten'
+  #   folder: 'src/content/bijeenkomsten'
+  #   create: false
+  #   delete: false
+  #   fields:
+  #     - { label: 'Title', name: 'title', widget: 'string' }
+  #     - { label: 'Body', name: 'body', widget: 'markdown' }
+
+  # - name: 'MijnBureauErkenningen-index'
+  #   label: 'MijnBureauErkenningen-index'
+  #   files:
+  #     - file: 'src/content/mijn-bureau-erkenningen/index.md'
+  #       label: 'Mijn Bureau Erkenningen - index'
+  #       name: 'mijn-bureau-erkenningen-index'
+  #       delete: false
+  #       fields:
+  #         - { label: 'Title', name: 'title', widget: 'string' }
+  #         - { label: 'Body', name: 'body', widget: 'markdown' }
+  # - name: 'mijn-bureau-erkenningen'
+  #   label: 'Mijn Bureau Erkenningen'
+  #   folder: 'src/content/mijn-bureau-erkenningen'
+  #   create: true
+  #   delete: true
+  #   fields:
+  #     - { label: 'Title', name: 'title', widget: 'string' }
+  #     - { label: 'Body', name: 'body', widget: 'markdown' }
+  - name: WatWijDoen
+    label: Wat wij doen
+    label_singular: 'Page'
+    folder: src/content/wat-wij-doen
     create: false
     delete: false
+    # adding a nested object will show the collection folder structure
+    nested:
+      depth: 50 # max depth to show in the collection tree
+      summary: '{{title}}' # optional summary for a tree node, defaults to the inferred title field
     fields:
-      - { label: 'Title', name: 'title', widget: 'string' }
-      - { label: 'Body', name: 'body', widget: 'markdown' }
+      - label: Title
+        name: title
+        widget: string
+      - label: Body
+        name: body
+        widget: markdown
+    # adding a meta object with a path property allows editing the path of entries
+    # moving an existing entry will move the entire sub tree of the entry to the new location
+    meta: { path: { widget: string, label: 'Path', index_file: 'index' } }
 
-  - name: 'Licenties-welke-licenties-zijn-er'
-    label: 'Licenties/welke-licenties-zijn-er'
-    folder: 'src/content/licenties/welke-licenties-zijn-er'
-    create: true
-    delete: true
-    fields:
-      - { label: 'Title', name: 'title', widget: 'string' }
-      - { label: 'Body', name: 'body', widget: 'markdown' }
-  - name: 'Licenties-welke-heb-ik-nodig'
-    label: 'Licenties/welke-heb-ik-nodig?'
-    folder: 'src/content/licenties/welke-licentie-heb-ik-nodig'
-    create: true
-    delete: true
-    fields:
-      - { label: 'Title', name: 'title', widget: 'string' }
-      - { label: 'Body', name: 'body', widget: 'markdown' }
-  - name: 'Licenties-licentie-aanvragen'
-    label: 'Licenties/licentie-aanvragen'
-    folder: 'src/content/licenties/licentie-aanvragen'
-    create: true
-    delete: true
-    fields:
-      - { label: 'Title', name: 'title', widget: 'string' }
-      - { label: 'Body', name: 'body', widget: 'markdown' }
-  - name: 'Licenties-licentie-verlengen'
-    label: 'Licenties/licentie-verlengen'
-    folder: 'src/content/licenties/licentie-verlengen'
-    create: true
-    delete: true
-    fields:
-      - { label: 'Title', name: 'title', widget: 'string' }
-      - { label: 'Body', name: 'body', widget: 'markdown' }
-  - name: 'Licenties-licentie-verlagen'
-    label: 'Licenties/licentie-verlagen'
-    folder: 'src/content/licenties/licentie-verlagen'
-    create: true
-    delete: true
-    fields:
-      - { label: 'Title', name: 'title', widget: 'string' }
-      - { label: 'Body', name: 'body', widget: 'markdown' }
-  - name: 'Licenties-wetten-en-regels'
-    label: 'Licenties/wetten-en-regels'
-    folder: 'src/content/licenties/wetten-en-regels'
-    create: true
-    delete: true
-    fields:
-      - { label: 'Title', name: 'title', widget: 'string' }
-      - { label: 'Body', name: 'body', widget: 'markdown' }
-  - name: 'Licenties-kba-gb-bijschrijven'
-    label: 'Licenties/KBA-GB-bijschrijven'
-    folder: 'src/content/licenties/kba-gb-bijschrijven'
-    create: true
-    delete: true
-    fields:
-      - { label: 'Title', name: 'title', widget: 'string' }
-      - { label: 'Body', name: 'body', widget: 'markdown' }
-
-  - name: 'Bijeenkomsten-index'
-    label: 'Bijeenkomsten-index'
-    files:
-      - file: 'src/content/bijeenkomsten/index.md'
-        label: 'Bijeenkomsten - index'
-        name: 'bijeenkomsten-index'
-        delete: false
-        fields:
-          - { label: 'Title', name: 'title', widget: 'string' }
-          - { label: 'Body', name: 'body', widget: 'markdown' }
-  - name: 'Bijeenkomsten'
-    label: 'Bijeenkomsten'
-    folder: 'src/content/bijeenkomsten'
+  - name: licenties
+    label: Licenties
+    label_singular: 'Page'
+    folder: src/content/licenties
     create: false
     delete: false
+    # adding a nested object will show the collection folder structure
+    nested:
+      depth: 50 # max depth to show in the collection tree
+      summary: '{{title}}' # optional summary for a tree node, defaults to the inferred title field
     fields:
-      - { label: 'Title', name: 'title', widget: 'string' }
-      - { label: 'Body', name: 'body', widget: 'markdown' }
+      - label: Title
+        name: title
+        widget: string
+      - label: Body
+        name: body
+        widget: markdown
+    # adding a meta object with a path property allows editing the path of entries
+    # moving an existing entry will move the entire sub tree of the entry to the new location
+    meta: { path: { widget: string, label: 'Path', index_file: 'index' } }
 
-  - name: 'MijnBureauErkenningen-index'
-    label: 'MijnBureauErkenningen-index'
-    files:
-      - file: 'src/content/mijn-bureau-erkenningen/index.md'
-        label: 'Mijn Bureau Erkenningen - index'
-        name: 'mijn-bureau-erkenningen-index'
-        delete: false
-        fields:
-          - { label: 'Title', name: 'title', widget: 'string' }
-          - { label: 'Body', name: 'body', widget: 'markdown' }
-  - name: 'mijn-bureau-erkenningen'
-    label: 'Mijn Bureau Erkenningen'
-    folder: 'src/content/mijn-bureau-erkenningen'
-    create: true
-    delete: true
+  - name: bijeenkomsten
+    label: Bijeenkomsten
+    label_singular: 'Page'
+    folder: src/content/bijeenkomsten
+    create: false
+    delete: false
+    # adding a nested object will show the collection folder structure
+    nested:
+      depth: 50 # max depth to show in the collection tree
+      summary: '{{title}}' # optional summary for a tree node, defaults to the inferred title field
     fields:
-      - { label: 'Title', name: 'title', widget: 'string' }
-      - { label: 'Body', name: 'body', widget: 'markdown' }
+      - label: Title
+        name: title
+        widget: string
+      - label: Body
+        name: body
+        widget: markdown
+    # adding a meta object with a path property allows editing the path of entries
+    # moving an existing entry will move the entire sub tree of the entry to the new location
+    meta: { path: { widget: string, label: 'Path', index_file: 'index' } }
+
+  - name: MijnBE
+    label: Mijn Bureau Erkenningen
+    label_singular: 'Page'
+    folder: src/content/mijn-bureau-erkenningen
+    create: false
+    delete: false
+    # adding a nested object will show the collection folder structure
+    nested:
+      depth: 50 # max depth to show in the collection tree
+      summary: '{{title}}' # optional summary for a tree node, defaults to the inferred title field
+    fields:
+      - label: Title
+        name: title
+        widget: string
+      - label: Body
+        name: body
+        widget: markdown
+    # adding a meta object with a path property allows editing the path of entries
+    # moving an existing entry will move the entire sub tree of the entry to the new location
+    meta: { path: { widget: string, label: 'Path', index_file: 'index' } }
 
   - name: 'contact'
     label: 'Contact'
