@@ -1,8 +1,7 @@
 ---
 title: Contact
 ---
-
-Kijk eerst bij de [veelgestelde vragen](/faq) (FAQ) of uw vraag hier tussen staat.
+Kijk eerst bij de [veelgestelde vragen](/faq) (FAQ) of uw vraag er al tussen staat.
 
 Voor vragen over uw licenties belt u met het RVO loket:
 
