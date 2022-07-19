@@ -224,7 +224,7 @@ Volg een extra kennisbijeenkomst Knaagdierbeheersing. Daarna ontvangt u een pasj
 
 #### Wat moet ik weten van het Duitse vakbekwaamheidsbewijs
 
-Aanvragen via de regionale Landwirtschaftskammer. Het Nederlandse UG of BG geeft het Duitse sachkundenachweiss. Mogelijk zijn er per deelstaat verschillende administratieve procedures.
+Aanvragen van een Duits vakbekwaamheidsbewijs gaat via de regionale Landwirtschaftskammer. Het Nederlandse UG of BG geeft het Duitse sachkundenachweis. Mogelijk zijn er per deelstaat verschillende administratieve procedures.
 
 - - -
 
