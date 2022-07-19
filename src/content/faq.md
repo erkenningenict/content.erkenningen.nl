@@ -68,7 +68,7 @@ Examens KBA/KBA-GB worden afgenomen door groene MBO's, de AOC's. Vanaf 1 januari
 
 #### Voor wie is het vakbekwaamheidsbewijs IPM KBA bestemd?
 
-Voor agrarische ondernemers op het eigen bedrijf. Alle andere personen dienen een vakbekwaamheidsbewijs voor professionele knaagdierbestrijding te hebben.
+Voor agrarische ondernemers op het eigen bedrijf. Alle andere personen dienen een vakbekwaamheidsbewijs voor professionele plaagdierbeheersing te hebben.
 
 - - -
 
