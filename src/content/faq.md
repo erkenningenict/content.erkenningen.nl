@@ -243,3 +243,15 @@ Alleen wanneer u dat doet volgens de richtlijnen op het etiket.
 #### Met welke smartphone kan ik de App van Bureau Erkenningen gebruiken?
 
 De App van Erkenningen werkt het best op smartphones met het besturingssysteem Android vanaf 4.4 en op iOS vanaf versie 12.
+
+- - -
+
+#### Kan ik de licentie Adviseren gewasbescherming verlagen naar Bedrijfsvoeren gewasbescherming?
+
+\- heeft u de licentie Adviseren gewasbescherming verkregen in de overgangsperiode op basis van uw licentie Bedrijfsvoeren gewasbescherming?
+
+\-> dan kunt u verlagen nadat u de licentie Adviseren gewasbescherming een keer verlengd heeft (u heeft voldoende bijeenkomsten gevolgd voor verlenging en u heeft een nieuw licentienummer gekregen).
+
+\- Heeft u de licentie Adviseren verkregen door het behalen van de Module Adviseren op het HBO?
+
+\-> u kunt uw licentie Adviseren gewasbescherming verlagen naar Bedrijfsvoeren gewasbescherming.
