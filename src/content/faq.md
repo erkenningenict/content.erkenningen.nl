@@ -236,7 +236,7 @@ U kunt preventieve maatregelen nemen, een professioneel knaagdierenbestrijder in
 
 #### Mag ik een professioneel middel tegen onkruid op mijn erf toepassen?
 
-Alleen wanneer u dat doet volgens de richtlijnen op het etiket
+Alleen wanneer u dat doet volgens de richtlijnen op het etiket.
 
 - - -
 
