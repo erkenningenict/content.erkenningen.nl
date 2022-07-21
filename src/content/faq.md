@@ -132,7 +132,7 @@ Alleen niet-professionele middelen, welke uitsluitend mogen worden gebruikt voor
 
 #### Mag iedereen een veiligheidsinstructie geven?
 
-Nee; alleen als de instructeur in het bezit bent van een vakbekwaamheidsbewijs.
+Nee; alleen als de instructeur in het bezit is van een vakbekwaamheidsbewijs.
 
 - - -
 
@@ -186,14 +186,6 @@ Ga naar de homepage van [erkenningen.nl](https://administratie.erkenningen.nl/D
 
 - - -
 
-#### Hoe kan ik de KBA notitie op mijn pas verlengen?
-
-Bijeenkomsten KBA worden vanaf 14 november weer hervat.
-
-Voor het verlengen van de licentie KBA, UG+KBA, BG+KBA of BG+DB+KBA volgt u een kennisbijeenkomst KBA. Vanaf 14 november 2016 kunt u zich aanmelden voor bijeenkomsten KBA via de site van Bureau Erkenningen, [erkenningen.nl](https://administratie.erkenningen.nl).
-
-Met een geldige licentie KBA, UG+KBA, BG+KBA of BG+DB+KBA mag u rodenticiden alleen binnen de bedrijfsgebouwen gebruiken van uw agrarisch bedrijf.
-
 - - -
 
 #### Wanneer is er een spuitlicentie nodig?
@@ -208,11 +200,9 @@ Ja, mits u het doet volgens de richtlijnen op het etiket
 
 - - -
 
-#### Hoe kom ik aan een vakbekwaamheidsbewijs Knaagdierbeheersing?
+#### Hoe kom ik aan een vakbekwaamheidsbewijs IPM-KBA
 
-Als u geen vakbekwaamheidsbewijs gewasbescherming heeft, moet u een examen doen. Ga daarvoor naar een AOC of naar het CPMV of EVM.
-
-Zie [administratie.erkenningen.nl – informatie - aanmelden](https://administratie.erkenningen.nl/Default.aspx?tabid=151)
+Per 1 januari 2023 is het verplicht voor bedrijven die de mogelijkheid willen behouden om rodenticiden te gebruiken, om zich te certificeren en het personeel aanvullend te scholen. Dat heeft de overheid bepaald en is geregeld door het CTGB. Persoonsexamens (cursus + examen) kan bij verschillende aanbieders. De bedrijfscertificering loopt via een audit bij een gecertificeerd bedrijf.
 
 - - -
 
@@ -224,7 +214,7 @@ Volg een extra kennisbijeenkomst Knaagdierbeheersing. Daarna ontvangt u een pasj
 
 #### Wat moet ik weten van het Duitse vakbekwaamheidsbewijs
 
-Aanvragen van een Duits vakbekwaamheidsbewijs gaat via de regionale Landwirtschaftskammer. Het Nederlandse UG of BG geeft het Duitse sachkundenachweis. Mogelijk zijn er per deelstaat verschillende administratieve procedures.
+Aanvragen van een Duits vakbekwaamheidsbewijs gaat via de regionale Landwirtschaftskammer. Het Nederlandse UG of BG geeft het Duitse sachkundenachweis. Mogelijk zijn er per deelstaat verschillende administratieve procedures. Andersom kunt u op basis van de Sachkundenachweis een Nederlandse licentie aanvragen. Ingangsdatum is dan de startdatum van de Sachkundenachweis. Opvolgende licenties worden aangevraagd op basis van de Duitse nascholing "Bescheinigung-> Nachweis über die Teilnahme an einer Fort- onder Weiterbildungsmassnahme zur Sachkunde im Pflanzenschutz".
 
 - - -
 
@@ -243,6 +233,12 @@ Alleen wanneer u dat doet volgens de richtlijnen op het etiket.
 #### Met welke smartphone kan ik de App van Bureau Erkenningen gebruiken?
 
 De App van Erkenningen werkt het best op smartphones met het besturingssysteem Android vanaf 4.4 en op iOS vanaf versie 12.
+
+- - -
+
+#### Hoe verkrijg ik de licentie Adviseren gewasbescherming?
+
+U schrijft zich in bij een van de HBO's die de cursus en het examen Adviseren gewasbescherming verzorgen. Na het behalen van het examen ontvangt u hiervan een certificaat, als u bij het HBO kunt laten zien, dat u ook in het bezit bent van een licentie Bedrijfsvoeren gewasbescherming. Op de site www.erkenningen.nl kunt u daarna een aanvraag indienen voor de licentie. Upload hierbij een kopie van uw certificaat AG en betaal de aanvraag (6,05).
 
 - - -
 
