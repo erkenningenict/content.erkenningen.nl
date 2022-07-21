@@ -206,12 +206,6 @@ Per 1 januari 2023 is het verplicht voor bedrijven die de mogelijkheid willen be
 
 - - -
 
-#### Ik wil de aantekening Knaagdierbeheersing op mijn gewasbeschermingsbewijs. Hoe moet dat?
-
-Volg een extra kennisbijeenkomst Knaagdierbeheersing. Daarna ontvangt u een pasje thuis met de aantekening erop. Dit geldt alleen voor de pasjes Uitvoeren, Bedrijfsvoeren en Bedrijfsvoeren+Distribueren
-
-- - -
-
 #### Wat moet ik weten van het Duitse vakbekwaamheidsbewijs
 
 Aanvragen van een Duits vakbekwaamheidsbewijs gaat via de regionale Landwirtschaftskammer. Het Nederlandse UG of BG geeft het Duitse sachkundenachweis. Mogelijk zijn er per deelstaat verschillende administratieve procedures. Andersom kunt u op basis van de Sachkundenachweis een Nederlandse licentie aanvragen. Ingangsdatum is dan de startdatum van de Sachkundenachweis. Opvolgende licenties worden aangevraagd op basis van de Duitse nascholing "Bescheinigung-> Nachweis über die Teilnahme an einer Fort- onder Weiterbildungsmassnahme zur Sachkunde im Pflanzenschutz".
