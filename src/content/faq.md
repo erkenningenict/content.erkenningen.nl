@@ -11,25 +11,25 @@ Er is sprake van een "volledige gesloten zaadcoatingsmachine" indien er geen del
 
 #### Welke knaagdieren worden bedoeld bij het vakbekwaamheidsbewijs KBA
 
-Bruine rat, zwarte rat en huismuis. B.v. Konijnen, hazen en spitsmuizen zijn geen knaagdieren, hun gebit is afwijkend.
+Bruine rat, zwarte rat en huismuis. Konijnen, hazen en spitsmuizen zijn **geen** knaagdieren, hun gebit is afwijkend.
 
 - - -
 
 #### Welke dieren vallen onder het vakbekwaamheidsbewijs mollen en woelratten
 
-Dit vakbekwaamheidsbewijs geldt voor het bestrijden van mollen en woelratten met fosforwaterstoftabletten (mollentabletten)
+Dit vakbekwaamheidsbewijs geldt voor het bestrijden van alleen mollen en woelratten met fosforwaterstoftabletten (mollentabletten)
 
 - - -
 
 #### Welk nummer kan ik bellen voor informatie?
 
-De RVO beantwoordt uw vragen. U kunt kijken op rvo.nl. U kunt bellen met het telefoonnummer +31 70 379 80 00. Vanuit het buitenland kan gebeld worden naar: +31 70 379 80 00. Dit nummer is niet gratis.
+De RVO beantwoordt uw vragen. U kunt kijken op rvo.nl. U kunt bellen met het telefoonnummer +31 88 042 42 42. Vanuit het buitenland kan gebeld worden naar: +31 70 379 80 00. Dit nummer is niet gratis.
 
 - - -
 
-#### Wat moet ik weten van het Belgisch vakbekwaamheidsbewijs
+#### Kan ik een Belgisch vakbekwaamheidsbewijs krijgen op basis van een Nederlands vakbekwaamheidsbewijs gewasbescherming?
 
-Aanvragen via [www.fytolicentie.be](http://www.fytolicentie.be). Het Nederlandse UG geeft de Belgische Fytolicentie P1. Het Nederlandse BG geeft het Belgische Fytolicentie P2. Het Nederlandse DB geeft de Belgische Fytolicentie P3
+Ja, u vraagt deze aan via [www.fytolicentie.be](http://www.fytolicentie.be). Het Nederlandse UG geeft de Belgische Fytolicentie P1. Het Nederlandse BG geeft het Belgische Fytolicentie P2. Het Nederlandse DB geeft de Belgische Fytolicentie P3. 
 
 - - -
 
@@ -41,7 +41,7 @@ Het bankrekeningnummer (IBAN) is NL27 RABO 0387 0446 04
 
 #### Wat is een veiligheidsinstructie?
 
-Een door Bureau Erkenningen goedgekeurd plan, om werknemers te instrueren.
+Een door Bureau Erkenningen goedgekeurd plan, om werknemers te instrueren voor het uitvoeren van één bepaalde handeling. De goedgekeurde handelingen zijn voorgeschreven in de Regeling gewasbescherming en biociden. De veiligheidsinstructie wordt gegeven door een medewerker van het bedrijf die in het bezit is van een licentie gewasbescherming.
 
 - - -
 
@@ -49,20 +49,20 @@ Een door Bureau Erkenningen goedgekeurd plan, om werknemers te instrueren.
 
 Dit wordt verplicht door de rijksoverheid.
 Zonder vakbekwaamheidsbewijs mag u geen professionele bestrijdingsmiddelen kopen, in bezit hebben en/of toepassen.
-De samenleving vindt bestrijdingsmiddelen risicovol en wil het gebruik en de afhankelijkheid van de middelen verminderen. Kennis van planten, groeiomstandigheden en gewasverzorging permanent in ontwikkeling en biedt telkens nieuwe mogelijkheden de afhankelijkheid van bestrijdingsmiddelen te verminderen.
+De samenleving vindt bestrijdingsmiddelen risicovol en wil het gebruik en de afhankelijkheid van de middelen verminderen. Kennis van planten, groeiomstandigheden en gewasverzorging zijn permanent in ontwikkeling en bieden telkens nieuwe mogelijkheden om de afhankelijkheid van bestrijdingsmiddelen te verminderen.
 
 - - -
 
 #### Waaraan moet een houder met een niet Nederlands diploma voldoen?
 
-Voor mensen met een niet Nederlands diploma geldt naast de inhoudelijke diploma eisen ook de houder van een bewijs van vakbekwaamheid beheerst de Nederlandse taal op zodanig niveau dat voorschriften op etiketten van gewasbeschermingsmiddelen en biociden en andere voor de toepassing van de wet geldende voorschriften begrepen en uitgevoerd kunnen worden. (Besluit gewasbeschermingsmiddelen en biociden: H5, Art 19-3, van 5 september 2007; Staatsblad 2007 - 334).
+Voor mensen met een niet Nederlands diploma geldt naast de inhoudelijke diploma eisen ook, dat de houder van een bewijs van vakbekwaamheid de Nederlandse taal op een zodanig niveau beheerst, dat voorschriften op etiketten van gewasbeschermingsmiddelen en biociden en andere voor de toepassing van de wet geldende voorschriften begrepen en uitgevoerd kunnen worden. (Besluit gewasbeschermingsmiddelen en biociden: H5, Art 19-3, van 5 september 2007; Staatsblad 2007 - 334).
 De kosten van een eventuele taaltoets komen voor rekening van de aanvrager.
 
 - - -
 
-#### Waar kan ik examen KBA of KBA-GB doen?
+#### Waar kan ik examen IPM-KBA doen?
 
-Examens KBA/KBA-GB worden afgenomen door groene MBO's, de AOC's. Vanaf 1 januari 2023 dient u te beschikken over een licentie IPM KBA.
+Examens IPM-KBA worden afgenomen door groene MBO's, de AOC's en Terra trainingen. Dit betreft de certificering van personen op een agrarisch bedrijf. Deze certificering is pas compleet als ook het bedrijf is gecertificeerd. Audits voor het bedrijf worden afgenomen door een gespecialiseerd bedrijf. op onze site vindt u een aanvraagformulier Bedrijfsregistratie op KPMB.nl.
 
 - - -
 
