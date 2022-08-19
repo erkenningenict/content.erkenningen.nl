@@ -24,7 +24,7 @@ Inloggegevens kwijt? Bel dan met het RVO-loket: +31 70 379 80 00
 
 <LinkButtonContainer>
 <LinkButton to="/mijn-bureau-erkenningen/inloggen">inloggen</LinkButton>
-<LinkButton to="/mijn bureau erkenningen/inloggegevens-kwijt">Inloggegevens kwijt</LinkButton>
+<LinkButton to="/mijn-bureau-erkenningen/inloggegevens-kwijt">Inloggegevens kwijt</LinkButton>
 <LinkButton to="/mijn-bureau-erkenningen/be-app">Bureau Erkenningen app</LinkButton>
 <LinkButton to="/licenties/licentie-aanvragen">Licentie aanvragen</LinkButton>
 </LinkButtonContainer>
