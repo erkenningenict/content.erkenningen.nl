@@ -6,7 +6,7 @@ It follows the [JAMstack architecture](https://jamstack.org) by using Git as a s
 
 ## Prerequisites
 
-- Node (I recommend using v8.2.0 or higher)
+- Node (I recommend using v16.3.0 or higher)
 - [Gatsby CLI](https://www.gatsbyjs.org/docs/)
 
 ## Getting Started (Recommended)
