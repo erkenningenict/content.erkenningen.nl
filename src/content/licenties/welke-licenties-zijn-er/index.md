@@ -19,7 +19,7 @@ Wilt u niet-professionele bestrijdingsmiddelen gebruiken? Dan heeft u geen licen
 - [Licentie Adviseren Gewasbescherming](/licenties/welke-licenties-zijn-er/licentie-adviseren-gewasbescherming)
 - [Licentie Mollen- en Woelrattenbestrijding](/licenties/welke-licenties-zijn-er/licentie-mollen-en-woelrattenbestrijding)
 - [Veiligheidsinstructies](/licenties/welke-licenties-zijn-er/veiligheidsinstructies)
-- [NIEUW: Licentie IPM Knaagdier Beheersing (gaat de KBA en KBA-GB licenties vervangen per 1-1-2023)](/licenties/welke-licenties-zijn-er/licentie-ipm-knaagdierbeheersing-op-agrarische-bedrijven). Zie voor meer info de [brochure](https://administratie.erkenningen.nl/Portals/1/20220128_Folder_knaagdierbeheersing-2021.pdf)
+- [NIEUW: Licentie IPM Knaagdier Beheersing (gaat de KBA en KBA-GB licenties vervangen per 1-1-2023)](/licenties/welke-licenties-zijn-er/licentie-ipm-knaagdierbeheersing-op-agrarische-bedrijven). Zie voor meer info de [brochure](https://administratie.erkenningen.nl/Portals/1/20221012_Folder_knaagdierbeheersing-2022.pdf)
 
 ## Binnenkort verouderde licenties:
 
@@ -33,6 +33,6 @@ Er bestaan nu nog combinaties van licenties. In de komende jaren wordt elke lice
 <LinkButtonContainer>
 <LinkButton to="/licenties/welke-licentie-heb-ik-nodig">Welke licentie heb ik nodig?</LinkButton>
 <LinkButton to="/licenties/licentie-aanvragen">Licentie aanvragen</LinkButton>
-<LinkButton to="https://administratie.erkenningen.nl/Portals/1/20220128_Folder_knaagdierbeheersing-2021.pdf">Brochure Knaagdier beheersing</LinkButton>
+<LinkButton to="https://administratie.erkenningen.nl/Portals/1/20221012_Folder_knaagdierbeheersing-2022.pdf">Brochure Knaagdier beheersing</LinkButton>
 <LinkButton to="/licenties/welke-licenties-zijn-er/veiligheidsinstructies">Veiligheids-instructies</LinkButton>
 </LinkButtonContainer>
