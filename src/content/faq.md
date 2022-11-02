@@ -150,13 +150,11 @@ Ga opnieuw via [erkenningen.nl](https://administratie.erkenningen.nl/Default.asp
 
 - - -
 
-#### Ik heb een licentie (met) KBA. Wat moet ik doen als ik rodenticiden ook buiten wil gebruiken?
+#### Ik heb een licentie KBA. Is deze nog bruikbaar na 01-01-2023?
 
-Nee, u werkt volgens een handelingsprotocol. Het gebruik van rodenticiden is de laatste stap van de geïntegreerde beheersingsaanpak.
+Nee, per 01-01-2023 is uw licentie KBA niet meer bruikbaar. U kunt hier geen middelen meer mee halen.
 
-U neemt eerst maatregelen om knaagdieren te voorkomen, gevolgd door niet-chemisch beheersen van knaagdieren. Daarna mag u - indien nog nodig - rodenticiden gebruiken.
-
-Uw bedrijf voldoet aan de certificeringseisen, dat betekent dat u werkt volgens het handelingsprotocol en dat uw bedrijf wordt meegenomen in audits over het gebruik van rodenticiden.
+W﻿el blijft de licentie KBA geldig gedurende de looptijd die vermeld staat op uw licentie. Mocht u een licentie IPM-KBA (persoonscertificering) willen halen, dan heeft u wellicht op basis van uw geldige licentie KBA recht op een verkorte cursus, gevolgd door het examen IPM-KBA.
 
 - - -
 
