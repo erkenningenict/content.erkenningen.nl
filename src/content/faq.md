@@ -249,3 +249,9 @@ U schrijft zich in bij een van de HBO's die de cursus en het examen Adviseren ge
 #### Is het nodig de licentie Bedrijfsvoeren gewasbescherming te onderhouden als ik ook een licentie Adviseren gewasbescherming heb?
 
 Nee, dat is niet nodig. De licenties gewasbescherming zijn gestapeld. Met het hoogste niveau (Adviseren) kunt u ook de taken/werkzaamheden doen die u met Uitvoeren gewasbescherming en Bedrijfsvoeren gewasbescherming kunt.
+
+- - -
+
+#### Welke licentie heb ik nodig?
+
+Z﻿ie hiervoor onze brochure op de site. De licenties zijn gestapeld. Dat betekent, dat als u een hogere licentie heeft, u hiermee ook de werkzaamheden van de lagere licentie kunt uitvoeren. Hierdoor hoeft u alleen maar de hoogste licentie te onderhouden door het volgen van verlengingsbijeenkomsten.
