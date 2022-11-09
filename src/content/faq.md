@@ -243,3 +243,9 @@ U schrijft zich in bij een van de HBO's die de cursus en het examen Adviseren ge
 \- Heeft u de licentie Adviseren verkregen door het behalen van de Module Adviseren op het HBO?
 
 \-> u kunt uw licentie Adviseren gewasbescherming verlagen naar Bedrijfsvoeren gewasbescherming.
+
+- - -
+
+#### Is het nodig de licentie Bedrijfsvoeren gewasbescherming te onderhouden als ik ook een licentie Adviseren gewasbescherming heb?
+
+Nee, dat is niet nodig. De licenties gewasbescherming zijn gestapeld. Met het hoogste niveau (Adviseren) kunt u ook de taken/werkzaamheden doen die u met Uitvoeren gewasbescherming en Bedrijfsvoeren gewasbescherming kunt.
