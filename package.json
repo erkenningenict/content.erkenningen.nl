@@ -67,7 +67,7 @@
   "devDependencies": {
     "@types/qs": "6.9.7",
     "bootstrap": "4.6.1",
-    "loader-utils": "3.2.0",
+    "loader-utils": "3.2.1",
     "prettier": "2.4.1"
   },
   "browserslist": [
