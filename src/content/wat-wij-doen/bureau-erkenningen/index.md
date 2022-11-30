@@ -1,10 +1,9 @@
 ---
 title: Bureau Erkenningen
 ---
-
 **Iedereen die met professionele gewasbeschermingsmiddelen of professionele anti-coagulanten werkt, moet een licentie hebben (ook wel vakbekwaamheidsbewijs genoemd).**
 
-Dit heeft de [overheid heeft bepaald](/licenties/wetten-en-regels). Er zijn verschillende soorten [licenties](/licenties). Bureau Erkenningen geeft deze uit.
+Dit heeft de [overheid bepaald](/licenties/wetten-en-regels). Er zijn verschillende soorten [licenties](/licenties). Bureau Erkenningen geeft deze uit.
 
 [Licentiehouders](/wat-wij-doen/licentiehouders) moeten bijeenkomsten volgen voor de verlenging van hun licentie.
 
