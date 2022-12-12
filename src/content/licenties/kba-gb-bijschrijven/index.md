@@ -1,16 +1,13 @@
 ---
 title: KBA behalen
 ---
-
-**Als u al een licentie gewasbescherming heeft, dan kunt u eenvoudig de licentie Knaagdierbeheersing (KBA) behalen.**
-
-U volgt hiervoor een extra kennisbijeenkomst met het thema 'KBA'. Daarna ontvangt u een automatisch een nieuwe licentie (pasje) thuis met de aantekening erop.
+**Als u al een licentie gewasbescherming heeft, kon u eenvoudig de licentie Knaagdierbeheersing (KBA) behalen.. Dit kan echter niet meer** vnu IPM KBA haar intrede heeft gedaan.
 
 Dat geld voor de licenties:
 
-- Gewasbescherming Uitvoeren
-- Gewasbescherming Bedrijfsvoeren
-- Gewasbescherming Bedrijfsvoeren en Distribueren
+* Gewasbescherming Uitvoeren
+* Gewasbescherming Bedrijfsvoeren
+* Gewasbescherming Bedrijfsvoeren en Distribueren
 
 ## Snel naar:
 
