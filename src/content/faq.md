@@ -152,7 +152,7 @@ Ga opnieuw via [erkenningen.nl](https://administratie.erkenningen.nl/Default.asp
 
 #### Ik heb een licentie KBA. Is deze nog bruikbaar na 01-01-2023?
 
-Nee, per 01-01-2023 is uw licentie KBA niet meer bruikbaar. U kunt hier geen middelen meer mee halen.
+Per 01-01-2023 is uw licentie KBA bruikbaar voor gebruik van middelen met oude etiketten. 
 
 W﻿el blijft de licentie KBA geldig gedurende de looptijd die vermeld staat op uw licentie. Mocht u een licentie IPM-KBA (persoonscertificering) willen halen, dan heeft u wellicht op basis van uw geldige licentie KBA recht op een verkorte cursus, gevolgd door het examen IPM-KBA.
 
