@@ -1,7 +1,7 @@
 ---
 title: Frequently Asked Questions (Veel gestelde vragen)
 ---
-#### Welke regels gelden voor het gebruik van een gesloten zaadcoatingsmachine?
+#### Welke regels gelden voor het gebruik van een gesloten zaadcoatingsmachine? 
 
 Ook een zaadcoatingsmachine moet bijgevuld worden met gewasbeschermingsmiddel. Dat mag alleen door een medewerker met Uitvoeren gewasbescherming of Bedrijfsvoeren.
 De werknemer met de veiligheidsinstructie voor werken met een volledig gesloten zaadcoatingsmachine mag niet met het middel in aanraking komen.
