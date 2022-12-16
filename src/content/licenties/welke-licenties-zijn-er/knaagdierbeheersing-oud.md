@@ -1,8 +1,7 @@
 ---
 title: Knaagdierbeheersing-oud
 ---
-
-**Er zijn vele manieren om knaagdieren te beheersen. Als niets meer helpt, kunt u chemische middelen inzetten.**
+**Er zijn vele manieren om knaagdieren te beheersen. Als niets meer helpt, kunt u chemische middelen inzetten**
 
 Knaagdieren zoals muizen en ratten kunnen een lastig probleem vormen op uw (agrarische) bedrijf. Ze knagen aan alles wat los en vast zit en verspreiden ziektes.
 
