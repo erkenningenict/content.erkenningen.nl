@@ -1,5 +1,5 @@
 ---
-title: Knaagdierbeheersing
+title: Knaagdierbeheersing-oud
 ---
 
 **Er zijn vele manieren om knaagdieren te beheersen. Als niets meer helpt, kunt u chemische middelen inzetten.**
