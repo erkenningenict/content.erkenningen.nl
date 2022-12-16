@@ -6,102 +6,103 @@ media_folder: static/img
 public_folder: /img
 
 collections:
-  - name: Paginas
-    label: Paginas
-    label_singular: 'Pagina'
-    folder: src/content
+  # - name: Paginas
+  #   label: Paginas
+  #   label_singular: 'Pagina'
+  #   folder: src/content
+  #   create: false
+  #   delete: false
+  #   nested:
+  #     depth: 6
+  #     summary: '{{title}}'
+  #   fields:
+  #     - label: Titel
+  #       name: title
+  #       widget: string
+  #     - label: Body
+  #       name: body
+  #       widget: markdown
+
+  - name: WatWijDoen
+    label: Wat wij doen
+    label_singular: 'Page'
+    folder: src/content/wat-wij-doen
     create: false
+    delete: false
+    # adding a nested object will show the collection folder structure
     nested:
-      depth: 6
-      summary: '{{title}}'
+      depth: 50 # max depth to show in the collection tree
+      summary: '{{title}}' # optional summary for a tree node, defaults to the inferred title field
     fields:
-      - label: Titel
+      - label: Title
         name: title
         widget: string
       - label: Body
         name: body
         widget: markdown
-
-  # - name: WatWijDoen
-  #   label: Wat wij doen
-  #   label_singular: 'Page'
-  #   folder: src/content/wat-wij-doen
-  #   create: false
-  #   delete: false
-  #   # adding a nested object will show the collection folder structure
-  #   nested:
-  #     depth: 50 # max depth to show in the collection tree
-  #     summary: '{{title}}' # optional summary for a tree node, defaults to the inferred title field
-  #   fields:
-  #     - label: Title
-  #       name: title
-  #       widget: string
-  #     - label: Body
-  #       name: body
-  #       widget: markdown
   #   # adding a meta object with a path property allows editing the path of entries
   #   # moving an existing entry will move the entire sub tree of the entry to the new location
   #   meta: { path: { widget: string, label: 'Path', index_file: 'index' } }
 
-  # - name: licenties
-  #   label: Licenties
-  #   label_singular: 'Page'
-  #   folder: src/content/licenties
-  #   create: false
-  #   delete: false
-  #   # adding a nested object will show the collection folder structure
-  #   nested:
-  #     depth: 50 # max depth to show in the collection tree
-  #     summary: '{{title}}' # optional summary for a tree node, defaults to the inferred title field
-  #   fields:
-  #     - label: Title
-  #       name: title
-  #       widget: string
-  #     - label: Body
-  #       name: body
-  #       widget: markdown
+  - name: licenties
+    label: Licenties
+    label_singular: 'Page'
+    folder: src/content/licenties
+    create: false
+    delete: false
+    # adding a nested object will show the collection folder structure
+    nested:
+      depth: 50 # max depth to show in the collection tree
+      summary: '{{title}}' # optional summary for a tree node, defaults to the inferred title field
+    fields:
+      - label: Title
+        name: title
+        widget: string
+      - label: Body
+        name: body
+        widget: markdown
   #   # adding a meta object with a path property allows editing the path of entries
   #   # moving an existing entry will move the entire sub tree of the entry to the new location
   #   meta: { path: { widget: string, label: 'Path', index_file: 'index' } }
 
-  # - name: bijeenkomsten
-  #   label: Bijeenkomsten
-  #   label_singular: 'Page'
-  #   folder: src/content/bijeenkomsten
-  #   create: false
-  #   delete: false
-  #   # adding a nested object will show the collection folder structure
-  #   nested:
-  #     depth: 50 # max depth to show in the collection tree
-  #     summary: '{{title}}' # optional summary for a tree node, defaults to the inferred title field
-  #   fields:
-  #     - label: Title
-  #       name: title
-  #       widget: string
-  #     - label: Body
-  #       name: body
-  #       widget: markdown
+  - name: bijeenkomsten
+    label: Bijeenkomsten
+    label_singular: 'Page'
+    folder: src/content/bijeenkomsten
+    create: false
+    delete: false
+    # adding a nested object will show the collection folder structure
+    nested:
+      depth: 50 # max depth to show in the collection tree
+      summary: '{{title}}' # optional summary for a tree node, defaults to the inferred title field
+    fields:
+      - label: Title
+        name: title
+        widget: string
+      - label: Body
+        name: body
+        widget: markdown
   #   # adding a meta object with a path property allows editing the path of entries
   #   # moving an existing entry will move the entire sub tree of the entry to the new location
   #   meta: { path: { widget: string, label: 'Path', index_file: 'index' } }
 
-  # - name: MijnBE
-  #   label: Mijn Bureau Erkenningen
-  #   label_singular: 'Page'
-  #   folder: src/content/mijn-bureau-erkenningen
-  #   create: false
-  #   delete: false
-  #   # adding a nested object will show the collection folder structure
-  #   nested:
-  #     depth: 50 # max depth to show in the collection tree
-  #     summary: '{{title}}' # optional summary for a tree node, defaults to the inferred title field
-  #   fields:
-  #     - label: Title
-  #       name: title
-  #       widget: string
-  #     - label: Body
-  #       name: body
-  #       widget: markdown
+  - name: MijnBE
+    label: Mijn Bureau Erkenningen
+    label_singular: 'Page'
+    folder: src/content/mijn-bureau-erkenningen
+    create: false
+    delete: false
+    # adding a nested object will show the collection folder structure
+    nested:
+      depth: 50 # max depth to show in the collection tree
+      summary: '{{title}}' # optional summary for a tree node, defaults to the inferred title field
+    fields:
+      - label: Title
+        name: title
+        widget: string
+      - label: Body
+        name: body
+        widget: markdown
   #   # adding a meta object with a path property allows editing the path of entries
   #   # moving an existing entry will move the entire sub tree of the entry to the new location
   #   meta: { path: { widget: string, label: 'Path', index_file: 'index' } }
