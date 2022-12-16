@@ -1,7 +1,6 @@
 ---
 title: Welke licentie heb ik nodig?
 ---
-
 import DecisionTree from "/src/components/DecisionTree";
 
 Beantwoord de vragen om te bepalen welke licentie gewasbescherming voor u geschikt is.
