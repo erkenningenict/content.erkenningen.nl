@@ -102,10 +102,6 @@ export default function HomePage() {
                   Duplicaat pas aanvragen
                 </LinkButton>
               </LinkButtonContainer>
-              <div className="alert alert-info">
-                Helaas is de administratie.erkenningen.nl en mijn.erkenningen.nl momenteel niet
-                bereikbaar. Aan een oplossing wordt gewerkt.
-              </div>
               {isLoading && <div>Nieuwsberichten worden geladen...</div>}
               {hasError && <div>Kon nieuws niet ophalen. Probeer het later opnieuw.</div>}
               {newsItems?.data?.map((item) => (
