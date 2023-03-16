@@ -1,7 +1,7 @@
 ---
 title: Frequently Asked Questions (Veel gestelde vragen)
 ---
-#### Welke regels gelden voor het gebruik van een gesloten zaadcoatingsmachine? 
+#### Welke regels gelden voor het gebruik van een gesloten zaadcoatingsmachine?
 
 Ook een zaadcoatingsmachine moet bijgevuld worden met gewasbeschermingsmiddel. Dat mag alleen door een medewerker met Uitvoeren gewasbescherming of Bedrijfsvoeren.
 De werknemer met de veiligheidsinstructie voor werken met een volledig gesloten zaadcoatingsmachine mag niet met het middel in aanraking komen.
@@ -62,13 +62,13 @@ De kosten van een eventuele taaltoets komen voor rekening van de aanvrager.
 
 #### Waar kan ik examen IPM-KBA doen?
 
-Examens IPM-KBA worden afgenomen door groene MBO's, de AOC's en Terra trainingen. Dit betreft de certificering van personen op een agrarisch bedrijf. Deze certificering is pas compleet als ook het bedrijf is gecertificeerd. Audits voor het bedrijf worden afgenomen door een gespecialiseerd bedrijf. op onze site vindt u een aanvraagformulier Bedrijfsregistratie op KPMB.nl.
+Examens IPM-KBA worden afgenomen door groene MBO's, de AOC's en Terra trainingen. Dit betreft de certificering van personen op een agrarisch bedrijf. Deze certificering is pas compleet als ook het bedrijf is gecertificeerd. Audits voor het bedrijf worden afgenomen door een gespecialiseerd bedrijf. Bij het KPMB is een aanvraagformulier Bedrijfsregistratie beschikbaar.
 
 - - -
 
 #### Voor wie is het vakbekwaamheidsbewijs IPM KBA bestemd?
 
-Voor agrarische ondernemers op het eigen bedrijf. Alle andere personen dienen een vakbekwaamheidsbewijs voor professionele plaagdierbeheersing te hebben.
+Voor agrarische ondernemers of werknemers op het eigen bedrijf in combinatie met een bedrijfscertificaat. Alle andere personen dienen een vakbekwaamheidsbewijs voor professionele plaagdierbeheersing te hebben.
 
 - - -
 
