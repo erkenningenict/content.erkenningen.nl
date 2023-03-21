@@ -1,10 +1,9 @@
 ---
 title: Licentie IPM Knaagdierbeheersing op Agrarische bedrijven (IPM-KBA)
 ---
-
 ## Voor wie?
 
-- Voor iedereen die op het eigen agrarisch bedrijf biociden toepast voor het afweren of bestrijden van knaagdieren.
+* Voor iedereen die op het eigen agrarisch bedrijf rodenticiden toepast voor het afweren of bestrijden van knaagdieren.
 
 Weet u nog niet zeker of dit de licentie is die u nodig heeft, lees dan onze [brochure Knaagdierbeheersing](https://administratie.erkenningen.nl/Portals/1/20221012_Folder_knaagdierbeheersing-2022.pdf).
 
