@@ -250,8 +250,14 @@ U schrijft zich in bij een van de HBO's die de cursus en het examen Adviseren ge
 
 Nee, dat is niet nodig. De licenties gewasbescherming zijn gestapeld. Met het hoogste niveau (Adviseren) kunt u ook de taken/werkzaamheden doen die u met Uitvoeren gewasbescherming en Bedrijfsvoeren gewasbescherming kunt.
 
-- - -
+**\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\__**
 
-#### Welke licentie heb ik nodig?
+**Mijn licentie Bedrijfsvoeren gewasbescherming is verlopen. Hoe zorg ik dat ik opnieuw in het bezit kom van deze licentie?**
+
+U doet opnieuw examen voor Gewasbescherming A en B. Nadat u beide examens heeft behaald, heeft u recht op de licentie Bedrijfsvoeren gewasbescherming.
+
+**\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\__**
+
+**Welke licentie heb ik nodig?**
 
 Z﻿ie hiervoor onze brochure op de site. De licenties zijn gestapeld. Dat betekent, dat als u een hogere licentie heeft, u hiermee ook de werkzaamheden van de lagere licentie kunt uitvoeren. Hierdoor hoeft u alleen maar de hoogste licentie te onderhouden door het volgen van verlengingsbijeenkomsten.
