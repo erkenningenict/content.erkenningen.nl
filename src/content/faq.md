@@ -29,7 +29,7 @@ De RVO beantwoordt uw vragen. U kunt kijken op rvo.nl. U kunt bellen met het tel
 
 #### Kan ik een Belgisch vakbekwaamheidsbewijs krijgen op basis van een Nederlands vakbekwaamheidsbewijs gewasbescherming?
 
-Ja, u vraagt deze aan via [www.fytolicentie.be](http://www.fytolicentie.be). Het Nederlandse UG geeft de Belgische Fytolicentie P1. Het Nederlandse BG geeft het Belgische Fytolicentie P2. Het Nederlandse DB geeft de Belgische Fytolicentie P3. 
+Ja, u vraagt deze aan via [www.fytolicentie.be](http://www.fytolicentie.be). Het Nederlandse UG geeft de Belgische Fytolicentie P1. Het Nederlandse BG geeft het Belgische Fytolicentie P2. Het Nederlandse DB geeft de Belgische Fytolicentie P3.
 
 - - -
 
@@ -152,7 +152,7 @@ Ga opnieuw via [erkenningen.nl](https://administratie.erkenningen.nl/Default.asp
 
 #### Ik heb een licentie KBA. Is deze nog bruikbaar na 01-01-2023?
 
-Per 01-01-2023 is uw licentie KBA bruikbaar voor gebruik van middelen met oude etiketten. 
+Per 01-01-2023 is uw licentie KBA bruikbaar voor gebruik van middelen met oude etiketten.
 
 W﻿el blijft de licentie KBA geldig gedurende de looptijd die vermeld staat op uw licentie. Mocht u een licentie IPM-KBA (persoonscertificering) willen halen, dan heeft u wellicht op basis van uw geldige licentie KBA recht op een verkorte cursus, gevolgd door het examen IPM-KBA.
 
@@ -236,13 +236,13 @@ U schrijft zich in bij een van de HBO's die de cursus en het examen Adviseren ge
 
 #### Kan ik de licentie Adviseren gewasbescherming verlagen naar Bedrijfsvoeren gewasbescherming?
 
-\- heeft u de licentie Adviseren gewasbescherming verkregen in de overgangsperiode op basis van uw licentie Bedrijfsvoeren gewasbescherming?
+* heeft u de licentie Adviseren gewasbescherming verkregen in de overgangsperiode op basis van uw licentie Bedrijfsvoeren gewasbescherming?
 
-\-> dan kunt u verlagen nadat u de licentie Adviseren gewasbescherming een keer verlengd heeft (u heeft voldoende bijeenkomsten gevolgd voor verlenging en u heeft een nieuw licentienummer gekregen).
+* dan kunt u verlagen nadat u de licentie Adviseren gewasbescherming een keer verlengd heeft (u heeft voldoende bijeenkomsten gevolgd voor verlenging en u heeft een nieuw licentienummer gekregen).
 
-\- Heeft u de licentie Adviseren verkregen door het behalen van de Module Adviseren op het HBO?
+* Heeft u de licentie Adviseren verkregen door het behalen van de Module Adviseren op het HBO?
 
-\-> u kunt uw licentie Adviseren gewasbescherming verlagen naar Bedrijfsvoeren gewasbescherming.
+* u kunt uw licentie Adviseren gewasbescherming verlagen naar Bedrijfsvoeren gewasbescherming.
 
 - - -
 
@@ -250,13 +250,13 @@ U schrijft zich in bij een van de HBO's die de cursus en het examen Adviseren ge
 
 Nee, dat is niet nodig. De licenties gewasbescherming zijn gestapeld. Met het hoogste niveau (Adviseren) kunt u ook de taken/werkzaamheden doen die u met Uitvoeren gewasbescherming en Bedrijfsvoeren gewasbescherming kunt.
 
-**\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\__**
+- - -
 
 **Mijn licentie Bedrijfsvoeren gewasbescherming is verlopen. Hoe zorg ik dat ik opnieuw in het bezit kom van deze licentie?**
 
 U doet opnieuw examen voor Gewasbescherming A en B. Nadat u beide examens heeft behaald, heeft u recht op de licentie Bedrijfsvoeren gewasbescherming.
 
-**\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\__**
+- - -
 
 **Welke licentie heb ik nodig?**
 
