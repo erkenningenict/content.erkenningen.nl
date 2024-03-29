@@ -1,7 +1,7 @@
 ---
 title: KBA behalen
 ---
-**Als u al een licentie gewasbescherming heeft, kon u eenvoudig de licentie Knaagdierbeheersing (KBA) behalen.. Dit kan echter niet meer** vnu IPM KBA haar intrede heeft gedaan.
+**Als u al een licentie gewasbescherming heeft, kon u eenvoudig de licentie Knaagdierbeheersing (KBA) behalen. Dit kan echter niet meer** nu IPM KBA haar intrede heeft gedaan.
 
 Dat geld voor de licenties:
 
