@@ -5,7 +5,9 @@ Kijk eerst bij de [veelgestelde vragen](/faq) (FAQ) of uw vraag er al tussen sta
 
 Voor vragen over uw licenties belt u met het RVO loket:
 
-088 042 42 42
+Particulieren: 088-042 47 47
+
+Bedrijven: 088-042 42 42
 
 Dit kan van maandag tot en met vrijdag: van 8.30 tot 17.00 uur.
 

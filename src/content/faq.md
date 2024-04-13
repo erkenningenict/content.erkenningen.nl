@@ -23,7 +23,7 @@ Dit vakbekwaamheidsbewijs geldt voor het bestrijden van alleen mollen en woelrat
 
 #### Welk nummer kan ik bellen voor informatie?
 
-De RVO beantwoordt uw vragen. U kunt kijken op rvo.nl. U kunt bellen met het telefoonnummer +31 88 042 42 42. Vanuit het buitenland kan gebeld worden naar: +31 70 379 80 00. Dit nummer is niet gratis.
+De RVO beantwoordt uw vragen. U kunt kijken op rvo.nl. U kunt bellen met het telefoonnummer voor particulieren 088-042 47 47, bedrijven bellen met 088-042 42 42. Vanuit het buitenland kan gebeld worden naar: +31 70 379 80 00. Dit nummer is niet gratis.
 
 - - -
 
